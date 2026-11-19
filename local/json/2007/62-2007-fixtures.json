@@ -1,0 +1,4438 @@
+[
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "27/07/07",
+        "time": null,
+        "home_team": "Bastia",
+        "away_team": "Le Havre",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "27/07/07",
+        "time": null,
+        "home_team": "Brest",
+        "away_team": "Angers",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "27/07/07",
+        "time": null,
+        "home_team": "Clermont",
+        "away_team": "Chateauroux",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "27/07/07",
+        "time": null,
+        "home_team": "Dijon",
+        "away_team": "Ajaccio",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "27/07/07",
+        "time": null,
+        "home_team": "Grenoble",
+        "away_team": "Sedan",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "27/07/07",
+        "time": null,
+        "home_team": "Gueugnon",
+        "away_team": "Amiens",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "27/07/07",
+        "time": null,
+        "home_team": "Libourne",
+        "away_team": "Montpellier",
+        "home_score": "1",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "27/07/07",
+        "time": null,
+        "home_team": "Niort",
+        "away_team": "Boulogne",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "27/07/07",
+        "time": null,
+        "home_team": "Troyes",
+        "away_team": "Guingamp",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "30/07/07",
+        "time": null,
+        "home_team": "Nantes",
+        "away_team": "Reims",
+        "home_score": "5",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "03/08/07",
+        "time": null,
+        "home_team": "Ajaccio",
+        "away_team": "Boulogne",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "03/08/07",
+        "time": null,
+        "home_team": "Angers",
+        "away_team": "Grenoble",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "03/08/07",
+        "time": null,
+        "home_team": "Chateauroux",
+        "away_team": "Nantes",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "03/08/07",
+        "time": null,
+        "home_team": "Clermont",
+        "away_team": "Bastia",
+        "home_score": "2",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "03/08/07",
+        "time": null,
+        "home_team": "Guingamp",
+        "away_team": "Niort",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "03/08/07",
+        "time": null,
+        "home_team": "Le Havre",
+        "away_team": "Brest",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "03/08/07",
+        "time": null,
+        "home_team": "Montpellier",
+        "away_team": "Dijon",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "03/08/07",
+        "time": null,
+        "home_team": "Reims",
+        "away_team": "Libourne",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "03/08/07",
+        "time": null,
+        "home_team": "Sedan",
+        "away_team": "Gueugnon",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "06/08/07",
+        "time": null,
+        "home_team": "Amiens",
+        "away_team": "Troyes",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "10/08/07",
+        "time": null,
+        "home_team": "Ajaccio",
+        "away_team": "Guingamp",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "10/08/07",
+        "time": null,
+        "home_team": "Boulogne",
+        "away_team": "Montpellier",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "10/08/07",
+        "time": null,
+        "home_team": "Dijon",
+        "away_team": "Amiens",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "10/08/07",
+        "time": null,
+        "home_team": "Grenoble",
+        "away_team": "Reims",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "10/08/07",
+        "time": null,
+        "home_team": "Gueugnon",
+        "away_team": "Chateauroux",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "10/08/07",
+        "time": null,
+        "home_team": "Libourne",
+        "away_team": "Le Havre",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "10/08/07",
+        "time": null,
+        "home_team": "Nantes",
+        "away_team": "Clermont",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "10/08/07",
+        "time": null,
+        "home_team": "Niort",
+        "away_team": "Sedan",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "10/08/07",
+        "time": null,
+        "home_team": "Troyes",
+        "away_team": "Angers",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "13/08/07",
+        "time": null,
+        "home_team": "Brest",
+        "away_team": "Bastia",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "17/08/07",
+        "time": null,
+        "home_team": "Amiens",
+        "away_team": "Grenoble",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "17/08/07",
+        "time": null,
+        "home_team": "Angers",
+        "away_team": "Ajaccio",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "17/08/07",
+        "time": null,
+        "home_team": "Bastia",
+        "away_team": "Gueugnon",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "17/08/07",
+        "time": null,
+        "home_team": "Chateauroux",
+        "away_team": "Libourne",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "17/08/07",
+        "time": null,
+        "home_team": "Clermont",
+        "away_team": "Brest",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "17/08/07",
+        "time": null,
+        "home_team": "Guingamp",
+        "away_team": "Boulogne",
+        "home_score": "4",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "17/08/07",
+        "time": null,
+        "home_team": "Montpellier",
+        "away_team": "Troyes",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "17/08/07",
+        "time": null,
+        "home_team": "Reims",
+        "away_team": "Niort",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "17/08/07",
+        "time": null,
+        "home_team": "Sedan",
+        "away_team": "Dijon",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "20/08/07",
+        "time": null,
+        "home_team": "Le Havre",
+        "away_team": "Nantes",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "24/08/07",
+        "time": null,
+        "home_team": "Ajaccio",
+        "away_team": "Sedan",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "24/08/07",
+        "time": null,
+        "home_team": "Boulogne",
+        "away_team": "Angers",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "24/08/07",
+        "time": null,
+        "home_team": "Dijon",
+        "away_team": "Chateauroux",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "24/08/07",
+        "time": null,
+        "home_team": "Grenoble",
+        "away_team": "Le Havre",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "24/08/07",
+        "time": null,
+        "home_team": "Gueugnon",
+        "away_team": "Reims",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "24/08/07",
+        "time": null,
+        "home_team": "Guingamp",
+        "away_team": "Amiens",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "24/08/07",
+        "time": null,
+        "home_team": "Libourne",
+        "away_team": "Clermont",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "24/08/07",
+        "time": null,
+        "home_team": "Nantes",
+        "away_team": "Brest",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "24/08/07",
+        "time": null,
+        "home_team": "Niort",
+        "away_team": "Montpellier",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "24/08/07",
+        "time": null,
+        "home_team": "Troyes",
+        "away_team": "Bastia",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "31/08/07",
+        "time": null,
+        "home_team": "Amiens",
+        "away_team": "Niort",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "31/08/07",
+        "time": null,
+        "home_team": "Angers",
+        "away_team": "Guingamp",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "31/08/07",
+        "time": null,
+        "home_team": "Brest",
+        "away_team": "Libourne",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "31/08/07",
+        "time": null,
+        "home_team": "Chateauroux",
+        "away_team": "Troyes",
+        "home_score": "1",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "31/08/07",
+        "time": null,
+        "home_team": "Clermont",
+        "away_team": "Grenoble",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "31/08/07",
+        "time": null,
+        "home_team": "Le Havre",
+        "away_team": "Gueugnon",
+        "home_score": "4",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "31/08/07",
+        "time": null,
+        "home_team": "Montpellier",
+        "away_team": "Ajaccio",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "31/08/07",
+        "time": null,
+        "home_team": "Reims",
+        "away_team": "Dijon",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "31/08/07",
+        "time": null,
+        "home_team": "Sedan",
+        "away_team": "Boulogne",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "03/09/07",
+        "time": null,
+        "home_team": "Bastia",
+        "away_team": "Nantes",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "14/09/07",
+        "time": null,
+        "home_team": "Ajaccio",
+        "away_team": "Amiens",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "14/09/07",
+        "time": null,
+        "home_team": "Boulogne",
+        "away_team": "Chateauroux",
+        "home_score": "1",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "14/09/07",
+        "time": null,
+        "home_team": "Dijon",
+        "away_team": "Le Havre",
+        "home_score": "2",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "14/09/07",
+        "time": null,
+        "home_team": "Grenoble",
+        "away_team": "Brest",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "14/09/07",
+        "time": null,
+        "home_team": "Gueugnon",
+        "away_team": "Clermont",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "14/09/07",
+        "time": null,
+        "home_team": "Guingamp",
+        "away_team": "Montpellier",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "14/09/07",
+        "time": null,
+        "home_team": "Libourne",
+        "away_team": "Bastia",
+        "home_score": "2",
+        "away_score": "4",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "14/09/07",
+        "time": null,
+        "home_team": "Niort",
+        "away_team": "Angers",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "14/09/07",
+        "time": null,
+        "home_team": "Troyes",
+        "away_team": "Reims",
+        "home_score": "4",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "17/09/07",
+        "time": null,
+        "home_team": "Nantes",
+        "away_team": "Sedan",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "21/09/07",
+        "time": null,
+        "home_team": "Amiens",
+        "away_team": "Boulogne",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "21/09/07",
+        "time": null,
+        "home_team": "Angers",
+        "away_team": "Montpellier",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "21/09/07",
+        "time": null,
+        "home_team": "Bastia",
+        "away_team": "Grenoble",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "21/09/07",
+        "time": null,
+        "home_team": "Brest",
+        "away_team": "Gueugnon",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "21/09/07",
+        "time": null,
+        "home_team": "Chateauroux",
+        "away_team": "Niort",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "21/09/07",
+        "time": null,
+        "home_team": "Clermont",
+        "away_team": "Dijon",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "21/09/07",
+        "time": null,
+        "home_team": "Le Havre",
+        "away_team": "Troyes",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "21/09/07",
+        "time": null,
+        "home_team": "Reims",
+        "away_team": "Ajaccio",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "21/09/07",
+        "time": null,
+        "home_team": "Sedan",
+        "away_team": "Guingamp",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "24/09/07",
+        "time": null,
+        "home_team": "Libourne",
+        "away_team": "Nantes",
+        "home_score": "2",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "28/09/07",
+        "time": null,
+        "home_team": "Ajaccio",
+        "away_team": "Le Havre",
+        "home_score": "0",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "28/09/07",
+        "time": null,
+        "home_team": "Boulogne",
+        "away_team": "Reims",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "28/09/07",
+        "time": null,
+        "home_team": "Dijon",
+        "away_team": "Brest",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "28/09/07",
+        "time": null,
+        "home_team": "Gueugnon",
+        "away_team": "Libourne",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "28/09/07",
+        "time": null,
+        "home_team": "Guingamp",
+        "away_team": "Chateauroux",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "28/09/07",
+        "time": null,
+        "home_team": "Niort",
+        "away_team": "Bastia",
+        "home_score": "1",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "29/09/07",
+        "time": null,
+        "home_team": "Angers",
+        "away_team": "Amiens",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "29/09/07",
+        "time": null,
+        "home_team": "Troyes",
+        "away_team": "Clermont",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "01/10/07",
+        "time": null,
+        "home_team": "Grenoble",
+        "away_team": "Nantes",
+        "home_score": "0",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "02/10/07",
+        "time": null,
+        "home_team": "Amiens",
+        "away_team": "Montpellier",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "02/10/07",
+        "time": null,
+        "home_team": "Bastia",
+        "away_team": "Dijon",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "02/10/07",
+        "time": null,
+        "home_team": "Brest",
+        "away_team": "Troyes",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "02/10/07",
+        "time": null,
+        "home_team": "Chateauroux",
+        "away_team": "Ajaccio",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "02/10/07",
+        "time": null,
+        "home_team": "Clermont",
+        "away_team": "Boulogne",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "02/10/07",
+        "time": null,
+        "home_team": "Le Havre",
+        "away_team": "Niort",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "02/10/07",
+        "time": null,
+        "home_team": "Reims",
+        "away_team": "Guingamp",
+        "home_score": "3",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "02/10/07",
+        "time": null,
+        "home_team": "Sedan",
+        "away_team": "Angers",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "04/10/07",
+        "time": null,
+        "home_team": "Libourne",
+        "away_team": "Grenoble",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "04/10/07",
+        "time": null,
+        "home_team": "Nantes",
+        "away_team": "Gueugnon",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "05/10/07",
+        "time": null,
+        "home_team": "Ajaccio",
+        "away_team": "Clermont",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "05/10/07",
+        "time": null,
+        "home_team": "Amiens",
+        "away_team": "Sedan",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "05/10/07",
+        "time": null,
+        "home_team": "Angers",
+        "away_team": "Reims",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "05/10/07",
+        "time": null,
+        "home_team": "Boulogne",
+        "away_team": "Le Havre",
+        "home_score": "0",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "05/10/07",
+        "time": null,
+        "home_team": "Guingamp",
+        "away_team": "Bastia",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "05/10/07",
+        "time": null,
+        "home_team": "Montpellier",
+        "away_team": "Chateauroux",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "05/10/07",
+        "time": null,
+        "home_team": "Niort",
+        "away_team": "Brest",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "07/10/07",
+        "time": null,
+        "home_team": "Grenoble",
+        "away_team": "Gueugnon",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "07/10/07",
+        "time": null,
+        "home_team": "Troyes",
+        "away_team": "Libourne",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "08/10/07",
+        "time": null,
+        "home_team": "Dijon",
+        "away_team": "Nantes",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "19/10/07",
+        "time": null,
+        "home_team": "Bastia",
+        "away_team": "Boulogne",
+        "home_score": "4",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "19/10/07",
+        "time": null,
+        "home_team": "Brest",
+        "away_team": "Ajaccio",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "19/10/07",
+        "time": null,
+        "home_team": "Chateauroux",
+        "away_team": "Sedan",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "19/10/07",
+        "time": null,
+        "home_team": "Clermont",
+        "away_team": "Angers",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "19/10/07",
+        "time": null,
+        "home_team": "Grenoble",
+        "away_team": "Guingamp",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "19/10/07",
+        "time": null,
+        "home_team": "Gueugnon",
+        "away_team": "Dijon",
+        "home_score": "4",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "19/10/07",
+        "time": null,
+        "home_team": "Libourne",
+        "away_team": "Niort",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "19/10/07",
+        "time": null,
+        "home_team": "Nantes",
+        "away_team": "Troyes",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "19/10/07",
+        "time": null,
+        "home_team": "Reims",
+        "away_team": "Montpellier",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "22/10/07",
+        "time": null,
+        "home_team": "Le Havre",
+        "away_team": "Amiens",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "26/10/07",
+        "time": null,
+        "home_team": "Ajaccio",
+        "away_team": "Bastia",
+        "home_score": "1",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "26/10/07",
+        "time": null,
+        "home_team": "Amiens",
+        "away_team": "Chateauroux",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "26/10/07",
+        "time": null,
+        "home_team": "Angers",
+        "away_team": "Le Havre",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "26/10/07",
+        "time": null,
+        "home_team": "Boulogne",
+        "away_team": "Gueugnon",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "26/10/07",
+        "time": null,
+        "home_team": "Dijon",
+        "away_team": "Libourne",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "26/10/07",
+        "time": null,
+        "home_team": "Guingamp",
+        "away_team": "Brest",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "26/10/07",
+        "time": null,
+        "home_team": "Montpellier",
+        "away_team": "Clermont",
+        "home_score": "2",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "26/10/07",
+        "time": null,
+        "home_team": "Sedan",
+        "away_team": "Reims",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "26/10/07",
+        "time": null,
+        "home_team": "Troyes",
+        "away_team": "Grenoble",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "29/10/07",
+        "time": null,
+        "home_team": "Niort",
+        "away_team": "Nantes",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "02/11/07",
+        "time": null,
+        "home_team": "Brest",
+        "away_team": "Sedan",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "02/11/07",
+        "time": null,
+        "home_team": "Chateauroux",
+        "away_team": "Angers",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "02/11/07",
+        "time": null,
+        "home_team": "Grenoble",
+        "away_team": "Dijon",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "02/11/07",
+        "time": null,
+        "home_team": "Gueugnon",
+        "away_team": "Troyes",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "02/11/07",
+        "time": null,
+        "home_team": "Libourne",
+        "away_team": "Boulogne",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "02/11/07",
+        "time": null,
+        "home_team": "Nantes",
+        "away_team": "Ajaccio",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "02/11/07",
+        "time": null,
+        "home_team": "Reims",
+        "away_team": "Amiens",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "03/11/07",
+        "time": null,
+        "home_team": "Bastia",
+        "away_team": "Montpellier",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "03/11/07",
+        "time": null,
+        "home_team": "Le Havre",
+        "away_team": "Guingamp",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "04/11/07",
+        "time": null,
+        "home_team": "Clermont",
+        "away_team": "Niort",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "05/11/07",
+        "time": null,
+        "home_team": "Boulogne",
+        "away_team": "Nantes",
+        "home_score": "4",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "06/11/07",
+        "time": null,
+        "home_team": "Ajaccio",
+        "away_team": "Libourne",
+        "home_score": "2",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "06/11/07",
+        "time": null,
+        "home_team": "Amiens",
+        "away_team": "Bastia",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "06/11/07",
+        "time": null,
+        "home_team": "Angers",
+        "away_team": "Gueugnon",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "06/11/07",
+        "time": null,
+        "home_team": "Chateauroux",
+        "away_team": "Reims",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "06/11/07",
+        "time": null,
+        "home_team": "Montpellier",
+        "away_team": "Brest",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "06/11/07",
+        "time": null,
+        "home_team": "Sedan",
+        "away_team": "Le Havre",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "06/11/07",
+        "time": null,
+        "home_team": "Troyes",
+        "away_team": "Dijon",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "07/11/07",
+        "time": null,
+        "home_team": "Guingamp",
+        "away_team": "Clermont",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "07/11/07",
+        "time": null,
+        "home_team": "Niort",
+        "away_team": "Grenoble",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "09/11/07",
+        "time": null,
+        "home_team": "Bastia",
+        "away_team": "Sedan",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "09/11/07",
+        "time": null,
+        "home_team": "Brest",
+        "away_team": "Reims",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "09/11/07",
+        "time": null,
+        "home_team": "Dijon",
+        "away_team": "Boulogne",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "09/11/07",
+        "time": null,
+        "home_team": "Gueugnon",
+        "away_team": "Ajaccio",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "09/11/07",
+        "time": null,
+        "home_team": "Le Havre",
+        "away_team": "Chateauroux",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "09/11/07",
+        "time": null,
+        "home_team": "Nantes",
+        "away_team": "Angers",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "10/11/07",
+        "time": null,
+        "home_team": "Clermont",
+        "away_team": "Amiens",
+        "home_score": "4",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "10/11/07",
+        "time": null,
+        "home_team": "Libourne",
+        "away_team": "Guingamp",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "10/11/07",
+        "time": null,
+        "home_team": "Troyes",
+        "away_team": "Niort",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "12/11/07",
+        "time": null,
+        "home_team": "Grenoble",
+        "away_team": "Montpellier",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "17/11/07",
+        "time": null,
+        "home_team": "Montpellier",
+        "away_team": "Sedan",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "30/11/07",
+        "time": null,
+        "home_team": "Ajaccio",
+        "away_team": "Grenoble",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "30/11/07",
+        "time": null,
+        "home_team": "Amiens",
+        "away_team": "Brest",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "30/11/07",
+        "time": null,
+        "home_team": "Angers",
+        "away_team": "Libourne",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "30/11/07",
+        "time": null,
+        "home_team": "Boulogne",
+        "away_team": "Troyes",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "30/11/07",
+        "time": null,
+        "home_team": "Chateauroux",
+        "away_team": "Bastia",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "30/11/07",
+        "time": null,
+        "home_team": "Guingamp",
+        "away_team": "Dijon",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "30/11/07",
+        "time": null,
+        "home_team": "Niort",
+        "away_team": "Gueugnon",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "30/11/07",
+        "time": null,
+        "home_team": "Reims",
+        "away_team": "Le Havre",
+        "home_score": "3",
+        "away_score": "3",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "30/11/07",
+        "time": null,
+        "home_team": "Sedan",
+        "away_team": "Clermont",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "03/12/07",
+        "time": null,
+        "home_team": "Montpellier",
+        "away_team": "Nantes",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "07/12/07",
+        "time": null,
+        "home_team": "Bastia",
+        "away_team": "Angers",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "07/12/07",
+        "time": null,
+        "home_team": "Brest",
+        "away_team": "Chateauroux",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "07/12/07",
+        "time": null,
+        "home_team": "Clermont",
+        "away_team": "Reims",
+        "home_score": "4",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "07/12/07",
+        "time": null,
+        "home_team": "Dijon",
+        "away_team": "Niort",
+        "home_score": "1",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "07/12/07",
+        "time": null,
+        "home_team": "Grenoble",
+        "away_team": "Boulogne",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "07/12/07",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Gueugnon",
+        "away_team": "Guingamp",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "07/12/07",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Libourne",
+        "away_team": "Sedan",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "07/12/07",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Nantes",
+        "away_team": "Amiens",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "07/12/07",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Troyes",
+        "away_team": "Ajaccio",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "10/12/07",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Le Havre",
+        "away_team": "Montpellier",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "21/12/07",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Ajaccio",
+        "away_team": "Niort",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "21/12/07",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Angers",
+        "away_team": "Dijon",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "21/12/07",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Boulogne",
+        "away_team": "Brest",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "21/12/07",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Chateauroux",
+        "away_team": "Grenoble",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "21/12/07",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Montpellier",
+        "away_team": "Gueugnon",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "22/12/07",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Guingamp",
+        "away_team": "Nantes",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "11/01/08",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Bastia",
+        "away_team": "Clermont",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "11/01/08",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Boulogne",
+        "away_team": "Ajaccio",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "11/01/08",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Dijon",
+        "away_team": "Montpellier",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "11/01/08",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Grenoble",
+        "away_team": "Angers",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "11/01/08",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Gueugnon",
+        "away_team": "Sedan",
+        "home_score": "2",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "11/01/08",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Libourne",
+        "away_team": "Reims",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "11/01/08",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Nantes",
+        "away_team": "Chateauroux",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "11/01/08",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Niort",
+        "away_team": "Guingamp",
+        "home_score": "1",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "11/01/08",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Troyes",
+        "away_team": "Amiens",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "14/01/08",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Brest",
+        "away_team": "Le Havre",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "18/01/08",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Amiens",
+        "away_team": "Dijon",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "18/01/08",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Angers",
+        "away_team": "Troyes",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "18/01/08",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Bastia",
+        "away_team": "Brest",
+        "home_score": "4",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "18/01/08",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Chateauroux",
+        "away_team": "Gueugnon",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "18/01/08",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Guingamp",
+        "away_team": "Ajaccio",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "18/01/08",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Le Havre",
+        "away_team": "Libourne",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "18/01/08",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Montpellier",
+        "away_team": "Boulogne",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "18/01/08",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Reims",
+        "away_team": "Grenoble",
+        "home_score": "3",
+        "away_score": "4",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "18/01/08",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Sedan",
+        "away_team": "Niort",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "21/01/08",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Clermont",
+        "away_team": "Nantes",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "25/01/08",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Ajaccio",
+        "away_team": "Angers",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "25/01/08",
+        "time": null,
+        "home_team": "Boulogne",
+        "away_team": "Guingamp",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "25/01/08",
+        "time": null,
+        "home_team": "Brest",
+        "away_team": "Clermont",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "25/01/08",
+        "time": null,
+        "home_team": "Dijon",
+        "away_team": "Sedan",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "25/01/08",
+        "time": null,
+        "home_team": "Grenoble",
+        "away_team": "Amiens",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "25/01/08",
+        "time": null,
+        "home_team": "Gueugnon",
+        "away_team": "Bastia",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "25/01/08",
+        "time": null,
+        "home_team": "Libourne",
+        "away_team": "Chateauroux",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "25/01/08",
+        "time": null,
+        "home_team": "Niort",
+        "away_team": "Reims",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "25/01/08",
+        "time": null,
+        "home_team": "Troyes",
+        "away_team": "Montpellier",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "28/01/08",
+        "time": null,
+        "home_team": "Nantes",
+        "away_team": "Le Havre",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "29/01/08",
+        "time": null,
+        "home_team": "Amiens",
+        "away_team": "Libourne",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "29/01/08",
+        "time": null,
+        "home_team": "Sedan",
+        "away_team": "Troyes",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "01/02/08",
+        "time": null,
+        "home_team": "Le Havre",
+        "away_team": "Clermont",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "08/02/08",
+        "time": null,
+        "home_team": "Amiens",
+        "away_team": "Guingamp",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "08/02/08",
+        "time": null,
+        "home_team": "Angers",
+        "away_team": "Boulogne",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "08/02/08",
+        "time": null,
+        "home_team": "Bastia",
+        "away_team": "Troyes",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "08/02/08",
+        "time": null,
+        "home_team": "Chateauroux",
+        "away_team": "Dijon",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "08/02/08",
+        "time": null,
+        "home_team": "Clermont",
+        "away_team": "Libourne",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "08/02/08",
+        "time": null,
+        "home_team": "Le Havre",
+        "away_team": "Grenoble",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "08/02/08",
+        "time": null,
+        "home_team": "Montpellier",
+        "away_team": "Niort",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "08/02/08",
+        "time": null,
+        "home_team": "Reims",
+        "away_team": "Gueugnon",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "08/02/08",
+        "time": null,
+        "home_team": "Sedan",
+        "away_team": "Ajaccio",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "11/02/08",
+        "time": null,
+        "home_team": "Brest",
+        "away_team": "Nantes",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "15/02/08",
+        "time": null,
+        "home_team": "Ajaccio",
+        "away_team": "Montpellier",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "15/02/08",
+        "time": null,
+        "home_team": "Boulogne",
+        "away_team": "Sedan",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "15/02/08",
+        "time": null,
+        "home_team": "Dijon",
+        "away_team": "Reims",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "15/02/08",
+        "time": null,
+        "home_team": "Grenoble",
+        "away_team": "Clermont",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "15/02/08",
+        "time": null,
+        "home_team": "Gueugnon",
+        "away_team": "Le Havre",
+        "home_score": "3",
+        "away_score": "4",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "15/02/08",
+        "time": null,
+        "home_team": "Guingamp",
+        "away_team": "Angers",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "15/02/08",
+        "time": null,
+        "home_team": "Libourne",
+        "away_team": "Brest",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "15/02/08",
+        "time": null,
+        "home_team": "Niort",
+        "away_team": "Amiens",
+        "home_score": "1",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "15/02/08",
+        "time": null,
+        "home_team": "Troyes",
+        "away_team": "Chateauroux",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "18/02/08",
+        "time": null,
+        "home_team": "Nantes",
+        "away_team": "Bastia",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "22/02/08",
+        "time": null,
+        "home_team": "Amiens",
+        "away_team": "Ajaccio",
+        "home_score": "4",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "22/02/08",
+        "time": null,
+        "home_team": "Angers",
+        "away_team": "Niort",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "22/02/08",
+        "time": null,
+        "home_team": "Bastia",
+        "away_team": "Libourne",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "22/02/08",
+        "time": null,
+        "home_team": "Brest",
+        "away_team": "Grenoble",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "22/02/08",
+        "time": null,
+        "home_team": "Chateauroux",
+        "away_team": "Boulogne",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "22/02/08",
+        "time": null,
+        "home_team": "Clermont",
+        "away_team": "Gueugnon",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "22/02/08",
+        "time": null,
+        "home_team": "Le Havre",
+        "away_team": "Dijon",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "22/02/08",
+        "time": null,
+        "home_team": "Montpellier",
+        "away_team": "Guingamp",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "22/02/08",
+        "time": null,
+        "home_team": "Reims",
+        "away_team": "Troyes",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "25/02/08",
+        "time": null,
+        "home_team": "Sedan",
+        "away_team": "Nantes",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "29/02/08",
+        "time": null,
+        "home_team": "Ajaccio",
+        "away_team": "Reims",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "29/02/08",
+        "time": null,
+        "home_team": "Boulogne",
+        "away_team": "Amiens",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "29/02/08",
+        "time": null,
+        "home_team": "Dijon",
+        "away_team": "Clermont",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "29/02/08",
+        "time": null,
+        "home_team": "Grenoble",
+        "away_team": "Bastia",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "29/02/08",
+        "time": null,
+        "home_team": "Gueugnon",
+        "away_team": "Brest",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "29/02/08",
+        "time": null,
+        "home_team": "Guingamp",
+        "away_team": "Sedan",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "29/02/08",
+        "time": null,
+        "home_team": "Montpellier",
+        "away_team": "Angers",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "29/02/08",
+        "time": null,
+        "home_team": "Nantes",
+        "away_team": "Libourne",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "29/02/08",
+        "time": null,
+        "home_team": "Niort",
+        "away_team": "Chateauroux",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "03/03/08",
+        "time": null,
+        "home_team": "Troyes",
+        "away_team": "Le Havre",
+        "home_score": "4",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "07/03/08",
+        "time": null,
+        "home_team": "Amiens",
+        "away_team": "Angers",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "07/03/08",
+        "time": null,
+        "home_team": "Bastia",
+        "away_team": "Niort",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "07/03/08",
+        "time": null,
+        "home_team": "Brest",
+        "away_team": "Dijon",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "07/03/08",
+        "time": null,
+        "home_team": "Chateauroux",
+        "away_team": "Guingamp",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "07/03/08",
+        "time": null,
+        "home_team": "Clermont",
+        "away_team": "Troyes",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "07/03/08",
+        "time": null,
+        "home_team": "Le Havre",
+        "away_team": "Ajaccio",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "07/03/08",
+        "time": null,
+        "home_team": "Libourne",
+        "away_team": "Gueugnon",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "07/03/08",
+        "time": null,
+        "home_team": "Reims",
+        "away_team": "Boulogne",
+        "home_score": "4",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "07/03/08",
+        "time": null,
+        "home_team": "Sedan",
+        "away_team": "Montpellier",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "10/03/08",
+        "time": null,
+        "home_team": "Nantes",
+        "away_team": "Grenoble",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "14/03/08",
+        "time": null,
+        "home_team": "Ajaccio",
+        "away_team": "Chateauroux",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "14/03/08",
+        "time": null,
+        "home_team": "Angers",
+        "away_team": "Sedan",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "14/03/08",
+        "time": null,
+        "home_team": "Boulogne",
+        "away_team": "Clermont",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "14/03/08",
+        "time": null,
+        "home_team": "Dijon",
+        "away_team": "Bastia",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "14/03/08",
+        "time": null,
+        "home_team": "Guingamp",
+        "away_team": "Reims",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "14/03/08",
+        "time": null,
+        "home_team": "Montpellier",
+        "away_team": "Amiens",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "14/03/08",
+        "time": null,
+        "home_team": "Niort",
+        "away_team": "Le Havre",
+        "home_score": "0",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "14/03/08",
+        "time": null,
+        "home_team": "Troyes",
+        "away_team": "Brest",
+        "home_score": "1",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "15/03/08",
+        "time": null,
+        "home_team": "Grenoble",
+        "away_team": "Libourne",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "17/03/08",
+        "time": null,
+        "home_team": "Gueugnon",
+        "away_team": "Nantes",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "21/03/08",
+        "time": null,
+        "home_team": "Bastia",
+        "away_team": "Guingamp",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "21/03/08",
+        "time": null,
+        "home_team": "Brest",
+        "away_team": "Niort",
+        "home_score": "4",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "21/03/08",
+        "time": null,
+        "home_team": "Chateauroux",
+        "away_team": "Montpellier",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "21/03/08",
+        "time": null,
+        "home_team": "Clermont",
+        "away_team": "Ajaccio",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "21/03/08",
+        "time": null,
+        "home_team": "Gueugnon",
+        "away_team": "Grenoble",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "21/03/08",
+        "time": null,
+        "home_team": "Libourne",
+        "away_team": "Troyes",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "21/03/08",
+        "time": null,
+        "home_team": "Nantes",
+        "away_team": "Dijon",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "21/03/08",
+        "time": null,
+        "home_team": "Reims",
+        "away_team": "Angers",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "22/03/08",
+        "time": null,
+        "home_team": "Sedan",
+        "away_team": "Amiens",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "24/03/08",
+        "time": null,
+        "home_team": "Le Havre",
+        "away_team": "Boulogne",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "28/03/08",
+        "time": null,
+        "home_team": "Ajaccio",
+        "away_team": "Brest",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "28/03/08",
+        "time": null,
+        "home_team": "Amiens",
+        "away_team": "Le Havre",
+        "home_score": "1",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "28/03/08",
+        "time": null,
+        "home_team": "Angers",
+        "away_team": "Clermont",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "28/03/08",
+        "time": null,
+        "home_team": "Boulogne",
+        "away_team": "Bastia",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "28/03/08",
+        "time": null,
+        "home_team": "Dijon",
+        "away_team": "Gueugnon",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "28/03/08",
+        "time": null,
+        "home_team": "Guingamp",
+        "away_team": "Grenoble",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "28/03/08",
+        "time": null,
+        "home_team": "Montpellier",
+        "away_team": "Reims",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "28/03/08",
+        "time": null,
+        "home_team": "Niort",
+        "away_team": "Libourne",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "30/03/08",
+        "time": null,
+        "home_team": "Sedan",
+        "away_team": "Chateauroux",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "31/03/08",
+        "time": null,
+        "home_team": "Troyes",
+        "away_team": "Nantes",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "01/04/08",
+        "time": null,
+        "home_team": "Reims",
+        "away_team": "Bastia",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "04/04/08",
+        "time": null,
+        "home_team": "Brest",
+        "away_team": "Guingamp",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "04/04/08",
+        "time": null,
+        "home_team": "Chateauroux",
+        "away_team": "Amiens",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "04/04/08",
+        "time": null,
+        "home_team": "Clermont",
+        "away_team": "Montpellier",
+        "home_score": "3",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "04/04/08",
+        "time": null,
+        "home_team": "Gueugnon",
+        "away_team": "Boulogne",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "04/04/08",
+        "time": null,
+        "home_team": "Le Havre",
+        "away_team": "Angers",
+        "home_score": "3",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "04/04/08",
+        "time": null,
+        "home_team": "Libourne",
+        "away_team": "Dijon",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "04/04/08",
+        "time": null,
+        "home_team": "Nantes",
+        "away_team": "Niort",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "04/04/08",
+        "time": null,
+        "home_team": "Reims",
+        "away_team": "Sedan",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "05/04/08",
+        "time": null,
+        "home_team": "Bastia",
+        "away_team": "Ajaccio",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "07/04/08",
+        "time": null,
+        "home_team": "Grenoble",
+        "away_team": "Troyes",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "10/04/08",
+        "time": null,
+        "home_team": "Montpellier",
+        "away_team": "Bastia",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "11/04/08",
+        "time": null,
+        "home_team": "Ajaccio",
+        "away_team": "Nantes",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "11/04/08",
+        "time": null,
+        "home_team": "Amiens",
+        "away_team": "Reims",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "11/04/08",
+        "time": null,
+        "home_team": "Angers",
+        "away_team": "Chateauroux",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "11/04/08",
+        "time": null,
+        "home_team": "Boulogne",
+        "away_team": "Libourne",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "11/04/08",
+        "time": null,
+        "home_team": "Dijon",
+        "away_team": "Grenoble",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "11/04/08",
+        "time": null,
+        "home_team": "Guingamp",
+        "away_team": "Le Havre",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "11/04/08",
+        "time": null,
+        "home_team": "Niort",
+        "away_team": "Clermont",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "11/04/08",
+        "time": null,
+        "home_team": "Sedan",
+        "away_team": "Brest",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "11/04/08",
+        "time": null,
+        "home_team": "Troyes",
+        "away_team": "Gueugnon",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "14/04/08",
+        "time": null,
+        "home_team": "Nantes",
+        "away_team": "Boulogne",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "15/04/08",
+        "time": null,
+        "home_team": "Brest",
+        "away_team": "Montpellier",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "15/04/08",
+        "time": null,
+        "home_team": "Clermont",
+        "away_team": "Guingamp",
+        "home_score": "3",
+        "away_score": "3",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "15/04/08",
+        "time": null,
+        "home_team": "Grenoble",
+        "away_team": "Niort",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "15/04/08",
+        "time": null,
+        "home_team": "Gueugnon",
+        "away_team": "Angers",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "15/04/08",
+        "time": null,
+        "home_team": "Libourne",
+        "away_team": "Ajaccio",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "15/04/08",
+        "time": null,
+        "home_team": "Reims",
+        "away_team": "Chateauroux",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "18/04/08",
+        "time": null,
+        "home_team": "Ajaccio",
+        "away_team": "Gueugnon",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "18/04/08",
+        "time": null,
+        "home_team": "Amiens",
+        "away_team": "Clermont",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "18/04/08",
+        "time": null,
+        "home_team": "Boulogne",
+        "away_team": "Dijon",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "18/04/08",
+        "time": null,
+        "home_team": "Chateauroux",
+        "away_team": "Le Havre",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "18/04/08",
+        "time": null,
+        "home_team": "Guingamp",
+        "away_team": "Libourne",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "18/04/08",
+        "time": null,
+        "home_team": "Montpellier",
+        "away_team": "Grenoble",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "18/04/08",
+        "time": null,
+        "home_team": "Niort",
+        "away_team": "Troyes",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "18/04/08",
+        "time": null,
+        "home_team": "Reims",
+        "away_team": "Brest",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "19/04/08",
+        "time": null,
+        "home_team": "Sedan",
+        "away_team": "Bastia",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "21/04/08",
+        "time": null,
+        "home_team": "Angers",
+        "away_team": "Nantes",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "22/04/08",
+        "time": null,
+        "home_team": "Bastia",
+        "away_team": "Amiens",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "22/04/08",
+        "time": null,
+        "home_team": "Dijon",
+        "away_team": "Troyes",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "22/04/08",
+        "time": null,
+        "home_team": "Le Havre",
+        "away_team": "Sedan",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "25/04/08",
+        "time": null,
+        "home_team": "Bastia",
+        "away_team": "Chateauroux",
+        "home_score": "2",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "25/04/08",
+        "time": null,
+        "home_team": "Brest",
+        "away_team": "Amiens",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "25/04/08",
+        "time": null,
+        "home_team": "Clermont",
+        "away_team": "Sedan",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "25/04/08",
+        "time": null,
+        "home_team": "Dijon",
+        "away_team": "Guingamp",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "25/04/08",
+        "time": null,
+        "home_team": "Gueugnon",
+        "away_team": "Niort",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "25/04/08",
+        "time": null,
+        "home_team": "Le Havre",
+        "away_team": "Reims",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "25/04/08",
+        "time": null,
+        "home_team": "Libourne",
+        "away_team": "Angers",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "25/04/08",
+        "time": null,
+        "home_team": "Nantes",
+        "away_team": "Montpellier",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "25/04/08",
+        "time": null,
+        "home_team": "Troyes",
+        "away_team": "Boulogne",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "28/04/08",
+        "time": null,
+        "home_team": "Grenoble",
+        "away_team": "Ajaccio",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "02/05/08",
+        "time": null,
+        "home_team": "Ajaccio",
+        "away_team": "Troyes",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "02/05/08",
+        "time": null,
+        "home_team": "Amiens",
+        "away_team": "Nantes",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "02/05/08",
+        "time": null,
+        "home_team": "Angers",
+        "away_team": "Bastia",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "02/05/08",
+        "time": null,
+        "home_team": "Chateauroux",
+        "away_team": "Brest",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "02/05/08",
+        "time": null,
+        "home_team": "Guingamp",
+        "away_team": "Gueugnon",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "02/05/08",
+        "time": null,
+        "home_team": "Montpellier",
+        "away_team": "Le Havre",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "02/05/08",
+        "time": null,
+        "home_team": "Niort",
+        "away_team": "Dijon",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "02/05/08",
+        "time": null,
+        "home_team": "Reims",
+        "away_team": "Clermont",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "02/05/08",
+        "time": null,
+        "home_team": "Sedan",
+        "away_team": "Libourne",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "05/05/08",
+        "time": null,
+        "home_team": "Boulogne",
+        "away_team": "Grenoble",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "12/05/08",
+        "time": null,
+        "home_team": "Bastia",
+        "away_team": "Reims",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "12/05/08",
+        "time": null,
+        "home_team": "Brest",
+        "away_team": "Boulogne",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "12/05/08",
+        "time": null,
+        "home_team": "Clermont",
+        "away_team": "Le Havre",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "12/05/08",
+        "time": null,
+        "home_team": "Dijon",
+        "away_team": "Angers",
+        "home_score": "1",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "12/05/08",
+        "time": null,
+        "home_team": "Grenoble",
+        "away_team": "Chateauroux",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "12/05/08",
+        "time": null,
+        "home_team": "Gueugnon",
+        "away_team": "Montpellier",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "12/05/08",
+        "time": null,
+        "home_team": "Libourne",
+        "away_team": "Amiens",
+        "home_score": "2",
+        "away_score": "5",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "12/05/08",
+        "time": null,
+        "home_team": "Nantes",
+        "away_team": "Guingamp",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "12/05/08",
+        "time": null,
+        "home_team": "Niort",
+        "away_team": "Ajaccio",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "12/05/08",
+        "time": null,
+        "home_team": "Troyes",
+        "away_team": "Sedan",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "16/05/08",
+        "time": null,
+        "home_team": "Ajaccio",
+        "away_team": "Dijon",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "16/05/08",
+        "time": null,
+        "home_team": "Amiens",
+        "away_team": "Gueugnon",
+        "home_score": "4",
+        "away_score": "4",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "16/05/08",
+        "time": null,
+        "home_team": "Angers",
+        "away_team": "Brest",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "16/05/08",
+        "time": null,
+        "home_team": "Boulogne",
+        "away_team": "Niort",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "16/05/08",
+        "time": null,
+        "home_team": "Chateauroux",
+        "away_team": "Clermont",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "16/05/08",
+        "time": null,
+        "home_team": "Guingamp",
+        "away_team": "Troyes",
+        "home_score": "5",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "16/05/08",
+        "time": null,
+        "home_team": "Le Havre",
+        "away_team": "Bastia",
+        "home_score": "6",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "16/05/08",
+        "time": null,
+        "home_team": "Montpellier",
+        "away_team": "Libourne",
+        "home_score": "5",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "16/05/08",
+        "time": null,
+        "home_team": "Reims",
+        "away_team": "Nantes",
+        "home_score": "3",
+        "away_score": "3",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2007",
+        "date": "16/05/08",
+        "time": null,
+        "home_team": "Sedan",
+        "away_team": "Grenoble",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    }
+]

@@ -1,0 +1,4474 @@
+[
+    {
+        "league_id": 79,
+        "season": "2002",
+        "date": "10/08/02",
+        "time": null,
+        "home_team": "Duisburg",
+        "away_team": "Greuther Furth",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 79,
+        "season": "2002",
+        "date": "10/08/02",
+        "time": null,
+        "home_team": "Ein Trier",
+        "away_team": "Burghausen",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 79,
+        "season": "2002",
+        "date": "10/08/02",
+        "time": null,
+        "home_team": "Union Berlin",
+        "away_team": "Mainz",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 79,
+        "season": "2002",
+        "date": "11/08/02",
+        "time": null,
+        "home_team": "Aachen",
+        "away_team": "Freiburg",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 79,
+        "season": "2002",
+        "date": "11/08/02",
+        "time": null,
+        "home_team": "Ahlen",
+        "away_team": "Reutlingen",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 79,
+        "season": "2002",
+        "date": "11/08/02",
+        "time": null,
+        "home_team": "Braunschweig",
+        "away_team": "Mannheim",
+        "home_score": "4",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 79,
+        "season": "2002",
+        "date": "11/08/02",
+        "time": null,
+        "home_team": "Ein Frankfurt",
+        "away_team": "St Pauli",
+        "home_score": "4",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 79,
+        "season": "2002",
+        "date": "11/08/02",
+        "time": null,
+        "home_team": "Lubeck",
+        "away_team": "Oberhausen",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 79,
+        "season": "2002",
+        "date": "12/08/02",
+        "time": null,
+        "home_team": "Karlsruhe",
+        "away_team": "FC Koln",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 79,
+        "season": "2002",
+        "date": "16/08/02",
+        "time": null,
+        "home_team": "FC Koln",
+        "away_team": "Duisburg",
+        "home_score": "4",
+        "away_score": "3",
+        "result": "H"
+    },
+    {
+        "league_id": 79,
+        "season": "2002",
+        "date": "16/08/02",
+        "time": null,
+        "home_team": "Greuther Furth",
+        "away_team": "Aachen",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 79,
+        "season": "2002",
+        "date": "16/08/02",
+        "time": null,
+        "home_team": "Mannheim",
+        "away_team": "Union Berlin",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 79,
+        "season": "2002",
+        "date": "18/08/02",
+        "time": null,
+        "home_team": "Burghausen",
+        "away_team": "Karlsruhe",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 79,
+        "season": "2002",
+        "date": "18/08/02",
+        "time": null,
+        "home_team": "Oberhausen",
+        "away_team": "Braunschweig",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 79,
+        "season": "2002",
+        "date": "18/08/02",
+        "time": null,
+        "home_team": "Reutlingen",
+        "away_team": "Lubeck",
+        "home_score": "1",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 79,
+        "season": "2002",
+        "date": "18/08/02",
+        "time": null,
+        "home_team": "St Pauli",
+        "away_team": "Ahlen",
+        "home_score": "1",
+        "away_score": "4",
+        "result": "A"
+    },
+    {
+        "league_id": 79,
+        "season": "2002",
+        "date": "19/08/02",
+        "time": null,
+        "home_team": "Freiburg",
+        "away_team": "Ein Frankfurt",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 79,
+        "season": "2002",
+        "date": "23/08/02",
+        "time": null,
+        "home_team": "Ein Frankfurt",
+        "away_team": "Greuther Furth",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 79,
+        "season": "2002",
+        "date": "23/08/02",
+        "time": null,
+        "home_team": "Ein Trier",
+        "away_team": "Karlsruhe",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 79,
+        "season": "2002",
+        "date": "23/08/02",
+        "time": null,
+        "home_team": "Lubeck",
+        "away_team": "St Pauli",
+        "home_score": "6",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 79,
+        "season": "2002",
+        "date": "25/08/02",
+        "time": null,
+        "home_team": "Ahlen",
+        "away_team": "Freiburg",
+        "home_score": "1",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 79,
+        "season": "2002",
+        "date": "25/08/02",
+        "time": null,
+        "home_team": "Braunschweig",
+        "away_team": "Reutlingen",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 79,
+        "season": "2002",
+        "date": "25/08/02",
+        "time": null,
+        "home_team": "Duisburg",
+        "away_team": "Burghausen",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 79,
+        "season": "2002",
+        "date": "25/08/02",
+        "time": null,
+        "home_team": "Mainz",
+        "away_team": "Mannheim",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 79,
+        "season": "2002",
+        "date": "25/08/02",
+        "time": null,
+        "home_team": "Union Berlin",
+        "away_team": "Oberhausen",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 79,
+        "season": "2002",
+        "date": "26/08/02",
+        "time": null,
+        "home_team": "Aachen",
+        "away_team": "FC Koln",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 79,
+        "season": "2002",
+        "date": "10/09/02",
+        "time": null,
+        "home_team": "Burghausen",
+        "away_team": "Aachen",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 79,
+        "season": "2002",
+        "date": "10/09/02",
+        "time": null,
+        "home_team": "FC Koln",
+        "away_team": "Ein Frankfurt",
+        "home_score": "3",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 79,
+        "season": "2002",
+        "date": "10/09/02",
+        "time": null,
+        "home_team": "Greuther Furth",
+        "away_team": "Ahlen",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 79,
+        "season": "2002",
+        "date": "10/09/02",
+        "time": null,
+        "home_team": "Karlsruhe",
+        "away_team": "Duisburg",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 79,
+        "season": "2002",
+        "date": "10/09/02",
+        "time": null,
+        "home_team": "Mannheim",
+        "away_team": "Ein Trier",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 79,
+        "season": "2002",
+        "date": "11/09/02",
+        "time": null,
+        "home_team": "Freiburg",
+        "away_team": "Lubeck",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 79,
+        "season": "2002",
+        "date": "11/09/02",
+        "time": null,
+        "home_team": "Oberhausen",
+        "away_team": "Mainz",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 79,
+        "season": "2002",
+        "date": "11/09/02",
+        "time": null,
+        "home_team": "Reutlingen",
+        "away_team": "Union Berlin",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 79,
+        "season": "2002",
+        "date": "11/09/02",
+        "time": null,
+        "home_team": "St Pauli",
+        "away_team": "Braunschweig",
+        "home_score": "7",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 79,
+        "season": "2002",
+        "date": "13/09/02",
+        "time": null,
+        "home_team": "Aachen",
+        "away_team": "Karlsruhe",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 79,
+        "season": "2002",
+        "date": "13/09/02",
+        "time": null,
+        "home_team": "Ahlen",
+        "away_team": "FC Koln",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 79,
+        "season": "2002",
+        "date": "13/09/02",
+        "time": null,
+        "home_team": "Ein Trier",
+        "away_team": "Duisburg",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 79,
+        "season": "2002",
+        "date": "15/09/02",
+        "time": null,
+        "home_team": "Ein Frankfurt",
+        "away_team": "Burghausen",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 79,
+        "season": "2002",
+        "date": "15/09/02",
+        "time": null,
+        "home_team": "Lubeck",
+        "away_team": "Greuther Furth",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 79,
+        "season": "2002",
+        "date": "15/09/02",
+        "time": null,
+        "home_team": "Mainz",
+        "away_team": "Reutlingen",
+        "home_score": "1",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 79,
+        "season": "2002",
+        "date": "15/09/02",
+        "time": null,
+        "home_team": "Mannheim",
+        "away_team": "Oberhausen",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 79,
+        "season": "2002",
+        "date": "15/09/02",
+        "time": null,
+        "home_team": "Union Berlin",
+        "away_team": "St Pauli",
+        "home_score": "4",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 79,
+        "season": "2002",
+        "date": "16/09/02",
+        "time": null,
+        "home_team": "Braunschweig",
+        "away_team": "Freiburg",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 79,
+        "season": "2002",
+        "date": "18/09/02",
+        "time": null,
+        "home_team": "Mainz",
+        "away_team": "Ein Trier",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 79,
+        "season": "2002",
+        "date": "20/09/02",
+        "time": null,
+        "home_team": "Burghausen",
+        "away_team": "Ahlen",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 79,
+        "season": "2002",
+        "date": "20/09/02",
+        "time": null,
+        "home_team": "Duisburg",
+        "away_team": "Aachen",
+        "home_score": "3",
+        "away_score": "3",
+        "result": "D"
+    },
+    {
+        "league_id": 79,
+        "season": "2002",
+        "date": "20/09/02",
+        "time": null,
+        "home_team": "Reutlingen",
+        "away_team": "Mannheim",
+        "home_score": "3",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 79,
+        "season": "2002",
+        "date": "22/09/02",
+        "time": null,
+        "home_team": "FC Koln",
+        "away_team": "Lubeck",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 79,
+        "season": "2002",
+        "date": "22/09/02",
+        "time": null,
+        "home_team": "Freiburg",
+        "away_team": "Union Berlin",
+        "home_score": "4",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 79,
+        "season": "2002",
+        "date": "22/09/02",
+        "time": null,
+        "home_team": "Greuther Furth",
+        "away_team": "Braunschweig",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 79,
+        "season": "2002",
+        "date": "22/09/02",
+        "time": null,
+        "home_team": "Oberhausen",
+        "away_team": "Ein Trier",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 79,
+        "season": "2002",
+        "date": "22/09/02",
+        "time": null,
+        "home_team": "St Pauli",
+        "away_team": "Mainz",
+        "home_score": "1",
+        "away_score": "4",
+        "result": "A"
+    },
+    {
+        "league_id": 79,
+        "season": "2002",
+        "date": "23/09/02",
+        "time": null,
+        "home_team": "Karlsruhe",
+        "away_team": "Ein Frankfurt",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 79,
+        "season": "2002",
+        "date": "27/09/02",
+        "time": null,
+        "home_team": "Braunschweig",
+        "away_team": "FC Koln",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 79,
+        "season": "2002",
+        "date": "27/09/02",
+        "time": null,
+        "home_team": "Mannheim",
+        "away_team": "St Pauli",
+        "home_score": "2",
+        "away_score": "5",
+        "result": "A"
+    },
+    {
+        "league_id": 79,
+        "season": "2002",
+        "date": "27/09/02",
+        "time": null,
+        "home_team": "Union Berlin",
+        "away_team": "Greuther Furth",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 79,
+        "season": "2002",
+        "date": "29/09/02",
+        "time": null,
+        "home_team": "Ahlen",
+        "away_team": "Karlsruhe",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 79,
+        "season": "2002",
+        "date": "29/09/02",
+        "time": null,
+        "home_team": "Ein Frankfurt",
+        "away_team": "Duisburg",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 79,
+        "season": "2002",
+        "date": "29/09/02",
+        "time": null,
+        "home_team": "Ein Trier",
+        "away_team": "Aachen",
+        "home_score": "4",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 79,
+        "season": "2002",
+        "date": "29/09/02",
+        "time": null,
+        "home_team": "Lubeck",
+        "away_team": "Burghausen",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 79,
+        "season": "2002",
+        "date": "29/09/02",
+        "time": null,
+        "home_team": "Oberhausen",
+        "away_team": "Reutlingen",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 79,
+        "season": "2002",
+        "date": "30/09/02",
+        "time": null,
+        "home_team": "Mainz",
+        "away_team": "Freiburg",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 79,
+        "season": "2002",
+        "date": "04/10/02",
+        "time": null,
+        "home_team": "Burghausen",
+        "away_team": "Braunschweig",
+        "home_score": "4",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 79,
+        "season": "2002",
+        "date": "04/10/02",
+        "time": null,
+        "home_team": "Freiburg",
+        "away_team": "Mannheim",
+        "home_score": "4",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 79,
+        "season": "2002",
+        "date": "04/10/02",
+        "time": null,
+        "home_team": "St Pauli",
+        "away_team": "Oberhausen",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 79,
+        "season": "2002",
+        "date": "06/10/02",
+        "time": null,
+        "home_team": "Aachen",
+        "away_team": "Ein Frankfurt",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 79,
+        "season": "2002",
+        "date": "06/10/02",
+        "time": null,
+        "home_team": "Duisburg",
+        "away_team": "Ahlen",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 79,
+        "season": "2002",
+        "date": "06/10/02",
+        "time": null,
+        "home_team": "Greuther Furth",
+        "away_team": "Mainz",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 79,
+        "season": "2002",
+        "date": "06/10/02",
+        "time": null,
+        "home_team": "Karlsruhe",
+        "away_team": "Lubeck",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 79,
+        "season": "2002",
+        "date": "06/10/02",
+        "time": null,
+        "home_team": "Reutlingen",
+        "away_team": "Ein Trier",
+        "home_score": "3",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 79,
+        "season": "2002",
+        "date": "07/10/02",
+        "time": null,
+        "home_team": "FC Koln",
+        "away_team": "Union Berlin",
+        "home_score": "7",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 79,
+        "season": "2002",
+        "date": "18/10/02",
+        "time": null,
+        "home_team": "Ahlen",
+        "away_team": "Aachen",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 79,
+        "season": "2002",
+        "date": "18/10/02",
+        "time": null,
+        "home_team": "Ein Trier",
+        "away_team": "Ein Frankfurt",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 79,
+        "season": "2002",
+        "date": "18/10/02",
+        "time": null,
+        "home_team": "Lubeck",
+        "away_team": "Duisburg",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 79,
+        "season": "2002",
+        "date": "20/10/02",
+        "time": null,
+        "home_team": "Braunschweig",
+        "away_team": "Karlsruhe",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 79,
+        "season": "2002",
+        "date": "20/10/02",
+        "time": null,
+        "home_team": "Mannheim",
+        "away_team": "Greuther Furth",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 79,
+        "season": "2002",
+        "date": "20/10/02",
+        "time": null,
+        "home_team": "Oberhausen",
+        "away_team": "Freiburg",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 79,
+        "season": "2002",
+        "date": "20/10/02",
+        "time": null,
+        "home_team": "Reutlingen",
+        "away_team": "St Pauli",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 79,
+        "season": "2002",
+        "date": "20/10/02",
+        "time": null,
+        "home_team": "Union Berlin",
+        "away_team": "Burghausen",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 79,
+        "season": "2002",
+        "date": "21/10/02",
+        "time": null,
+        "home_team": "Mainz",
+        "away_team": "FC Koln",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 79,
+        "season": "2002",
+        "date": "25/10/02",
+        "time": null,
+        "home_team": "Aachen",
+        "away_team": "Lubeck",
+        "home_score": "4",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 79,
+        "season": "2002",
+        "date": "25/10/02",
+        "time": null,
+        "home_team": "Burghausen",
+        "away_team": "Mainz",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 79,
+        "season": "2002",
+        "date": "25/10/02",
+        "time": null,
+        "home_team": "FC Koln",
+        "away_team": "Mannheim",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 79,
+        "season": "2002",
+        "date": "27/10/02",
+        "time": null,
+        "home_team": "Ein Frankfurt",
+        "away_team": "Ahlen",
+        "home_score": "4",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 79,
+        "season": "2002",
+        "date": "27/10/02",
+        "time": null,
+        "home_team": "Freiburg",
+        "away_team": "Reutlingen",
+        "home_score": "1",
+        "away_score": "4",
+        "result": "A"
+    },
+    {
+        "league_id": 79,
+        "season": "2002",
+        "date": "27/10/02",
+        "time": null,
+        "home_team": "Greuther Furth",
+        "away_team": "Oberhausen",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 79,
+        "season": "2002",
+        "date": "27/10/02",
+        "time": null,
+        "home_team": "Karlsruhe",
+        "away_team": "Union Berlin",
+        "home_score": "3",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 79,
+        "season": "2002",
+        "date": "27/10/02",
+        "time": null,
+        "home_team": "St Pauli",
+        "away_team": "Ein Trier",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 79,
+        "season": "2002",
+        "date": "28/10/02",
+        "time": null,
+        "home_team": "Duisburg",
+        "away_team": "Braunschweig",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 79,
+        "season": "2002",
+        "date": "01/11/02",
+        "time": null,
+        "home_team": "Lubeck",
+        "away_team": "Ein Frankfurt",
+        "home_score": "1",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 79,
+        "season": "2002",
+        "date": "01/11/02",
+        "time": null,
+        "home_team": "Oberhausen",
+        "away_team": "FC Koln",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 79,
+        "season": "2002",
+        "date": "01/11/02",
+        "time": null,
+        "home_team": "St Pauli",
+        "away_team": "Freiburg",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 79,
+        "season": "2002",
+        "date": "01/11/02",
+        "time": null,
+        "home_team": "Union Berlin",
+        "away_team": "Duisburg",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 79,
+        "season": "2002",
+        "date": "03/11/02",
+        "time": null,
+        "home_team": "Braunschweig",
+        "away_team": "Aachen",
+        "home_score": "2",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 79,
+        "season": "2002",
+        "date": "03/11/02",
+        "time": null,
+        "home_team": "Ein Trier",
+        "away_team": "Ahlen",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 79,
+        "season": "2002",
+        "date": "03/11/02",
+        "time": null,
+        "home_team": "Mannheim",
+        "away_team": "Burghausen",
+        "home_score": "0",
+        "away_score": "4",
+        "result": "A"
+    },
+    {
+        "league_id": 79,
+        "season": "2002",
+        "date": "03/11/02",
+        "time": null,
+        "home_team": "Reutlingen",
+        "away_team": "Greuther Furth",
+        "home_score": "2",
+        "away_score": "4",
+        "result": "A"
+    },
+    {
+        "league_id": 79,
+        "season": "2002",
+        "date": "04/11/02",
+        "time": null,
+        "home_team": "Mainz",
+        "away_team": "Karlsruhe",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 79,
+        "season": "2002",
+        "date": "08/11/02",
+        "time": null,
+        "home_team": "Aachen",
+        "away_team": "Union Berlin",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 79,
+        "season": "2002",
+        "date": "08/11/02",
+        "time": null,
+        "home_team": "Burghausen",
+        "away_team": "Oberhausen",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 79,
+        "season": "2002",
+        "date": "08/11/02",
+        "time": null,
+        "home_team": "Ein Frankfurt",
+        "away_team": "Braunschweig",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 79,
+        "season": "2002",
+        "date": "10/11/02",
+        "time": null,
+        "home_team": "Ahlen",
+        "away_team": "Lubeck",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 79,
+        "season": "2002",
+        "date": "10/11/02",
+        "time": null,
+        "home_team": "Duisburg",
+        "away_team": "Mainz",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 79,
+        "season": "2002",
+        "date": "10/11/02",
+        "time": null,
+        "home_team": "FC Koln",
+        "away_team": "Reutlingen",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 79,
+        "season": "2002",
+        "date": "10/11/02",
+        "time": null,
+        "home_team": "Greuther Furth",
+        "away_team": "St Pauli",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 79,
+        "season": "2002",
+        "date": "10/11/02",
+        "time": null,
+        "home_team": "Karlsruhe",
+        "away_team": "Mannheim",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 79,
+        "season": "2002",
+        "date": "11/11/02",
+        "time": null,
+        "home_team": "Freiburg",
+        "away_team": "Ein Trier",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 79,
+        "season": "2002",
+        "date": "15/11/02",
+        "time": null,
+        "home_team": "Braunschweig",
+        "away_team": "Ahlen",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 79,
+        "season": "2002",
+        "date": "15/11/02",
+        "time": null,
+        "home_team": "Mainz",
+        "away_team": "Aachen",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 79,
+        "season": "2002",
+        "date": "15/11/02",
+        "time": null,
+        "home_team": "Union Berlin",
+        "away_team": "Ein Frankfurt",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 79,
+        "season": "2002",
+        "date": "17/11/02",
+        "time": null,
+        "home_team": "Ein Trier",
+        "away_team": "Lubeck",
+        "home_score": "1",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 79,
+        "season": "2002",
+        "date": "17/11/02",
+        "time": null,
+        "home_team": "Freiburg",
+        "away_team": "Greuther Furth",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 79,
+        "season": "2002",
+        "date": "17/11/02",
+        "time": null,
+        "home_team": "Mannheim",
+        "away_team": "Duisburg",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 79,
+        "season": "2002",
+        "date": "17/11/02",
+        "time": null,
+        "home_team": "Oberhausen",
+        "away_team": "Karlsruhe",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 79,
+        "season": "2002",
+        "date": "17/11/02",
+        "time": null,
+        "home_team": "Reutlingen",
+        "away_team": "Burghausen",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 79,
+        "season": "2002",
+        "date": "18/11/02",
+        "time": null,
+        "home_team": "St Pauli",
+        "away_team": "FC Koln",
+        "home_score": "2",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 79,
+        "season": "2002",
+        "date": "22/11/02",
+        "time": null,
+        "home_team": "Aachen",
+        "away_team": "Mannheim",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 79,
+        "season": "2002",
+        "date": "22/11/02",
+        "time": null,
+        "home_team": "Ahlen",
+        "away_team": "Union Berlin",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 79,
+        "season": "2002",
+        "date": "22/11/02",
+        "time": null,
+        "home_team": "Duisburg",
+        "away_team": "Oberhausen",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 79,
+        "season": "2002",
+        "date": "22/11/02",
+        "time": null,
+        "home_team": "Ein Frankfurt",
+        "away_team": "Mainz",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 79,
+        "season": "2002",
+        "date": "24/11/02",
+        "time": null,
+        "home_team": "Burghausen",
+        "away_team": "St Pauli",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 79,
+        "season": "2002",
+        "date": "24/11/02",
+        "time": null,
+        "home_team": "Greuther Furth",
+        "away_team": "Ein Trier",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 79,
+        "season": "2002",
+        "date": "24/11/02",
+        "time": null,
+        "home_team": "Karlsruhe",
+        "away_team": "Reutlingen",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 79,
+        "season": "2002",
+        "date": "24/11/02",
+        "time": null,
+        "home_team": "Lubeck",
+        "away_team": "Braunschweig",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 79,
+        "season": "2002",
+        "date": "25/11/02",
+        "time": null,
+        "home_team": "FC Koln",
+        "away_team": "Freiburg",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 79,
+        "season": "2002",
+        "date": "29/11/02",
+        "time": null,
+        "home_team": "Mannheim",
+        "away_team": "Ein Frankfurt",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "29/11/02",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Oberhausen",
+        "away_team": "Aachen",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "29/11/02",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Reutlingen",
+        "away_team": "Duisburg",
+        "home_score": "2",
+        "away_score": "4",
+        "result": "A"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "01/12/02",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Braunschweig",
+        "away_team": "Ein Trier",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "01/12/02",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "FC Koln",
+        "away_team": "Greuther Furth",
+        "home_score": "3",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "01/12/02",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Freiburg",
+        "away_team": "Burghausen",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "01/12/02",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Mainz",
+        "away_team": "Ahlen",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "01/12/02",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Union Berlin",
+        "away_team": "Lubeck",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "02/12/02",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "St Pauli",
+        "away_team": "Karlsruhe",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "06/12/02",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Burghausen",
+        "away_team": "Greuther Furth",
+        "home_score": "1",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "06/12/02",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Duisburg",
+        "away_team": "St Pauli",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "06/12/02",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Lubeck",
+        "away_team": "Mainz",
+        "home_score": "1",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "08/12/02",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Aachen",
+        "away_team": "Reutlingen",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "08/12/02",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Ahlen",
+        "away_team": "Mannheim",
+        "home_score": "1",
+        "away_score": "4",
+        "result": "A"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "08/12/02",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Braunschweig",
+        "away_team": "Union Berlin",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "08/12/02",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Ein Frankfurt",
+        "away_team": "Oberhausen",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "08/12/02",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Ein Trier",
+        "away_team": "FC Koln",
+        "home_score": "2",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "09/12/02",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Karlsruhe",
+        "away_team": "Freiburg",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "13/12/02",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "FC Koln",
+        "away_team": "Burghausen",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "13/12/02",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Greuther Furth",
+        "away_team": "Karlsruhe",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "13/12/02",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Mainz",
+        "away_team": "Braunschweig",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "13/12/02",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "St Pauli",
+        "away_team": "Aachen",
+        "home_score": "1",
+        "away_score": "4",
+        "result": "A"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "15/12/02",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Freiburg",
+        "away_team": "Duisburg",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "15/12/02",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Mannheim",
+        "away_team": "Lubeck",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "15/12/02",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Oberhausen",
+        "away_team": "Ahlen",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "15/12/02",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Reutlingen",
+        "away_team": "Ein Frankfurt",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "15/12/02",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Union Berlin",
+        "away_team": "Ein Trier",
+        "home_score": "1",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "24/01/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "FC Koln",
+        "away_team": "Karlsruhe",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "24/01/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Mannheim",
+        "away_team": "Braunschweig",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "24/01/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "St Pauli",
+        "away_team": "Ein Frankfurt",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "26/01/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Burghausen",
+        "away_team": "Ein Trier",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "26/01/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Greuther Furth",
+        "away_team": "Duisburg",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "26/01/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Mainz",
+        "away_team": "Union Berlin",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "26/01/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Oberhausen",
+        "away_team": "Lubeck",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "26/01/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Reutlingen",
+        "away_team": "Ahlen",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "27/01/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Freiburg",
+        "away_team": "Aachen",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "31/01/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Ein Frankfurt",
+        "away_team": "Freiburg",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "02/02/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Ahlen",
+        "away_team": "St Pauli",
+        "home_score": "3",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "02/02/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Karlsruhe",
+        "away_team": "Burghausen",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "02/02/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Lubeck",
+        "away_team": "Reutlingen",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "02/02/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Union Berlin",
+        "away_team": "Mannheim",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "03/02/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Ein Trier",
+        "away_team": "Mainz",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "07/02/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Burghausen",
+        "away_team": "Duisburg",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "07/02/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Mannheim",
+        "away_team": "Mainz",
+        "home_score": "1",
+        "away_score": "5",
+        "result": "A"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "09/02/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Freiburg",
+        "away_team": "Ahlen",
+        "home_score": "4",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "09/02/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Greuther Furth",
+        "away_team": "Ein Frankfurt",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "09/02/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Karlsruhe",
+        "away_team": "Ein Trier",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "09/02/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Oberhausen",
+        "away_team": "Union Berlin",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "09/02/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "St Pauli",
+        "away_team": "Lubeck",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "10/02/03",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "FC Koln",
+        "away_team": "Aachen",
+        "home_score": "3",
+        "away_score": "3",
+        "result": "D"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "14/02/03",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Braunschweig",
+        "away_team": "St Pauli",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "14/02/03",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Duisburg",
+        "away_team": "Karlsruhe",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "14/02/03",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Lubeck",
+        "away_team": "Freiburg",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "16/02/03",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Aachen",
+        "away_team": "Burghausen",
+        "home_score": "2",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "16/02/03",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Ahlen",
+        "away_team": "Greuther Furth",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "16/02/03",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Ein Trier",
+        "away_team": "Mannheim",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "16/02/03",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Mainz",
+        "away_team": "Oberhausen",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "17/02/03",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Ein Frankfurt",
+        "away_team": "FC Koln",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "19/02/03",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Reutlingen",
+        "away_team": "Braunschweig",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "21/02/03",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "FC Koln",
+        "away_team": "Ahlen",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "21/02/03",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Karlsruhe",
+        "away_team": "Aachen",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "21/02/03",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Oberhausen",
+        "away_team": "Mannheim",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "23/02/03",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Burghausen",
+        "away_team": "Ein Frankfurt",
+        "home_score": "3",
+        "away_score": "3",
+        "result": "D"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "23/02/03",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Duisburg",
+        "away_team": "Ein Trier",
+        "home_score": "2",
+        "away_score": "4",
+        "result": "A"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "23/02/03",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Greuther Furth",
+        "away_team": "Lubeck",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "23/02/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Reutlingen",
+        "away_team": "Mainz",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "23/02/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "St Pauli",
+        "away_team": "Union Berlin",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "24/02/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Freiburg",
+        "away_team": "Braunschweig",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "28/02/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Braunschweig",
+        "away_team": "Greuther Furth",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "28/02/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Ein Frankfurt",
+        "away_team": "Karlsruhe",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "28/02/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Mainz",
+        "away_team": "St Pauli",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "28/02/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Mannheim",
+        "away_team": "Reutlingen",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "02/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Aachen",
+        "away_team": "Duisburg",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "02/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Ahlen",
+        "away_team": "Burghausen",
+        "home_score": "2",
+        "away_score": "4",
+        "result": "A"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "02/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Ein Trier",
+        "away_team": "Oberhausen",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "02/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Lubeck",
+        "away_team": "FC Koln",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "03/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Union Berlin",
+        "away_team": "Freiburg",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "05/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Aachen",
+        "away_team": "Greuther Furth",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "05/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Braunschweig",
+        "away_team": "Oberhausen",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "05/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Duisburg",
+        "away_team": "FC Koln",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "07/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Freiburg",
+        "away_team": "Mainz",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "07/03/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Karlsruhe",
+        "away_team": "Ahlen",
+        "home_score": "2",
+        "away_score": "4",
+        "result": "A"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "07/03/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "St Pauli",
+        "away_team": "Mannheim",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "09/03/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Aachen",
+        "away_team": "Ein Trier",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "09/03/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Burghausen",
+        "away_team": "Lubeck",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "09/03/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "FC Koln",
+        "away_team": "Braunschweig",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "09/03/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Greuther Furth",
+        "away_team": "Union Berlin",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "09/03/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Reutlingen",
+        "away_team": "Oberhausen",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "10/03/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Duisburg",
+        "away_team": "Ein Frankfurt",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "14/03/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Ahlen",
+        "away_team": "Duisburg",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "14/03/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Ein Trier",
+        "away_team": "Reutlingen",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "14/03/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Mainz",
+        "away_team": "Greuther Furth",
+        "home_score": "1",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "16/03/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Braunschweig",
+        "away_team": "Burghausen",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "16/03/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Ein Frankfurt",
+        "away_team": "Aachen",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "16/03/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Lubeck",
+        "away_team": "Karlsruhe",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "16/03/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Oberhausen",
+        "away_team": "St Pauli",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "16/03/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Union Berlin",
+        "away_team": "FC Koln",
+        "home_score": "0",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 79,
+        "season": "2002",
+        "date": "17/03/03",
+        "time": null,
+        "home_team": "Mannheim",
+        "away_team": "Freiburg",
+        "home_score": "0",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 79,
+        "season": "2002",
+        "date": "21/03/03",
+        "time": null,
+        "home_team": "Aachen",
+        "away_team": "Ahlen",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 79,
+        "season": "2002",
+        "date": "21/03/03",
+        "time": null,
+        "home_team": "Ein Frankfurt",
+        "away_team": "Ein Trier",
+        "home_score": "2",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 79,
+        "season": "2002",
+        "date": "21/03/03",
+        "time": null,
+        "home_team": "St Pauli",
+        "away_team": "Reutlingen",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 79,
+        "season": "2002",
+        "date": "23/03/03",
+        "time": null,
+        "home_team": "Burghausen",
+        "away_team": "Union Berlin",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 79,
+        "season": "2002",
+        "date": "23/03/03",
+        "time": null,
+        "home_team": "Duisburg",
+        "away_team": "Lubeck",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 79,
+        "season": "2002",
+        "date": "23/03/03",
+        "time": null,
+        "home_team": "Freiburg",
+        "away_team": "Oberhausen",
+        "home_score": "5",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 79,
+        "season": "2002",
+        "date": "23/03/03",
+        "time": null,
+        "home_team": "Greuther Furth",
+        "away_team": "Mannheim",
+        "home_score": "5",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 79,
+        "season": "2002",
+        "date": "23/03/03",
+        "time": null,
+        "home_team": "Karlsruhe",
+        "away_team": "Braunschweig",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 79,
+        "season": "2002",
+        "date": "24/03/03",
+        "time": null,
+        "home_team": "FC Koln",
+        "away_team": "Mainz",
+        "home_score": "1",
+        "away_score": "4",
+        "result": "A"
+    },
+    {
+        "league_id": 79,
+        "season": "2002",
+        "date": "26/03/03",
+        "time": null,
+        "home_team": "Union Berlin",
+        "away_team": "Reutlingen",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 79,
+        "season": "2002",
+        "date": "04/04/03",
+        "time": null,
+        "home_team": "Braunschweig",
+        "away_team": "Duisburg",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 79,
+        "season": "2002",
+        "date": "04/04/03",
+        "time": null,
+        "home_team": "Mainz",
+        "away_team": "Burghausen",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 79,
+        "season": "2002",
+        "date": "04/04/03",
+        "time": null,
+        "home_team": "Mannheim",
+        "away_team": "FC Koln",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 79,
+        "season": "2002",
+        "date": "06/04/03",
+        "time": null,
+        "home_team": "Ahlen",
+        "away_team": "Ein Frankfurt",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 79,
+        "season": "2002",
+        "date": "06/04/03",
+        "time": null,
+        "home_team": "Ein Trier",
+        "away_team": "St Pauli",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "06/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Lubeck",
+        "away_team": "Aachen",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "06/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Oberhausen",
+        "away_team": "Greuther Furth",
+        "home_score": "2",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "06/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Union Berlin",
+        "away_team": "Karlsruhe",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "07/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Reutlingen",
+        "away_team": "Freiburg",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "11/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Aachen",
+        "away_team": "Braunschweig",
+        "home_score": "1",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "11/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Burghausen",
+        "away_team": "Mannheim",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "11/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Karlsruhe",
+        "away_team": "Mainz",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "13/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Ahlen",
+        "away_team": "Ein Trier",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "13/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Duisburg",
+        "away_team": "Union Berlin",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "13/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Ein Frankfurt",
+        "away_team": "Lubeck",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "13/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Freiburg",
+        "away_team": "St Pauli",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "13/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Greuther Furth",
+        "away_team": "Reutlingen",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "14/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "FC Koln",
+        "away_team": "Oberhausen",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "17/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Lubeck",
+        "away_team": "Ahlen",
+        "home_score": "4",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "17/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Mannheim",
+        "away_team": "Karlsruhe",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "17/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "St Pauli",
+        "away_team": "Greuther Furth",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "20/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Braunschweig",
+        "away_team": "Ein Frankfurt",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "20/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Ein Trier",
+        "away_team": "Freiburg",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "20/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Oberhausen",
+        "away_team": "Burghausen",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "20/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Reutlingen",
+        "away_team": "FC Koln",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "20/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Union Berlin",
+        "away_team": "Aachen",
+        "home_score": "3",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "21/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Mainz",
+        "away_team": "Duisburg",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "25/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Duisburg",
+        "away_team": "Mannheim",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "25/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Ein Frankfurt",
+        "away_team": "Union Berlin",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "25/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Greuther Furth",
+        "away_team": "Freiburg",
+        "home_score": "4",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "27/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Aachen",
+        "away_team": "Mainz",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "27/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Ahlen",
+        "away_team": "Braunschweig",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "27/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Burghausen",
+        "away_team": "Reutlingen",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "27/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Karlsruhe",
+        "away_team": "Oberhausen",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "27/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Lubeck",
+        "away_team": "Ein Trier",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "28/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "FC Koln",
+        "away_team": "St Pauli",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "02/05/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Freiburg",
+        "away_team": "FC Koln",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "02/05/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "St Pauli",
+        "away_team": "Burghausen",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "02/05/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Union Berlin",
+        "away_team": "Ahlen",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "04/05/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Braunschweig",
+        "away_team": "Lubeck",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "04/05/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Ein Trier",
+        "away_team": "Greuther Furth",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "04/05/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Mannheim",
+        "away_team": "Aachen",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "04/05/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Oberhausen",
+        "away_team": "Duisburg",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "04/05/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Reutlingen",
+        "away_team": "Karlsruhe",
+        "home_score": "0",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "05/05/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Mainz",
+        "away_team": "Ein Frankfurt",
+        "home_score": "3",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "08/05/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Greuther Furth",
+        "away_team": "FC Koln",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "09/05/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Duisburg",
+        "away_team": "Reutlingen",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "09/05/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Ein Frankfurt",
+        "away_team": "Mannheim",
+        "home_score": "4",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "09/05/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Lubeck",
+        "away_team": "Union Berlin",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "11/05/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Aachen",
+        "away_team": "Oberhausen",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "11/05/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Burghausen",
+        "away_team": "Freiburg",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "11/05/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Ein Trier",
+        "away_team": "Braunschweig",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "11/05/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Karlsruhe",
+        "away_team": "St Pauli",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "12/05/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Ahlen",
+        "away_team": "Mainz",
+        "home_score": "4",
+        "away_score": "3",
+        "result": "H"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "18/05/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "FC Koln",
+        "away_team": "Ein Trier",
+        "home_score": "1",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "18/05/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Freiburg",
+        "away_team": "Karlsruhe",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "18/05/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Greuther Furth",
+        "away_team": "Burghausen",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "18/05/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Mainz",
+        "away_team": "Lubeck",
+        "home_score": "5",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "18/05/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Mannheim",
+        "away_team": "Ahlen",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "18/05/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Oberhausen",
+        "away_team": "Ein Frankfurt",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "18/05/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Reutlingen",
+        "away_team": "Aachen",
+        "home_score": "5",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "18/05/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "St Pauli",
+        "away_team": "Duisburg",
+        "home_score": "4",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "18/05/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Union Berlin",
+        "away_team": "Braunschweig",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "25/05/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Aachen",
+        "away_team": "St Pauli",
+        "home_score": "4",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "25/05/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Ahlen",
+        "away_team": "Oberhausen",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "25/05/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Braunschweig",
+        "away_team": "Mainz",
+        "home_score": "1",
+        "away_score": "4",
+        "result": "A"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "25/05/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Burghausen",
+        "away_team": "FC Koln",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "25/05/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Duisburg",
+        "away_team": "Freiburg",
+        "home_score": "3",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "25/05/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Ein Frankfurt",
+        "away_team": "Reutlingen",
+        "home_score": "6",
+        "away_score": "3",
+        "result": "H"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "25/05/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Ein Trier",
+        "away_team": "Union Berlin",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "25/05/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Karlsruhe",
+        "away_team": "Greuther Furth",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 79,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "25/05/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Lubeck",
+        "away_team": "Mannheim",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    }
+]

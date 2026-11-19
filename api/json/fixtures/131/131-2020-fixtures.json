@@ -1,0 +1,3655 @@
+{
+    "get": "fixtures",
+    "parameters": {
+        "season": "2020",
+        "league": "131"
+    },
+    "errors": [],
+    "results": 52,
+    "paging": {
+        "current": 1,
+        "total": 1
+    },
+    "response": [
+        {
+            "fixture": {
+                "id": 647969,
+                "referee": "M. Negrete",
+                "timezone": "UTC",
+                "date": "2020-12-04T20:10:00+00:00",
+                "timestamp": 1607112600,
+                "periods": {
+                    "first": 1607112600,
+                    "second": 1607116200
+                },
+                "venue": {
+                    "id": 5957,
+                    "name": "Estadio Dr. Osvaldo Francisco Baletto",
+                    "city": "Avellaneda, Provincia de Buenos Aires"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": null
+                }
+            },
+            "league": {
+                "id": 131,
+                "name": "Primera B Metropolitana",
+                "country": "Argentina",
+                "logo": "https://media.api-sports.io/football/leagues/131.png",
+                "flag": "https://media.api-sports.io/flags/ar.svg",
+                "season": 2020,
+                "round": "Lower Table Round - 1",
+                "standings": true
+            },
+            "teams": {
+                "home": {
+                    "id": 1932,
+                    "name": "San Telmo",
+                    "logo": "https://media.api-sports.io/football/teams/1932.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 2427,
+                    "name": "Deportivo Armenio",
+                    "logo": "https://media.api-sports.io/football/teams/2427.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 2
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 647988,
+                "referee": "J. Carreras",
+                "timezone": "UTC",
+                "date": "2020-12-05T00:10:00+00:00",
+                "timestamp": 1607127000,
+                "periods": {
+                    "first": 1607127000,
+                    "second": 1607130600
+                },
+                "venue": {
+                    "id": 5959,
+                    "name": "Estadio Fragata Presidente Sarmiento",
+                    "city": "La Matanza, Provincia de Buenos Aires"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": null
+                }
+            },
+            "league": {
+                "id": 131,
+                "name": "Primera B Metropolitana",
+                "country": "Argentina",
+                "logo": "https://media.api-sports.io/football/leagues/131.png",
+                "flag": "https://media.api-sports.io/flags/ar.svg",
+                "season": 2020,
+                "round": "Upper Table Round - 1",
+                "standings": true
+            },
+            "teams": {
+                "home": {
+                    "id": 8375,
+                    "name": "Almirante Brown",
+                    "logo": "https://media.api-sports.io/football/teams/8375.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 1965,
+                    "name": "Tristan Suarez",
+                    "logo": "https://media.api-sports.io/football/teams/1965.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 647989,
+                "referee": "J. Pafundi",
+                "timezone": "UTC",
+                "date": "2020-12-05T20:10:00+00:00",
+                "timestamp": 1607199000,
+                "periods": {
+                    "first": 1607199000,
+                    "second": 1607202600
+                },
+                "venue": {
+                    "id": 5709,
+                    "name": "Estadio Alfredo Ramos",
+                    "city": "Capital Federal, Ciudad de Buenos Aires"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": null
+                }
+            },
+            "league": {
+                "id": 131,
+                "name": "Primera B Metropolitana",
+                "country": "Argentina",
+                "logo": "https://media.api-sports.io/football/leagues/131.png",
+                "flag": "https://media.api-sports.io/flags/ar.svg",
+                "season": 2020,
+                "round": "Upper Table Round - 1",
+                "standings": true
+            },
+            "teams": {
+                "home": {
+                    "id": 8008,
+                    "name": "Comunicaciones",
+                    "logo": "https://media.api-sports.io/football/teams/8008.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 8378,
+                    "name": "JJ Urquiza",
+                    "logo": "https://media.api-sports.io/football/teams/8378.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 3
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 2
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 3
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 647968,
+                "referee": "M. Ramírez",
+                "timezone": "UTC",
+                "date": "2020-12-05T20:10:00+00:00",
+                "timestamp": 1607199000,
+                "periods": {
+                    "first": 1607199000,
+                    "second": 1607202600
+                },
+                "venue": {
+                    "id": 5963,
+                    "name": "Estadio Malvinas Argentinas",
+                    "city": "Los Polvorines, Provincia de Buenos Aires"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": null
+                }
+            },
+            "league": {
+                "id": 131,
+                "name": "Primera B Metropolitana",
+                "country": "Argentina",
+                "logo": "https://media.api-sports.io/football/leagues/131.png",
+                "flag": "https://media.api-sports.io/flags/ar.svg",
+                "season": 2020,
+                "round": "Lower Table Round - 1",
+                "standings": true
+            },
+            "teams": {
+                "home": {
+                    "id": 8379,
+                    "name": "San Miguel",
+                    "logo": "https://media.api-sports.io/football/teams/8379.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 1927,
+                    "name": "Talleres Remedios",
+                    "logo": "https://media.api-sports.io/football/teams/1927.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 675650,
+                "referee": "S. Martínez",
+                "timezone": "UTC",
+                "date": "2020-12-06T20:10:00+00:00",
+                "timestamp": 1607285400,
+                "periods": {
+                    "first": 1607285400,
+                    "second": 1607289000
+                },
+                "venue": {
+                    "id": 75,
+                    "name": "Estadio Carlos V",
+                    "city": "Luján, Provincia de Buenos Aires"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": null
+                }
+            },
+            "league": {
+                "id": 131,
+                "name": "Primera B Metropolitana",
+                "country": "Argentina",
+                "logo": "https://media.api-sports.io/football/leagues/131.png",
+                "flag": "https://media.api-sports.io/flags/ar.svg",
+                "season": 2020,
+                "round": "Lower Table Round - 1",
+                "standings": true
+            },
+            "teams": {
+                "home": {
+                    "id": 471,
+                    "name": "Flandria",
+                    "logo": "https://media.api-sports.io/football/teams/471.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 483,
+                    "name": "Los Andes",
+                    "logo": "https://media.api-sports.io/football/teams/483.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 675649,
+                "referee": "K. Alegre",
+                "timezone": "UTC",
+                "date": "2020-12-06T20:10:00+00:00",
+                "timestamp": 1607285400,
+                "periods": {
+                    "first": 1607285400,
+                    "second": 1607289000
+                },
+                "venue": {
+                    "id": 102,
+                    "name": "Estadio Beto Larrosa",
+                    "city": "Villa Soldati, Provincia de Buenos Aires"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": null
+                }
+            },
+            "league": {
+                "id": 131,
+                "name": "Primera B Metropolitana",
+                "country": "Argentina",
+                "logo": "https://media.api-sports.io/football/leagues/131.png",
+                "flag": "https://media.api-sports.io/flags/ar.svg",
+                "season": 2020,
+                "round": "Lower Table Round - 1",
+                "standings": true
+            },
+            "teams": {
+                "home": {
+                    "id": 1942,
+                    "name": "Sacachispas",
+                    "logo": "https://media.api-sports.io/football/teams/1942.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 1956,
+                    "name": "UAI Urquiza",
+                    "logo": "https://media.api-sports.io/football/teams/1956.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 675644,
+                "referee": "F. Acita",
+                "timezone": "UTC",
+                "date": "2020-12-06T20:10:00+00:00",
+                "timestamp": 1607285400,
+                "periods": {
+                    "first": 1607285400,
+                    "second": 1607289000
+                },
+                "venue": {
+                    "id": 62,
+                    "name": "Estadio Armenia",
+                    "city": "Ingeniero Maschwitz, Provincia de Buenos Aires"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": null
+                }
+            },
+            "league": {
+                "id": 131,
+                "name": "Primera B Metropolitana",
+                "country": "Argentina",
+                "logo": "https://media.api-sports.io/football/leagues/131.png",
+                "flag": "https://media.api-sports.io/flags/ar.svg",
+                "season": 2020,
+                "round": "Upper Table Round - 1",
+                "standings": true
+            },
+            "teams": {
+                "home": {
+                    "id": 2425,
+                    "name": "Acassuso",
+                    "logo": "https://media.api-sports.io/football/teams/2425.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 8380,
+                    "name": "Villa San Carlos",
+                    "logo": "https://media.api-sports.io/football/teams/8380.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 647967,
+                "referee": "G. Bermúdez",
+                "timezone": "UTC",
+                "date": "2020-12-06T20:10:00+00:00",
+                "timestamp": 1607285400,
+                "periods": {
+                    "first": 1607285400,
+                    "second": 1607289000
+                },
+                "venue": {
+                    "id": 5966,
+                    "name": "Estadio José Manuel Moreno",
+                    "city": "Parque San Martín, Provincia de Buenos Aires"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": null
+                }
+            },
+            "league": {
+                "id": 131,
+                "name": "Primera B Metropolitana",
+                "country": "Argentina",
+                "logo": "https://media.api-sports.io/football/leagues/131.png",
+                "flag": "https://media.api-sports.io/flags/ar.svg",
+                "season": 2020,
+                "round": "Lower Table Round - 1",
+                "standings": true
+            },
+            "teams": {
+                "home": {
+                    "id": 8374,
+                    "name": "Fénix",
+                    "logo": "https://media.api-sports.io/football/teams/8374.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 1945,
+                    "name": "Defensores Unidos",
+                    "logo": "https://media.api-sports.io/football/teams/1945.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 2,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 647970,
+                "referee": "C. Benítez",
+                "timezone": "UTC",
+                "date": "2020-12-06T20:10:00+00:00",
+                "timestamp": 1607285400,
+                "periods": {
+                    "first": 1607285400,
+                    "second": 1607289000
+                },
+                "venue": {
+                    "id": 10528,
+                    "name": "Estadio de Argentino de Quilmes",
+                    "city": "Quilmes, Provincia de Buenos Aires"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": null
+                }
+            },
+            "league": {
+                "id": 131,
+                "name": "Primera B Metropolitana",
+                "country": "Argentina",
+                "logo": "https://media.api-sports.io/football/leagues/131.png",
+                "flag": "https://media.api-sports.io/flags/ar.svg",
+                "season": 2020,
+                "round": "Lower Table Round - 1",
+                "standings": true
+            },
+            "teams": {
+                "home": {
+                    "id": 8376,
+                    "name": "Argentino Quilmes",
+                    "logo": "https://media.api-sports.io/football/teams/8376.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 8377,
+                    "name": "Colegiales",
+                    "logo": "https://media.api-sports.io/football/teams/8377.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 3,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 2,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 3,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 647973,
+                "referee": "J. Pafundi",
+                "timezone": "UTC",
+                "date": "2020-12-11T20:10:00+00:00",
+                "timestamp": 1607717400,
+                "periods": {
+                    "first": 1607717400,
+                    "second": 1607721000
+                },
+                "venue": {
+                    "id": 5958,
+                    "name": "Estadio de Talleres de Remedios de Escalada",
+                    "city": "Remedios Escalada, Provincia de Buenos Aires"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": null
+                }
+            },
+            "league": {
+                "id": 131,
+                "name": "Primera B Metropolitana",
+                "country": "Argentina",
+                "logo": "https://media.api-sports.io/football/leagues/131.png",
+                "flag": "https://media.api-sports.io/flags/ar.svg",
+                "season": 2020,
+                "round": "Lower Table Round - 2",
+                "standings": true
+            },
+            "teams": {
+                "home": {
+                    "id": 1927,
+                    "name": "Talleres Remedios",
+                    "logo": "https://media.api-sports.io/football/teams/1927.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 1945,
+                    "name": "Defensores Unidos",
+                    "logo": "https://media.api-sports.io/football/teams/1945.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 647971,
+                "referee": "L. Di Bastiano",
+                "timezone": "UTC",
+                "date": "2020-12-11T20:10:00+00:00",
+                "timestamp": 1607717400,
+                "periods": {
+                    "first": 1607717400,
+                    "second": 1607721000
+                },
+                "venue": {
+                    "id": 5957,
+                    "name": "Estadio Dr. Osvaldo Francisco Baletto",
+                    "city": "Avellaneda, Provincia de Buenos Aires"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": null
+                }
+            },
+            "league": {
+                "id": 131,
+                "name": "Primera B Metropolitana",
+                "country": "Argentina",
+                "logo": "https://media.api-sports.io/football/leagues/131.png",
+                "flag": "https://media.api-sports.io/flags/ar.svg",
+                "season": 2020,
+                "round": "Lower Table Round - 2",
+                "standings": true
+            },
+            "teams": {
+                "home": {
+                    "id": 1932,
+                    "name": "San Telmo",
+                    "logo": "https://media.api-sports.io/football/teams/1932.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 8374,
+                    "name": "Fénix",
+                    "logo": "https://media.api-sports.io/football/teams/8374.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 2,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 647991,
+                "referee": "E. Gutiérrez",
+                "timezone": "UTC",
+                "date": "2020-12-12T20:10:00+00:00",
+                "timestamp": 1607803800,
+                "periods": {
+                    "first": 1607803800,
+                    "second": 1607807400
+                },
+                "venue": {
+                    "id": 113,
+                    "name": "Estadio 20 de Octubre",
+                    "city": "Ezeiza, Provincia de Buenos Aires"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": null
+                }
+            },
+            "league": {
+                "id": 131,
+                "name": "Primera B Metropolitana",
+                "country": "Argentina",
+                "logo": "https://media.api-sports.io/football/leagues/131.png",
+                "flag": "https://media.api-sports.io/flags/ar.svg",
+                "season": 2020,
+                "round": "Upper Table Round - 2",
+                "standings": true
+            },
+            "teams": {
+                "home": {
+                    "id": 1965,
+                    "name": "Tristan Suarez",
+                    "logo": "https://media.api-sports.io/football/teams/1965.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 8380,
+                    "name": "Villa San Carlos",
+                    "logo": "https://media.api-sports.io/football/teams/8380.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 2,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 647972,
+                "referee": "I. Lupani",
+                "timezone": "UTC",
+                "date": "2020-12-12T20:10:00+00:00",
+                "timestamp": 1607803800,
+                "periods": {
+                    "first": 1607803800,
+                    "second": 1607807400
+                },
+                "venue": {
+                    "id": 62,
+                    "name": "Estadio Armenia",
+                    "city": "Ingeniero Maschwitz, Provincia de Buenos Aires"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": null
+                }
+            },
+            "league": {
+                "id": 131,
+                "name": "Primera B Metropolitana",
+                "country": "Argentina",
+                "logo": "https://media.api-sports.io/football/leagues/131.png",
+                "flag": "https://media.api-sports.io/flags/ar.svg",
+                "season": 2020,
+                "round": "Lower Table Round - 2",
+                "standings": true
+            },
+            "teams": {
+                "home": {
+                    "id": 2427,
+                    "name": "Deportivo Armenio",
+                    "logo": "https://media.api-sports.io/football/teams/2427.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 8379,
+                    "name": "San Miguel",
+                    "logo": "https://media.api-sports.io/football/teams/8379.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 675651,
+                "referee": "A. Monsalvo",
+                "timezone": "UTC",
+                "date": "2020-12-12T22:10:00+00:00",
+                "timestamp": 1607811000,
+                "periods": {
+                    "first": 1607811000,
+                    "second": 1607814600
+                },
+                "venue": {
+                    "id": 90,
+                    "name": "Estadio Eduardo Gallardón",
+                    "city": "Lomas de Zamora, Provincia de Buenos Aires"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": null
+                }
+            },
+            "league": {
+                "id": 131,
+                "name": "Primera B Metropolitana",
+                "country": "Argentina",
+                "logo": "https://media.api-sports.io/football/leagues/131.png",
+                "flag": "https://media.api-sports.io/flags/ar.svg",
+                "season": 2020,
+                "round": "Lower Table Round - 2",
+                "standings": true
+            },
+            "teams": {
+                "home": {
+                    "id": 483,
+                    "name": "Los Andes",
+                    "logo": "https://media.api-sports.io/football/teams/483.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 8376,
+                    "name": "Argentino Quilmes",
+                    "logo": "https://media.api-sports.io/football/teams/8376.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 647974,
+                "referee": "S. Bresba",
+                "timezone": "UTC",
+                "date": "2020-12-13T20:10:00+00:00",
+                "timestamp": 1607890200,
+                "periods": {
+                    "first": 1607890200,
+                    "second": 1607893800
+                },
+                "venue": {
+                    "id": 75,
+                    "name": "Estadio Carlos V",
+                    "city": "Luján, Provincia de Buenos Aires"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": null
+                }
+            },
+            "league": {
+                "id": 131,
+                "name": "Primera B Metropolitana",
+                "country": "Argentina",
+                "logo": "https://media.api-sports.io/football/leagues/131.png",
+                "flag": "https://media.api-sports.io/flags/ar.svg",
+                "season": 2020,
+                "round": "Lower Table Round - 2",
+                "standings": true
+            },
+            "teams": {
+                "home": {
+                    "id": 471,
+                    "name": "Flandria",
+                    "logo": "https://media.api-sports.io/football/teams/471.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 1942,
+                    "name": "Sacachispas",
+                    "logo": "https://media.api-sports.io/football/teams/1942.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 675645,
+                "referee": "M. Biasutto",
+                "timezone": "UTC",
+                "date": "2020-12-13T20:10:00+00:00",
+                "timestamp": 1607890200,
+                "periods": {
+                    "first": 1607890200,
+                    "second": 1607893800
+                },
+                "venue": {
+                    "id": 5709,
+                    "name": "Estadio Alfredo Ramos",
+                    "city": "Capital Federal, Ciudad de Buenos Aires"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": null
+                }
+            },
+            "league": {
+                "id": 131,
+                "name": "Primera B Metropolitana",
+                "country": "Argentina",
+                "logo": "https://media.api-sports.io/football/leagues/131.png",
+                "flag": "https://media.api-sports.io/flags/ar.svg",
+                "season": 2020,
+                "round": "Upper Table Round - 2",
+                "standings": true
+            },
+            "teams": {
+                "home": {
+                    "id": 8008,
+                    "name": "Comunicaciones",
+                    "logo": "https://media.api-sports.io/football/teams/8008.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 2425,
+                    "name": "Acassuso",
+                    "logo": "https://media.api-sports.io/football/teams/2425.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 675652,
+                "referee": "A. Ramírez",
+                "timezone": "UTC",
+                "date": "2020-12-13T20:10:00+00:00",
+                "timestamp": 1607890200,
+                "periods": {
+                    "first": 1607890200,
+                    "second": 1607893800
+                },
+                "venue": {
+                    "id": 5961,
+                    "name": "Estadio de Colegiales",
+                    "city": "Vicente López, Provincia de Buenos Aires"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": null
+                }
+            },
+            "league": {
+                "id": 131,
+                "name": "Primera B Metropolitana",
+                "country": "Argentina",
+                "logo": "https://media.api-sports.io/football/leagues/131.png",
+                "flag": "https://media.api-sports.io/flags/ar.svg",
+                "season": 2020,
+                "round": "Lower Table Round - 2",
+                "standings": true
+            },
+            "teams": {
+                "home": {
+                    "id": 8377,
+                    "name": "Colegiales",
+                    "logo": "https://media.api-sports.io/football/teams/8377.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 1956,
+                    "name": "UAI Urquiza",
+                    "logo": "https://media.api-sports.io/football/teams/1956.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 647990,
+                "referee": "C. Benítez",
+                "timezone": "UTC",
+                "date": "2020-12-14T20:10:00+00:00",
+                "timestamp": 1607976600,
+                "periods": {
+                    "first": 1607976600,
+                    "second": 1607980200
+                },
+                "venue": {
+                    "id": 5962,
+                    "name": "Estadio Ramón Roque Martín",
+                    "city": "Loma Hermosa, Provincia de Buenos Aires"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": null
+                }
+            },
+            "league": {
+                "id": 131,
+                "name": "Primera B Metropolitana",
+                "country": "Argentina",
+                "logo": "https://media.api-sports.io/football/leagues/131.png",
+                "flag": "https://media.api-sports.io/flags/ar.svg",
+                "season": 2020,
+                "round": "Upper Table Round - 2",
+                "standings": true
+            },
+            "teams": {
+                "home": {
+                    "id": 8378,
+                    "name": "JJ Urquiza",
+                    "logo": "https://media.api-sports.io/football/teams/8378.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 8375,
+                    "name": "Almirante Brown",
+                    "logo": "https://media.api-sports.io/football/teams/8375.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 3
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 2
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 3
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 675646,
+                "referee": "G. Bermúdez",
+                "timezone": "UTC",
+                "date": "2020-12-19T20:10:00+00:00",
+                "timestamp": 1608408600,
+                "periods": {
+                    "first": 1608408600,
+                    "second": 1608412200
+                },
+                "venue": {
+                    "id": 62,
+                    "name": "Estadio Armenia",
+                    "city": "Ingeniero Maschwitz, Provincia de Buenos Aires"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": null
+                }
+            },
+            "league": {
+                "id": 131,
+                "name": "Primera B Metropolitana",
+                "country": "Argentina",
+                "logo": "https://media.api-sports.io/football/leagues/131.png",
+                "flag": "https://media.api-sports.io/flags/ar.svg",
+                "season": 2020,
+                "round": "Upper Table Round - 3",
+                "standings": true
+            },
+            "teams": {
+                "home": {
+                    "id": 2425,
+                    "name": "Acassuso",
+                    "logo": "https://media.api-sports.io/football/teams/2425.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 1965,
+                    "name": "Tristan Suarez",
+                    "logo": "https://media.api-sports.io/football/teams/1965.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 647993,
+                "referee": "M. Negrete",
+                "timezone": "UTC",
+                "date": "2020-12-19T20:10:00+00:00",
+                "timestamp": 1608408600,
+                "periods": {
+                    "first": 1608408600,
+                    "second": 1608412200
+                },
+                "venue": {
+                    "id": 5959,
+                    "name": "Estadio Fragata Presidente Sarmiento",
+                    "city": "La Matanza, Provincia de Buenos Aires"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": null
+                }
+            },
+            "league": {
+                "id": 131,
+                "name": "Primera B Metropolitana",
+                "country": "Argentina",
+                "logo": "https://media.api-sports.io/football/leagues/131.png",
+                "flag": "https://media.api-sports.io/flags/ar.svg",
+                "season": 2020,
+                "round": "Upper Table Round - 3",
+                "standings": true
+            },
+            "teams": {
+                "home": {
+                    "id": 8375,
+                    "name": "Almirante Brown",
+                    "logo": "https://media.api-sports.io/football/teams/8375.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 8008,
+                    "name": "Comunicaciones",
+                    "logo": "https://media.api-sports.io/football/teams/8008.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 647979,
+                "referee": "F. Acita",
+                "timezone": "UTC",
+                "date": "2020-12-19T20:10:00+00:00",
+                "timestamp": 1608408600,
+                "periods": {
+                    "first": 1608408600,
+                    "second": 1608412200
+                },
+                "venue": {
+                    "id": 10528,
+                    "name": "Estadio de Argentino de Quilmes",
+                    "city": "Quilmes, Provincia de Buenos Aires"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": null
+                }
+            },
+            "league": {
+                "id": 131,
+                "name": "Primera B Metropolitana",
+                "country": "Argentina",
+                "logo": "https://media.api-sports.io/football/leagues/131.png",
+                "flag": "https://media.api-sports.io/flags/ar.svg",
+                "season": 2020,
+                "round": "Lower Table Round - 3",
+                "standings": true
+            },
+            "teams": {
+                "home": {
+                    "id": 8376,
+                    "name": "Argentino Quilmes",
+                    "logo": "https://media.api-sports.io/football/teams/8376.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 471,
+                    "name": "Flandria",
+                    "logo": "https://media.api-sports.io/football/teams/471.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 647977,
+                "referee": "A. Monsalvo",
+                "timezone": "UTC",
+                "date": "2020-12-19T20:10:00+00:00",
+                "timestamp": 1608408600,
+                "periods": {
+                    "first": 1608408600,
+                    "second": 1608412200
+                },
+                "venue": {
+                    "id": 5963,
+                    "name": "Estadio Malvinas Argentinas",
+                    "city": "Los Polvorines, Provincia de Buenos Aires"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": null
+                }
+            },
+            "league": {
+                "id": 131,
+                "name": "Primera B Metropolitana",
+                "country": "Argentina",
+                "logo": "https://media.api-sports.io/football/leagues/131.png",
+                "flag": "https://media.api-sports.io/flags/ar.svg",
+                "season": 2020,
+                "round": "Lower Table Round - 3",
+                "standings": true
+            },
+            "teams": {
+                "home": {
+                    "id": 8379,
+                    "name": "San Miguel",
+                    "logo": "https://media.api-sports.io/football/teams/8379.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 1932,
+                    "name": "San Telmo",
+                    "logo": "https://media.api-sports.io/football/teams/1932.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 647992,
+                "referee": "J. Loustau",
+                "timezone": "UTC",
+                "date": "2020-12-19T20:10:00+00:00",
+                "timestamp": 1608408600,
+                "periods": {
+                    "first": 1608408600,
+                    "second": 1608412200
+                },
+                "venue": {
+                    "id": 5964,
+                    "name": "Estadio Genancio Sálice",
+                    "city": "Berisso, Provincia de Buenos Aires"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": null
+                }
+            },
+            "league": {
+                "id": 131,
+                "name": "Primera B Metropolitana",
+                "country": "Argentina",
+                "logo": "https://media.api-sports.io/football/leagues/131.png",
+                "flag": "https://media.api-sports.io/flags/ar.svg",
+                "season": 2020,
+                "round": "Upper Table Round - 3",
+                "standings": true
+            },
+            "teams": {
+                "home": {
+                    "id": 8380,
+                    "name": "Villa San Carlos",
+                    "logo": "https://media.api-sports.io/football/teams/8380.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 8378,
+                    "name": "JJ Urquiza",
+                    "logo": "https://media.api-sports.io/football/teams/8378.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 647978,
+                "referee": "J. Pafundi",
+                "timezone": "UTC",
+                "date": "2020-12-20T20:10:00+00:00",
+                "timestamp": 1608495000,
+                "periods": {
+                    "first": 1608495000,
+                    "second": 1608498600
+                },
+                "venue": {
+                    "id": 102,
+                    "name": "Estadio Beto Larrosa",
+                    "city": "Villa Soldati, Provincia de Buenos Aires"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": null
+                }
+            },
+            "league": {
+                "id": 131,
+                "name": "Primera B Metropolitana",
+                "country": "Argentina",
+                "logo": "https://media.api-sports.io/football/leagues/131.png",
+                "flag": "https://media.api-sports.io/flags/ar.svg",
+                "season": 2020,
+                "round": "Lower Table Round - 3",
+                "standings": true
+            },
+            "teams": {
+                "home": {
+                    "id": 1942,
+                    "name": "Sacachispas",
+                    "logo": "https://media.api-sports.io/football/teams/1942.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 8377,
+                    "name": "Colegiales",
+                    "logo": "https://media.api-sports.io/football/teams/8377.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 675653,
+                "referee": "M. Gonaldi",
+                "timezone": "UTC",
+                "date": "2020-12-20T20:10:00+00:00",
+                "timestamp": 1608495000,
+                "periods": {
+                    "first": 1608495000,
+                    "second": 1608498600
+                },
+                "venue": {
+                    "id": 10527,
+                    "name": "Estadio Monumental de Villa Lynch",
+                    "city": "General San Martín, Provincia de Buenos Aires"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": null
+                }
+            },
+            "league": {
+                "id": 131,
+                "name": "Primera B Metropolitana",
+                "country": "Argentina",
+                "logo": "https://media.api-sports.io/football/leagues/131.png",
+                "flag": "https://media.api-sports.io/flags/ar.svg",
+                "season": 2020,
+                "round": "Lower Table Round - 3",
+                "standings": true
+            },
+            "teams": {
+                "home": {
+                    "id": 1956,
+                    "name": "UAI Urquiza",
+                    "logo": "https://media.api-sports.io/football/teams/1956.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 483,
+                    "name": "Los Andes",
+                    "logo": "https://media.api-sports.io/football/teams/483.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 2
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 647976,
+                "referee": "K. Alegre",
+                "timezone": "UTC",
+                "date": "2020-12-21T20:10:00+00:00",
+                "timestamp": 1608581400,
+                "periods": {
+                    "first": 1608581400,
+                    "second": 1608585000
+                },
+                "venue": {
+                    "id": 61,
+                    "name": "Estadio Gigante de Villa Fox",
+                    "city": "Zárate, Provincia de Buenos Aires"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": null
+                }
+            },
+            "league": {
+                "id": 131,
+                "name": "Primera B Metropolitana",
+                "country": "Argentina",
+                "logo": "https://media.api-sports.io/football/leagues/131.png",
+                "flag": "https://media.api-sports.io/flags/ar.svg",
+                "season": 2020,
+                "round": "Lower Table Round - 3",
+                "standings": true
+            },
+            "teams": {
+                "home": {
+                    "id": 1945,
+                    "name": "Defensores Unidos",
+                    "logo": "https://media.api-sports.io/football/teams/1945.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 2427,
+                    "name": "Deportivo Armenio",
+                    "logo": "https://media.api-sports.io/football/teams/2427.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 2,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 647975,
+                "referee": "S. Martínez",
+                "timezone": "UTC",
+                "date": "2020-12-21T20:10:00+00:00",
+                "timestamp": 1608581400,
+                "periods": {
+                    "first": 1608581400,
+                    "second": 1608585000
+                },
+                "venue": {
+                    "id": 5966,
+                    "name": "Estadio José Manuel Moreno",
+                    "city": "Parque San Martín, Provincia de Buenos Aires"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": null
+                }
+            },
+            "league": {
+                "id": 131,
+                "name": "Primera B Metropolitana",
+                "country": "Argentina",
+                "logo": "https://media.api-sports.io/football/leagues/131.png",
+                "flag": "https://media.api-sports.io/flags/ar.svg",
+                "season": 2020,
+                "round": "Lower Table Round - 3",
+                "standings": true
+            },
+            "teams": {
+                "home": {
+                    "id": 8374,
+                    "name": "Fénix",
+                    "logo": "https://media.api-sports.io/football/teams/8374.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 1927,
+                    "name": "Talleres Remedios",
+                    "logo": "https://media.api-sports.io/football/teams/1927.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 675654,
+                "referee": "I. Lupani",
+                "timezone": "UTC",
+                "date": "2020-12-27T20:10:00+00:00",
+                "timestamp": 1609099800,
+                "periods": {
+                    "first": 1609099800,
+                    "second": 1609103400
+                },
+                "venue": {
+                    "id": 75,
+                    "name": "Estadio Carlos V",
+                    "city": "Luján, Provincia de Buenos Aires"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": null
+                }
+            },
+            "league": {
+                "id": 131,
+                "name": "Primera B Metropolitana",
+                "country": "Argentina",
+                "logo": "https://media.api-sports.io/football/leagues/131.png",
+                "flag": "https://media.api-sports.io/flags/ar.svg",
+                "season": 2020,
+                "round": "Lower Table Round - 4",
+                "standings": true
+            },
+            "teams": {
+                "home": {
+                    "id": 471,
+                    "name": "Flandria",
+                    "logo": "https://media.api-sports.io/football/teams/471.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 1956,
+                    "name": "UAI Urquiza",
+                    "logo": "https://media.api-sports.io/football/teams/1956.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 647994,
+                "referee": "S. Martínez",
+                "timezone": "UTC",
+                "date": "2020-12-27T20:10:00+00:00",
+                "timestamp": 1609099800,
+                "periods": {
+                    "first": 1609099800,
+                    "second": 1609103400
+                },
+                "venue": {
+                    "id": 5709,
+                    "name": "Estadio Alfredo Ramos",
+                    "city": "Capital Federal, Ciudad de Buenos Aires"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": null
+                }
+            },
+            "league": {
+                "id": 131,
+                "name": "Primera B Metropolitana",
+                "country": "Argentina",
+                "logo": "https://media.api-sports.io/football/leagues/131.png",
+                "flag": "https://media.api-sports.io/flags/ar.svg",
+                "season": 2020,
+                "round": "Upper Table Round - 4",
+                "standings": true
+            },
+            "teams": {
+                "home": {
+                    "id": 8008,
+                    "name": "Comunicaciones",
+                    "logo": "https://media.api-sports.io/football/teams/8008.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 8380,
+                    "name": "Villa San Carlos",
+                    "logo": "https://media.api-sports.io/football/teams/8380.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 675647,
+                "referee": "J. Pafundi",
+                "timezone": "UTC",
+                "date": "2020-12-27T20:10:00+00:00",
+                "timestamp": 1609099800,
+                "periods": {
+                    "first": 1609099800,
+                    "second": 1609103400
+                },
+                "venue": {
+                    "id": 5959,
+                    "name": "Estadio Fragata Presidente Sarmiento",
+                    "city": "La Matanza, Provincia de Buenos Aires"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": null
+                }
+            },
+            "league": {
+                "id": 131,
+                "name": "Primera B Metropolitana",
+                "country": "Argentina",
+                "logo": "https://media.api-sports.io/football/leagues/131.png",
+                "flag": "https://media.api-sports.io/flags/ar.svg",
+                "season": 2020,
+                "round": "Upper Table Round - 4",
+                "standings": true
+            },
+            "teams": {
+                "home": {
+                    "id": 8375,
+                    "name": "Almirante Brown",
+                    "logo": "https://media.api-sports.io/football/teams/8375.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 2425,
+                    "name": "Acassuso",
+                    "logo": "https://media.api-sports.io/football/teams/2425.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 2,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 647995,
+                "referee": "L. Di Bastiano",
+                "timezone": "UTC",
+                "date": "2020-12-27T20:10:00+00:00",
+                "timestamp": 1609099800,
+                "periods": {
+                    "first": 1609099800,
+                    "second": 1609103400
+                },
+                "venue": {
+                    "id": 5962,
+                    "name": "Estadio Ramón Roque Martín",
+                    "city": "Loma Hermosa, Provincia de Buenos Aires"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": null
+                }
+            },
+            "league": {
+                "id": 131,
+                "name": "Primera B Metropolitana",
+                "country": "Argentina",
+                "logo": "https://media.api-sports.io/football/leagues/131.png",
+                "flag": "https://media.api-sports.io/flags/ar.svg",
+                "season": 2020,
+                "round": "Upper Table Round - 4",
+                "standings": true
+            },
+            "teams": {
+                "home": {
+                    "id": 8378,
+                    "name": "JJ Urquiza",
+                    "logo": "https://media.api-sports.io/football/teams/8378.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 1965,
+                    "name": "Tristan Suarez",
+                    "logo": "https://media.api-sports.io/football/teams/1965.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 647982,
+                "referee": "M. Negrete",
+                "timezone": "UTC",
+                "date": "2020-12-28T20:10:00+00:00",
+                "timestamp": 1609186200,
+                "periods": {
+                    "first": 1609186200,
+                    "second": 1609189800
+                },
+                "venue": {
+                    "id": 62,
+                    "name": "Estadio Armenia",
+                    "city": "Ingeniero Maschwitz, Provincia de Buenos Aires"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": null
+                }
+            },
+            "league": {
+                "id": 131,
+                "name": "Primera B Metropolitana",
+                "country": "Argentina",
+                "logo": "https://media.api-sports.io/football/leagues/131.png",
+                "flag": "https://media.api-sports.io/flags/ar.svg",
+                "season": 2020,
+                "round": "Lower Table Round - 4",
+                "standings": true
+            },
+            "teams": {
+                "home": {
+                    "id": 2427,
+                    "name": "Deportivo Armenio",
+                    "logo": "https://media.api-sports.io/football/teams/2427.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 1927,
+                    "name": "Talleres Remedios",
+                    "logo": "https://media.api-sports.io/football/teams/1927.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 647983,
+                "referee": "E. Gutiérrez",
+                "timezone": "UTC",
+                "date": "2020-12-28T20:10:00+00:00",
+                "timestamp": 1609186200,
+                "periods": {
+                    "first": 1609186200,
+                    "second": 1609189800
+                },
+                "venue": {
+                    "id": 10528,
+                    "name": "Estadio de Argentino de Quilmes",
+                    "city": "Quilmes, Provincia de Buenos Aires"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": null
+                }
+            },
+            "league": {
+                "id": 131,
+                "name": "Primera B Metropolitana",
+                "country": "Argentina",
+                "logo": "https://media.api-sports.io/football/leagues/131.png",
+                "flag": "https://media.api-sports.io/flags/ar.svg",
+                "season": 2020,
+                "round": "Lower Table Round - 4",
+                "standings": true
+            },
+            "teams": {
+                "home": {
+                    "id": 8376,
+                    "name": "Argentino Quilmes",
+                    "logo": "https://media.api-sports.io/football/teams/8376.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 1942,
+                    "name": "Sacachispas",
+                    "logo": "https://media.api-sports.io/football/teams/1942.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 675655,
+                "referee": "F. Acita",
+                "timezone": "UTC",
+                "date": "2020-12-29T20:10:00+00:00",
+                "timestamp": 1609272600,
+                "periods": {
+                    "first": 1609272600,
+                    "second": 1609276200
+                },
+                "venue": {
+                    "id": 90,
+                    "name": "Estadio Eduardo Gallardón",
+                    "city": "Lomas de Zamora, Provincia de Buenos Aires"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": null
+                }
+            },
+            "league": {
+                "id": 131,
+                "name": "Primera B Metropolitana",
+                "country": "Argentina",
+                "logo": "https://media.api-sports.io/football/leagues/131.png",
+                "flag": "https://media.api-sports.io/flags/ar.svg",
+                "season": 2020,
+                "round": "Lower Table Round - 4",
+                "standings": true
+            },
+            "teams": {
+                "home": {
+                    "id": 483,
+                    "name": "Los Andes",
+                    "logo": "https://media.api-sports.io/football/teams/483.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 8377,
+                    "name": "Colegiales",
+                    "logo": "https://media.api-sports.io/football/teams/8377.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 647981,
+                "referee": "M. Biasutto",
+                "timezone": "UTC",
+                "date": "2020-12-29T20:10:00+00:00",
+                "timestamp": 1609272600,
+                "periods": {
+                    "first": 1609272600,
+                    "second": 1609276200
+                },
+                "venue": {
+                    "id": 5957,
+                    "name": "Estadio Dr. Osvaldo Francisco Baletto",
+                    "city": "Avellaneda, Provincia de Buenos Aires"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": null
+                }
+            },
+            "league": {
+                "id": 131,
+                "name": "Primera B Metropolitana",
+                "country": "Argentina",
+                "logo": "https://media.api-sports.io/football/leagues/131.png",
+                "flag": "https://media.api-sports.io/flags/ar.svg",
+                "season": 2020,
+                "round": "Lower Table Round - 4",
+                "standings": true
+            },
+            "teams": {
+                "home": {
+                    "id": 1932,
+                    "name": "San Telmo",
+                    "logo": "https://media.api-sports.io/football/teams/1932.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 1945,
+                    "name": "Defensores Unidos",
+                    "logo": "https://media.api-sports.io/football/teams/1945.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 4,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 4,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 647980,
+                "referee": "S. Bresba",
+                "timezone": "UTC",
+                "date": "2020-12-29T20:10:00+00:00",
+                "timestamp": 1609272600,
+                "periods": {
+                    "first": 1609272600,
+                    "second": 1609276200
+                },
+                "venue": {
+                    "id": 5963,
+                    "name": "Estadio Malvinas Argentinas",
+                    "city": "Los Polvorines, Provincia de Buenos Aires"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": null
+                }
+            },
+            "league": {
+                "id": 131,
+                "name": "Primera B Metropolitana",
+                "country": "Argentina",
+                "logo": "https://media.api-sports.io/football/leagues/131.png",
+                "flag": "https://media.api-sports.io/flags/ar.svg",
+                "season": 2020,
+                "round": "Lower Table Round - 4",
+                "standings": true
+            },
+            "teams": {
+                "home": {
+                    "id": 8379,
+                    "name": "San Miguel",
+                    "logo": "https://media.api-sports.io/football/teams/8379.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 8374,
+                    "name": "Fénix",
+                    "logo": "https://media.api-sports.io/football/teams/8374.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 647996,
+                "referee": "F. Acita",
+                "timezone": "UTC",
+                "date": "2021-01-03T20:10:00+00:00",
+                "timestamp": 1609704600,
+                "periods": {
+                    "first": 1609704600,
+                    "second": 1609708200
+                },
+                "venue": {
+                    "id": 113,
+                    "name": "Estadio 20 de Octubre",
+                    "city": "Ezeiza, Provincia de Buenos Aires"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": null
+                }
+            },
+            "league": {
+                "id": 131,
+                "name": "Primera B Metropolitana",
+                "country": "Argentina",
+                "logo": "https://media.api-sports.io/football/leagues/131.png",
+                "flag": "https://media.api-sports.io/flags/ar.svg",
+                "season": 2020,
+                "round": "Upper Table Round - 5",
+                "standings": true
+            },
+            "teams": {
+                "home": {
+                    "id": 1965,
+                    "name": "Tristan Suarez",
+                    "logo": "https://media.api-sports.io/football/teams/1965.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 8008,
+                    "name": "Comunicaciones",
+                    "logo": "https://media.api-sports.io/football/teams/8008.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 675648,
+                "referee": "S. Martínez",
+                "timezone": "UTC",
+                "date": "2021-01-03T20:10:00+00:00",
+                "timestamp": 1609704600,
+                "periods": {
+                    "first": 1609704600,
+                    "second": 1609708200
+                },
+                "venue": {
+                    "id": 62,
+                    "name": "Estadio Armenia",
+                    "city": "Ingeniero Maschwitz, Provincia de Buenos Aires"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": null
+                }
+            },
+            "league": {
+                "id": 131,
+                "name": "Primera B Metropolitana",
+                "country": "Argentina",
+                "logo": "https://media.api-sports.io/football/leagues/131.png",
+                "flag": "https://media.api-sports.io/flags/ar.svg",
+                "season": 2020,
+                "round": "Upper Table Round - 5",
+                "standings": true
+            },
+            "teams": {
+                "home": {
+                    "id": 2425,
+                    "name": "Acassuso",
+                    "logo": "https://media.api-sports.io/football/teams/2425.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 8378,
+                    "name": "JJ Urquiza",
+                    "logo": "https://media.api-sports.io/football/teams/8378.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 647997,
+                "referee": "M. Gonaldi",
+                "timezone": "UTC",
+                "date": "2021-01-03T20:10:00+00:00",
+                "timestamp": 1609704600,
+                "periods": {
+                    "first": 1609704600,
+                    "second": 1609708200
+                },
+                "venue": {
+                    "id": 5964,
+                    "name": "Estadio Genancio Sálice",
+                    "city": "Berisso, Provincia de Buenos Aires"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": null
+                }
+            },
+            "league": {
+                "id": 131,
+                "name": "Primera B Metropolitana",
+                "country": "Argentina",
+                "logo": "https://media.api-sports.io/football/leagues/131.png",
+                "flag": "https://media.api-sports.io/flags/ar.svg",
+                "season": 2020,
+                "round": "Upper Table Round - 5",
+                "standings": true
+            },
+            "teams": {
+                "home": {
+                    "id": 8380,
+                    "name": "Villa San Carlos",
+                    "logo": "https://media.api-sports.io/football/teams/8380.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 8375,
+                    "name": "Almirante Brown",
+                    "logo": "https://media.api-sports.io/football/teams/8375.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 3,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 2,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 3,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 647985,
+                "referee": "S. Zunino",
+                "timezone": "UTC",
+                "date": "2021-01-04T20:10:00+00:00",
+                "timestamp": 1609791000,
+                "periods": {
+                    "first": 1609791000,
+                    "second": 1609794600
+                },
+                "venue": {
+                    "id": 5958,
+                    "name": "Estadio de Talleres de Remedios de Escalada",
+                    "city": "Remedios Escalada, Provincia de Buenos Aires"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": null
+                }
+            },
+            "league": {
+                "id": 131,
+                "name": "Primera B Metropolitana",
+                "country": "Argentina",
+                "logo": "https://media.api-sports.io/football/leagues/131.png",
+                "flag": "https://media.api-sports.io/flags/ar.svg",
+                "season": 2020,
+                "round": "Lower Table Round - 5",
+                "standings": true
+            },
+            "teams": {
+                "home": {
+                    "id": 1927,
+                    "name": "Talleres Remedios",
+                    "logo": "https://media.api-sports.io/football/teams/1927.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 1932,
+                    "name": "San Telmo",
+                    "logo": "https://media.api-sports.io/football/teams/1932.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 3
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 3
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 647986,
+                "referee": "J. Loustau",
+                "timezone": "UTC",
+                "date": "2021-01-04T20:10:00+00:00",
+                "timestamp": 1609791000,
+                "periods": {
+                    "first": 1609791000,
+                    "second": 1609794600
+                },
+                "venue": {
+                    "id": 61,
+                    "name": "Estadio Gigante de Villa Fox",
+                    "city": "Zárate, Provincia de Buenos Aires"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": null
+                }
+            },
+            "league": {
+                "id": 131,
+                "name": "Primera B Metropolitana",
+                "country": "Argentina",
+                "logo": "https://media.api-sports.io/football/leagues/131.png",
+                "flag": "https://media.api-sports.io/flags/ar.svg",
+                "season": 2020,
+                "round": "Lower Table Round - 5",
+                "standings": true
+            },
+            "teams": {
+                "home": {
+                    "id": 1945,
+                    "name": "Defensores Unidos",
+                    "logo": "https://media.api-sports.io/football/teams/1945.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 8379,
+                    "name": "San Miguel",
+                    "logo": "https://media.api-sports.io/football/teams/8379.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 2,
+                    "away": 2
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 647984,
+                "referee": "M. Biasutto",
+                "timezone": "UTC",
+                "date": "2021-01-04T20:10:00+00:00",
+                "timestamp": 1609791000,
+                "periods": {
+                    "first": 1609791000,
+                    "second": 1609794600
+                },
+                "venue": {
+                    "id": 5966,
+                    "name": "Estadio José Manuel Moreno",
+                    "city": "Parque San Martín, Provincia de Buenos Aires"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": null
+                }
+            },
+            "league": {
+                "id": 131,
+                "name": "Primera B Metropolitana",
+                "country": "Argentina",
+                "logo": "https://media.api-sports.io/football/leagues/131.png",
+                "flag": "https://media.api-sports.io/flags/ar.svg",
+                "season": 2020,
+                "round": "Lower Table Round - 5",
+                "standings": true
+            },
+            "teams": {
+                "home": {
+                    "id": 8374,
+                    "name": "Fénix",
+                    "logo": "https://media.api-sports.io/football/teams/8374.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 2427,
+                    "name": "Deportivo Armenio",
+                    "logo": "https://media.api-sports.io/football/teams/2427.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 675656,
+                "referee": "M. Negrete",
+                "timezone": "UTC",
+                "date": "2021-01-05T20:10:00+00:00",
+                "timestamp": 1609877400,
+                "periods": {
+                    "first": 1609877400,
+                    "second": 1609881000
+                },
+                "venue": {
+                    "id": 102,
+                    "name": "Estadio Beto Larrosa",
+                    "city": "Villa Soldati, Provincia de Buenos Aires"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": null
+                }
+            },
+            "league": {
+                "id": 131,
+                "name": "Primera B Metropolitana",
+                "country": "Argentina",
+                "logo": "https://media.api-sports.io/football/leagues/131.png",
+                "flag": "https://media.api-sports.io/flags/ar.svg",
+                "season": 2020,
+                "round": "Lower Table Round - 5",
+                "standings": true
+            },
+            "teams": {
+                "home": {
+                    "id": 1942,
+                    "name": "Sacachispas",
+                    "logo": "https://media.api-sports.io/football/teams/1942.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 483,
+                    "name": "Los Andes",
+                    "logo": "https://media.api-sports.io/football/teams/483.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 675657,
+                "referee": "A. Monsalvo",
+                "timezone": "UTC",
+                "date": "2021-01-05T20:10:00+00:00",
+                "timestamp": 1609877400,
+                "periods": {
+                    "first": 1609877400,
+                    "second": 1609881000
+                },
+                "venue": {
+                    "id": 10527,
+                    "name": "Estadio Monumental de Villa Lynch",
+                    "city": "General San Martín, Provincia de Buenos Aires"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": null
+                }
+            },
+            "league": {
+                "id": 131,
+                "name": "Primera B Metropolitana",
+                "country": "Argentina",
+                "logo": "https://media.api-sports.io/football/leagues/131.png",
+                "flag": "https://media.api-sports.io/flags/ar.svg",
+                "season": 2020,
+                "round": "Lower Table Round - 5",
+                "standings": true
+            },
+            "teams": {
+                "home": {
+                    "id": 1956,
+                    "name": "UAI Urquiza",
+                    "logo": "https://media.api-sports.io/football/teams/1956.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 8376,
+                    "name": "Argentino Quilmes",
+                    "logo": "https://media.api-sports.io/football/teams/8376.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 3,
+                "away": 3
+            },
+            "score": {
+                "halftime": {
+                    "home": 3,
+                    "away": 3
+                },
+                "fulltime": {
+                    "home": 3,
+                    "away": 3
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 647987,
+                "referee": "G. Bermúdez",
+                "timezone": "UTC",
+                "date": "2021-01-05T20:10:00+00:00",
+                "timestamp": 1609877400,
+                "periods": {
+                    "first": 1609877400,
+                    "second": 1609881000
+                },
+                "venue": {
+                    "id": 5961,
+                    "name": "Estadio de Colegiales",
+                    "city": "Vicente López, Provincia de Buenos Aires"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": null
+                }
+            },
+            "league": {
+                "id": 131,
+                "name": "Primera B Metropolitana",
+                "country": "Argentina",
+                "logo": "https://media.api-sports.io/football/leagues/131.png",
+                "flag": "https://media.api-sports.io/flags/ar.svg",
+                "season": 2020,
+                "round": "Lower Table Round - 5",
+                "standings": true
+            },
+            "teams": {
+                "home": {
+                    "id": 8377,
+                    "name": "Colegiales",
+                    "logo": "https://media.api-sports.io/football/teams/8377.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 471,
+                    "name": "Flandria",
+                    "logo": "https://media.api-sports.io/football/teams/471.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 675643,
+                "referee": "M. Gonaldi",
+                "timezone": "UTC",
+                "date": "2021-01-12T20:10:00+00:00",
+                "timestamp": 1610482200,
+                "periods": {
+                    "first": 1610482200,
+                    "second": 1610485800
+                },
+                "venue": {
+                    "id": 113,
+                    "name": "Estadio 20 de Octubre",
+                    "city": "Ezeiza, Provincia de Buenos Aires"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": null
+                }
+            },
+            "league": {
+                "id": 131,
+                "name": "Primera B Metropolitana",
+                "country": "Argentina",
+                "logo": "https://media.api-sports.io/football/leagues/131.png",
+                "flag": "https://media.api-sports.io/flags/ar.svg",
+                "season": 2020,
+                "round": "Promotion Play-offs - 1st Round",
+                "standings": true
+            },
+            "teams": {
+                "home": {
+                    "id": 1965,
+                    "name": "Tristan Suarez",
+                    "logo": "https://media.api-sports.io/football/teams/1965.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 8376,
+                    "name": "Argentino Quilmes",
+                    "logo": "https://media.api-sports.io/football/teams/8376.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 675642,
+                "referee": "K. Alegre",
+                "timezone": "UTC",
+                "date": "2021-01-12T20:10:00+00:00",
+                "timestamp": 1610482200,
+                "periods": {
+                    "first": 1610482200,
+                    "second": 1610485800
+                },
+                "venue": {
+                    "id": 71,
+                    "name": "Estadio Ciudad de Caseros",
+                    "city": "Caseros, Provincia de Buenos Aires"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": null
+                }
+            },
+            "league": {
+                "id": 131,
+                "name": "Primera B Metropolitana",
+                "country": "Argentina",
+                "logo": "https://media.api-sports.io/football/leagues/131.png",
+                "flag": "https://media.api-sports.io/flags/ar.svg",
+                "season": 2020,
+                "round": "Promotion Play-offs - 1st Round",
+                "standings": true
+            },
+            "teams": {
+                "home": {
+                    "id": 8008,
+                    "name": "Comunicaciones",
+                    "logo": "https://media.api-sports.io/football/teams/8008.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 2425,
+                    "name": "Acassuso",
+                    "logo": "https://media.api-sports.io/football/teams/2425.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 675641,
+                "referee": "J. Pafundi",
+                "timezone": "UTC",
+                "date": "2021-01-12T20:10:00+00:00",
+                "timestamp": 1610482200,
+                "periods": {
+                    "first": 1610482200,
+                    "second": 1610485800
+                },
+                "venue": {
+                    "id": 38,
+                    "name": "Estadio Julio Humberto Grondona",
+                    "city": "Avellaneda, Provincia de Buenos Aires"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": null
+                }
+            },
+            "league": {
+                "id": 131,
+                "name": "Primera B Metropolitana",
+                "country": "Argentina",
+                "logo": "https://media.api-sports.io/football/leagues/131.png",
+                "flag": "https://media.api-sports.io/flags/ar.svg",
+                "season": 2020,
+                "round": "Promotion Play-offs - 1st Round",
+                "standings": true
+            },
+            "teams": {
+                "home": {
+                    "id": 8380,
+                    "name": "Villa San Carlos",
+                    "logo": "https://media.api-sports.io/football/teams/8380.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 1932,
+                    "name": "San Telmo",
+                    "logo": "https://media.api-sports.io/football/teams/1932.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 4
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 2
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 4
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 675638,
+                "referee": "J. Pafundi",
+                "timezone": "UTC",
+                "date": "2021-01-18T20:10:00+00:00",
+                "timestamp": 1611000600,
+                "periods": {
+                    "first": 1611000600,
+                    "second": 1611004200
+                },
+                "venue": {
+                    "id": 73,
+                    "name": "Estadio Arquitecto Ricardo Etcheverry",
+                    "city": "Capital Federal, Ciudad de Buenos Aires"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": null
+                }
+            },
+            "league": {
+                "id": 131,
+                "name": "Primera B Metropolitana",
+                "country": "Argentina",
+                "logo": "https://media.api-sports.io/football/leagues/131.png",
+                "flag": "https://media.api-sports.io/flags/ar.svg",
+                "season": 2020,
+                "round": "Promotion Play-offs - Semi-finals",
+                "standings": true
+            },
+            "teams": {
+                "home": {
+                    "id": 1965,
+                    "name": "Tristan Suarez",
+                    "logo": "https://media.api-sports.io/football/teams/1965.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 8008,
+                    "name": "Comunicaciones",
+                    "logo": "https://media.api-sports.io/football/teams/8008.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 675639,
+                "referee": "M. Negrete",
+                "timezone": "UTC",
+                "date": "2021-01-19T00:10:00+00:00",
+                "timestamp": 1611015000,
+                "periods": {
+                    "first": 1611015000,
+                    "second": 1611018600
+                },
+                "venue": {
+                    "id": 5962,
+                    "name": "Estadio Ramón Roque Martín",
+                    "city": "Loma Hermosa, Provincia de Buenos Aires"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": null
+                }
+            },
+            "league": {
+                "id": 131,
+                "name": "Primera B Metropolitana",
+                "country": "Argentina",
+                "logo": "https://media.api-sports.io/football/leagues/131.png",
+                "flag": "https://media.api-sports.io/flags/ar.svg",
+                "season": 2020,
+                "round": "Promotion Play-offs - Semi-finals",
+                "standings": true
+            },
+            "teams": {
+                "home": {
+                    "id": 8378,
+                    "name": "JJ Urquiza",
+                    "logo": "https://media.api-sports.io/football/teams/8378.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 1932,
+                    "name": "San Telmo",
+                    "logo": "https://media.api-sports.io/football/teams/1932.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 4
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 3
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 4
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 675640,
+                "referee": "S. Zunino",
+                "timezone": "UTC",
+                "date": "2021-01-26T00:10:00+00:00",
+                "timestamp": 1611619800,
+                "periods": {
+                    "first": 1611619800,
+                    "second": 1611623400
+                },
+                "venue": {
+                    "id": 7131,
+                    "name": "Estadio Libertadores de América",
+                    "city": "Avellaneda, Provincia de Buenos Aires"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": null
+                }
+            },
+            "league": {
+                "id": 131,
+                "name": "Primera B Metropolitana",
+                "country": "Argentina",
+                "logo": "https://media.api-sports.io/football/leagues/131.png",
+                "flag": "https://media.api-sports.io/flags/ar.svg",
+                "season": 2020,
+                "round": "Promotion Play-offs - Finals",
+                "standings": true
+            },
+            "teams": {
+                "home": {
+                    "id": 1965,
+                    "name": "Tristan Suarez",
+                    "logo": "https://media.api-sports.io/football/teams/1965.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 1932,
+                    "name": "San Telmo",
+                    "logo": "https://media.api-sports.io/football/teams/1932.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 675658,
+                "referee": "D. Abal",
+                "timezone": "UTC",
+                "date": "2021-02-05T00:30:00+00:00",
+                "timestamp": 1612485000,
+                "periods": {
+                    "first": 1612485000,
+                    "second": 1612488600
+                },
+                "venue": {
+                    "id": 93,
+                    "name": "Estadio Marcelo Alberto Bielsa",
+                    "city": "Rosario, Provincia de Santa Fe"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "PEN",
+                    "elapsed": 120,
+                    "extra": null
+                }
+            },
+            "league": {
+                "id": 131,
+                "name": "Primera B Metropolitana",
+                "country": "Argentina",
+                "logo": "https://media.api-sports.io/football/leagues/131.png",
+                "flag": "https://media.api-sports.io/flags/ar.svg",
+                "season": 2020,
+                "round": "Final",
+                "standings": true
+            },
+            "teams": {
+                "home": {
+                    "id": 1932,
+                    "name": "San Telmo",
+                    "logo": "https://media.api-sports.io/football/teams/1932.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 1929,
+                    "name": "Deportivo Madryn",
+                    "logo": "https://media.api-sports.io/football/teams/1929.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": 1,
+                    "away": 0
+                }
+            }
+        }
+    ]
+}

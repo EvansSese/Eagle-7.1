@@ -1,0 +1,45 @@
+@media (max-width: 1100px) {
+  .model-lab-layout { grid-template-columns: minmax(0, 1fr) minmax(240px, .55fr); gap: 10px; }
+  .model-league-panel { grid-column: 1 / -1; min-height: 200px; max-height: 300px; }
+}
+
+@media (max-width: 850px) {
+  .sidebar { position: static; width: 100%; height: auto; padding: 12px 17px; }
+  .brand { margin: 0; }
+  .sidebar-label, .sidebar-bottom { display: none; }
+  .navigation { display: flex; margin-top: 10px; }
+  .nav-link { min-height: 36px; }
+  .main-content { margin: 0; padding: 0 16px; }
+  .explorer-columns { height: calc(100vh - 190px); min-height: 460px; grid-template-columns: minmax(230px, .8fr) minmax(300px, 1fr) minmax(320px, 1fr); overflow-x: auto; }
+  .prediction-columns { height: calc(100vh - 190px); min-height: 460px; }
+  .model-card { align-items: start; grid-template-columns: auto minmax(0, 1fr); gap: 10px; }
+  .model-card-actions { grid-column: 2; width: 100%; justify-content: space-between; }
+  .model-lab-controls { grid-template-columns: 1fr; }
+  .model-selection-status { grid-column: 1 / -1; }
+}
+
+@media (max-width: 600px) {
+  .main-content { padding: 0 11px; }
+  .topbar { height: 49px; }
+  .page-heading { min-height: 92px; }
+  .page-heading .database-chip { display: none; }
+  h1 { font-size: 25px; }
+  .explorer-columns { height: calc(100vh - 160px); min-height: 420px; }
+  .prediction-columns { height: calc(100vh - 160px); min-height: 420px; }
+  .page-footer { flex-direction: column; gap: 5px; }
+  .model-lab-layout { grid-template-columns: 1fr; }
+  .model-league-panel { grid-column: auto; grid-row: 1; min-height: 260px; max-height: 42vh; }
+  .model-workspace { grid-row: 4; }
+  .model-lab-sidebar { display: contents; }
+  .model-job-panel { position: sticky; top: 0; z-index: 5; grid-row: 2; }
+  .model-score-panel { grid-row: 5; }
+  .model-lab-controls { grid-row: 3; grid-template-columns: 1fr; overflow: visible; }
+  .model-selection-status { grid-column: auto; }
+  .model-card-actions { align-items: flex-start; flex-direction: column; }
+  .model-workflow-toolbar { align-items: flex-start; flex-direction: column; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { scroll-behavior: auto !important; animation-duration: .01ms !important; animation-iteration-count: 1 !important; }
+}
+

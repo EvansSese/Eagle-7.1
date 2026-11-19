@@ -1,0 +1,4662 @@
+[
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "24/08/01",
+        "time": null,
+        "home_team": "Genoa",
+        "away_team": "Napoli",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "26/08/01",
+        "time": null,
+        "home_team": "Ancona",
+        "away_team": "Reggina",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "26/08/01",
+        "time": null,
+        "home_team": "Cagliari",
+        "away_team": "Messina",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "26/08/01",
+        "time": null,
+        "home_team": "Como",
+        "away_team": "Crotone",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "26/08/01",
+        "time": null,
+        "home_team": "Cosenza",
+        "away_team": "Cittadella",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "26/08/01",
+        "time": null,
+        "home_team": "Empoli",
+        "away_team": "Palermo",
+        "home_score": "5",
+        "away_score": "3",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "26/08/01",
+        "time": null,
+        "home_team": "Modena",
+        "away_team": "Bari",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "26/08/01",
+        "time": null,
+        "home_team": "Salernitana",
+        "away_team": "Sampdoria",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "26/08/01",
+        "time": null,
+        "home_team": "Ternana",
+        "away_team": "Siena",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "26/08/01",
+        "time": null,
+        "home_team": "Vicenza",
+        "away_team": "Pistoiese",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "02/09/01",
+        "time": null,
+        "home_team": "Bari",
+        "away_team": "Empoli",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "02/09/01",
+        "time": null,
+        "home_team": "Cittadella",
+        "away_team": "Salernitana",
+        "home_score": "4",
+        "away_score": "4",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "02/09/01",
+        "time": null,
+        "home_team": "Crotone",
+        "away_team": "Modena",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "02/09/01",
+        "time": null,
+        "home_team": "Messina",
+        "away_team": "Ternana",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "02/09/01",
+        "time": null,
+        "home_team": "Napoli",
+        "away_team": "Ancona",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "02/09/01",
+        "time": null,
+        "home_team": "Pistoiese",
+        "away_team": "Genoa",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "02/09/01",
+        "time": null,
+        "home_team": "Reggina",
+        "away_team": "Como",
+        "home_score": "4",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "02/09/01",
+        "time": null,
+        "home_team": "Sampdoria",
+        "away_team": "Cosenza",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "02/09/01",
+        "time": null,
+        "home_team": "Siena",
+        "away_team": "Vicenza",
+        "home_score": "2",
+        "away_score": "4",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "03/09/01",
+        "time": null,
+        "home_team": "Palermo",
+        "away_team": "Cagliari",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "09/09/01",
+        "time": null,
+        "home_team": "Ancona",
+        "away_team": "Siena",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "09/09/01",
+        "time": null,
+        "home_team": "Cagliari",
+        "away_team": "Bari",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "09/09/01",
+        "time": null,
+        "home_team": "Cosenza",
+        "away_team": "Ternana",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "09/09/01",
+        "time": null,
+        "home_team": "Empoli",
+        "away_team": "Messina",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "09/09/01",
+        "time": null,
+        "home_team": "Genoa",
+        "away_team": "Como",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "09/09/01",
+        "time": null,
+        "home_team": "Palermo",
+        "away_team": "Pistoiese",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "09/09/01",
+        "time": null,
+        "home_team": "Salernitana",
+        "away_team": "Crotone",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "09/09/01",
+        "time": null,
+        "home_team": "Vicenza",
+        "away_team": "Cittadella",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "10/09/01",
+        "time": null,
+        "home_team": "Modena",
+        "away_team": "Napoli",
+        "home_score": "4",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "10/09/01",
+        "time": null,
+        "home_team": "Reggina",
+        "away_team": "Sampdoria",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "16/09/01",
+        "time": null,
+        "home_team": "Como",
+        "away_team": "Salernitana",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "16/09/01",
+        "time": null,
+        "home_team": "Crotone",
+        "away_team": "Cagliari",
+        "home_score": "4",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "16/09/01",
+        "time": null,
+        "home_team": "Messina",
+        "away_team": "Ancona",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "16/09/01",
+        "time": null,
+        "home_team": "Pistoiese",
+        "away_team": "Cosenza",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "16/09/01",
+        "time": null,
+        "home_team": "Sampdoria",
+        "away_team": "Empoli",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "16/09/01",
+        "time": null,
+        "home_team": "Siena",
+        "away_team": "Genoa",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "16/09/01",
+        "time": null,
+        "home_team": "Ternana",
+        "away_team": "Modena",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "17/09/01",
+        "time": null,
+        "home_team": "Bari",
+        "away_team": "Palermo",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "17/09/01",
+        "time": null,
+        "home_team": "Cittadella",
+        "away_team": "Reggina",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "23/09/01",
+        "time": null,
+        "home_team": "Ancona",
+        "away_team": "Crotone",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "23/09/01",
+        "time": null,
+        "home_team": "Cosenza",
+        "away_team": "Como",
+        "home_score": "1",
+        "away_score": "4",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "23/09/01",
+        "time": null,
+        "home_team": "Empoli",
+        "away_team": "Napoli",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "23/09/01",
+        "time": null,
+        "home_team": "Genoa",
+        "away_team": "Messina",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "23/09/01",
+        "time": null,
+        "home_team": "Modena",
+        "away_team": "Siena",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "23/09/01",
+        "time": null,
+        "home_team": "Palermo",
+        "away_team": "Cittadella",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "23/09/01",
+        "time": null,
+        "home_team": "Reggina",
+        "away_team": "Bari",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "23/09/01",
+        "time": null,
+        "home_team": "Salernitana",
+        "away_team": "Pistoiese",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "23/09/01",
+        "time": null,
+        "home_team": "Vicenza",
+        "away_team": "Ternana",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "24/09/01",
+        "time": null,
+        "home_team": "Cagliari",
+        "away_team": "Sampdoria",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "28/09/01",
+        "time": null,
+        "home_team": "Ternana",
+        "away_team": "Genoa",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "30/09/01",
+        "time": null,
+        "home_team": "Bari",
+        "away_team": "Crotone",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "30/09/01",
+        "time": null,
+        "home_team": "Cittadella",
+        "away_team": "Empoli",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "30/09/01",
+        "time": null,
+        "home_team": "Como",
+        "away_team": "Ancona",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "30/09/01",
+        "time": null,
+        "home_team": "Cosenza",
+        "away_team": "Reggina",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "30/09/01",
+        "time": null,
+        "home_team": "Messina",
+        "away_team": "Vicenza",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "30/09/01",
+        "time": null,
+        "home_team": "Napoli",
+        "away_team": "Cagliari",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "30/09/01",
+        "time": null,
+        "home_team": "Pistoiese",
+        "away_team": "Modena",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "30/09/01",
+        "time": null,
+        "home_team": "Sampdoria",
+        "away_team": "Palermo",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "01/10/01",
+        "time": null,
+        "home_team": "Siena",
+        "away_team": "Salernitana",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "07/10/01",
+        "time": null,
+        "home_team": "Ancona",
+        "away_team": "Genoa",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "07/10/01",
+        "time": null,
+        "home_team": "Cagliari",
+        "away_team": "Siena",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "07/10/01",
+        "time": null,
+        "home_team": "Crotone",
+        "away_team": "Cittadella",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "07/10/01",
+        "time": null,
+        "home_team": "Empoli",
+        "away_team": "Pistoiese",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "07/10/01",
+        "time": null,
+        "home_team": "Modena",
+        "away_team": "Como",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "07/10/01",
+        "time": null,
+        "home_team": "Reggina",
+        "away_team": "Palermo",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "07/10/01",
+        "time": null,
+        "home_team": "Salernitana",
+        "away_team": "Messina",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "07/10/01",
+        "time": null,
+        "home_team": "Ternana",
+        "away_team": "Napoli",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "08/10/01",
+        "time": null,
+        "home_team": "Sampdoria",
+        "away_team": "Bari",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "08/10/01",
+        "time": null,
+        "home_team": "Vicenza",
+        "away_team": "Cosenza",
+        "home_score": "3",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "12/10/01",
+        "time": null,
+        "home_team": "Bari",
+        "away_team": "Genoa",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "14/10/01",
+        "time": null,
+        "home_team": "Cittadella",
+        "away_team": "Napoli",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "14/10/01",
+        "time": null,
+        "home_team": "Messina",
+        "away_team": "Palermo",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "14/10/01",
+        "time": null,
+        "home_team": "Modena",
+        "away_team": "Cagliari",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "14/10/01",
+        "time": null,
+        "home_team": "Reggina",
+        "away_team": "Empoli",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "14/10/01",
+        "time": null,
+        "home_team": "Salernitana",
+        "away_team": "Cosenza",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "14/10/01",
+        "time": null,
+        "home_team": "Sampdoria",
+        "away_team": "Pistoiese",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "14/10/01",
+        "time": null,
+        "home_team": "Siena",
+        "away_team": "Como",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "14/10/01",
+        "time": null,
+        "home_team": "Ternana",
+        "away_team": "Ancona",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "15/10/01",
+        "time": null,
+        "home_team": "Crotone",
+        "away_team": "Vicenza",
+        "home_score": "3",
+        "away_score": "4",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "26/10/01",
+        "time": null,
+        "home_team": "Cagliari",
+        "away_team": "Reggina",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "28/10/01",
+        "time": null,
+        "home_team": "Ancona",
+        "away_team": "Cittadella",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "28/10/01",
+        "time": null,
+        "home_team": "Como",
+        "away_team": "Messina",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "28/10/01",
+        "time": null,
+        "home_team": "Cosenza",
+        "away_team": "Siena",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "28/10/01",
+        "time": null,
+        "home_team": "Empoli",
+        "away_team": "Crotone",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "28/10/01",
+        "time": null,
+        "home_team": "Genoa",
+        "away_team": "Salernitana",
+        "home_score": "4",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "28/10/01",
+        "time": null,
+        "home_team": "Napoli",
+        "away_team": "Sampdoria",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "28/10/01",
+        "time": null,
+        "home_team": "Pistoiese",
+        "away_team": "Bari",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "28/10/01",
+        "time": null,
+        "home_team": "Vicenza",
+        "away_team": "Modena",
+        "home_score": "0",
+        "away_score": "5",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "29/10/01",
+        "time": null,
+        "home_team": "Palermo",
+        "away_team": "Ternana",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "01/11/01",
+        "time": null,
+        "home_team": "Napoli",
+        "away_team": "Vicenza",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "02/11/01",
+        "time": null,
+        "home_team": "Modena",
+        "away_team": "Empoli",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "04/11/01",
+        "time": null,
+        "home_team": "Bari",
+        "away_team": "Napoli",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "04/11/01",
+        "time": null,
+        "home_team": "Cittadella",
+        "away_team": "Cagliari",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "04/11/01",
+        "time": null,
+        "home_team": "Como",
+        "away_team": "Vicenza",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "04/11/01",
+        "time": null,
+        "home_team": "Crotone",
+        "away_team": "Reggina",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "04/11/01",
+        "time": null,
+        "home_team": "Messina",
+        "away_team": "Cosenza",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "04/11/01",
+        "time": null,
+        "home_team": "Salernitana",
+        "away_team": "Ancona",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "04/11/01",
+        "time": null,
+        "home_team": "Siena",
+        "away_team": "Palermo",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "04/11/01",
+        "time": null,
+        "home_team": "Ternana",
+        "away_team": "Pistoiese",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "05/11/01",
+        "time": null,
+        "home_team": "Genoa",
+        "away_team": "Sampdoria",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "08/11/01",
+        "time": null,
+        "home_team": "Pistoiese",
+        "away_team": "Como",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "09/11/01",
+        "time": null,
+        "home_team": "Napoli",
+        "away_team": "Crotone",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "11/11/01",
+        "time": null,
+        "home_team": "Cagliari",
+        "away_team": "Ternana",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "11/11/01",
+        "time": null,
+        "home_team": "Cosenza",
+        "away_team": "Genoa",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "11/11/01",
+        "time": null,
+        "home_team": "Empoli",
+        "away_team": "Salernitana",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "11/11/01",
+        "time": null,
+        "home_team": "Palermo",
+        "away_team": "Modena",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "12/11/01",
+        "time": null,
+        "home_team": "Vicenza",
+        "away_team": "Ancona",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "16/11/01",
+        "time": null,
+        "home_team": "Cittadella",
+        "away_team": "Bari",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "18/11/01",
+        "time": null,
+        "home_team": "Ancona",
+        "away_team": "Cosenza",
+        "home_score": "2",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "18/11/01",
+        "time": null,
+        "home_team": "Como",
+        "away_team": "Palermo",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "18/11/01",
+        "time": null,
+        "home_team": "Crotone",
+        "away_team": "Sampdoria",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "18/11/01",
+        "time": null,
+        "home_team": "Messina",
+        "away_team": "Napoli",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "18/11/01",
+        "time": null,
+        "home_team": "Modena",
+        "away_team": "Reggina",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "18/11/01",
+        "time": null,
+        "home_team": "Salernitana",
+        "away_team": "Cagliari",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "18/11/01",
+        "time": null,
+        "home_team": "Siena",
+        "away_team": "Pistoiese",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "18/11/01",
+        "time": null,
+        "home_team": "Ternana",
+        "away_team": "Empoli",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "19/11/01",
+        "time": null,
+        "home_team": "Genoa",
+        "away_team": "Vicenza",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "21/11/01",
+        "time": null,
+        "home_team": "Bari",
+        "away_team": "Siena",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "21/11/01",
+        "time": null,
+        "home_team": "Reggina",
+        "away_team": "Messina",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "21/11/01",
+        "time": null,
+        "home_team": "Sampdoria",
+        "away_team": "Cittadella",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "23/11/01",
+        "time": null,
+        "home_team": "Cagliari",
+        "away_team": "Ancona",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "25/11/01",
+        "time": null,
+        "home_team": "Bari",
+        "away_team": "Como",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "25/11/01",
+        "time": null,
+        "home_team": "Cittadella",
+        "away_team": "Ternana",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "25/11/01",
+        "time": null,
+        "home_team": "Empoli",
+        "away_team": "Siena",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "25/11/01",
+        "time": null,
+        "home_team": "Palermo",
+        "away_team": "Genoa",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "25/11/01",
+        "time": null,
+        "home_team": "Pistoiese",
+        "away_team": "Messina",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "25/11/01",
+        "time": null,
+        "home_team": "Reggina",
+        "away_team": "Napoli",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "25/11/01",
+        "time": null,
+        "home_team": "Salernitana",
+        "away_team": "Vicenza",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "25/11/01",
+        "time": null,
+        "home_team": "Sampdoria",
+        "away_team": "Modena",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "26/11/01",
+        "time": null,
+        "home_team": "Crotone",
+        "away_team": "Cosenza",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "30/11/01",
+        "time": null,
+        "home_team": "Ternana",
+        "away_team": "Salernitana",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "02/12/01",
+        "time": null,
+        "home_team": "Ancona",
+        "away_team": "Pistoiese",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "02/12/01",
+        "time": null,
+        "home_team": "Como",
+        "away_team": "Cagliari",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "02/12/01",
+        "time": null,
+        "home_team": "Cosenza",
+        "away_team": "Bari",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "02/12/01",
+        "time": null,
+        "home_team": "Genoa",
+        "away_team": "Crotone",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "02/12/01",
+        "time": null,
+        "home_team": "Messina",
+        "away_team": "Sampdoria",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "02/12/01",
+        "time": null,
+        "home_team": "Modena",
+        "away_team": "Cittadella",
+        "home_score": "4",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "02/12/01",
+        "time": null,
+        "home_team": "Siena",
+        "away_team": "Reggina",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "02/12/01",
+        "time": null,
+        "home_team": "Vicenza",
+        "away_team": "Empoli",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "03/12/01",
+        "time": null,
+        "home_team": "Napoli",
+        "away_team": "Palermo",
+        "home_score": "3",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "07/12/01",
+        "time": null,
+        "home_team": "Reggina",
+        "away_team": "Salernitana",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "09/12/01",
+        "time": null,
+        "home_team": "Bari",
+        "away_team": "Ancona",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "09/12/01",
+        "time": null,
+        "home_team": "Cagliari",
+        "away_team": "Pistoiese",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "09/12/01",
+        "time": null,
+        "home_team": "Cittadella",
+        "away_team": "Messina",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "09/12/01",
+        "time": null,
+        "home_team": "Crotone",
+        "away_team": "Siena",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "09/12/01",
+        "time": null,
+        "home_team": "Empoli",
+        "away_team": "Como",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "09/12/01",
+        "time": null,
+        "home_team": "Napoli",
+        "away_team": "Cosenza",
+        "home_score": "4",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "09/12/01",
+        "time": null,
+        "home_team": "Palermo",
+        "away_team": "Vicenza",
+        "home_score": "1",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "09/12/01",
+        "time": null,
+        "home_team": "Sampdoria",
+        "away_team": "Ternana",
+        "home_score": "4",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "10/12/01",
+        "time": null,
+        "home_team": "Modena",
+        "away_team": "Genoa",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "14/12/01",
+        "time": null,
+        "home_team": "Pistoiese",
+        "away_team": "Napoli",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "16/12/01",
+        "time": null,
+        "home_team": "Ancona",
+        "away_team": "Modena",
+        "home_score": "0",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "16/12/01",
+        "time": null,
+        "home_team": "Como",
+        "away_team": "Sampdoria",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "16/12/01",
+        "time": null,
+        "home_team": "Cosenza",
+        "away_team": "Cagliari",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "16/12/01",
+        "time": null,
+        "home_team": "Genoa",
+        "away_team": "Empoli",
+        "home_score": "3",
+        "away_score": "3",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "16/12/01",
+        "time": null,
+        "home_team": "Messina",
+        "away_team": "Bari",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "16/12/01",
+        "time": null,
+        "home_team": "Salernitana",
+        "away_team": "Palermo",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "16/12/01",
+        "time": null,
+        "home_team": "Siena",
+        "away_team": "Cittadella",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "16/12/01",
+        "time": null,
+        "home_team": "Ternana",
+        "away_team": "Crotone",
+        "home_score": "3",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "16/12/01",
+        "time": null,
+        "home_team": "Vicenza",
+        "away_team": "Reggina",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "19/12/01",
+        "time": null,
+        "home_team": "Ancona",
+        "away_team": "Sampdoria",
+        "home_score": "3",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "19/12/01",
+        "time": null,
+        "home_team": "Como",
+        "away_team": "Ternana",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "19/12/01",
+        "time": null,
+        "home_team": "Cosenza",
+        "away_team": "Modena",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "19/12/01",
+        "time": null,
+        "home_team": "Empoli",
+        "away_team": "Cagliari",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "19/12/01",
+        "time": null,
+        "home_team": "Genoa",
+        "away_team": "Cittadella",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "19/12/01",
+        "time": null,
+        "home_team": "Messina",
+        "away_team": "Siena",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "19/12/01",
+        "time": null,
+        "home_team": "Palermo",
+        "away_team": "Crotone",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "19/12/01",
+        "time": null,
+        "home_team": "Pistoiese",
+        "away_team": "Reggina",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "19/12/01",
+        "time": null,
+        "home_team": "Vicenza",
+        "away_team": "Bari",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "23/12/01",
+        "time": null,
+        "home_team": "Bari",
+        "away_team": "Salernitana",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "23/12/01",
+        "time": null,
+        "home_team": "Cagliari",
+        "away_team": "Genoa",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "23/12/01",
+        "time": null,
+        "home_team": "Cittadella",
+        "away_team": "Como",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "23/12/01",
+        "time": null,
+        "home_team": "Crotone",
+        "away_team": "Pistoiese",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "23/12/01",
+        "time": null,
+        "home_team": "Empoli",
+        "away_team": "Ancona",
+        "home_score": "5",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "23/12/01",
+        "time": null,
+        "home_team": "Modena",
+        "away_team": "Messina",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "23/12/01",
+        "time": null,
+        "home_team": "Napoli",
+        "away_team": "Siena",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "23/12/01",
+        "time": null,
+        "home_team": "Palermo",
+        "away_team": "Cosenza",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "23/12/01",
+        "time": null,
+        "home_team": "Reggina",
+        "away_team": "Ternana",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "23/12/01",
+        "time": null,
+        "home_team": "Sampdoria",
+        "away_team": "Vicenza",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "04/01/02",
+        "time": null,
+        "home_team": "Cosenza",
+        "away_team": "Empoli",
+        "home_score": "0",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "06/01/02",
+        "time": null,
+        "home_team": "Como",
+        "away_team": "Napoli",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "06/01/02",
+        "time": null,
+        "home_team": "Genoa",
+        "away_team": "Reggina",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "06/01/02",
+        "time": null,
+        "home_team": "Messina",
+        "away_team": "Crotone",
+        "home_score": "4",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "06/01/02",
+        "time": null,
+        "home_team": "Pistoiese",
+        "away_team": "Cittadella",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "06/01/02",
+        "time": null,
+        "home_team": "Salernitana",
+        "away_team": "Modena",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "06/01/02",
+        "time": null,
+        "home_team": "Siena",
+        "away_team": "Sampdoria",
+        "home_score": "0",
+        "away_score": "4",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "06/01/02",
+        "time": null,
+        "home_team": "Ternana",
+        "away_team": "Bari",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "06/01/02",
+        "time": null,
+        "home_team": "Vicenza",
+        "away_team": "Cagliari",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "07/01/02",
+        "time": null,
+        "home_team": "Ancona",
+        "away_team": "Palermo",
+        "home_score": "3",
+        "away_score": "3",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "11/01/02",
+        "time": null,
+        "home_team": "Bari",
+        "away_team": "Modena",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "13/01/02",
+        "time": null,
+        "home_team": "Cittadella",
+        "away_team": "Cosenza",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "13/01/02",
+        "time": null,
+        "home_team": "Messina",
+        "away_team": "Cagliari",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "13/01/02",
+        "time": null,
+        "home_team": "Napoli",
+        "away_team": "Genoa",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "13/01/02",
+        "time": null,
+        "home_team": "Palermo",
+        "away_team": "Empoli",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "13/01/02",
+        "time": null,
+        "home_team": "Pistoiese",
+        "away_team": "Vicenza",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "13/01/02",
+        "time": null,
+        "home_team": "Reggina",
+        "away_team": "Ancona",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "13/01/02",
+        "time": null,
+        "home_team": "Sampdoria",
+        "away_team": "Salernitana",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "13/01/02",
+        "time": null,
+        "home_team": "Siena",
+        "away_team": "Ternana",
+        "home_score": "0",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "14/01/02",
+        "time": null,
+        "home_team": "Crotone",
+        "away_team": "Como",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "18/01/02",
+        "time": null,
+        "home_team": "Cosenza",
+        "away_team": "Sampdoria",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "20/01/02",
+        "time": null,
+        "home_team": "Cagliari",
+        "away_team": "Palermo",
+        "home_score": "4",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "20/01/02",
+        "time": null,
+        "home_team": "Como",
+        "away_team": "Reggina",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "20/01/02",
+        "time": null,
+        "home_team": "Empoli",
+        "away_team": "Bari",
+        "home_score": "5",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "20/01/02",
+        "time": null,
+        "home_team": "Genoa",
+        "away_team": "Pistoiese",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "20/01/02",
+        "time": null,
+        "home_team": "Modena",
+        "away_team": "Crotone",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "20/01/02",
+        "time": null,
+        "home_team": "Salernitana",
+        "away_team": "Cittadella",
+        "home_score": "3",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "20/01/02",
+        "time": null,
+        "home_team": "Ternana",
+        "away_team": "Messina",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "20/01/02",
+        "time": null,
+        "home_team": "Vicenza",
+        "away_team": "Siena",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "21/01/02",
+        "time": null,
+        "home_team": "Ancona",
+        "away_team": "Napoli",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "27/01/02",
+        "time": null,
+        "home_team": "Napoli",
+        "away_team": "Salernitana",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "01/02/02",
+        "time": null,
+        "home_team": "Pistoiese",
+        "away_team": "Palermo",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "03/02/02",
+        "time": null,
+        "home_team": "Bari",
+        "away_team": "Cagliari",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "03/02/02",
+        "time": null,
+        "home_team": "Cittadella",
+        "away_team": "Vicenza",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "03/02/02",
+        "time": null,
+        "home_team": "Como",
+        "away_team": "Genoa",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "03/02/02",
+        "time": null,
+        "home_team": "Crotone",
+        "away_team": "Salernitana",
+        "home_score": "3",
+        "away_score": "3",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "03/02/02",
+        "time": null,
+        "home_team": "Messina",
+        "away_team": "Empoli",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "03/02/02",
+        "time": null,
+        "home_team": "Napoli",
+        "away_team": "Modena",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "03/02/02",
+        "time": null,
+        "home_team": "Siena",
+        "away_team": "Ancona",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "03/02/02",
+        "time": null,
+        "home_team": "Ternana",
+        "away_team": "Cosenza",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "04/02/02",
+        "time": null,
+        "home_team": "Sampdoria",
+        "away_team": "Reggina",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "08/02/02",
+        "time": null,
+        "home_team": "Salernitana",
+        "away_team": "Como",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "10/02/02",
+        "time": null,
+        "home_team": "Ancona",
+        "away_team": "Messina",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "10/02/02",
+        "time": null,
+        "home_team": "Cagliari",
+        "away_team": "Crotone",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "10/02/02",
+        "time": null,
+        "home_team": "Cosenza",
+        "away_team": "Pistoiese",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "10/02/02",
+        "time": null,
+        "home_team": "Empoli",
+        "away_team": "Sampdoria",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "10/02/02",
+        "time": null,
+        "home_team": "Genoa",
+        "away_team": "Siena",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "10/02/02",
+        "time": null,
+        "home_team": "Modena",
+        "away_team": "Ternana",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "10/02/02",
+        "time": null,
+        "home_team": "Reggina",
+        "away_team": "Cittadella",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "10/02/02",
+        "time": null,
+        "home_team": "Vicenza",
+        "away_team": "Napoli",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "11/02/02",
+        "time": null,
+        "home_team": "Palermo",
+        "away_team": "Bari",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "15/02/02",
+        "time": null,
+        "home_team": "Ternana",
+        "away_team": "Vicenza",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "17/02/02",
+        "time": null,
+        "home_team": "Bari",
+        "away_team": "Reggina",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "17/02/02",
+        "time": null,
+        "home_team": "Cittadella",
+        "away_team": "Palermo",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "17/02/02",
+        "time": null,
+        "home_team": "Como",
+        "away_team": "Cosenza",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "17/02/02",
+        "time": null,
+        "home_team": "Crotone",
+        "away_team": "Ancona",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "17/02/02",
+        "time": null,
+        "home_team": "Messina",
+        "away_team": "Genoa",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "17/02/02",
+        "time": null,
+        "home_team": "Pistoiese",
+        "away_team": "Salernitana",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "17/02/02",
+        "time": null,
+        "home_team": "Sampdoria",
+        "away_team": "Cagliari",
+        "home_score": "3",
+        "away_score": "3",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "17/02/02",
+        "time": null,
+        "home_team": "Siena",
+        "away_team": "Modena",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "18/02/02",
+        "time": null,
+        "home_team": "Napoli",
+        "away_team": "Empoli",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "22/02/02",
+        "time": null,
+        "home_team": "Reggina",
+        "away_team": "Cosenza",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "24/02/02",
+        "time": null,
+        "home_team": "Ancona",
+        "away_team": "Como",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "24/02/02",
+        "time": null,
+        "home_team": "Cagliari",
+        "away_team": "Napoli",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "24/02/02",
+        "time": null,
+        "home_team": "Crotone",
+        "away_team": "Bari",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "24/02/02",
+        "time": null,
+        "home_team": "Empoli",
+        "away_team": "Cittadella",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "24/02/02",
+        "time": null,
+        "home_team": "Genoa",
+        "away_team": "Ternana",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "24/02/02",
+        "time": null,
+        "home_team": "Palermo",
+        "away_team": "Sampdoria",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "24/02/02",
+        "time": null,
+        "home_team": "Salernitana",
+        "away_team": "Siena",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "24/02/02",
+        "time": null,
+        "home_team": "Vicenza",
+        "away_team": "Messina",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "25/02/02",
+        "time": null,
+        "home_team": "Modena",
+        "away_team": "Pistoiese",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "01/03/02",
+        "time": null,
+        "home_team": "Bari",
+        "away_team": "Sampdoria",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "03/03/02",
+        "time": null,
+        "home_team": "Como",
+        "away_team": "Modena",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "03/03/02",
+        "time": null,
+        "home_team": "Cosenza",
+        "away_team": "Vicenza",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "03/03/02",
+        "time": null,
+        "home_team": "Genoa",
+        "away_team": "Ancona",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "03/03/02",
+        "time": null,
+        "home_team": "Messina",
+        "away_team": "Salernitana",
+        "home_score": "1",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "03/03/02",
+        "time": null,
+        "home_team": "Napoli",
+        "away_team": "Ternana",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "03/03/02",
+        "time": null,
+        "home_team": "Palermo",
+        "away_team": "Reggina",
+        "home_score": "4",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "03/03/02",
+        "time": null,
+        "home_team": "Pistoiese",
+        "away_team": "Empoli",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "03/03/02",
+        "time": null,
+        "home_team": "Siena",
+        "away_team": "Cagliari",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "04/03/02",
+        "time": null,
+        "home_team": "Cittadella",
+        "away_team": "Crotone",
+        "home_score": "3",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "08/03/02",
+        "time": null,
+        "home_team": "Ternana",
+        "away_team": "Como",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "10/03/02",
+        "time": null,
+        "home_team": "Bari",
+        "away_team": "Vicenza",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "10/03/02",
+        "time": null,
+        "home_team": "Cagliari",
+        "away_team": "Empoli",
+        "home_score": "1",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "10/03/02",
+        "time": null,
+        "home_team": "Cittadella",
+        "away_team": "Genoa",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "10/03/02",
+        "time": null,
+        "home_team": "Crotone",
+        "away_team": "Palermo",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "10/03/02",
+        "time": null,
+        "home_team": "Reggina",
+        "away_team": "Pistoiese",
+        "home_score": "3",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "10/03/02",
+        "time": null,
+        "home_team": "Salernitana",
+        "away_team": "Napoli",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "10/03/02",
+        "time": null,
+        "home_team": "Sampdoria",
+        "away_team": "Ancona",
+        "home_score": "0",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "10/03/02",
+        "time": null,
+        "home_team": "Siena",
+        "away_team": "Messina",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "11/03/02",
+        "time": null,
+        "home_team": "Modena",
+        "away_team": "Cosenza",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "15/03/02",
+        "time": null,
+        "home_team": "Genoa",
+        "away_team": "Bari",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "17/03/02",
+        "time": null,
+        "home_team": "Ancona",
+        "away_team": "Ternana",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "17/03/02",
+        "time": null,
+        "home_team": "Cagliari",
+        "away_team": "Modena",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "17/03/02",
+        "time": null,
+        "home_team": "Como",
+        "away_team": "Siena",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "17/03/02",
+        "time": null,
+        "home_team": "Cosenza",
+        "away_team": "Salernitana",
+        "home_score": "2",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "17/03/02",
+        "time": null,
+        "home_team": "Empoli",
+        "away_team": "Reggina",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "17/03/02",
+        "time": null,
+        "home_team": "Napoli",
+        "away_team": "Cittadella",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "17/03/02",
+        "time": null,
+        "home_team": "Pistoiese",
+        "away_team": "Sampdoria",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "17/03/02",
+        "time": null,
+        "home_team": "Vicenza",
+        "away_team": "Crotone",
+        "home_score": "4",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "18/03/02",
+        "time": null,
+        "home_team": "Palermo",
+        "away_team": "Messina",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "30/03/02",
+        "time": null,
+        "home_team": "Bari",
+        "away_team": "Pistoiese",
+        "home_score": "3",
+        "away_score": "3",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "30/03/02",
+        "time": null,
+        "home_team": "Cittadella",
+        "away_team": "Ancona",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "30/03/02",
+        "time": null,
+        "home_team": "Crotone",
+        "away_team": "Empoli",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "30/03/02",
+        "time": null,
+        "home_team": "Messina",
+        "away_team": "Como",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "30/03/02",
+        "time": null,
+        "home_team": "Modena",
+        "away_team": "Vicenza",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "30/03/02",
+        "time": null,
+        "home_team": "Reggina",
+        "away_team": "Cagliari",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "30/03/02",
+        "time": null,
+        "home_team": "Salernitana",
+        "away_team": "Genoa",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "30/03/02",
+        "time": null,
+        "home_team": "Sampdoria",
+        "away_team": "Napoli",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "30/03/02",
+        "time": null,
+        "home_team": "Siena",
+        "away_team": "Cosenza",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "30/03/02",
+        "time": null,
+        "home_team": "Ternana",
+        "away_team": "Palermo",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "05/04/02",
+        "time": null,
+        "home_team": "Vicenza",
+        "away_team": "Como",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "07/04/02",
+        "time": null,
+        "home_team": "Ancona",
+        "away_team": "Salernitana",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "07/04/02",
+        "time": null,
+        "home_team": "Cagliari",
+        "away_team": "Cittadella",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "07/04/02",
+        "time": null,
+        "home_team": "Cosenza",
+        "away_team": "Messina",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "07/04/02",
+        "time": null,
+        "home_team": "Empoli",
+        "away_team": "Modena",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "07/04/02",
+        "time": null,
+        "home_team": "Napoli",
+        "away_team": "Bari",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "07/04/02",
+        "time": null,
+        "home_team": "Palermo",
+        "away_team": "Siena",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "07/04/02",
+        "time": null,
+        "home_team": "Pistoiese",
+        "away_team": "Ternana",
+        "home_score": "3",
+        "away_score": "3",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "07/04/02",
+        "time": null,
+        "home_team": "Reggina",
+        "away_team": "Crotone",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "08/04/02",
+        "time": null,
+        "home_team": "Sampdoria",
+        "away_team": "Genoa",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "12/04/02",
+        "time": null,
+        "home_team": "Salernitana",
+        "away_team": "Empoli",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "14/04/02",
+        "time": null,
+        "home_team": "Ancona",
+        "away_team": "Vicenza",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "14/04/02",
+        "time": null,
+        "home_team": "Cittadella",
+        "away_team": "Sampdoria",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "14/04/02",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Como",
+        "away_team": "Pistoiese",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "14/04/02",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Crotone",
+        "away_team": "Napoli",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "14/04/02",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Genoa",
+        "away_team": "Cosenza",
+        "home_score": "3",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "14/04/02",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Messina",
+        "away_team": "Reggina",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "14/04/02",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Modena",
+        "away_team": "Palermo",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "14/04/02",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Ternana",
+        "away_team": "Cagliari",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "15/04/02",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Siena",
+        "away_team": "Bari",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "19/04/02",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Reggina",
+        "away_team": "Modena",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "21/04/02",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Bari",
+        "away_team": "Cittadella",
+        "home_score": "3",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "21/04/02",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Cagliari",
+        "away_team": "Salernitana",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "21/04/02",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Cosenza",
+        "away_team": "Ancona",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "21/04/02",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Empoli",
+        "away_team": "Ternana",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "21/04/02",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Palermo",
+        "away_team": "Como",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "21/04/02",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Pistoiese",
+        "away_team": "Siena",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "21/04/02",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Sampdoria",
+        "away_team": "Crotone",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "21/04/02",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Vicenza",
+        "away_team": "Genoa",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "22/04/02",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Napoli",
+        "away_team": "Messina",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "26/04/02",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Vicenza",
+        "away_team": "Salernitana",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "28/04/02",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Ancona",
+        "away_team": "Cagliari",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "28/04/02",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Como",
+        "away_team": "Bari",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "28/04/02",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Cosenza",
+        "away_team": "Crotone",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "28/04/02",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Genoa",
+        "away_team": "Palermo",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "28/04/02",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Messina",
+        "away_team": "Pistoiese",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "28/04/02",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Modena",
+        "away_team": "Sampdoria",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "28/04/02",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Napoli",
+        "away_team": "Reggina",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "28/04/02",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Ternana",
+        "away_team": "Cittadella",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "29/04/02",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Siena",
+        "away_team": "Empoli",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "04/05/02",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Cagliari",
+        "away_team": "Como",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "05/05/02",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Bari",
+        "away_team": "Cosenza",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "05/05/02",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Crotone",
+        "away_team": "Genoa",
+        "home_score": "4",
+        "away_score": "3",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "05/05/02",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Empoli",
+        "away_team": "Vicenza",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "05/05/02",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Palermo",
+        "away_team": "Napoli",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "05/05/02",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Pistoiese",
+        "away_team": "Ancona",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "05/05/02",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Reggina",
+        "away_team": "Siena",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "05/05/02",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Salernitana",
+        "away_team": "Ternana",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "05/05/02",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Sampdoria",
+        "away_team": "Messina",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "06/05/02",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Cittadella",
+        "away_team": "Modena",
+        "home_score": "1",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "12/05/02",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Ancona",
+        "away_team": "Bari",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "12/05/02",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Como",
+        "away_team": "Empoli",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "12/05/02",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Cosenza",
+        "away_team": "Napoli",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "12/05/02",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Genoa",
+        "away_team": "Modena",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "12/05/02",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Messina",
+        "away_team": "Cittadella",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "12/05/02",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Pistoiese",
+        "away_team": "Cagliari",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "12/05/02",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Salernitana",
+        "away_team": "Reggina",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "12/05/02",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Siena",
+        "away_team": "Crotone",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "12/05/02",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Ternana",
+        "away_team": "Sampdoria",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "12/05/02",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Vicenza",
+        "away_team": "Palermo",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "19/05/02",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Bari",
+        "away_team": "Messina",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "19/05/02",
+        "time": null,
+        "home_team": "Cagliari",
+        "away_team": "Cosenza",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "19/05/02",
+        "time": null,
+        "home_team": "Cittadella",
+        "away_team": "Siena",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "19/05/02",
+        "time": null,
+        "home_team": "Crotone",
+        "away_team": "Ternana",
+        "home_score": "2",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "19/05/02",
+        "time": null,
+        "home_team": "Empoli",
+        "away_team": "Genoa",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "19/05/02",
+        "time": null,
+        "home_team": "Modena",
+        "away_team": "Ancona",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "19/05/02",
+        "time": null,
+        "home_team": "Napoli",
+        "away_team": "Pistoiese",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "19/05/02",
+        "time": null,
+        "home_team": "Palermo",
+        "away_team": "Salernitana",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "19/05/02",
+        "time": null,
+        "home_team": "Reggina",
+        "away_team": "Vicenza",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "19/05/02",
+        "time": null,
+        "home_team": "Sampdoria",
+        "away_team": "Como",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "26/05/02",
+        "time": null,
+        "home_team": "Ancona",
+        "away_team": "Empoli",
+        "home_score": "3",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "26/05/02",
+        "time": null,
+        "home_team": "Como",
+        "away_team": "Cittadella",
+        "home_score": "4",
+        "away_score": "3",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "26/05/02",
+        "time": null,
+        "home_team": "Cosenza",
+        "away_team": "Palermo",
+        "home_score": "3",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "26/05/02",
+        "time": null,
+        "home_team": "Genoa",
+        "away_team": "Cagliari",
+        "home_score": "3",
+        "away_score": "3",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "26/05/02",
+        "time": null,
+        "home_team": "Messina",
+        "away_team": "Modena",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "26/05/02",
+        "time": null,
+        "home_team": "Pistoiese",
+        "away_team": "Crotone",
+        "home_score": "4",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "26/05/02",
+        "time": null,
+        "home_team": "Salernitana",
+        "away_team": "Bari",
+        "home_score": "2",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "26/05/02",
+        "time": null,
+        "home_team": "Siena",
+        "away_team": "Napoli",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "26/05/02",
+        "time": null,
+        "home_team": "Ternana",
+        "away_team": "Reggina",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "26/05/02",
+        "time": null,
+        "home_team": "Vicenza",
+        "away_team": "Sampdoria",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "02/06/02",
+        "time": null,
+        "home_team": "Bari",
+        "away_team": "Ternana",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "02/06/02",
+        "time": null,
+        "home_team": "Cagliari",
+        "away_team": "Vicenza",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "02/06/02",
+        "time": null,
+        "home_team": "Cittadella",
+        "away_team": "Pistoiese",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "02/06/02",
+        "time": null,
+        "home_team": "Crotone",
+        "away_team": "Messina",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "02/06/02",
+        "time": null,
+        "home_team": "Empoli",
+        "away_team": "Cosenza",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "02/06/02",
+        "time": null,
+        "home_team": "Modena",
+        "away_team": "Salernitana",
+        "home_score": "5",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "02/06/02",
+        "time": null,
+        "home_team": "Napoli",
+        "away_team": "Como",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "02/06/02",
+        "time": null,
+        "home_team": "Palermo",
+        "away_team": "Ancona",
+        "home_score": "2",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "02/06/02",
+        "time": null,
+        "home_team": "Reggina",
+        "away_team": "Genoa",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": "2001",
+        "date": "02/06/02",
+        "time": null,
+        "home_team": "Sampdoria",
+        "away_team": "Siena",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    }
+]

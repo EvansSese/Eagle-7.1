@@ -1,0 +1,7452 @@
+[
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "30/08/03",
+        "time": null,
+        "home_team": "Almeria",
+        "away_team": "Malaga B",
+        "home_score": "3",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "30/08/03",
+        "time": null,
+        "home_team": "Cadiz",
+        "away_team": "Poli Ejido",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "31/08/03",
+        "time": null,
+        "home_team": "Ciudad de Murcia",
+        "away_team": "Recreativo",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "31/08/03",
+        "time": null,
+        "home_team": "Eibar",
+        "away_team": "Algeciras",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "31/08/03",
+        "time": null,
+        "home_team": "Leganes",
+        "away_team": "Salamanca",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "31/08/03",
+        "time": null,
+        "home_team": "Numancia",
+        "away_team": "Cordoba",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "31/08/03",
+        "time": null,
+        "home_team": "Sp Gijon",
+        "away_team": "Getafe",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "31/08/03",
+        "time": null,
+        "home_team": "Tenerife",
+        "away_team": "Alaves",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "31/08/03",
+        "time": null,
+        "home_team": "Terrassa",
+        "away_team": "Xerez",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "31/08/03",
+        "time": null,
+        "home_team": "Vallecano",
+        "away_team": "Levante",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "06/09/03",
+        "time": null,
+        "home_team": "Las Palmas",
+        "away_team": "Leganes",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "06/09/03",
+        "time": null,
+        "home_team": "Levante",
+        "away_team": "Elche",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "06/09/03",
+        "time": null,
+        "home_team": "Malaga B",
+        "away_team": "Cadiz",
+        "home_score": "1",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "06/09/03",
+        "time": null,
+        "home_team": "Xerez",
+        "away_team": "Vallecano",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "07/09/03",
+        "time": null,
+        "home_team": "Alaves",
+        "away_team": "Sp Gijon",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            ""
+        ],
+        "date": "07/09/03",
+        "time": [
+            ""
+        ],
+        "home_team": "Algeciras",
+        "away_team": "Tenerife",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            ""
+        ],
+        "date": "07/09/03",
+        "time": [
+            ""
+        ],
+        "home_team": "Cordoba",
+        "away_team": "Ciudad de Murcia",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            ""
+        ],
+        "date": "07/09/03",
+        "time": [
+            ""
+        ],
+        "home_team": "Getafe",
+        "away_team": "Almeria",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            ""
+        ],
+        "date": "07/09/03",
+        "time": [
+            ""
+        ],
+        "home_team": "Poli Ejido",
+        "away_team": "Terrassa",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            ""
+        ],
+        "date": "07/09/03",
+        "time": [
+            ""
+        ],
+        "home_team": "Recreativo",
+        "away_team": "Eibar",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            ""
+        ],
+        "date": "07/09/03",
+        "time": [
+            ""
+        ],
+        "home_team": "Salamanca",
+        "away_team": "Numancia",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            ""
+        ],
+        "date": "13/09/03",
+        "time": [
+            ""
+        ],
+        "home_team": "Elche",
+        "away_team": "Xerez",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            ""
+        ],
+        "date": "13/09/03",
+        "time": [
+            ""
+        ],
+        "home_team": "Malaga B",
+        "away_team": "Getafe",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            ""
+        ],
+        "date": "13/09/03",
+        "time": [
+            ""
+        ],
+        "home_team": "Tenerife",
+        "away_team": "Recreativo",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            ""
+        ],
+        "date": "13/09/03",
+        "time": [
+            ""
+        ],
+        "home_team": "Vallecano",
+        "away_team": "Poli Ejido",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            ""
+        ],
+        "date": "14/09/03",
+        "time": [
+            ""
+        ],
+        "home_team": "Almeria",
+        "away_team": "Alaves",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            ""
+        ],
+        "date": "14/09/03",
+        "time": [
+            ""
+        ],
+        "home_team": "Cadiz",
+        "away_team": "Terrassa",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            ""
+        ],
+        "date": "14/09/03",
+        "time": [
+            ""
+        ],
+        "home_team": "Ciudad de Murcia",
+        "away_team": "Salamanca",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            ""
+        ],
+        "date": "14/09/03",
+        "time": [
+            ""
+        ],
+        "home_team": "Eibar",
+        "away_team": "Cordoba",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            ""
+        ],
+        "date": "14/09/03",
+        "time": [
+            ""
+        ],
+        "home_team": "Leganes",
+        "away_team": "Levante",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            ""
+        ],
+        "date": "14/09/03",
+        "time": [
+            ""
+        ],
+        "home_team": "Numancia",
+        "away_team": "Las Palmas",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "14/09/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Sp Gijon",
+        "away_team": "Algeciras",
+        "home_score": "3",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "17/09/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Elche",
+        "away_team": "Las Palmas",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "20/09/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Algeciras",
+        "away_team": "Almeria",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "20/09/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Salamanca",
+        "away_team": "Eibar",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "20/09/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Terrassa",
+        "away_team": "Vallecano",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "21/09/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Alaves",
+        "away_team": "Malaga B",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "21/09/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Cordoba",
+        "away_team": "Tenerife",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "21/09/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Getafe",
+        "away_team": "Cadiz",
+        "home_score": "3",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "21/09/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Las Palmas",
+        "away_team": "Ciudad de Murcia",
+        "home_score": "2",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "21/09/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Levante",
+        "away_team": "Numancia",
+        "home_score": "4",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "21/09/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Poli Ejido",
+        "away_team": "Elche",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "21/09/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Recreativo",
+        "away_team": "Sp Gijon",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "21/09/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Xerez",
+        "away_team": "Leganes",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "27/09/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Almeria",
+        "away_team": "Recreativo",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "27/09/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Eibar",
+        "away_team": "Las Palmas",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "27/09/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Elche",
+        "away_team": "Terrassa",
+        "home_score": "2",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "27/09/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Getafe",
+        "away_team": "Alaves",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "27/09/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Leganes",
+        "away_team": "Poli Ejido",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "27/09/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Numancia",
+        "away_team": "Xerez",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "28/09/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Cadiz",
+        "away_team": "Vallecano",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "28/09/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Ciudad de Murcia",
+        "away_team": "Levante",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "28/09/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Malaga B",
+        "away_team": "Algeciras",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "28/09/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Sp Gijon",
+        "away_team": "Cordoba",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "28/09/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Tenerife",
+        "away_team": "Salamanca",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "04/10/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Alaves",
+        "away_team": "Cadiz",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "04/10/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Cordoba",
+        "away_team": "Almeria",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "04/10/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Las Palmas",
+        "away_team": "Tenerife",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "04/10/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Poli Ejido",
+        "away_team": "Numancia",
+        "home_score": "1",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "04/10/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Recreativo",
+        "away_team": "Malaga B",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "05/10/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Algeciras",
+        "away_team": "Getafe",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "05/10/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Levante",
+        "away_team": "Eibar",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "05/10/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Salamanca",
+        "away_team": "Sp Gijon",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            ""
+        ],
+        "date": "05/10/03",
+        "time": [
+            ""
+        ],
+        "home_team": "Terrassa",
+        "away_team": "Leganes",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            ""
+        ],
+        "date": "05/10/03",
+        "time": [
+            ""
+        ],
+        "home_team": "Vallecano",
+        "away_team": "Elche",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            ""
+        ],
+        "date": "05/10/03",
+        "time": [
+            ""
+        ],
+        "home_team": "Xerez",
+        "away_team": "Ciudad de Murcia",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            ""
+        ],
+        "date": "11/10/03",
+        "time": [
+            ""
+        ],
+        "home_team": "Eibar",
+        "away_team": "Xerez",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            ""
+        ],
+        "date": "11/10/03",
+        "time": [
+            ""
+        ],
+        "home_team": "Leganes",
+        "away_team": "Vallecano",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            ""
+        ],
+        "date": "11/10/03",
+        "time": [
+            ""
+        ],
+        "home_team": "Tenerife",
+        "away_team": "Levante",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            ""
+        ],
+        "date": "12/10/03",
+        "time": [
+            ""
+        ],
+        "home_team": "Alaves",
+        "away_team": "Algeciras",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            ""
+        ],
+        "date": "12/10/03",
+        "time": [
+            ""
+        ],
+        "home_team": "Almeria",
+        "away_team": "Salamanca",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            ""
+        ],
+        "date": "12/10/03",
+        "time": [
+            ""
+        ],
+        "home_team": "Cadiz",
+        "away_team": "Elche",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            ""
+        ],
+        "date": "12/10/03",
+        "time": [
+            ""
+        ],
+        "home_team": "Ciudad de Murcia",
+        "away_team": "Poli Ejido",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            ""
+        ],
+        "date": "12/10/03",
+        "time": [
+            ""
+        ],
+        "home_team": "Getafe",
+        "away_team": "Recreativo",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            ""
+        ],
+        "date": "12/10/03",
+        "time": [
+            ""
+        ],
+        "home_team": "Malaga B",
+        "away_team": "Cordoba",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            ""
+        ],
+        "date": "12/10/03",
+        "time": [
+            ""
+        ],
+        "home_team": "Numancia",
+        "away_team": "Terrassa",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            ""
+        ],
+        "date": "12/10/03",
+        "time": [
+            ""
+        ],
+        "home_team": "Sp Gijon",
+        "away_team": "Las Palmas",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            ""
+        ],
+        "date": "18/10/03",
+        "time": [
+            ""
+        ],
+        "home_team": "Cordoba",
+        "away_team": "Getafe",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            ""
+        ],
+        "date": "18/10/03",
+        "time": [
+            ""
+        ],
+        "home_team": "Las Palmas",
+        "away_team": "Almeria",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "18/10/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Levante",
+        "away_team": "Sp Gijon",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "19/10/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Algeciras",
+        "away_team": "Cadiz",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "19/10/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Elche",
+        "away_team": "Leganes",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "19/10/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Poli Ejido",
+        "away_team": "Eibar",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "19/10/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Recreativo",
+        "away_team": "Alaves",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "19/10/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Salamanca",
+        "away_team": "Malaga B",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "19/10/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Terrassa",
+        "away_team": "Ciudad de Murcia",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "19/10/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Vallecano",
+        "away_team": "Numancia",
+        "home_score": "2",
+        "away_score": "5",
+        "result": "A"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "19/10/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Xerez",
+        "away_team": "Tenerife",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "24/10/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Ciudad de Murcia",
+        "away_team": "Vallecano",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "25/10/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Algeciras",
+        "away_team": "Recreativo",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "25/10/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Eibar",
+        "away_team": "Terrassa",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "25/10/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Numancia",
+        "away_team": "Elche",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "26/10/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Alaves",
+        "away_team": "Cordoba",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "26/10/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Almeria",
+        "away_team": "Levante",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "26/10/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Cadiz",
+        "away_team": "Leganes",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "26/10/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Getafe",
+        "away_team": "Salamanca",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "26/10/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Malaga B",
+        "away_team": "Las Palmas",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "26/10/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Sp Gijon",
+        "away_team": "Xerez",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "26/10/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Tenerife",
+        "away_team": "Poli Ejido",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "01/11/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Las Palmas",
+        "away_team": "Getafe",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "01/11/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Recreativo",
+        "away_team": "Cadiz",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "01/11/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Terrassa",
+        "away_team": "Tenerife",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "01/11/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Vallecano",
+        "away_team": "Eibar",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "02/11/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Cordoba",
+        "away_team": "Algeciras",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "02/11/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Elche",
+        "away_team": "Ciudad de Murcia",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "02/11/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Leganes",
+        "away_team": "Numancia",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "02/11/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Levante",
+        "away_team": "Malaga B",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "02/11/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Poli Ejido",
+        "away_team": "Sp Gijon",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "02/11/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Salamanca",
+        "away_team": "Alaves",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "02/11/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Xerez",
+        "away_team": "Almeria",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "08/11/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Alaves",
+        "away_team": "Las Palmas",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "09/11/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Algeciras",
+        "away_team": "Salamanca",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "08/11/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Almeria",
+        "away_team": "Poli Ejido",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "09/11/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Cadiz",
+        "away_team": "Numancia",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "09/11/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Ciudad de Murcia",
+        "away_team": "Leganes",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "09/11/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Eibar",
+        "away_team": "Elche",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "09/11/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Getafe",
+        "away_team": "Levante",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "09/11/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Malaga B",
+        "away_team": "Xerez",
+        "home_score": "5",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "09/11/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Recreativo",
+        "away_team": "Cordoba",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "09/11/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Sp Gijon",
+        "away_team": "Terrassa",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "09/11/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Tenerife",
+        "away_team": "Vallecano",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "15/11/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Cordoba",
+        "away_team": "Cadiz",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "15/11/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Las Palmas",
+        "away_team": "Algeciras",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "15/11/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Leganes",
+        "away_team": "Eibar",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "15/11/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Levante",
+        "away_team": "Alaves",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "16/11/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Elche",
+        "away_team": "Tenerife",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "16/11/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Numancia",
+        "away_team": "Ciudad de Murcia",
+        "home_score": "7",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "16/11/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Poli Ejido",
+        "away_team": "Malaga B",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "16/11/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Salamanca",
+        "away_team": "Recreativo",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "16/11/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Terrassa",
+        "away_team": "Almeria",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "16/11/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Vallecano",
+        "away_team": "Sp Gijon",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "16/11/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Xerez",
+        "away_team": "Getafe",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "22/11/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Algeciras",
+        "away_team": "Levante",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "22/11/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Eibar",
+        "away_team": "Numancia",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "22/11/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Tenerife",
+        "away_team": "Leganes",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "23/11/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Alaves",
+        "away_team": "Xerez",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "23/11/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Almeria",
+        "away_team": "Vallecano",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "23/11/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Cadiz",
+        "away_team": "Ciudad de Murcia",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "23/11/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Cordoba",
+        "away_team": "Salamanca",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "23/11/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Getafe",
+        "away_team": "Poli Ejido",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "23/11/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Recreativo",
+        "away_team": "Las Palmas",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "23/11/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Sp Gijon",
+        "away_team": "Elche",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "24/11/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Malaga B",
+        "away_team": "Terrassa",
+        "home_score": "1",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "29/11/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Elche",
+        "away_team": "Almeria",
+        "home_score": "3",
+        "away_score": "3",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "29/11/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Las Palmas",
+        "away_team": "Cordoba",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "29/11/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Numancia",
+        "away_team": "Tenerife",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "29/11/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Terrassa",
+        "away_team": "Getafe",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "30/11/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Ciudad de Murcia",
+        "away_team": "Eibar",
+        "home_score": "1",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "30/11/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Leganes",
+        "away_team": "Sp Gijon",
+        "home_score": "1",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "30/11/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Levante",
+        "away_team": "Recreativo",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "30/11/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Poli Ejido",
+        "away_team": "Alaves",
+        "home_score": "1",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "30/11/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Salamanca",
+        "away_team": "Cadiz",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "30/11/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Vallecano",
+        "away_team": "Malaga B",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "30/11/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Xerez",
+        "away_team": "Algeciras",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "06/12/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Alaves",
+        "away_team": "Terrassa",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "06/12/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Getafe",
+        "away_team": "Vallecano",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "06/12/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Recreativo",
+        "away_team": "Xerez",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "06/12/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Salamanca",
+        "away_team": "Las Palmas",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "07/12/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Algeciras",
+        "away_team": "Poli Ejido",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "07/12/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Almeria",
+        "away_team": "Leganes",
+        "home_score": "1",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "07/12/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Cadiz",
+        "away_team": "Eibar",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "07/12/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Cordoba",
+        "away_team": "Levante",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "07/12/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Malaga B",
+        "away_team": "Elche",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "07/12/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Sp Gijon",
+        "away_team": "Numancia",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "07/12/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Tenerife",
+        "away_team": "Ciudad de Murcia",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "13/12/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Eibar",
+        "away_team": "Tenerife",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "13/12/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Las Palmas",
+        "away_team": "Cadiz",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "13/12/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Levante",
+        "away_team": "Salamanca",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "13/12/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Terrassa",
+        "away_team": "Algeciras",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "13/12/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Vallecano",
+        "away_team": "Alaves",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "13/12/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Xerez",
+        "away_team": "Cordoba",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "14/12/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Ciudad de Murcia",
+        "away_team": "Sp Gijon",
+        "home_score": "3",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "14/12/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Elche",
+        "away_team": "Getafe",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "14/12/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Leganes",
+        "away_team": "Malaga B",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "14/12/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Numancia",
+        "away_team": "Almeria",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "14/12/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Poli Ejido",
+        "away_team": "Recreativo",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "20/12/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Cadiz",
+        "away_team": "Tenerife",
+        "home_score": "4",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "20/12/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Las Palmas",
+        "away_team": "Levante",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "20/12/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Malaga B",
+        "away_team": "Numancia",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "20/12/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Recreativo",
+        "away_team": "Terrassa",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "21/12/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Alaves",
+        "away_team": "Elche",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "21/12/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Algeciras",
+        "away_team": "Vallecano",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "21/12/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Almeria",
+        "away_team": "Ciudad de Murcia",
+        "home_score": "2",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "21/12/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Cordoba",
+        "away_team": "Poli Ejido",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "21/12/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Getafe",
+        "away_team": "Leganes",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "21/12/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Salamanca",
+        "away_team": "Xerez",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "21/12/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Sp Gijon",
+        "away_team": "Eibar",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "03/01/04",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Eibar",
+        "away_team": "Almeria",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "03/01/04",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Numancia",
+        "away_team": "Getafe",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "03/01/04",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Tenerife",
+        "away_team": "Sp Gijon",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "03/01/04",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Terrassa",
+        "away_team": "Cordoba",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "04/01/04",
+        "time": null,
+        "home_team": "Ciudad de Murcia",
+        "away_team": "Malaga B",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "04/01/04",
+        "time": null,
+        "home_team": "Elche",
+        "away_team": "Algeciras",
+        "home_score": "3",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "04/01/04",
+        "time": null,
+        "home_team": "Leganes",
+        "away_team": "Alaves",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "04/01/04",
+        "time": null,
+        "home_team": "Levante",
+        "away_team": "Cadiz",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "04/01/04",
+        "time": null,
+        "home_team": "Poli Ejido",
+        "away_team": "Salamanca",
+        "home_score": "1",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "04/01/04",
+        "time": null,
+        "home_team": "Vallecano",
+        "away_team": "Recreativo",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "04/01/04",
+        "time": null,
+        "home_team": "Xerez",
+        "away_team": "Las Palmas",
+        "home_score": "4",
+        "away_score": "4",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "10/01/04",
+        "time": null,
+        "home_team": "Almeria",
+        "away_team": "Tenerife",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "10/01/04",
+        "time": null,
+        "home_team": "Getafe",
+        "away_team": "Ciudad de Murcia",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "10/01/04",
+        "time": null,
+        "home_team": "Las Palmas",
+        "away_team": "Poli Ejido",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "11/01/04",
+        "time": null,
+        "home_team": "Alaves",
+        "away_team": "Numancia",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "11/01/04",
+        "time": null,
+        "home_team": "Algeciras",
+        "away_team": "Leganes",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "11/01/04",
+        "time": null,
+        "home_team": "Cadiz",
+        "away_team": "Sp Gijon",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "11/01/04",
+        "time": null,
+        "home_team": "Cordoba",
+        "away_team": "Vallecano",
+        "home_score": "2",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "11/01/04",
+        "time": null,
+        "home_team": "Levante",
+        "away_team": "Xerez",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "11/01/04",
+        "time": null,
+        "home_team": "Malaga B",
+        "away_team": "Eibar",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "11/01/04",
+        "time": null,
+        "home_team": "Recreativo",
+        "away_team": "Elche",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "11/01/04",
+        "time": null,
+        "home_team": "Salamanca",
+        "away_team": "Terrassa",
+        "home_score": "2",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "17/01/04",
+        "time": null,
+        "home_team": "Elche",
+        "away_team": "Cordoba",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "17/01/04",
+        "time": null,
+        "home_team": "Leganes",
+        "away_team": "Recreativo",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "17/01/04",
+        "time": null,
+        "home_team": "Terrassa",
+        "away_team": "Las Palmas",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "18/01/04",
+        "time": null,
+        "home_team": "Cadiz",
+        "away_team": "Xerez",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "18/01/04",
+        "time": null,
+        "home_team": "Ciudad de Murcia",
+        "away_team": "Alaves",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "18/01/04",
+        "time": null,
+        "home_team": "Eibar",
+        "away_team": "Getafe",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "18/01/04",
+        "time": null,
+        "home_team": "Numancia",
+        "away_team": "Algeciras",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "18/01/04",
+        "time": null,
+        "home_team": "Poli Ejido",
+        "away_team": "Levante",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "18/01/04",
+        "time": null,
+        "home_team": "Sp Gijon",
+        "away_team": "Almeria",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "18/01/04",
+        "time": null,
+        "home_team": "Tenerife",
+        "away_team": "Malaga B",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "18/01/04",
+        "time": null,
+        "home_team": "Vallecano",
+        "away_team": "Salamanca",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "24/01/04",
+        "time": null,
+        "home_team": "Almeria",
+        "away_team": "Cadiz",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "24/01/04",
+        "time": null,
+        "home_team": "Getafe",
+        "away_team": "Tenerife",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "24/01/04",
+        "time": null,
+        "home_team": "Las Palmas",
+        "away_team": "Vallecano",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "24/01/04",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Levante",
+        "away_team": "Terrassa",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "25/01/04",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Alaves",
+        "away_team": "Eibar",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "25/01/04",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Algeciras",
+        "away_team": "Ciudad de Murcia",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "25/01/04",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Cordoba",
+        "away_team": "Leganes",
+        "home_score": "1",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "25/01/04",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Recreativo",
+        "away_team": "Numancia",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "25/01/04",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Salamanca",
+        "away_team": "Elche",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "25/01/04",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Xerez",
+        "away_team": "Poli Ejido",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "26/01/04",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Malaga B",
+        "away_team": "Sp Gijon",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "31/01/04",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Alaves",
+        "away_team": "Tenerife",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "31/01/04",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Las Palmas",
+        "away_team": "Elche",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "31/01/04",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Xerez",
+        "away_team": "Terrassa",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "01/02/04",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Algeciras",
+        "away_team": "Eibar",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "01/02/04",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Cordoba",
+        "away_team": "Numancia",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "01/02/04",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Getafe",
+        "away_team": "Sp Gijon",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "01/02/04",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Levante",
+        "away_team": "Vallecano",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "01/02/04",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Malaga B",
+        "away_team": "Almeria",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "01/02/04",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Poli Ejido",
+        "away_team": "Cadiz",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "01/02/04",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Recreativo",
+        "away_team": "Ciudad de Murcia",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "01/02/04",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Salamanca",
+        "away_team": "Leganes",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "07/02/04",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Cadiz",
+        "away_team": "Malaga B",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "07/02/04",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Eibar",
+        "away_team": "Recreativo",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "07/02/04",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Elche",
+        "away_team": "Levante",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "07/02/04",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Leganes",
+        "away_team": "Las Palmas",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "08/02/04",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Almeria",
+        "away_team": "Getafe",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "08/02/04",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Ciudad de Murcia",
+        "away_team": "Cordoba",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "08/02/04",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Numancia",
+        "away_team": "Salamanca",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "08/02/04",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Sp Gijon",
+        "away_team": "Alaves",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "08/02/04",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Tenerife",
+        "away_team": "Algeciras",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "08/02/04",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Terrassa",
+        "away_team": "Poli Ejido",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "08/02/04",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Vallecano",
+        "away_team": "Xerez",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "14/02/04",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Las Palmas",
+        "away_team": "Numancia",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "14/02/04",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Poli Ejido",
+        "away_team": "Vallecano",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "14/02/04",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Recreativo",
+        "away_team": "Tenerife",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "15/02/04",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Alaves",
+        "away_team": "Almeria",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "15/02/04",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Algeciras",
+        "away_team": "Sp Gijon",
+        "home_score": "0",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "15/02/04",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Cordoba",
+        "away_team": "Eibar",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "15/02/04",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Getafe",
+        "away_team": "Malaga B",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "15/02/04",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Levante",
+        "away_team": "Leganes",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "15/02/04",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Salamanca",
+        "away_team": "Ciudad de Murcia",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "15/02/04",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Terrassa",
+        "away_team": "Cadiz",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "15/02/04",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Xerez",
+        "away_team": "Elche",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "21/02/04",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Cadiz",
+        "away_team": "Getafe",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "21/02/04",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Ciudad de Murcia",
+        "away_team": "Las Palmas",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "21/02/04",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Malaga B",
+        "away_team": "Alaves",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "21/02/04",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Vallecano",
+        "away_team": "Terrassa",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "22/02/04",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Almeria",
+        "away_team": "Algeciras",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "22/02/04",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Eibar",
+        "away_team": "Salamanca",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "22/02/04",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Elche",
+        "away_team": "Poli Ejido",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "22/02/04",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Leganes",
+        "away_team": "Xerez",
+        "home_score": "3",
+        "away_score": "3",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "22/02/04",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Numancia",
+        "away_team": "Levante",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "22/02/04",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Sp Gijon",
+        "away_team": "Recreativo",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "22/02/04",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Tenerife",
+        "away_team": "Cordoba",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "28/02/04",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Las Palmas",
+        "away_team": "Eibar",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "28/02/04",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Recreativo",
+        "away_team": "Almeria",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "28/02/04",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Salamanca",
+        "away_team": "Tenerife",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "28/02/04",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Terrassa",
+        "away_team": "Elche",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "28/02/04",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Xerez",
+        "away_team": "Numancia",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "29/02/04",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Algeciras",
+        "away_team": "Malaga B",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "29/02/04",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Cordoba",
+        "away_team": "Sp Gijon",
+        "home_score": "4",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "29/02/04",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Levante",
+        "away_team": "Ciudad de Murcia",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "29/02/04",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Poli Ejido",
+        "away_team": "Leganes",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "29/02/04",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Vallecano",
+        "away_team": "Cadiz",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "06/03/04",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Almeria",
+        "away_team": "Cordoba",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "06/03/04",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Eibar",
+        "away_team": "Levante",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "06/03/04",
+        "time": null,
+        "home_team": "Getafe",
+        "away_team": "Algeciras",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "06/03/04",
+        "time": null,
+        "home_team": "Malaga B",
+        "away_team": "Recreativo",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "07/03/04",
+        "time": null,
+        "home_team": "Cadiz",
+        "away_team": "Alaves",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "07/03/04",
+        "time": null,
+        "home_team": "Ciudad de Murcia",
+        "away_team": "Xerez",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "07/03/04",
+        "time": null,
+        "home_team": "Elche",
+        "away_team": "Vallecano",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "07/03/04",
+        "time": null,
+        "home_team": "Leganes",
+        "away_team": "Terrassa",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "07/03/04",
+        "time": null,
+        "home_team": "Numancia",
+        "away_team": "Poli Ejido",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "07/03/04",
+        "time": null,
+        "home_team": "Sp Gijon",
+        "away_team": "Salamanca",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "07/03/04",
+        "time": null,
+        "home_team": "Tenerife",
+        "away_team": "Las Palmas",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "13/03/04",
+        "time": null,
+        "home_team": "Algeciras",
+        "away_team": "Alaves",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "13/03/04",
+        "time": null,
+        "home_team": "Levante",
+        "away_team": "Tenerife",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "13/03/04",
+        "time": null,
+        "home_team": "Poli Ejido",
+        "away_team": "Ciudad de Murcia",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "13/03/04",
+        "time": null,
+        "home_team": "Recreativo",
+        "away_team": "Getafe",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "13/03/04",
+        "time": null,
+        "home_team": "Vallecano",
+        "away_team": "Leganes",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "14/03/04",
+        "time": null,
+        "home_team": "Cordoba",
+        "away_team": "Malaga B",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "14/03/04",
+        "time": null,
+        "home_team": "Elche",
+        "away_team": "Cadiz",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "14/03/04",
+        "time": null,
+        "home_team": "Las Palmas",
+        "away_team": "Sp Gijon",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "14/03/04",
+        "time": null,
+        "home_team": "Salamanca",
+        "away_team": "Almeria",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "14/03/04",
+        "time": null,
+        "home_team": "Terrassa",
+        "away_team": "Numancia",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "14/03/04",
+        "time": null,
+        "home_team": "Xerez",
+        "away_team": "Eibar",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "20/03/04",
+        "time": null,
+        "home_team": "Almeria",
+        "away_team": "Las Palmas",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "20/03/04",
+        "time": null,
+        "home_team": "Eibar",
+        "away_team": "Poli Ejido",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "20/03/04",
+        "time": null,
+        "home_team": "Getafe",
+        "away_team": "Cordoba",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "20/03/04",
+        "time": null,
+        "home_team": "Malaga B",
+        "away_team": "Salamanca",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "21/03/04",
+        "time": null,
+        "home_team": "Alaves",
+        "away_team": "Recreativo",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "21/03/04",
+        "time": null,
+        "home_team": "Cadiz",
+        "away_team": "Algeciras",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "21/03/04",
+        "time": null,
+        "home_team": "Ciudad de Murcia",
+        "away_team": "Terrassa",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "21/03/04",
+        "time": null,
+        "home_team": "Leganes",
+        "away_team": "Elche",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "21/03/04",
+        "time": null,
+        "home_team": "Numancia",
+        "away_team": "Vallecano",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "21/03/04",
+        "time": null,
+        "home_team": "Sp Gijon",
+        "away_team": "Levante",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "21/03/04",
+        "time": null,
+        "home_team": "Tenerife",
+        "away_team": "Xerez",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "24/03/04",
+        "time": null,
+        "home_team": "Alaves",
+        "away_team": "Getafe",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            ""
+        ],
+        "date": "27/03/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Las Palmas",
+        "away_team": "Malaga B",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            ""
+        ],
+        "date": "27/03/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Terrassa",
+        "away_team": "Eibar",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            ""
+        ],
+        "date": "27/03/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Vallecano",
+        "away_team": "Ciudad de Murcia",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            ""
+        ],
+        "date": "28/03/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Cordoba",
+        "away_team": "Alaves",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            ""
+        ],
+        "date": "28/03/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Elche",
+        "away_team": "Numancia",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            ""
+        ],
+        "date": "28/03/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Leganes",
+        "away_team": "Cadiz",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            ""
+        ],
+        "date": "28/03/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Levante",
+        "away_team": "Almeria",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            ""
+        ],
+        "date": "28/03/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Poli Ejido",
+        "away_team": "Tenerife",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            ""
+        ],
+        "date": "28/03/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Recreativo",
+        "away_team": "Algeciras",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            ""
+        ],
+        "date": "28/03/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Salamanca",
+        "away_team": "Getafe",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            ""
+        ],
+        "date": "28/03/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Xerez",
+        "away_team": "Sp Gijon",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            ""
+        ],
+        "date": "03/04/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Algeciras",
+        "away_team": "Cordoba",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            ""
+        ],
+        "date": "03/04/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Ciudad de Murcia",
+        "away_team": "Elche",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            ""
+        ],
+        "date": "03/04/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Eibar",
+        "away_team": "Vallecano",
+        "home_score": "5",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            ""
+        ],
+        "date": "03/04/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Getafe",
+        "away_team": "Las Palmas",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            ""
+        ],
+        "date": "03/04/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Malaga B",
+        "away_team": "Levante",
+        "home_score": "1",
+        "away_score": "5",
+        "result": "A"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            ""
+        ],
+        "date": "04/04/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Alaves",
+        "away_team": "Salamanca",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            ""
+        ],
+        "date": "04/04/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Almeria",
+        "away_team": "Xerez",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            ""
+        ],
+        "date": "04/04/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Cadiz",
+        "away_team": "Recreativo",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            ""
+        ],
+        "date": "04/04/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Numancia",
+        "away_team": "Leganes",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            ""
+        ],
+        "date": "04/04/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Sp Gijon",
+        "away_team": "Poli Ejido",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            ""
+        ],
+        "date": "04/04/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Tenerife",
+        "away_team": "Terrassa",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            ""
+        ],
+        "date": "10/04/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Numancia",
+        "away_team": "Cadiz",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            ""
+        ],
+        "date": "10/04/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Poli Ejido",
+        "away_team": "Almeria",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            ""
+        ],
+        "date": "10/04/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Terrassa",
+        "away_team": "Sp Gijon",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            ""
+        ],
+        "date": "10/04/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Vallecano",
+        "away_team": "Tenerife",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            ""
+        ],
+        "date": "11/04/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Cordoba",
+        "away_team": "Recreativo",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            ""
+        ],
+        "date": "11/04/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Elche",
+        "away_team": "Eibar",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            ""
+        ],
+        "date": "11/04/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Las Palmas",
+        "away_team": "Alaves",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            ""
+        ],
+        "date": "11/04/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Leganes",
+        "away_team": "Ciudad de Murcia",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            ""
+        ],
+        "date": "11/04/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Levante",
+        "away_team": "Getafe",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            ""
+        ],
+        "date": "11/04/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Salamanca",
+        "away_team": "Algeciras",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "11/04/04",
+        "time": null,
+        "home_team": "Xerez",
+        "away_team": "Malaga B",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "17/04/04",
+        "time": null,
+        "home_team": "Cadiz",
+        "away_team": "Cordoba",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "17/04/04",
+        "time": null,
+        "home_team": "Eibar",
+        "away_team": "Leganes",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "17/04/04",
+        "time": null,
+        "home_team": "Sp Gijon",
+        "away_team": "Vallecano",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "17/04/04",
+        "time": null,
+        "home_team": "Tenerife",
+        "away_team": "Elche",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "18/04/04",
+        "time": null,
+        "home_team": "Alaves",
+        "away_team": "Levante",
+        "home_score": "3",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "18/04/04",
+        "time": null,
+        "home_team": "Algeciras",
+        "away_team": "Las Palmas",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "18/04/04",
+        "time": null,
+        "home_team": "Almeria",
+        "away_team": "Terrassa",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "18/04/04",
+        "time": null,
+        "home_team": "Ciudad de Murcia",
+        "away_team": "Numancia",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "18/04/04",
+        "time": null,
+        "home_team": "Getafe",
+        "away_team": "Xerez",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "18/04/04",
+        "time": null,
+        "home_team": "Malaga B",
+        "away_team": "Poli Ejido",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "18/04/04",
+        "time": null,
+        "home_team": "Recreativo",
+        "away_team": "Salamanca",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "24/04/04",
+        "time": null,
+        "home_team": "Ciudad de Murcia",
+        "away_team": "Cadiz",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "24/04/04",
+        "time": null,
+        "home_team": "Las Palmas",
+        "away_team": "Recreativo",
+        "home_score": "0",
+        "away_score": "4",
+        "result": "A"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "24/04/04",
+        "time": null,
+        "home_team": "Leganes",
+        "away_team": "Tenerife",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "24/04/04",
+        "time": null,
+        "home_team": "Vallecano",
+        "away_team": "Almeria",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "24/04/04",
+        "time": null,
+        "home_team": "Xerez",
+        "away_team": "Alaves",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "25/04/04",
+        "time": null,
+        "home_team": "Elche",
+        "away_team": "Sp Gijon",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "25/04/04",
+        "time": null,
+        "home_team": "Levante",
+        "away_team": "Algeciras",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "25/04/04",
+        "time": null,
+        "home_team": "Numancia",
+        "away_team": "Eibar",
+        "home_score": "2",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "25/04/04",
+        "time": null,
+        "home_team": "Poli Ejido",
+        "away_team": "Getafe",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "25/04/04",
+        "time": null,
+        "home_team": "Salamanca",
+        "away_team": "Cordoba",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "25/04/04",
+        "time": null,
+        "home_team": "Terrassa",
+        "away_team": "Malaga B",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "01/05/04",
+        "time": null,
+        "home_team": "Alaves",
+        "away_team": "Poli Ejido",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "01/05/04",
+        "time": null,
+        "home_team": "Cordoba",
+        "away_team": "Las Palmas",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "01/05/04",
+        "time": null,
+        "home_team": "Getafe",
+        "away_team": "Terrassa",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "01/05/04",
+        "time": null,
+        "home_team": "Malaga B",
+        "away_team": "Vallecano",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "02/05/04",
+        "time": null,
+        "home_team": "Almeria",
+        "away_team": "Elche",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "02/05/04",
+        "time": null,
+        "home_team": "Cadiz",
+        "away_team": "Salamanca",
+        "home_score": "3",
+        "away_score": "3",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "02/05/04",
+        "time": null,
+        "home_team": "Eibar",
+        "away_team": "Ciudad de Murcia",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "02/05/04",
+        "time": null,
+        "home_team": "Recreativo",
+        "away_team": "Levante",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "02/05/04",
+        "time": null,
+        "home_team": "Sp Gijon",
+        "away_team": "Leganes",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            ""
+        ],
+        "date": "02/05/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Tenerife",
+        "away_team": "Numancia",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            ""
+        ],
+        "date": "08/05/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Ciudad de Murcia",
+        "away_team": "Tenerife",
+        "home_score": "2",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            ""
+        ],
+        "date": "08/05/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Las Palmas",
+        "away_team": "Salamanca",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            ""
+        ],
+        "date": "08/05/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Levante",
+        "away_team": "Cordoba",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            ""
+        ],
+        "date": "08/05/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Terrassa",
+        "away_team": "Alaves",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            ""
+        ],
+        "date": "08/05/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Vallecano",
+        "away_team": "Getafe",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            ""
+        ],
+        "date": "09/05/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Eibar",
+        "away_team": "Cadiz",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            ""
+        ],
+        "date": "09/05/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Elche",
+        "away_team": "Malaga B",
+        "home_score": "2",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            ""
+        ],
+        "date": "09/05/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Leganes",
+        "away_team": "Almeria",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            ""
+        ],
+        "date": "09/05/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Numancia",
+        "away_team": "Sp Gijon",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            ""
+        ],
+        "date": "09/05/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Poli Ejido",
+        "away_team": "Algeciras",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            ""
+        ],
+        "date": "09/05/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Xerez",
+        "away_team": "Recreativo",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            ""
+        ],
+        "date": "15/05/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Cadiz",
+        "away_team": "Las Palmas",
+        "home_score": "4",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            ""
+        ],
+        "date": "15/05/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Getafe",
+        "away_team": "Elche",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            ""
+        ],
+        "date": "15/05/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Malaga B",
+        "away_team": "Leganes",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            ""
+        ],
+        "date": "15/05/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Recreativo",
+        "away_team": "Poli Ejido",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            ""
+        ],
+        "date": "16/05/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Alaves",
+        "away_team": "Vallecano",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            ""
+        ],
+        "date": "16/05/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Algeciras",
+        "away_team": "Terrassa",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            ""
+        ],
+        "date": "16/05/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Almeria",
+        "away_team": "Numancia",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            ""
+        ],
+        "date": "16/05/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Cordoba",
+        "away_team": "Xerez",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            ""
+        ],
+        "date": "16/05/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Salamanca",
+        "away_team": "Levante",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            ""
+        ],
+        "date": "16/05/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Sp Gijon",
+        "away_team": "Ciudad de Murcia",
+        "home_score": "4",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            ""
+        ],
+        "date": "16/05/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Tenerife",
+        "away_team": "Eibar",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            ""
+        ],
+        "date": "22/05/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Elche",
+        "away_team": "Alaves",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            ""
+        ],
+        "date": "22/05/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Tenerife",
+        "away_team": "Cadiz",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            ""
+        ],
+        "date": "22/05/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Xerez",
+        "away_team": "Salamanca",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            ""
+        ],
+        "date": "23/05/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Ciudad de Murcia",
+        "away_team": "Almeria",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            ""
+        ],
+        "date": "23/05/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Eibar",
+        "away_team": "Sp Gijon",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            ""
+        ],
+        "date": "23/05/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Leganes",
+        "away_team": "Getafe",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            ""
+        ],
+        "date": "23/05/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Levante",
+        "away_team": "Las Palmas",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            ""
+        ],
+        "date": "23/05/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Numancia",
+        "away_team": "Malaga B",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": [
+            ""
+        ],
+        "date": "23/05/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Poli Ejido",
+        "away_team": "Cordoba",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "23/05/04",
+        "time": null,
+        "home_team": "Terrassa",
+        "away_team": "Recreativo",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "23/05/04",
+        "time": null,
+        "home_team": "Vallecano",
+        "away_team": "Algeciras",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "27/05/04",
+        "time": null,
+        "home_team": "Algeciras",
+        "away_team": "Xerez",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "29/05/04",
+        "time": null,
+        "home_team": "Alaves",
+        "away_team": "Leganes",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "29/05/04",
+        "time": null,
+        "home_team": "Malaga B",
+        "away_team": "Ciudad de Murcia",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "29/05/04",
+        "time": null,
+        "home_team": "Sp Gijon",
+        "away_team": "Tenerife",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "30/05/04",
+        "time": null,
+        "home_team": "Cordoba",
+        "away_team": "Terrassa",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "30/05/04",
+        "time": null,
+        "home_team": "Algeciras",
+        "away_team": "Elche",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "30/05/04",
+        "time": null,
+        "home_team": "Almeria",
+        "away_team": "Eibar",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "30/05/04",
+        "time": null,
+        "home_team": "Cadiz",
+        "away_team": "Levante",
+        "home_score": "0",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "30/05/04",
+        "time": null,
+        "home_team": "Getafe",
+        "away_team": "Numancia",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "30/05/04",
+        "time": null,
+        "home_team": "Las Palmas",
+        "away_team": "Xerez",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "30/05/04",
+        "time": null,
+        "home_team": "Recreativo",
+        "away_team": "Vallecano",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "30/05/04",
+        "time": null,
+        "home_team": "Salamanca",
+        "away_team": "Poli Ejido",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "05/06/04",
+        "time": null,
+        "home_team": "Ciudad de Murcia",
+        "away_team": "Getafe",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "05/06/04",
+        "time": null,
+        "home_team": "Eibar",
+        "away_team": "Malaga B",
+        "home_score": "3",
+        "away_score": "3",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "05/06/04",
+        "time": null,
+        "home_team": "Poli Ejido",
+        "away_team": "Las Palmas",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "05/06/04",
+        "time": null,
+        "home_team": "Terrassa",
+        "away_team": "Salamanca",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "05/06/04",
+        "time": null,
+        "home_team": "Xerez",
+        "away_team": "Levante",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "06/06/04",
+        "time": null,
+        "home_team": "Elche",
+        "away_team": "Recreativo",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "06/06/04",
+        "time": null,
+        "home_team": "Leganes",
+        "away_team": "Algeciras",
+        "home_score": "3",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "06/06/04",
+        "time": null,
+        "home_team": "Numancia",
+        "away_team": "Alaves",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "06/06/04",
+        "time": null,
+        "home_team": "Sp Gijon",
+        "away_team": "Cadiz",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "06/06/04",
+        "time": null,
+        "home_team": "Tenerife",
+        "away_team": "Almeria",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "06/06/04",
+        "time": null,
+        "home_team": "Vallecano",
+        "away_team": "Cordoba",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "11/06/04",
+        "time": null,
+        "home_team": "Xerez",
+        "away_team": "Cadiz",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "13/06/04",
+        "time": null,
+        "home_team": "Alaves",
+        "away_team": "Ciudad de Murcia",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "13/06/04",
+        "time": null,
+        "home_team": "Algeciras",
+        "away_team": "Numancia",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "13/06/04",
+        "time": null,
+        "home_team": "Almeria",
+        "away_team": "Sp Gijon",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "13/06/04",
+        "time": null,
+        "home_team": "Cordoba",
+        "away_team": "Elche",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "13/06/04",
+        "time": null,
+        "home_team": "Getafe",
+        "away_team": "Eibar",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "13/06/04",
+        "time": null,
+        "home_team": "Las Palmas",
+        "away_team": "Terrassa",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "13/06/04",
+        "time": null,
+        "home_team": "Levante",
+        "away_team": "Poli Ejido",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "13/06/04",
+        "time": null,
+        "home_team": "Malaga B",
+        "away_team": "Tenerife",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "13/06/04",
+        "time": null,
+        "home_team": "Recreativo",
+        "away_team": "Leganes",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "13/06/04",
+        "time": null,
+        "home_team": "Salamanca",
+        "away_team": "Vallecano",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "18/06/04",
+        "time": null,
+        "home_team": "Elche",
+        "away_team": "Salamanca",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "19/06/04",
+        "time": null,
+        "home_team": "Cadiz",
+        "away_team": "Almeria",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "19/06/04",
+        "time": null,
+        "home_team": "Ciudad de Murcia",
+        "away_team": "Algeciras",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "19/06/04",
+        "time": null,
+        "home_team": "Eibar",
+        "away_team": "Alaves",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "19/06/04",
+        "time": null,
+        "home_team": "Leganes",
+        "away_team": "Cordoba",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "19/06/04",
+        "time": null,
+        "home_team": "Numancia",
+        "away_team": "Recreativo",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "19/06/04",
+        "time": null,
+        "home_team": "Poli Ejido",
+        "away_team": "Xerez",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "19/06/04",
+        "time": null,
+        "home_team": "Sp Gijon",
+        "away_team": "Malaga B",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "19/06/04",
+        "time": null,
+        "home_team": "Tenerife",
+        "away_team": "Getafe",
+        "home_score": "3",
+        "away_score": "5",
+        "result": "A"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "19/06/04",
+        "time": null,
+        "home_team": "Terrassa",
+        "away_team": "Levante",
+        "home_score": "4",
+        "away_score": "4",
+        "result": "D"
+    },
+    {
+        "league_id": 141,
+        "season": "2003",
+        "date": "19/06/04",
+        "time": null,
+        "home_team": "Vallecano",
+        "away_team": "Las Palmas",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    }
+]

@@ -1,0 +1,3935 @@
+{
+    "get": "fixtures",
+    "parameters": {
+        "season": "2016",
+        "league": "122"
+    },
+    "errors": [],
+    "results": 56,
+    "paging": {
+        "current": 1,
+        "total": 1
+    },
+    "response": [
+        {
+            "fixture": {
+                "id": 425296,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2016-08-06T11:00:00+00:00",
+                "timestamp": 1470481200,
+                "periods": {
+                    "first": 1470481200,
+                    "second": 1470484800
+                },
+                "venue": {
+                    "id": 4478,
+                    "name": "Gentofte Sportspark",
+                    "city": "Gentofte"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": null
+                }
+            },
+            "league": {
+                "id": 122,
+                "name": "2nd Division - Group 1",
+                "country": "Denmark",
+                "logo": "https://media.api-sports.io/football/leagues/122.png",
+                "flag": "https://media.api-sports.io/flags/dk.svg",
+                "season": 2016,
+                "round": "Regular Season - 1",
+                "standings": false
+            },
+            "teams": {
+                "home": {
+                    "id": 6021,
+                    "name": "HIK",
+                    "logo": "https://media.api-sports.io/football/teams/6021.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 11522,
+                    "name": "Fredensborg BI",
+                    "logo": "https://media.api-sports.io/football/teams/11522.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": null,
+                    "away": null
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 425297,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2016-08-06T13:00:00+00:00",
+                "timestamp": 1470488400,
+                "periods": {
+                    "first": 1470488400,
+                    "second": 1470492000
+                },
+                "venue": {
+                    "id": 4471,
+                    "name": "Østerbro Stadion",
+                    "city": "København"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": null
+                }
+            },
+            "league": {
+                "id": 122,
+                "name": "2nd Division - Group 1",
+                "country": "Denmark",
+                "logo": "https://media.api-sports.io/football/leagues/122.png",
+                "flag": "https://media.api-sports.io/flags/dk.svg",
+                "season": 2016,
+                "round": "Regular Season - 1",
+                "standings": false
+            },
+            "teams": {
+                "home": {
+                    "id": 6009,
+                    "name": "B 93",
+                    "logo": "https://media.api-sports.io/football/teams/6009.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 6012,
+                    "name": "Brønshøj",
+                    "logo": "https://media.api-sports.io/football/teams/6012.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 4,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": null,
+                    "away": null
+                },
+                "fulltime": {
+                    "home": 4,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 425298,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2016-08-06T13:00:00+00:00",
+                "timestamp": 1470488400,
+                "periods": {
+                    "first": 1470488400,
+                    "second": 1470492000
+                },
+                "venue": {
+                    "id": 4477,
+                    "name": "Valby Idrætspark",
+                    "city": "København"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": null
+                }
+            },
+            "league": {
+                "id": 122,
+                "name": "2nd Division - Group 1",
+                "country": "Denmark",
+                "logo": "https://media.api-sports.io/football/leagues/122.png",
+                "flag": "https://media.api-sports.io/flags/dk.svg",
+                "season": 2016,
+                "round": "Regular Season - 1",
+                "standings": false
+            },
+            "teams": {
+                "home": {
+                    "id": 6018,
+                    "name": "Frem",
+                    "logo": "https://media.api-sports.io/football/teams/6018.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 6006,
+                    "name": "Avarta",
+                    "logo": "https://media.api-sports.io/football/teams/6006.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": null,
+                    "away": null
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 425299,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2016-08-07T11:00:00+00:00",
+                "timestamp": 1470567600,
+                "periods": {
+                    "first": 1470567600,
+                    "second": 1470571200
+                },
+                "venue": {
+                    "id": 4482,
+                    "name": "SuRi Park",
+                    "city": "Holbæk"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": null
+                }
+            },
+            "league": {
+                "id": 122,
+                "name": "2nd Division - Group 1",
+                "country": "Denmark",
+                "logo": "https://media.api-sports.io/football/leagues/122.png",
+                "flag": "https://media.api-sports.io/flags/dk.svg",
+                "season": 2016,
+                "round": "Regular Season - 1",
+                "standings": false
+            },
+            "teams": {
+                "home": {
+                    "id": 6027,
+                    "name": "Holbæk B&I",
+                    "logo": "https://media.api-sports.io/football/teams/6027.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 2072,
+                    "name": "Hvidovre",
+                    "logo": "https://media.api-sports.io/football/teams/2072.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": null,
+                    "away": null
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 425300,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2016-08-13T11:00:00+00:00",
+                "timestamp": 1471086000,
+                "periods": {
+                    "first": 1471086000,
+                    "second": 1471089600
+                },
+                "venue": {
+                    "id": 7597,
+                    "name": "Fredensborg Stadion",
+                    "city": "Fredensborg"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": null
+                }
+            },
+            "league": {
+                "id": 122,
+                "name": "2nd Division - Group 1",
+                "country": "Denmark",
+                "logo": "https://media.api-sports.io/football/leagues/122.png",
+                "flag": "https://media.api-sports.io/flags/dk.svg",
+                "season": 2016,
+                "round": "Regular Season - 2",
+                "standings": false
+            },
+            "teams": {
+                "home": {
+                    "id": 11522,
+                    "name": "Fredensborg BI",
+                    "logo": "https://media.api-sports.io/football/teams/11522.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 6018,
+                    "name": "Frem",
+                    "logo": "https://media.api-sports.io/football/teams/6018.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": null,
+                    "away": null
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 425301,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2016-08-13T13:00:00+00:00",
+                "timestamp": 1471093200,
+                "periods": {
+                    "first": 1471093200,
+                    "second": 1471096800
+                },
+                "venue": {
+                    "id": 4471,
+                    "name": "Østerbro Stadion",
+                    "city": "København"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": null
+                }
+            },
+            "league": {
+                "id": 122,
+                "name": "2nd Division - Group 1",
+                "country": "Denmark",
+                "logo": "https://media.api-sports.io/football/leagues/122.png",
+                "flag": "https://media.api-sports.io/flags/dk.svg",
+                "season": 2016,
+                "round": "Regular Season - 2",
+                "standings": false
+            },
+            "teams": {
+                "home": {
+                    "id": 6009,
+                    "name": "B 93",
+                    "logo": "https://media.api-sports.io/football/teams/6009.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 2072,
+                    "name": "Hvidovre",
+                    "logo": "https://media.api-sports.io/football/teams/2072.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 3
+            },
+            "score": {
+                "halftime": {
+                    "home": null,
+                    "away": null
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 3
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 425302,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2016-08-13T13:00:00+00:00",
+                "timestamp": 1471093200,
+                "periods": {
+                    "first": 1471093200,
+                    "second": 1471096800
+                },
+                "venue": {
+                    "id": 4473,
+                    "name": "Tingbjerg Idrætspark",
+                    "city": "Brønshøj"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": null
+                }
+            },
+            "league": {
+                "id": 122,
+                "name": "2nd Division - Group 1",
+                "country": "Denmark",
+                "logo": "https://media.api-sports.io/football/leagues/122.png",
+                "flag": "https://media.api-sports.io/flags/dk.svg",
+                "season": 2016,
+                "round": "Regular Season - 2",
+                "standings": false
+            },
+            "teams": {
+                "home": {
+                    "id": 6012,
+                    "name": "Brønshøj",
+                    "logo": "https://media.api-sports.io/football/teams/6012.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 6027,
+                    "name": "Holbæk B&I",
+                    "logo": "https://media.api-sports.io/football/teams/6027.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": null,
+                    "away": null
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 425303,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2016-08-14T11:00:00+00:00",
+                "timestamp": 1471172400,
+                "periods": {
+                    "first": 1471172400,
+                    "second": 1471176000
+                },
+                "venue": {
+                    "id": 4469,
+                    "name": "Espelundens Idrætsanlæg",
+                    "city": "Rødovre"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": null
+                }
+            },
+            "league": {
+                "id": 122,
+                "name": "2nd Division - Group 1",
+                "country": "Denmark",
+                "logo": "https://media.api-sports.io/football/leagues/122.png",
+                "flag": "https://media.api-sports.io/flags/dk.svg",
+                "season": 2016,
+                "round": "Regular Season - 2",
+                "standings": false
+            },
+            "teams": {
+                "home": {
+                    "id": 6006,
+                    "name": "Avarta",
+                    "logo": "https://media.api-sports.io/football/teams/6006.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 6021,
+                    "name": "HIK",
+                    "logo": "https://media.api-sports.io/football/teams/6021.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 3,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": null,
+                    "away": null
+                },
+                "fulltime": {
+                    "home": 3,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 425304,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2016-08-20T13:00:00+00:00",
+                "timestamp": 1471698000,
+                "periods": {
+                    "first": 1471698000,
+                    "second": 1471701600
+                },
+                "venue": {
+                    "id": 4477,
+                    "name": "Valby Idrætspark",
+                    "city": "København"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": null
+                }
+            },
+            "league": {
+                "id": 122,
+                "name": "2nd Division - Group 1",
+                "country": "Denmark",
+                "logo": "https://media.api-sports.io/football/leagues/122.png",
+                "flag": "https://media.api-sports.io/flags/dk.svg",
+                "season": 2016,
+                "round": "Regular Season - 3",
+                "standings": false
+            },
+            "teams": {
+                "home": {
+                    "id": 6018,
+                    "name": "Frem",
+                    "logo": "https://media.api-sports.io/football/teams/6018.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 6009,
+                    "name": "B 93",
+                    "logo": "https://media.api-sports.io/football/teams/6009.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": null,
+                    "away": null
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 425305,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2016-08-21T11:00:00+00:00",
+                "timestamp": 1471777200,
+                "periods": {
+                    "first": 1471777200,
+                    "second": 1471780800
+                },
+                "venue": {
+                    "id": 4469,
+                    "name": "Espelundens Idrætsanlæg",
+                    "city": "Rødovre"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": null
+                }
+            },
+            "league": {
+                "id": 122,
+                "name": "2nd Division - Group 1",
+                "country": "Denmark",
+                "logo": "https://media.api-sports.io/football/leagues/122.png",
+                "flag": "https://media.api-sports.io/flags/dk.svg",
+                "season": 2016,
+                "round": "Regular Season - 3",
+                "standings": false
+            },
+            "teams": {
+                "home": {
+                    "id": 6006,
+                    "name": "Avarta",
+                    "logo": "https://media.api-sports.io/football/teams/6006.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 6012,
+                    "name": "Brønshøj",
+                    "logo": "https://media.api-sports.io/football/teams/6012.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": null,
+                    "away": null
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 425306,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2016-08-21T11:00:00+00:00",
+                "timestamp": 1471777200,
+                "periods": {
+                    "first": 1471777200,
+                    "second": 1471780800
+                },
+                "venue": {
+                    "id": 4482,
+                    "name": "SuRi Park",
+                    "city": "Holbæk"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": null
+                }
+            },
+            "league": {
+                "id": 122,
+                "name": "2nd Division - Group 1",
+                "country": "Denmark",
+                "logo": "https://media.api-sports.io/football/leagues/122.png",
+                "flag": "https://media.api-sports.io/flags/dk.svg",
+                "season": 2016,
+                "round": "Regular Season - 3",
+                "standings": false
+            },
+            "teams": {
+                "home": {
+                    "id": 6027,
+                    "name": "Holbæk B&I",
+                    "logo": "https://media.api-sports.io/football/teams/6027.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 6021,
+                    "name": "HIK",
+                    "logo": "https://media.api-sports.io/football/teams/6021.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": null,
+                    "away": null
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 425307,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2016-08-21T13:00:00+00:00",
+                "timestamp": 1471784400,
+                "periods": {
+                    "first": 1471784400,
+                    "second": 1471788000
+                },
+                "venue": {
+                    "id": null,
+                    "name": "Kæmpernes Arena",
+                    "city": "Hvidovre"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": null
+                }
+            },
+            "league": {
+                "id": 122,
+                "name": "2nd Division - Group 1",
+                "country": "Denmark",
+                "logo": "https://media.api-sports.io/football/leagues/122.png",
+                "flag": "https://media.api-sports.io/flags/dk.svg",
+                "season": 2016,
+                "round": "Regular Season - 3",
+                "standings": false
+            },
+            "teams": {
+                "home": {
+                    "id": 2072,
+                    "name": "Hvidovre",
+                    "logo": "https://media.api-sports.io/football/teams/2072.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 11522,
+                    "name": "Fredensborg BI",
+                    "logo": "https://media.api-sports.io/football/teams/11522.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 3,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": null,
+                    "away": null
+                },
+                "fulltime": {
+                    "home": 3,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 425308,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2016-08-27T11:00:00+00:00",
+                "timestamp": 1472295600,
+                "periods": {
+                    "first": 1472295600,
+                    "second": 1472299200
+                },
+                "venue": {
+                    "id": 4478,
+                    "name": "Gentofte Sportspark",
+                    "city": "Gentofte"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": null
+                }
+            },
+            "league": {
+                "id": 122,
+                "name": "2nd Division - Group 1",
+                "country": "Denmark",
+                "logo": "https://media.api-sports.io/football/leagues/122.png",
+                "flag": "https://media.api-sports.io/flags/dk.svg",
+                "season": 2016,
+                "round": "Regular Season - 4",
+                "standings": false
+            },
+            "teams": {
+                "home": {
+                    "id": 6021,
+                    "name": "HIK",
+                    "logo": "https://media.api-sports.io/football/teams/6021.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 6018,
+                    "name": "Frem",
+                    "logo": "https://media.api-sports.io/football/teams/6018.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": null,
+                    "away": null
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 425309,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2016-08-27T11:00:00+00:00",
+                "timestamp": 1472295600,
+                "periods": {
+                    "first": 1472295600,
+                    "second": 1472299200
+                },
+                "venue": {
+                    "id": 7597,
+                    "name": "Fredensborg Stadion",
+                    "city": "Fredensborg"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": null
+                }
+            },
+            "league": {
+                "id": 122,
+                "name": "2nd Division - Group 1",
+                "country": "Denmark",
+                "logo": "https://media.api-sports.io/football/leagues/122.png",
+                "flag": "https://media.api-sports.io/flags/dk.svg",
+                "season": 2016,
+                "round": "Regular Season - 4",
+                "standings": false
+            },
+            "teams": {
+                "home": {
+                    "id": 11522,
+                    "name": "Fredensborg BI",
+                    "logo": "https://media.api-sports.io/football/teams/11522.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 6006,
+                    "name": "Avarta",
+                    "logo": "https://media.api-sports.io/football/teams/6006.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": null,
+                    "away": null
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 425310,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2016-08-27T13:00:00+00:00",
+                "timestamp": 1472302800,
+                "periods": {
+                    "first": 1472302800,
+                    "second": 1472306400
+                },
+                "venue": {
+                    "id": 4471,
+                    "name": "Østerbro Stadion",
+                    "city": "København"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": null
+                }
+            },
+            "league": {
+                "id": 122,
+                "name": "2nd Division - Group 1",
+                "country": "Denmark",
+                "logo": "https://media.api-sports.io/football/leagues/122.png",
+                "flag": "https://media.api-sports.io/flags/dk.svg",
+                "season": 2016,
+                "round": "Regular Season - 4",
+                "standings": false
+            },
+            "teams": {
+                "home": {
+                    "id": 6009,
+                    "name": "B 93",
+                    "logo": "https://media.api-sports.io/football/teams/6009.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 6027,
+                    "name": "Holbæk B&I",
+                    "logo": "https://media.api-sports.io/football/teams/6027.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": null,
+                    "away": null
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 425311,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2016-08-27T13:00:00+00:00",
+                "timestamp": 1472302800,
+                "periods": {
+                    "first": 1472302800,
+                    "second": 1472306400
+                },
+                "venue": {
+                    "id": 4473,
+                    "name": "Tingbjerg Idrætspark",
+                    "city": "Brønshøj"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": null
+                }
+            },
+            "league": {
+                "id": 122,
+                "name": "2nd Division - Group 1",
+                "country": "Denmark",
+                "logo": "https://media.api-sports.io/football/leagues/122.png",
+                "flag": "https://media.api-sports.io/flags/dk.svg",
+                "season": 2016,
+                "round": "Regular Season - 4",
+                "standings": false
+            },
+            "teams": {
+                "home": {
+                    "id": 6012,
+                    "name": "Brønshøj",
+                    "logo": "https://media.api-sports.io/football/teams/6012.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 2072,
+                    "name": "Hvidovre",
+                    "logo": "https://media.api-sports.io/football/teams/2072.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": null,
+                    "away": null
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 425312,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2016-09-03T13:00:00+00:00",
+                "timestamp": 1472907600,
+                "periods": {
+                    "first": 1472907600,
+                    "second": 1472911200
+                },
+                "venue": {
+                    "id": 4477,
+                    "name": "Valby Idrætspark",
+                    "city": "København"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": null
+                }
+            },
+            "league": {
+                "id": 122,
+                "name": "2nd Division - Group 1",
+                "country": "Denmark",
+                "logo": "https://media.api-sports.io/football/leagues/122.png",
+                "flag": "https://media.api-sports.io/flags/dk.svg",
+                "season": 2016,
+                "round": "Regular Season - 5",
+                "standings": false
+            },
+            "teams": {
+                "home": {
+                    "id": 6018,
+                    "name": "Frem",
+                    "logo": "https://media.api-sports.io/football/teams/6018.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 6012,
+                    "name": "Brønshøj",
+                    "logo": "https://media.api-sports.io/football/teams/6012.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": null,
+                    "away": null
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 425314,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2016-09-04T11:00:00+00:00",
+                "timestamp": 1472986800,
+                "periods": {
+                    "first": 1472986800,
+                    "second": 1472990400
+                },
+                "venue": {
+                    "id": 4469,
+                    "name": "Espelundens Idrætsanlæg",
+                    "city": "Rødovre"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": null
+                }
+            },
+            "league": {
+                "id": 122,
+                "name": "2nd Division - Group 1",
+                "country": "Denmark",
+                "logo": "https://media.api-sports.io/football/leagues/122.png",
+                "flag": "https://media.api-sports.io/flags/dk.svg",
+                "season": 2016,
+                "round": "Regular Season - 5",
+                "standings": false
+            },
+            "teams": {
+                "home": {
+                    "id": 6006,
+                    "name": "Avarta",
+                    "logo": "https://media.api-sports.io/football/teams/6006.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 6009,
+                    "name": "B 93",
+                    "logo": "https://media.api-sports.io/football/teams/6009.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": null,
+                    "away": null
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 425313,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2016-09-04T11:00:00+00:00",
+                "timestamp": 1472986800,
+                "periods": {
+                    "first": 1472986800,
+                    "second": 1472990400
+                },
+                "venue": {
+                    "id": 4482,
+                    "name": "SuRi Park",
+                    "city": "Holbæk"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": null
+                }
+            },
+            "league": {
+                "id": 122,
+                "name": "2nd Division - Group 1",
+                "country": "Denmark",
+                "logo": "https://media.api-sports.io/football/leagues/122.png",
+                "flag": "https://media.api-sports.io/flags/dk.svg",
+                "season": 2016,
+                "round": "Regular Season - 5",
+                "standings": false
+            },
+            "teams": {
+                "home": {
+                    "id": 6027,
+                    "name": "Holbæk B&I",
+                    "logo": "https://media.api-sports.io/football/teams/6027.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 11522,
+                    "name": "Fredensborg BI",
+                    "logo": "https://media.api-sports.io/football/teams/11522.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": null,
+                    "away": null
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 425315,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2016-09-04T13:00:00+00:00",
+                "timestamp": 1472994000,
+                "periods": {
+                    "first": 1472994000,
+                    "second": 1472997600
+                },
+                "venue": {
+                    "id": 4470,
+                    "name": "Avedøre Stadion",
+                    "city": "Hvidovre"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": null
+                }
+            },
+            "league": {
+                "id": 122,
+                "name": "2nd Division - Group 1",
+                "country": "Denmark",
+                "logo": "https://media.api-sports.io/football/leagues/122.png",
+                "flag": "https://media.api-sports.io/flags/dk.svg",
+                "season": 2016,
+                "round": "Regular Season - 5",
+                "standings": false
+            },
+            "teams": {
+                "home": {
+                    "id": 2072,
+                    "name": "Hvidovre",
+                    "logo": "https://media.api-sports.io/football/teams/2072.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 6021,
+                    "name": "HIK",
+                    "logo": "https://media.api-sports.io/football/teams/6021.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": null,
+                    "away": null
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 425316,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2016-09-09T17:00:00+00:00",
+                "timestamp": 1473440400,
+                "periods": {
+                    "first": 1473440400,
+                    "second": 1473444000
+                },
+                "venue": {
+                    "id": 4482,
+                    "name": "SuRi Park",
+                    "city": "Holbæk"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": null
+                }
+            },
+            "league": {
+                "id": 122,
+                "name": "2nd Division - Group 1",
+                "country": "Denmark",
+                "logo": "https://media.api-sports.io/football/leagues/122.png",
+                "flag": "https://media.api-sports.io/flags/dk.svg",
+                "season": 2016,
+                "round": "Regular Season - 6",
+                "standings": false
+            },
+            "teams": {
+                "home": {
+                    "id": 6027,
+                    "name": "Holbæk B&I",
+                    "logo": "https://media.api-sports.io/football/teams/6027.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 6006,
+                    "name": "Avarta",
+                    "logo": "https://media.api-sports.io/football/teams/6006.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": null,
+                    "away": null
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 425317,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2016-09-10T11:00:00+00:00",
+                "timestamp": 1473505200,
+                "periods": {
+                    "first": 1473505200,
+                    "second": 1473508800
+                },
+                "venue": {
+                    "id": 4478,
+                    "name": "Gentofte Sportspark",
+                    "city": "Gentofte"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": null
+                }
+            },
+            "league": {
+                "id": 122,
+                "name": "2nd Division - Group 1",
+                "country": "Denmark",
+                "logo": "https://media.api-sports.io/football/leagues/122.png",
+                "flag": "https://media.api-sports.io/flags/dk.svg",
+                "season": 2016,
+                "round": "Regular Season - 6",
+                "standings": false
+            },
+            "teams": {
+                "home": {
+                    "id": 6021,
+                    "name": "HIK",
+                    "logo": "https://media.api-sports.io/football/teams/6021.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 6009,
+                    "name": "B 93",
+                    "logo": "https://media.api-sports.io/football/teams/6009.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": null,
+                    "away": null
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 425318,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2016-09-10T11:00:00+00:00",
+                "timestamp": 1473505200,
+                "periods": {
+                    "first": 1473505200,
+                    "second": 1473508800
+                },
+                "venue": {
+                    "id": 7597,
+                    "name": "Fredensborg Stadion",
+                    "city": "Fredensborg"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": null
+                }
+            },
+            "league": {
+                "id": 122,
+                "name": "2nd Division - Group 1",
+                "country": "Denmark",
+                "logo": "https://media.api-sports.io/football/leagues/122.png",
+                "flag": "https://media.api-sports.io/flags/dk.svg",
+                "season": 2016,
+                "round": "Regular Season - 6",
+                "standings": false
+            },
+            "teams": {
+                "home": {
+                    "id": 11522,
+                    "name": "Fredensborg BI",
+                    "logo": "https://media.api-sports.io/football/teams/11522.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 6012,
+                    "name": "Brønshøj",
+                    "logo": "https://media.api-sports.io/football/teams/6012.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": null,
+                    "away": null
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 425332,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2016-09-10T13:00:00+00:00",
+                "timestamp": 1473512400,
+                "periods": {
+                    "first": 1473512400,
+                    "second": 1473516000
+                },
+                "venue": {
+                    "id": 4477,
+                    "name": "Valby Idrætspark",
+                    "city": "København"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": null
+                }
+            },
+            "league": {
+                "id": 122,
+                "name": "2nd Division - Group 1",
+                "country": "Denmark",
+                "logo": "https://media.api-sports.io/football/leagues/122.png",
+                "flag": "https://media.api-sports.io/flags/dk.svg",
+                "season": 2016,
+                "round": "Regular Season - 10",
+                "standings": false
+            },
+            "teams": {
+                "home": {
+                    "id": 6018,
+                    "name": "Frem",
+                    "logo": "https://media.api-sports.io/football/teams/6018.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 2072,
+                    "name": "Hvidovre",
+                    "logo": "https://media.api-sports.io/football/teams/2072.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": null,
+                    "away": null
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 425320,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2016-09-17T13:00:00+00:00",
+                "timestamp": 1474117200,
+                "periods": {
+                    "first": 1474117200,
+                    "second": 1474120800
+                },
+                "venue": {
+                    "id": 4473,
+                    "name": "Tingbjerg Idrætspark",
+                    "city": "Brønshøj"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": null
+                }
+            },
+            "league": {
+                "id": 122,
+                "name": "2nd Division - Group 1",
+                "country": "Denmark",
+                "logo": "https://media.api-sports.io/football/leagues/122.png",
+                "flag": "https://media.api-sports.io/flags/dk.svg",
+                "season": 2016,
+                "round": "Regular Season - 7",
+                "standings": false
+            },
+            "teams": {
+                "home": {
+                    "id": 6012,
+                    "name": "Brønshøj",
+                    "logo": "https://media.api-sports.io/football/teams/6012.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 6021,
+                    "name": "HIK",
+                    "logo": "https://media.api-sports.io/football/teams/6021.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": null,
+                    "away": null
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 425321,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2016-09-17T13:00:00+00:00",
+                "timestamp": 1474117200,
+                "periods": {
+                    "first": 1474117200,
+                    "second": 1474120800
+                },
+                "venue": {
+                    "id": 4477,
+                    "name": "Valby Idrætspark",
+                    "city": "København"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": null
+                }
+            },
+            "league": {
+                "id": 122,
+                "name": "2nd Division - Group 1",
+                "country": "Denmark",
+                "logo": "https://media.api-sports.io/football/leagues/122.png",
+                "flag": "https://media.api-sports.io/flags/dk.svg",
+                "season": 2016,
+                "round": "Regular Season - 7",
+                "standings": false
+            },
+            "teams": {
+                "home": {
+                    "id": 6018,
+                    "name": "Frem",
+                    "logo": "https://media.api-sports.io/football/teams/6018.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 6027,
+                    "name": "Holbæk B&I",
+                    "logo": "https://media.api-sports.io/football/teams/6027.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 5,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": null,
+                    "away": null
+                },
+                "fulltime": {
+                    "home": 5,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 425322,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2016-09-18T11:00:00+00:00",
+                "timestamp": 1474196400,
+                "periods": {
+                    "first": 1474196400,
+                    "second": 1474200000
+                },
+                "venue": {
+                    "id": 4469,
+                    "name": "Espelundens Idrætsanlæg",
+                    "city": "Rødovre"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": null
+                }
+            },
+            "league": {
+                "id": 122,
+                "name": "2nd Division - Group 1",
+                "country": "Denmark",
+                "logo": "https://media.api-sports.io/football/leagues/122.png",
+                "flag": "https://media.api-sports.io/flags/dk.svg",
+                "season": 2016,
+                "round": "Regular Season - 7",
+                "standings": false
+            },
+            "teams": {
+                "home": {
+                    "id": 6006,
+                    "name": "Avarta",
+                    "logo": "https://media.api-sports.io/football/teams/6006.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 2072,
+                    "name": "Hvidovre",
+                    "logo": "https://media.api-sports.io/football/teams/2072.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": null,
+                    "away": null
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 425324,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2016-09-23T16:30:00+00:00",
+                "timestamp": 1474648200,
+                "periods": {
+                    "first": 1474648200,
+                    "second": 1474651800
+                },
+                "venue": {
+                    "id": 4478,
+                    "name": "Gentofte Sportspark",
+                    "city": "Gentofte"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": null
+                }
+            },
+            "league": {
+                "id": 122,
+                "name": "2nd Division - Group 1",
+                "country": "Denmark",
+                "logo": "https://media.api-sports.io/football/leagues/122.png",
+                "flag": "https://media.api-sports.io/flags/dk.svg",
+                "season": 2016,
+                "round": "Regular Season - 8",
+                "standings": false
+            },
+            "teams": {
+                "home": {
+                    "id": 6021,
+                    "name": "HIK",
+                    "logo": "https://media.api-sports.io/football/teams/6021.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 6006,
+                    "name": "Avarta",
+                    "logo": "https://media.api-sports.io/football/teams/6006.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 3
+            },
+            "score": {
+                "halftime": {
+                    "home": null,
+                    "away": null
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 3
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 425325,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2016-09-24T11:00:00+00:00",
+                "timestamp": 1474714800,
+                "periods": {
+                    "first": 1474714800,
+                    "second": 1474718400
+                },
+                "venue": {
+                    "id": 4471,
+                    "name": "Østerbro Stadion",
+                    "city": "København"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": null
+                }
+            },
+            "league": {
+                "id": 122,
+                "name": "2nd Division - Group 1",
+                "country": "Denmark",
+                "logo": "https://media.api-sports.io/football/leagues/122.png",
+                "flag": "https://media.api-sports.io/flags/dk.svg",
+                "season": 2016,
+                "round": "Regular Season - 8",
+                "standings": false
+            },
+            "teams": {
+                "home": {
+                    "id": 6009,
+                    "name": "B 93",
+                    "logo": "https://media.api-sports.io/football/teams/6009.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 6018,
+                    "name": "Frem",
+                    "logo": "https://media.api-sports.io/football/teams/6018.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": null,
+                    "away": null
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 425326,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2016-09-24T11:00:00+00:00",
+                "timestamp": 1474714800,
+                "periods": {
+                    "first": 1474714800,
+                    "second": 1474718400
+                },
+                "venue": {
+                    "id": 7597,
+                    "name": "Fredensborg Stadion",
+                    "city": "Fredensborg"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": null
+                }
+            },
+            "league": {
+                "id": 122,
+                "name": "2nd Division - Group 1",
+                "country": "Denmark",
+                "logo": "https://media.api-sports.io/football/leagues/122.png",
+                "flag": "https://media.api-sports.io/flags/dk.svg",
+                "season": 2016,
+                "round": "Regular Season - 8",
+                "standings": false
+            },
+            "teams": {
+                "home": {
+                    "id": 11522,
+                    "name": "Fredensborg BI",
+                    "logo": "https://media.api-sports.io/football/teams/11522.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 2072,
+                    "name": "Hvidovre",
+                    "logo": "https://media.api-sports.io/football/teams/2072.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": null,
+                    "away": null
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 425327,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2016-09-25T11:00:00+00:00",
+                "timestamp": 1474801200,
+                "periods": {
+                    "first": 1474801200,
+                    "second": 1474804800
+                },
+                "venue": {
+                    "id": 4482,
+                    "name": "SuRi Park",
+                    "city": "Holbæk"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": null
+                }
+            },
+            "league": {
+                "id": 122,
+                "name": "2nd Division - Group 1",
+                "country": "Denmark",
+                "logo": "https://media.api-sports.io/football/leagues/122.png",
+                "flag": "https://media.api-sports.io/flags/dk.svg",
+                "season": 2016,
+                "round": "Regular Season - 8",
+                "standings": false
+            },
+            "teams": {
+                "home": {
+                    "id": 6027,
+                    "name": "Holbæk B&I",
+                    "logo": "https://media.api-sports.io/football/teams/6027.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 6012,
+                    "name": "Brønshøj",
+                    "logo": "https://media.api-sports.io/football/teams/6012.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": null,
+                    "away": null
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 425328,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2016-09-30T16:30:00+00:00",
+                "timestamp": 1475253000,
+                "periods": {
+                    "first": 1475253000,
+                    "second": 1475256600
+                },
+                "venue": {
+                    "id": null,
+                    "name": "Kæmpernes Arena",
+                    "city": "Hvidovre"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": null
+                }
+            },
+            "league": {
+                "id": 122,
+                "name": "2nd Division - Group 1",
+                "country": "Denmark",
+                "logo": "https://media.api-sports.io/football/leagues/122.png",
+                "flag": "https://media.api-sports.io/flags/dk.svg",
+                "season": 2016,
+                "round": "Regular Season - 9",
+                "standings": false
+            },
+            "teams": {
+                "home": {
+                    "id": 2072,
+                    "name": "Hvidovre",
+                    "logo": "https://media.api-sports.io/football/teams/2072.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 6009,
+                    "name": "B 93",
+                    "logo": "https://media.api-sports.io/football/teams/6009.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": null,
+                    "away": null
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 425329,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2016-10-01T11:00:00+00:00",
+                "timestamp": 1475319600,
+                "periods": {
+                    "first": 1475319600,
+                    "second": 1475323200
+                },
+                "venue": {
+                    "id": 4478,
+                    "name": "Gentofte Sportspark",
+                    "city": "Gentofte"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": null
+                }
+            },
+            "league": {
+                "id": 122,
+                "name": "2nd Division - Group 1",
+                "country": "Denmark",
+                "logo": "https://media.api-sports.io/football/leagues/122.png",
+                "flag": "https://media.api-sports.io/flags/dk.svg",
+                "season": 2016,
+                "round": "Regular Season - 9",
+                "standings": false
+            },
+            "teams": {
+                "home": {
+                    "id": 6021,
+                    "name": "HIK",
+                    "logo": "https://media.api-sports.io/football/teams/6021.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 6027,
+                    "name": "Holbæk B&I",
+                    "logo": "https://media.api-sports.io/football/teams/6027.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 3,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": null,
+                    "away": null
+                },
+                "fulltime": {
+                    "home": 3,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 425330,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2016-10-01T13:00:00+00:00",
+                "timestamp": 1475326800,
+                "periods": {
+                    "first": 1475326800,
+                    "second": 1475330400
+                },
+                "venue": {
+                    "id": 4473,
+                    "name": "Tingbjerg Idrætspark",
+                    "city": "Brønshøj"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": null
+                }
+            },
+            "league": {
+                "id": 122,
+                "name": "2nd Division - Group 1",
+                "country": "Denmark",
+                "logo": "https://media.api-sports.io/football/leagues/122.png",
+                "flag": "https://media.api-sports.io/flags/dk.svg",
+                "season": 2016,
+                "round": "Regular Season - 9",
+                "standings": false
+            },
+            "teams": {
+                "home": {
+                    "id": 6012,
+                    "name": "Brønshøj",
+                    "logo": "https://media.api-sports.io/football/teams/6012.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 6018,
+                    "name": "Frem",
+                    "logo": "https://media.api-sports.io/football/teams/6018.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": null,
+                    "away": null
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 425331,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2016-10-02T11:00:00+00:00",
+                "timestamp": 1475406000,
+                "periods": {
+                    "first": 1475406000,
+                    "second": 1475409600
+                },
+                "venue": {
+                    "id": 4469,
+                    "name": "Espelundens Idrætsanlæg",
+                    "city": "Rødovre"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": null
+                }
+            },
+            "league": {
+                "id": 122,
+                "name": "2nd Division - Group 1",
+                "country": "Denmark",
+                "logo": "https://media.api-sports.io/football/leagues/122.png",
+                "flag": "https://media.api-sports.io/flags/dk.svg",
+                "season": 2016,
+                "round": "Regular Season - 9",
+                "standings": false
+            },
+            "teams": {
+                "home": {
+                    "id": 6006,
+                    "name": "Avarta",
+                    "logo": "https://media.api-sports.io/football/teams/6006.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 11522,
+                    "name": "Fredensborg BI",
+                    "logo": "https://media.api-sports.io/football/teams/11522.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 4,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": null,
+                    "away": null
+                },
+                "fulltime": {
+                    "home": 4,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 425323,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2016-10-05T17:00:00+00:00",
+                "timestamp": 1475686800,
+                "periods": {
+                    "first": 1475686800,
+                    "second": 1475690400
+                },
+                "venue": {
+                    "id": 4471,
+                    "name": "Østerbro Stadion",
+                    "city": "København"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": null
+                }
+            },
+            "league": {
+                "id": 122,
+                "name": "2nd Division - Group 1",
+                "country": "Denmark",
+                "logo": "https://media.api-sports.io/football/leagues/122.png",
+                "flag": "https://media.api-sports.io/flags/dk.svg",
+                "season": 2016,
+                "round": "Regular Season - 7",
+                "standings": false
+            },
+            "teams": {
+                "home": {
+                    "id": 6009,
+                    "name": "B 93",
+                    "logo": "https://media.api-sports.io/football/teams/6009.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 11522,
+                    "name": "Fredensborg BI",
+                    "logo": "https://media.api-sports.io/football/teams/11522.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": null,
+                    "away": null
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 425333,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2016-10-08T11:00:00+00:00",
+                "timestamp": 1475924400,
+                "periods": {
+                    "first": 1475924400,
+                    "second": 1475928000
+                },
+                "venue": {
+                    "id": 7597,
+                    "name": "Fredensborg Stadion",
+                    "city": "Fredensborg"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": null
+                }
+            },
+            "league": {
+                "id": 122,
+                "name": "2nd Division - Group 1",
+                "country": "Denmark",
+                "logo": "https://media.api-sports.io/football/leagues/122.png",
+                "flag": "https://media.api-sports.io/flags/dk.svg",
+                "season": 2016,
+                "round": "Regular Season - 10",
+                "standings": false
+            },
+            "teams": {
+                "home": {
+                    "id": 11522,
+                    "name": "Fredensborg BI",
+                    "logo": "https://media.api-sports.io/football/teams/11522.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 6027,
+                    "name": "Holbæk B&I",
+                    "logo": "https://media.api-sports.io/football/teams/6027.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": null,
+                    "away": null
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 425319,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2016-10-08T13:00:00+00:00",
+                "timestamp": 1475931600,
+                "periods": {
+                    "first": 1475931600,
+                    "second": 1475935200
+                },
+                "venue": {
+                    "id": null,
+                    "name": "Kæmpernes Arena",
+                    "city": "Hvidovre"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": null
+                }
+            },
+            "league": {
+                "id": 122,
+                "name": "2nd Division - Group 1",
+                "country": "Denmark",
+                "logo": "https://media.api-sports.io/football/leagues/122.png",
+                "flag": "https://media.api-sports.io/flags/dk.svg",
+                "season": 2016,
+                "round": "Regular Season - 6",
+                "standings": false
+            },
+            "teams": {
+                "home": {
+                    "id": 2072,
+                    "name": "Hvidovre",
+                    "logo": "https://media.api-sports.io/football/teams/2072.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 6018,
+                    "name": "Frem",
+                    "logo": "https://media.api-sports.io/football/teams/6018.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 4,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": null,
+                    "away": null
+                },
+                "fulltime": {
+                    "home": 4,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 425334,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2016-10-08T13:00:00+00:00",
+                "timestamp": 1475931600,
+                "periods": {
+                    "first": 1475931600,
+                    "second": 1475935200
+                },
+                "venue": {
+                    "id": 4471,
+                    "name": "Østerbro Stadion",
+                    "city": "København"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": null
+                }
+            },
+            "league": {
+                "id": 122,
+                "name": "2nd Division - Group 1",
+                "country": "Denmark",
+                "logo": "https://media.api-sports.io/football/leagues/122.png",
+                "flag": "https://media.api-sports.io/flags/dk.svg",
+                "season": 2016,
+                "round": "Regular Season - 10",
+                "standings": false
+            },
+            "teams": {
+                "home": {
+                    "id": 6009,
+                    "name": "B 93",
+                    "logo": "https://media.api-sports.io/football/teams/6009.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 6021,
+                    "name": "HIK",
+                    "logo": "https://media.api-sports.io/football/teams/6021.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 4,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": null,
+                    "away": null
+                },
+                "fulltime": {
+                    "home": 4,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 425335,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2016-10-08T13:00:00+00:00",
+                "timestamp": 1475931600,
+                "periods": {
+                    "first": 1475931600,
+                    "second": 1475935200
+                },
+                "venue": {
+                    "id": 4473,
+                    "name": "Tingbjerg Idrætspark",
+                    "city": "Brønshøj"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": null
+                }
+            },
+            "league": {
+                "id": 122,
+                "name": "2nd Division - Group 1",
+                "country": "Denmark",
+                "logo": "https://media.api-sports.io/football/leagues/122.png",
+                "flag": "https://media.api-sports.io/flags/dk.svg",
+                "season": 2016,
+                "round": "Regular Season - 10",
+                "standings": false
+            },
+            "teams": {
+                "home": {
+                    "id": 6012,
+                    "name": "Brønshøj",
+                    "logo": "https://media.api-sports.io/football/teams/6012.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 6006,
+                    "name": "Avarta",
+                    "logo": "https://media.api-sports.io/football/teams/6006.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 3
+            },
+            "score": {
+                "halftime": {
+                    "home": null,
+                    "away": null
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 3
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 425336,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2016-10-14T16:30:00+00:00",
+                "timestamp": 1476462600,
+                "periods": {
+                    "first": 1476462600,
+                    "second": 1476466200
+                },
+                "venue": {
+                    "id": null,
+                    "name": "Kæmpernes Arena",
+                    "city": "Hvidovre"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": null
+                }
+            },
+            "league": {
+                "id": 122,
+                "name": "2nd Division - Group 1",
+                "country": "Denmark",
+                "logo": "https://media.api-sports.io/football/leagues/122.png",
+                "flag": "https://media.api-sports.io/flags/dk.svg",
+                "season": 2016,
+                "round": "Regular Season - 11",
+                "standings": false
+            },
+            "teams": {
+                "home": {
+                    "id": 2072,
+                    "name": "Hvidovre",
+                    "logo": "https://media.api-sports.io/football/teams/2072.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 6006,
+                    "name": "Avarta",
+                    "logo": "https://media.api-sports.io/football/teams/6006.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": null,
+                    "away": null
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 425337,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2016-10-15T11:00:00+00:00",
+                "timestamp": 1476529200,
+                "periods": {
+                    "first": 1476529200,
+                    "second": 1476532800
+                },
+                "venue": {
+                    "id": 4478,
+                    "name": "Gentofte Sportspark",
+                    "city": "Gentofte"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": null
+                }
+            },
+            "league": {
+                "id": 122,
+                "name": "2nd Division - Group 1",
+                "country": "Denmark",
+                "logo": "https://media.api-sports.io/football/leagues/122.png",
+                "flag": "https://media.api-sports.io/flags/dk.svg",
+                "season": 2016,
+                "round": "Regular Season - 11",
+                "standings": false
+            },
+            "teams": {
+                "home": {
+                    "id": 6021,
+                    "name": "HIK",
+                    "logo": "https://media.api-sports.io/football/teams/6021.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 6012,
+                    "name": "Brønshøj",
+                    "logo": "https://media.api-sports.io/football/teams/6012.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 3
+            },
+            "score": {
+                "halftime": {
+                    "home": null,
+                    "away": null
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 3
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 425338,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2016-10-15T13:00:00+00:00",
+                "timestamp": 1476536400,
+                "periods": {
+                    "first": 1476536400,
+                    "second": 1476540000
+                },
+                "venue": {
+                    "id": 4477,
+                    "name": "Valby Idrætspark",
+                    "city": "København"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": null
+                }
+            },
+            "league": {
+                "id": 122,
+                "name": "2nd Division - Group 1",
+                "country": "Denmark",
+                "logo": "https://media.api-sports.io/football/leagues/122.png",
+                "flag": "https://media.api-sports.io/flags/dk.svg",
+                "season": 2016,
+                "round": "Regular Season - 11",
+                "standings": false
+            },
+            "teams": {
+                "home": {
+                    "id": 6018,
+                    "name": "Frem",
+                    "logo": "https://media.api-sports.io/football/teams/6018.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 11522,
+                    "name": "Fredensborg BI",
+                    "logo": "https://media.api-sports.io/football/teams/11522.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 3,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": null,
+                    "away": null
+                },
+                "fulltime": {
+                    "home": 3,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 425339,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2016-10-16T11:00:00+00:00",
+                "timestamp": 1476615600,
+                "periods": {
+                    "first": 1476615600,
+                    "second": 1476619200
+                },
+                "venue": {
+                    "id": 4482,
+                    "name": "SuRi Park",
+                    "city": "Holbæk"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": null
+                }
+            },
+            "league": {
+                "id": 122,
+                "name": "2nd Division - Group 1",
+                "country": "Denmark",
+                "logo": "https://media.api-sports.io/football/leagues/122.png",
+                "flag": "https://media.api-sports.io/flags/dk.svg",
+                "season": 2016,
+                "round": "Regular Season - 11",
+                "standings": false
+            },
+            "teams": {
+                "home": {
+                    "id": 6027,
+                    "name": "Holbæk B&I",
+                    "logo": "https://media.api-sports.io/football/teams/6027.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 6009,
+                    "name": "B 93",
+                    "logo": "https://media.api-sports.io/football/teams/6009.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 3
+            },
+            "score": {
+                "halftime": {
+                    "home": null,
+                    "away": null
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 3
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 425340,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2016-10-21T16:30:00+00:00",
+                "timestamp": 1477067400,
+                "periods": {
+                    "first": 1477067400,
+                    "second": 1477071000
+                },
+                "venue": {
+                    "id": null,
+                    "name": "Kæmpernes Arena",
+                    "city": "Hvidovre"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": null
+                }
+            },
+            "league": {
+                "id": 122,
+                "name": "2nd Division - Group 1",
+                "country": "Denmark",
+                "logo": "https://media.api-sports.io/football/leagues/122.png",
+                "flag": "https://media.api-sports.io/flags/dk.svg",
+                "season": 2016,
+                "round": "Regular Season - 12",
+                "standings": false
+            },
+            "teams": {
+                "home": {
+                    "id": 2072,
+                    "name": "Hvidovre",
+                    "logo": "https://media.api-sports.io/football/teams/2072.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 6027,
+                    "name": "Holbæk B&I",
+                    "logo": "https://media.api-sports.io/football/teams/6027.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": null,
+                    "away": null
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 425341,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2016-10-22T11:00:00+00:00",
+                "timestamp": 1477134000,
+                "periods": {
+                    "first": 1477134000,
+                    "second": 1477137600
+                },
+                "venue": {
+                    "id": 7597,
+                    "name": "Fredensborg Stadion",
+                    "city": "Fredensborg"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": null
+                }
+            },
+            "league": {
+                "id": 122,
+                "name": "2nd Division - Group 1",
+                "country": "Denmark",
+                "logo": "https://media.api-sports.io/football/leagues/122.png",
+                "flag": "https://media.api-sports.io/flags/dk.svg",
+                "season": 2016,
+                "round": "Regular Season - 12",
+                "standings": false
+            },
+            "teams": {
+                "home": {
+                    "id": 11522,
+                    "name": "Fredensborg BI",
+                    "logo": "https://media.api-sports.io/football/teams/11522.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 6021,
+                    "name": "HIK",
+                    "logo": "https://media.api-sports.io/football/teams/6021.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 4
+            },
+            "score": {
+                "halftime": {
+                    "home": null,
+                    "away": null
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 4
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 425342,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2016-10-22T13:00:00+00:00",
+                "timestamp": 1477141200,
+                "periods": {
+                    "first": 1477141200,
+                    "second": 1477144800
+                },
+                "venue": {
+                    "id": 4473,
+                    "name": "Tingbjerg Idrætspark",
+                    "city": "Brønshøj"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": null
+                }
+            },
+            "league": {
+                "id": 122,
+                "name": "2nd Division - Group 1",
+                "country": "Denmark",
+                "logo": "https://media.api-sports.io/football/leagues/122.png",
+                "flag": "https://media.api-sports.io/flags/dk.svg",
+                "season": 2016,
+                "round": "Regular Season - 12",
+                "standings": false
+            },
+            "teams": {
+                "home": {
+                    "id": 6012,
+                    "name": "Brønshøj",
+                    "logo": "https://media.api-sports.io/football/teams/6012.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 6009,
+                    "name": "B 93",
+                    "logo": "https://media.api-sports.io/football/teams/6009.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": null,
+                    "away": null
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 425343,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2016-10-23T11:00:00+00:00",
+                "timestamp": 1477220400,
+                "periods": {
+                    "first": 1477220400,
+                    "second": 1477224000
+                },
+                "venue": {
+                    "id": 4469,
+                    "name": "Espelundens Idrætsanlæg",
+                    "city": "Rødovre"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": null
+                }
+            },
+            "league": {
+                "id": 122,
+                "name": "2nd Division - Group 1",
+                "country": "Denmark",
+                "logo": "https://media.api-sports.io/football/leagues/122.png",
+                "flag": "https://media.api-sports.io/flags/dk.svg",
+                "season": 2016,
+                "round": "Regular Season - 12",
+                "standings": false
+            },
+            "teams": {
+                "home": {
+                    "id": 6006,
+                    "name": "Avarta",
+                    "logo": "https://media.api-sports.io/football/teams/6006.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 6018,
+                    "name": "Frem",
+                    "logo": "https://media.api-sports.io/football/teams/6018.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": null,
+                    "away": null
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 425344,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2016-10-29T12:00:00+00:00",
+                "timestamp": 1477742400,
+                "periods": {
+                    "first": 1477742400,
+                    "second": 1477746000
+                },
+                "venue": {
+                    "id": 4471,
+                    "name": "Østerbro Stadion",
+                    "city": "København"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": null
+                }
+            },
+            "league": {
+                "id": 122,
+                "name": "2nd Division - Group 1",
+                "country": "Denmark",
+                "logo": "https://media.api-sports.io/football/leagues/122.png",
+                "flag": "https://media.api-sports.io/flags/dk.svg",
+                "season": 2016,
+                "round": "Regular Season - 13",
+                "standings": false
+            },
+            "teams": {
+                "home": {
+                    "id": 6009,
+                    "name": "B 93",
+                    "logo": "https://media.api-sports.io/football/teams/6009.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 6006,
+                    "name": "Avarta",
+                    "logo": "https://media.api-sports.io/football/teams/6006.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": null,
+                    "away": null
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 425345,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2016-10-29T12:00:00+00:00",
+                "timestamp": 1477742400,
+                "periods": {
+                    "first": 1477742400,
+                    "second": 1477746000
+                },
+                "venue": {
+                    "id": 4473,
+                    "name": "Tingbjerg Idrætspark",
+                    "city": "Brønshøj"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": null
+                }
+            },
+            "league": {
+                "id": 122,
+                "name": "2nd Division - Group 1",
+                "country": "Denmark",
+                "logo": "https://media.api-sports.io/football/leagues/122.png",
+                "flag": "https://media.api-sports.io/flags/dk.svg",
+                "season": 2016,
+                "round": "Regular Season - 13",
+                "standings": false
+            },
+            "teams": {
+                "home": {
+                    "id": 6012,
+                    "name": "Brønshøj",
+                    "logo": "https://media.api-sports.io/football/teams/6012.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 11522,
+                    "name": "Fredensborg BI",
+                    "logo": "https://media.api-sports.io/football/teams/11522.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 3,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": null,
+                    "away": null
+                },
+                "fulltime": {
+                    "home": 3,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 425346,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2016-10-29T12:00:00+00:00",
+                "timestamp": 1477742400,
+                "periods": {
+                    "first": 1477742400,
+                    "second": 1477746000
+                },
+                "venue": {
+                    "id": 4478,
+                    "name": "Gentofte Sportspark",
+                    "city": "Gentofte"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": null
+                }
+            },
+            "league": {
+                "id": 122,
+                "name": "2nd Division - Group 1",
+                "country": "Denmark",
+                "logo": "https://media.api-sports.io/football/leagues/122.png",
+                "flag": "https://media.api-sports.io/flags/dk.svg",
+                "season": 2016,
+                "round": "Regular Season - 13",
+                "standings": false
+            },
+            "teams": {
+                "home": {
+                    "id": 6021,
+                    "name": "HIK",
+                    "logo": "https://media.api-sports.io/football/teams/6021.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 2072,
+                    "name": "Hvidovre",
+                    "logo": "https://media.api-sports.io/football/teams/2072.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": null,
+                    "away": null
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 425347,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2016-10-29T12:00:00+00:00",
+                "timestamp": 1477742400,
+                "periods": {
+                    "first": 1477742400,
+                    "second": 1477746000
+                },
+                "venue": {
+                    "id": 4482,
+                    "name": "SuRi Park",
+                    "city": "Holbæk"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": null
+                }
+            },
+            "league": {
+                "id": 122,
+                "name": "2nd Division - Group 1",
+                "country": "Denmark",
+                "logo": "https://media.api-sports.io/football/leagues/122.png",
+                "flag": "https://media.api-sports.io/flags/dk.svg",
+                "season": 2016,
+                "round": "Regular Season - 13",
+                "standings": false
+            },
+            "teams": {
+                "home": {
+                    "id": 6027,
+                    "name": "Holbæk B&I",
+                    "logo": "https://media.api-sports.io/football/teams/6027.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 6018,
+                    "name": "Frem",
+                    "logo": "https://media.api-sports.io/football/teams/6018.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": null,
+                    "away": null
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 425351,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2016-11-05T13:00:00+00:00",
+                "timestamp": 1478350800,
+                "periods": {
+                    "first": 1478350800,
+                    "second": 1478354400
+                },
+                "venue": {
+                    "id": null,
+                    "name": "Kæmpernes Arena",
+                    "city": "Hvidovre"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": null
+                }
+            },
+            "league": {
+                "id": 122,
+                "name": "2nd Division - Group 1",
+                "country": "Denmark",
+                "logo": "https://media.api-sports.io/football/leagues/122.png",
+                "flag": "https://media.api-sports.io/flags/dk.svg",
+                "season": 2016,
+                "round": "Regular Season - 14",
+                "standings": false
+            },
+            "teams": {
+                "home": {
+                    "id": 2072,
+                    "name": "Hvidovre",
+                    "logo": "https://media.api-sports.io/football/teams/2072.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 6012,
+                    "name": "Brønshøj",
+                    "logo": "https://media.api-sports.io/football/teams/6012.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 3,
+                "away": 3
+            },
+            "score": {
+                "halftime": {
+                    "home": null,
+                    "away": null
+                },
+                "fulltime": {
+                    "home": 3,
+                    "away": 3
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 425349,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2016-11-05T13:00:00+00:00",
+                "timestamp": 1478350800,
+                "periods": {
+                    "first": 1478350800,
+                    "second": 1478354400
+                },
+                "venue": {
+                    "id": 4469,
+                    "name": "Espelundens Idrætsanlæg",
+                    "city": "Rødovre"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": null
+                }
+            },
+            "league": {
+                "id": 122,
+                "name": "2nd Division - Group 1",
+                "country": "Denmark",
+                "logo": "https://media.api-sports.io/football/leagues/122.png",
+                "flag": "https://media.api-sports.io/flags/dk.svg",
+                "season": 2016,
+                "round": "Regular Season - 14",
+                "standings": false
+            },
+            "teams": {
+                "home": {
+                    "id": 6006,
+                    "name": "Avarta",
+                    "logo": "https://media.api-sports.io/football/teams/6006.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 6027,
+                    "name": "Holbæk B&I",
+                    "logo": "https://media.api-sports.io/football/teams/6027.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": null,
+                    "away": null
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 425348,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2016-11-05T13:00:00+00:00",
+                "timestamp": 1478350800,
+                "periods": {
+                    "first": 1478350800,
+                    "second": 1478354400
+                },
+                "venue": {
+                    "id": 4477,
+                    "name": "Valby Idrætspark",
+                    "city": "København"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": null
+                }
+            },
+            "league": {
+                "id": 122,
+                "name": "2nd Division - Group 1",
+                "country": "Denmark",
+                "logo": "https://media.api-sports.io/football/leagues/122.png",
+                "flag": "https://media.api-sports.io/flags/dk.svg",
+                "season": 2016,
+                "round": "Regular Season - 14",
+                "standings": false
+            },
+            "teams": {
+                "home": {
+                    "id": 6018,
+                    "name": "Frem",
+                    "logo": "https://media.api-sports.io/football/teams/6018.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 6021,
+                    "name": "HIK",
+                    "logo": "https://media.api-sports.io/football/teams/6021.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": null,
+                    "away": null
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 425350,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2016-11-05T13:00:00+00:00",
+                "timestamp": 1478350800,
+                "periods": {
+                    "first": 1478350800,
+                    "second": 1478354400
+                },
+                "venue": {
+                    "id": 7597,
+                    "name": "Fredensborg Stadion",
+                    "city": "Fredensborg"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": null
+                }
+            },
+            "league": {
+                "id": 122,
+                "name": "2nd Division - Group 1",
+                "country": "Denmark",
+                "logo": "https://media.api-sports.io/football/leagues/122.png",
+                "flag": "https://media.api-sports.io/flags/dk.svg",
+                "season": 2016,
+                "round": "Regular Season - 14",
+                "standings": false
+            },
+            "teams": {
+                "home": {
+                    "id": 11522,
+                    "name": "Fredensborg BI",
+                    "logo": "https://media.api-sports.io/football/teams/11522.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 6009,
+                    "name": "B 93",
+                    "logo": "https://media.api-sports.io/football/teams/6009.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": null,
+                    "away": null
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,3013 @@
+[
+    {
+        "league_id": 180,
+        "season": "2002",
+        "date": "03/08/02",
+        "time": null,
+        "home_team": "Arbroath",
+        "away_team": "Ross County",
+        "home_score": "0",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 180,
+        "season": "2002",
+        "date": "03/08/02",
+        "time": null,
+        "home_team": "Ayr",
+        "away_team": "Falkirk",
+        "home_score": "1",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 180,
+        "season": "2002",
+        "date": "03/08/02",
+        "time": null,
+        "home_team": "Inverness C",
+        "away_team": "Alloa",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 180,
+        "season": "2002",
+        "date": "03/08/02",
+        "time": null,
+        "home_team": "Queen of Sth",
+        "away_team": "Clyde",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": "2002",
+        "date": "03/08/02",
+        "time": null,
+        "home_team": "St Mirren",
+        "away_team": "St Johnstone",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 180,
+        "season": "2002",
+        "date": "10/08/02",
+        "time": null,
+        "home_team": "Alloa",
+        "away_team": "Arbroath",
+        "home_score": "0",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 180,
+        "season": "2002",
+        "date": "10/08/02",
+        "time": null,
+        "home_team": "Clyde",
+        "away_team": "Ayr",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": "2002",
+        "date": "10/08/02",
+        "time": null,
+        "home_team": "Falkirk",
+        "away_team": "St Mirren",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": "2002",
+        "date": "10/08/02",
+        "time": null,
+        "home_team": "Ross County",
+        "away_team": "Queen of Sth",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": "2002",
+        "date": "10/08/02",
+        "time": null,
+        "home_team": "St Johnstone",
+        "away_team": "Inverness C",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": "2002",
+        "date": "17/08/02",
+        "time": null,
+        "home_team": "Arbroath",
+        "away_team": "Clyde",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 180,
+        "season": "2002",
+        "date": "17/08/02",
+        "time": null,
+        "home_team": "Ayr",
+        "away_team": "Ross County",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": "2002",
+        "date": "17/08/02",
+        "time": null,
+        "home_team": "Inverness C",
+        "away_team": "Falkirk",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 180,
+        "season": "2002",
+        "date": "17/08/02",
+        "time": null,
+        "home_team": "Queen of Sth",
+        "away_team": "St Johnstone",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 180,
+        "season": "2002",
+        "date": "17/08/02",
+        "time": null,
+        "home_team": "St Mirren",
+        "away_team": "Alloa",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": "2002",
+        "date": "24/08/02",
+        "time": null,
+        "home_team": "Alloa",
+        "away_team": "Falkirk",
+        "home_score": "1",
+        "away_score": "6",
+        "result": "A"
+    },
+    {
+        "league_id": 180,
+        "season": "2002",
+        "date": "24/08/02",
+        "time": null,
+        "home_team": "Arbroath",
+        "away_team": "St Johnstone",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 180,
+        "season": "2002",
+        "date": "24/08/02",
+        "time": null,
+        "home_team": "Clyde",
+        "away_team": "St Mirren",
+        "home_score": "2",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 180,
+        "season": "2002",
+        "date": "24/08/02",
+        "time": null,
+        "home_team": "Inverness C",
+        "away_team": "Ross County",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": "2002",
+        "date": "24/08/02",
+        "time": null,
+        "home_team": "Queen of Sth",
+        "away_team": "Ayr",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 180,
+        "season": "2002",
+        "date": "31/08/02",
+        "time": null,
+        "home_team": "Ayr",
+        "away_team": "Arbroath",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": "2002",
+        "date": "31/08/02",
+        "time": null,
+        "home_team": "Falkirk",
+        "away_team": "Queen of Sth",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": "2002",
+        "date": "31/08/02",
+        "time": null,
+        "home_team": "Ross County",
+        "away_team": "Clyde",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 180,
+        "season": "2002",
+        "date": "31/08/02",
+        "time": null,
+        "home_team": "St Johnstone",
+        "away_team": "Alloa",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": "2002",
+        "date": "31/08/02",
+        "time": null,
+        "home_team": "St Mirren",
+        "away_team": "Inverness C",
+        "home_score": "0",
+        "away_score": "4",
+        "result": "A"
+    },
+    {
+        "league_id": 180,
+        "season": "2002",
+        "date": "14/09/02",
+        "time": null,
+        "home_team": "Arbroath",
+        "away_team": "St Mirren",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 180,
+        "season": "2002",
+        "date": "14/09/02",
+        "time": null,
+        "home_team": "Ayr",
+        "away_team": "St Johnstone",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 180,
+        "season": "2002",
+        "date": "14/09/02",
+        "time": null,
+        "home_team": "Clyde",
+        "away_team": "Alloa",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 180,
+        "season": "2002",
+        "date": "14/09/02",
+        "time": null,
+        "home_team": "Queen of Sth",
+        "away_team": "Inverness C",
+        "home_score": "1",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 180,
+        "season": "2002",
+        "date": "14/09/02",
+        "time": null,
+        "home_team": "Ross County",
+        "away_team": "Falkirk",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 180,
+        "season": "2002",
+        "date": "21/09/02",
+        "time": null,
+        "home_team": "Alloa",
+        "away_team": "Ayr",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 180,
+        "season": "2002",
+        "date": "21/09/02",
+        "time": null,
+        "home_team": "Falkirk",
+        "away_team": "Clyde",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": "2002",
+        "date": "21/09/02",
+        "time": null,
+        "home_team": "Inverness C",
+        "away_team": "Arbroath",
+        "home_score": "5",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": "2002",
+        "date": "21/09/02",
+        "time": null,
+        "home_team": "St Johnstone",
+        "away_team": "Ross County",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 180,
+        "season": "2002",
+        "date": "21/09/02",
+        "time": null,
+        "home_team": "St Mirren",
+        "away_team": "Queen of Sth",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": "2002",
+        "date": "28/09/02",
+        "time": null,
+        "home_team": "Ayr",
+        "away_team": "St Mirren",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 180,
+        "season": "2002",
+        "date": "28/09/02",
+        "time": null,
+        "home_team": "Clyde",
+        "away_team": "Inverness C",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": "2002",
+        "date": "28/09/02",
+        "time": null,
+        "home_team": "Falkirk",
+        "away_team": "St Johnstone",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": "2002",
+        "date": "28/09/02",
+        "time": null,
+        "home_team": "Queen of Sth",
+        "away_team": "Arbroath",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 180,
+        "season": "2002",
+        "date": "28/09/02",
+        "time": null,
+        "home_team": "Ross County",
+        "away_team": "Alloa",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 180,
+        "season": "2002",
+        "date": "05/10/02",
+        "time": null,
+        "home_team": "Alloa",
+        "away_team": "Queen of Sth",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 180,
+        "season": "2002",
+        "date": "05/10/02",
+        "time": null,
+        "home_team": "Arbroath",
+        "away_team": "Falkirk",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": "2002",
+        "date": "05/10/02",
+        "time": null,
+        "home_team": "Inverness C",
+        "away_team": "Ayr",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": "2002",
+        "date": "05/10/02",
+        "time": null,
+        "home_team": "St Johnstone",
+        "away_team": "Clyde",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 180,
+        "season": "2002",
+        "date": "05/10/02",
+        "time": null,
+        "home_team": "St Mirren",
+        "away_team": "Ross County",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 180,
+        "season": "2002",
+        "date": "12/10/02",
+        "time": null,
+        "home_team": "Clyde",
+        "away_team": "Queen of Sth",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": "2002",
+        "date": "19/10/02",
+        "time": null,
+        "home_team": "Alloa",
+        "away_team": "Inverness C",
+        "home_score": "0",
+        "away_score": "6",
+        "result": "A"
+    },
+    {
+        "league_id": 180,
+        "season": "2002",
+        "date": "19/10/02",
+        "time": null,
+        "home_team": "Falkirk",
+        "away_team": "Ayr",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": "2002",
+        "date": "19/10/02",
+        "time": null,
+        "home_team": "Ross County",
+        "away_team": "Arbroath",
+        "home_score": "4",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": "2002",
+        "date": "19/10/02",
+        "time": null,
+        "home_team": "St Johnstone",
+        "away_team": "St Mirren",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": "2002",
+        "date": "26/10/02",
+        "time": null,
+        "home_team": "Arbroath",
+        "away_team": "Alloa",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 180,
+        "season": "2002",
+        "date": "26/10/02",
+        "time": null,
+        "home_team": "Ayr",
+        "away_team": "Clyde",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 180,
+        "season": "2002",
+        "date": "26/10/02",
+        "time": null,
+        "home_team": "Inverness C",
+        "away_team": "St Johnstone",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": "2002",
+        "date": "26/10/02",
+        "time": null,
+        "home_team": "Queen of Sth",
+        "away_team": "Ross County",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": "2002",
+        "date": "26/10/02",
+        "time": null,
+        "home_team": "St Mirren",
+        "away_team": "Falkirk",
+        "home_score": "4",
+        "away_score": "4",
+        "result": "D"
+    },
+    {
+        "league_id": 180,
+        "season": "2002",
+        "date": "02/11/02",
+        "time": null,
+        "home_team": "Alloa",
+        "away_team": "St Johnstone",
+        "home_score": "1",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 180,
+        "season": "2002",
+        "date": "02/11/02",
+        "time": null,
+        "home_team": "Clyde",
+        "away_team": "Ross County",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": "2002",
+        "date": "02/11/02",
+        "time": null,
+        "home_team": "Inverness C",
+        "away_team": "St Mirren",
+        "home_score": "4",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": "2002",
+        "date": "02/11/02",
+        "time": null,
+        "home_team": "Queen of Sth",
+        "away_team": "Falkirk",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 180,
+        "season": "2002",
+        "date": "05/11/02",
+        "time": null,
+        "home_team": "Arbroath",
+        "away_team": "Ayr",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 180,
+        "season": "2002",
+        "date": "09/11/02",
+        "time": null,
+        "home_team": "Ayr",
+        "away_team": "Queen of Sth",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 180,
+        "season": "2002",
+        "date": "09/11/02",
+        "time": null,
+        "home_team": "Falkirk",
+        "away_team": "Alloa",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": "2002",
+        "date": "09/11/02",
+        "time": null,
+        "home_team": "Ross County",
+        "away_team": "Inverness C",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 180,
+        "season": "2002",
+        "date": "09/11/02",
+        "time": null,
+        "home_team": "St Johnstone",
+        "away_team": "Arbroath",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": "2002",
+        "date": "09/11/02",
+        "time": null,
+        "home_team": "St Mirren",
+        "away_team": "Clyde",
+        "home_score": "1",
+        "away_score": "4",
+        "result": "A"
+    },
+    {
+        "league_id": 180,
+        "season": "2002",
+        "date": "16/11/02",
+        "time": null,
+        "home_team": "Alloa",
+        "away_team": "Clyde",
+        "home_score": "1",
+        "away_score": "4",
+        "result": "A"
+    },
+    {
+        "league_id": 180,
+        "season": "2002",
+        "date": "16/11/02",
+        "time": null,
+        "home_team": "Falkirk",
+        "away_team": "Ross County",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": "2002",
+        "date": "16/11/02",
+        "time": null,
+        "home_team": "Inverness C",
+        "away_team": "Queen of Sth",
+        "home_score": "5",
+        "away_score": "3",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": "2002",
+        "date": "16/11/02",
+        "time": null,
+        "home_team": "St Johnstone",
+        "away_team": "Ayr",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 180,
+        "season": "2002",
+        "date": "16/11/02",
+        "time": null,
+        "home_team": "St Mirren",
+        "away_team": "Arbroath",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": "2002",
+        "date": "23/11/02",
+        "time": null,
+        "home_team": "Arbroath",
+        "away_team": "Inverness C",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 180,
+        "season": "2002",
+        "date": "23/11/02",
+        "time": null,
+        "home_team": "Ayr",
+        "away_team": "Alloa",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": "2002",
+        "date": "23/11/02",
+        "time": null,
+        "home_team": "Clyde",
+        "away_team": "Falkirk",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": "2002",
+        "date": "23/11/02",
+        "time": null,
+        "home_team": "Queen of Sth",
+        "away_team": "St Mirren",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": "2002",
+        "date": "23/11/02",
+        "time": null,
+        "home_team": "Ross County",
+        "away_team": "St Johnstone",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 180,
+        "season": "2002",
+        "date": "30/11/02",
+        "time": null,
+        "home_team": "Alloa",
+        "away_team": "Ross County",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 180,
+        "season": "2002",
+        "date": "30/11/02",
+        "time": null,
+        "home_team": "Arbroath",
+        "away_team": "Queen of Sth",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 180,
+        "season": "2002",
+        "date": "30/11/02",
+        "time": null,
+        "home_team": "Inverness C",
+        "away_team": "Clyde",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": "2002",
+        "date": "30/11/02",
+        "time": null,
+        "home_team": "St Johnstone",
+        "away_team": "Falkirk",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 180,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "30/11/02",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "St Mirren",
+        "away_team": "Ayr",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "07/12/02",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Ayr",
+        "away_team": "Inverness C",
+        "home_score": "3",
+        "away_score": "3",
+        "result": "D"
+    },
+    {
+        "league_id": 180,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "07/12/02",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Clyde",
+        "away_team": "St Johnstone",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 180,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "07/12/02",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Falkirk",
+        "away_team": "Arbroath",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "07/12/02",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Queen of Sth",
+        "away_team": "Alloa",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 180,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "07/12/02",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Ross County",
+        "away_team": "St Mirren",
+        "home_score": "4",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "14/12/02",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Alloa",
+        "away_team": "St Mirren",
+        "home_score": "2",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 180,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "14/12/02",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Clyde",
+        "away_team": "Arbroath",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "14/12/02",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Falkirk",
+        "away_team": "Inverness C",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 180,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "14/12/02",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Ross County",
+        "away_team": "Ayr",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "14/12/02",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "St Johnstone",
+        "away_team": "Queen of Sth",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 180,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "21/12/02",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Arbroath",
+        "away_team": "Ross County",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "21/12/02",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Inverness C",
+        "away_team": "Alloa",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 180,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "28/12/02",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Ayr",
+        "away_team": "Arbroath",
+        "home_score": "4",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "28/12/02",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Falkirk",
+        "away_team": "Queen of Sth",
+        "home_score": "5",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "28/12/02",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Ross County",
+        "away_team": "Clyde",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 180,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "28/12/02",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "St Johnstone",
+        "away_team": "Alloa",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "28/12/02",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "St Mirren",
+        "away_team": "Inverness C",
+        "home_score": "1",
+        "away_score": "4",
+        "result": "A"
+    },
+    {
+        "league_id": 180,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "01/01/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Arbroath",
+        "away_team": "St Johnstone",
+        "home_score": "2",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 180,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "01/01/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Clyde",
+        "away_team": "St Mirren",
+        "home_score": "3",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "01/01/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Queen of Sth",
+        "away_team": "Ayr",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 180,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "11/01/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "St Johnstone",
+        "away_team": "Ross County",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "18/01/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Alloa",
+        "away_team": "Queen of Sth",
+        "home_score": "3",
+        "away_score": "3",
+        "result": "D"
+    },
+    {
+        "league_id": 180,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "18/01/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Arbroath",
+        "away_team": "Falkirk",
+        "home_score": "1",
+        "away_score": "4",
+        "result": "A"
+    },
+    {
+        "league_id": 180,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "18/01/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Inverness C",
+        "away_team": "Ayr",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 180,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "18/01/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "St Johnstone",
+        "away_team": "Clyde",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 180,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "18/01/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "St Mirren",
+        "away_team": "Ross County",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "01/02/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Ayr",
+        "away_team": "St Mirren",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 180,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "01/02/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Falkirk",
+        "away_team": "St Johnstone",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 180,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "01/02/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Ross County",
+        "away_team": "Alloa",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 180,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "08/02/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Arbroath",
+        "away_team": "Clyde",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 180,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "08/02/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Ayr",
+        "away_team": "Ross County",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 180,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "08/02/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Inverness C",
+        "away_team": "Falkirk",
+        "home_score": "3",
+        "away_score": "4",
+        "result": "A"
+    },
+    {
+        "league_id": 180,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "08/02/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Queen of Sth",
+        "away_team": "St Johnstone",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 180,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "08/02/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "St Mirren",
+        "away_team": "Alloa",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 180,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "15/02/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Falkirk",
+        "away_team": "St Mirren",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "15/02/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "St Johnstone",
+        "away_team": "Inverness C",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "23/02/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "St Mirren",
+        "away_team": "Queen of Sth",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 180,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "25/02/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Alloa",
+        "away_team": "Arbroath",
+        "home_score": "3",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "25/02/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Ayr",
+        "away_team": "Falkirk",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "25/02/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Inverness C",
+        "away_team": "Ross County",
+        "home_score": "1",
+        "away_score": "5",
+        "result": "A"
+    },
+    {
+        "league_id": 180,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "25/02/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Queen of Sth",
+        "away_team": "Clyde",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 180,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "01/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Alloa",
+        "away_team": "St Johnstone",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 180,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "01/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Arbroath",
+        "away_team": "Ayr",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 180,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "01/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Clyde",
+        "away_team": "Ross County",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "01/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Inverness C",
+        "away_team": "St Mirren",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "01/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Queen of Sth",
+        "away_team": "Falkirk",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "04/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Ayr",
+        "away_team": "St Johnstone",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 180,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "04/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Falkirk",
+        "away_team": "Clyde",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "04/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Inverness C",
+        "away_team": "Arbroath",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "08/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Ayr",
+        "away_team": "Queen of Sth",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 180,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "08/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Falkirk",
+        "away_team": "Alloa",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "08/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Ross County",
+        "away_team": "Inverness C",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 180,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "08/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "St Johnstone",
+        "away_team": "Arbroath",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "08/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "St Mirren",
+        "away_team": "Clyde",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 180,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "11/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Clyde",
+        "away_team": "Alloa",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 180,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "11/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Queen of Sth",
+        "away_team": "Inverness C",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 180,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "11/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Ross County",
+        "away_team": "Falkirk",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 180,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "15/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Arbroath",
+        "away_team": "Inverness C",
+        "home_score": "1",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 180,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "15/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Ayr",
+        "away_team": "Alloa",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 180,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "15/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Clyde",
+        "away_team": "Falkirk",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 180,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "15/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Queen of Sth",
+        "away_team": "St Mirren",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 180,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "15/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Ross County",
+        "away_team": "St Johnstone",
+        "home_score": "2",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 180,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "18/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Clyde",
+        "away_team": "Inverness C",
+        "home_score": "4",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "18/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Queen of Sth",
+        "away_team": "Arbroath",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "22/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Clyde",
+        "away_team": "Ayr",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "22/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Ross County",
+        "away_team": "Queen of Sth",
+        "home_score": "0",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 180,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "22/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "St Mirren",
+        "away_team": "St Johnstone",
+        "home_score": "1",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 180,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "25/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Alloa",
+        "away_team": "Ayr",
+        "home_score": "2",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 180,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "29/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Alloa",
+        "away_team": "Falkirk",
+        "home_score": "1",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 180,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "29/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Arbroath",
+        "away_team": "St Mirren",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 180,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "05/04/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Alloa",
+        "away_team": "Clyde",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 180,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "05/04/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Falkirk",
+        "away_team": "Ross County",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "05/04/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Inverness C",
+        "away_team": "Queen of Sth",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "05/04/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "St Johnstone",
+        "away_team": "Ayr",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "05/04/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "St Mirren",
+        "away_team": "Arbroath",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "12/04/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Alloa",
+        "away_team": "Ross County",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "12/04/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Arbroath",
+        "away_team": "Queen of Sth",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 180,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "12/04/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Inverness C",
+        "away_team": "Clyde",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 180,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "12/04/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "St Johnstone",
+        "away_team": "Falkirk",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 180,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "12/04/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "St Mirren",
+        "away_team": "Ayr",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 180,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "19/04/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Clyde",
+        "away_team": "St Johnstone",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "19/04/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Falkirk",
+        "away_team": "Arbroath",
+        "home_score": "4",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "19/04/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Queen of Sth",
+        "away_team": "Alloa",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 180,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "19/04/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Ross County",
+        "away_team": "St Mirren",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "26/04/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Alloa",
+        "away_team": "Inverness C",
+        "home_score": "1",
+        "away_score": "5",
+        "result": "A"
+    },
+    {
+        "league_id": 180,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "26/04/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Clyde",
+        "away_team": "Queen of Sth",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 180,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "26/04/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Falkirk",
+        "away_team": "Ayr",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "26/04/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Ross County",
+        "away_team": "Arbroath",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "26/04/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "St Johnstone",
+        "away_team": "St Mirren",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 180,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "29/04/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Ayr",
+        "away_team": "Inverness C",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "03/05/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Arbroath",
+        "away_team": "Alloa",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 180,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "03/05/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Ayr",
+        "away_team": "Clyde",
+        "home_score": "0",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 180,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "03/05/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Inverness C",
+        "away_team": "St Johnstone",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 180,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "03/05/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Queen of Sth",
+        "away_team": "Ross County",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "03/05/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "St Mirren",
+        "away_team": "Falkirk",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 180,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "10/05/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Alloa",
+        "away_team": "St Mirren",
+        "home_score": "4",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "10/05/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Clyde",
+        "away_team": "Arbroath",
+        "home_score": "4",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "10/05/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Falkirk",
+        "away_team": "Inverness C",
+        "home_score": "2",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 180,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "10/05/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Ross County",
+        "away_team": "Ayr",
+        "home_score": "4",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "10/05/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "St Johnstone",
+        "away_team": "Queen of Sth",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 180,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "",
+        "away_team": "",
+        "home_score": "",
+        "away_score": "",
+        "result": ""
+    }
+]

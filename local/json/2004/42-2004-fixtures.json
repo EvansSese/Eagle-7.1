@@ -1,0 +1,7194 @@
+[
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "07/08/04",
+        "time": null,
+        "home_team": "Boston",
+        "away_team": "Oxford",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "07/08/04",
+        "time": null,
+        "home_team": "Bury",
+        "away_team": "Yeovil",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "07/08/04",
+        "time": null,
+        "home_team": "Darlington",
+        "away_team": "Grimsby",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "07/08/04",
+        "time": null,
+        "home_team": "Leyton Orient",
+        "away_team": "Macclesfield",
+        "home_score": "1",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "07/08/04",
+        "time": null,
+        "home_team": "Mansfield",
+        "away_team": "Bristol Rvs",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "07/08/04",
+        "time": null,
+        "home_team": "Notts County",
+        "away_team": "Chester",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "07/08/04",
+        "time": null,
+        "home_team": "Rushden & D",
+        "away_team": "Kidderminster",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "07/08/04",
+        "time": null,
+        "home_team": "Scunthorpe",
+        "away_team": "Rochdale",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "07/08/04",
+        "time": null,
+        "home_team": "Shrewsbury",
+        "away_team": "Lincoln",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "07/08/04",
+        "time": null,
+        "home_team": "Southend",
+        "away_team": "Cheltenham",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "07/08/04",
+        "time": null,
+        "home_team": "Swansea",
+        "away_team": "Northampton",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "07/08/04",
+        "time": null,
+        "home_team": "Wycombe",
+        "away_team": "Cambridge",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "10/08/04",
+        "time": null,
+        "home_team": "Bristol Rvs",
+        "away_team": "Bury",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "10/08/04",
+        "time": null,
+        "home_team": "Cambridge",
+        "away_team": "Leyton Orient",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "10/08/04",
+        "time": null,
+        "home_team": "Cheltenham",
+        "away_team": "Scunthorpe",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "10/08/04",
+        "time": null,
+        "home_team": "Chester",
+        "away_team": "Wycombe",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "10/08/04",
+        "time": null,
+        "home_team": "Grimsby",
+        "away_team": "Boston",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "10/08/04",
+        "time": null,
+        "home_team": "Kidderminster",
+        "away_team": "Notts County",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "10/08/04",
+        "time": null,
+        "home_team": "Lincoln",
+        "away_team": "Southend",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "10/08/04",
+        "time": null,
+        "home_team": "Macclesfield",
+        "away_team": "Shrewsbury",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "10/08/04",
+        "time": null,
+        "home_team": "Northampton",
+        "away_team": "Rushden & D",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "10/08/04",
+        "time": null,
+        "home_team": "Rochdale",
+        "away_team": "Swansea",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "10/08/04",
+        "time": null,
+        "home_team": "Yeovil",
+        "away_team": "Darlington",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "11/08/04",
+        "time": null,
+        "home_team": "Oxford",
+        "away_team": "Mansfield",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "14/08/04",
+        "time": null,
+        "home_team": "Bristol Rvs",
+        "away_team": "Notts County",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "14/08/04",
+        "time": null,
+        "home_team": "Cambridge",
+        "away_team": "Shrewsbury",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "14/08/04",
+        "time": null,
+        "home_team": "Cheltenham",
+        "away_team": "Leyton Orient",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "14/08/04",
+        "time": null,
+        "home_team": "Chester",
+        "away_team": "Mansfield",
+        "home_score": "0",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "14/08/04",
+        "time": null,
+        "home_team": "Grimsby",
+        "away_team": "Bury",
+        "home_score": "5",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "14/08/04",
+        "time": null,
+        "home_team": "Kidderminster",
+        "away_team": "Darlington",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "14/08/04",
+        "time": null,
+        "home_team": "Lincoln",
+        "away_team": "Rushden & D",
+        "home_score": "1",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "14/08/04",
+        "time": null,
+        "home_team": "Macclesfield",
+        "away_team": "Swansea",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "14/08/04",
+        "time": null,
+        "home_team": "Northampton",
+        "away_team": "Wycombe",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "14/08/04",
+        "time": null,
+        "home_team": "Oxford",
+        "away_team": "Scunthorpe",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "14/08/04",
+        "time": null,
+        "home_team": "Rochdale",
+        "away_team": "Southend",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "14/08/04",
+        "time": null,
+        "home_team": "Yeovil",
+        "away_team": "Boston",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "21/08/04",
+        "time": null,
+        "home_team": "Boston",
+        "away_team": "Macclesfield",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "21/08/04",
+        "time": null,
+        "home_team": "Bury",
+        "away_team": "Chester",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "21/08/04",
+        "time": null,
+        "home_team": "Darlington",
+        "away_team": "Bristol Rvs",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "21/08/04",
+        "time": null,
+        "home_team": "Leyton Orient",
+        "away_team": "Oxford",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "21/08/04",
+        "time": null,
+        "home_team": "Mansfield",
+        "away_team": "Kidderminster",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "21/08/04",
+        "time": null,
+        "home_team": "Notts County",
+        "away_team": "Yeovil",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "21/08/04",
+        "time": null,
+        "home_team": "Rushden & D",
+        "away_team": "Grimsby",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "21/08/04",
+        "time": null,
+        "home_team": "Scunthorpe",
+        "away_team": "Lincoln",
+        "home_score": "3",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "21/08/04",
+        "time": null,
+        "home_team": "Shrewsbury",
+        "away_team": "Northampton",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "21/08/04",
+        "time": null,
+        "home_team": "Southend",
+        "away_team": "Cambridge",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "21/08/04",
+        "time": null,
+        "home_team": "Swansea",
+        "away_team": "Cheltenham",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "21/08/04",
+        "time": null,
+        "home_team": "Wycombe",
+        "away_team": "Rochdale",
+        "home_score": "0",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "27/08/04",
+        "time": null,
+        "home_team": "Bristol Rvs",
+        "away_team": "Southend",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "28/08/04",
+        "time": null,
+        "home_team": "Cambridge",
+        "away_team": "Swansea",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "28/08/04",
+        "time": null,
+        "home_team": "Cheltenham",
+        "away_team": "Boston",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "28/08/04",
+        "time": null,
+        "home_team": "Chester",
+        "away_team": "Darlington",
+        "home_score": "0",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "28/08/04",
+        "time": null,
+        "home_team": "Grimsby",
+        "away_team": "Mansfield",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "28/08/04",
+        "time": null,
+        "home_team": "Kidderminster",
+        "away_team": "Wycombe",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "28/08/04",
+        "time": null,
+        "home_team": "Lincoln",
+        "away_team": "Notts County",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "28/08/04",
+        "time": null,
+        "home_team": "Macclesfield",
+        "away_team": "Scunthorpe",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "28/08/04",
+        "time": null,
+        "home_team": "Northampton",
+        "away_team": "Leyton Orient",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "28/08/04",
+        "time": null,
+        "home_team": "Oxford",
+        "away_team": "Shrewsbury",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "28/08/04",
+        "time": null,
+        "home_team": "Rochdale",
+        "away_team": "Bury",
+        "home_score": "0",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "28/08/04",
+        "time": null,
+        "home_team": "Yeovil",
+        "away_team": "Rushden & D",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "30/08/04",
+        "time": null,
+        "home_team": "Boston",
+        "away_team": "Chester",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "30/08/04",
+        "time": null,
+        "home_team": "Bury",
+        "away_team": "Kidderminster",
+        "home_score": "4",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "30/08/04",
+        "time": null,
+        "home_team": "Darlington",
+        "away_team": "Cambridge",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "30/08/04",
+        "time": null,
+        "home_team": "Leyton Orient",
+        "away_team": "Rochdale",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "30/08/04",
+        "time": null,
+        "home_team": "Mansfield",
+        "away_team": "Yeovil",
+        "home_score": "4",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "30/08/04",
+        "time": null,
+        "home_team": "Notts County",
+        "away_team": "Oxford",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "30/08/04",
+        "time": null,
+        "home_team": "Rushden & D",
+        "away_team": "Bristol Rvs",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "30/08/04",
+        "time": null,
+        "home_team": "Scunthorpe",
+        "away_team": "Northampton",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "30/08/04",
+        "time": null,
+        "home_team": "Southend",
+        "away_team": "Macclesfield",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "30/08/04",
+        "time": null,
+        "home_team": "Swansea",
+        "away_team": "Lincoln",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "30/08/04",
+        "time": null,
+        "home_team": "Wycombe",
+        "away_team": "Grimsby",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "31/08/04",
+        "time": null,
+        "home_team": "Shrewsbury",
+        "away_team": "Cheltenham",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "03/09/04",
+        "time": null,
+        "home_team": "Wycombe",
+        "away_team": "Oxford",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "04/09/04",
+        "time": null,
+        "home_team": "Boston",
+        "away_team": "Cambridge",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "04/09/04",
+        "time": null,
+        "home_team": "Bristol Rvs",
+        "away_team": "Shrewsbury",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "04/09/04",
+        "time": null,
+        "home_team": "Bury",
+        "away_team": "Lincoln",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "04/09/04",
+        "time": null,
+        "home_team": "Chester",
+        "away_team": "Macclesfield",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "04/09/04",
+        "time": null,
+        "home_team": "Darlington",
+        "away_team": "Scunthorpe",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "04/09/04",
+        "time": null,
+        "home_team": "Grimsby",
+        "away_team": "Rochdale",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "04/09/04",
+        "time": null,
+        "home_team": "Kidderminster",
+        "away_team": "Leyton Orient",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "04/09/04",
+        "time": null,
+        "home_team": "Notts County",
+        "away_team": "Cheltenham",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "04/09/04",
+        "time": null,
+        "home_team": "Rushden & D",
+        "away_team": "Southend",
+        "home_score": "1",
+        "away_score": "4",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "04/09/04",
+        "time": null,
+        "home_team": "Yeovil",
+        "away_team": "Swansea",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "05/09/04",
+        "time": null,
+        "home_team": "Mansfield",
+        "away_team": "Northampton",
+        "home_score": "4",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "11/09/04",
+        "time": null,
+        "home_team": "Cambridge",
+        "away_team": "Mansfield",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "11/09/04",
+        "time": null,
+        "home_team": "Cheltenham",
+        "away_team": "Yeovil",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "11/09/04",
+        "time": null,
+        "home_team": "Leyton Orient",
+        "away_team": "Bristol Rvs",
+        "home_score": "4",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "11/09/04",
+        "time": null,
+        "home_team": "Lincoln",
+        "away_team": "Boston",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "11/09/04",
+        "time": null,
+        "home_team": "Macclesfield",
+        "away_team": "Grimsby",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "11/09/04",
+        "time": null,
+        "home_team": "Northampton",
+        "away_team": "Notts County",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "11/09/04",
+        "time": null,
+        "home_team": "Oxford",
+        "away_team": "Rushden & D",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "11/09/04",
+        "time": null,
+        "home_team": "Rochdale",
+        "away_team": "Darlington",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "11/09/04",
+        "time": null,
+        "home_team": "Scunthorpe",
+        "away_team": "Chester",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "11/09/04",
+        "time": null,
+        "home_team": "Shrewsbury",
+        "away_team": "Bury",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "11/09/04",
+        "time": null,
+        "home_team": "Southend",
+        "away_team": "Wycombe",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "11/09/04",
+        "time": null,
+        "home_team": "Swansea",
+        "away_team": "Kidderminster",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "18/09/04",
+        "time": null,
+        "home_team": "Boston",
+        "away_team": "Shrewsbury",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "18/09/04",
+        "time": null,
+        "home_team": "Bristol Rvs",
+        "away_team": "Lincoln",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "18/09/04",
+        "time": null,
+        "home_team": "Bury",
+        "away_team": "Scunthorpe",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "18/09/04",
+        "time": null,
+        "home_team": "Chester",
+        "away_team": "Cambridge",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "18/09/04",
+        "time": null,
+        "home_team": "Darlington",
+        "away_team": "Northampton",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "18/09/04",
+        "time": null,
+        "home_team": "Grimsby",
+        "away_team": "Leyton Orient",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "18/09/04",
+        "time": null,
+        "home_team": "Kidderminster",
+        "away_team": "Macclesfield",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "18/09/04",
+        "time": null,
+        "home_team": "Mansfield",
+        "away_team": "Rochdale",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "18/09/04",
+        "time": null,
+        "home_team": "Notts County",
+        "away_team": "Southend",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "18/09/04",
+        "time": null,
+        "home_team": "Rushden & D",
+        "away_team": "Cheltenham",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "18/09/04",
+        "time": null,
+        "home_team": "Wycombe",
+        "away_team": "Swansea",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "18/09/04",
+        "time": null,
+        "home_team": "Yeovil",
+        "away_team": "Oxford",
+        "home_score": "6",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "25/09/04",
+        "time": null,
+        "home_team": "Cambridge",
+        "away_team": "Grimsby",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "25/09/04",
+        "time": null,
+        "home_team": "Cheltenham",
+        "away_team": "Wycombe",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "25/09/04",
+        "time": null,
+        "home_team": "Leyton Orient",
+        "away_team": "Boston",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "25/09/04",
+        "time": null,
+        "home_team": "Lincoln",
+        "away_team": "Chester",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "25/09/04",
+        "time": null,
+        "home_team": "Macclesfield",
+        "away_team": "Darlington",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "25/09/04",
+        "time": null,
+        "home_team": "Northampton",
+        "away_team": "Bristol Rvs",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "25/09/04",
+        "time": null,
+        "home_team": "Oxford",
+        "away_team": "Bury",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "25/09/04",
+        "time": null,
+        "home_team": "Rochdale",
+        "away_team": "Notts County",
+        "home_score": "0",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "25/09/04",
+        "time": null,
+        "home_team": "Scunthorpe",
+        "away_team": "Mansfield",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "25/09/04",
+        "time": null,
+        "home_team": "Shrewsbury",
+        "away_team": "Yeovil",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "25/09/04",
+        "time": null,
+        "home_team": "Southend",
+        "away_team": "Kidderminster",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "25/09/04",
+        "time": null,
+        "home_team": "Swansea",
+        "away_team": "Rushden & D",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "01/10/04",
+        "time": null,
+        "home_team": "Grimsby",
+        "away_team": "Cheltenham",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "02/10/04",
+        "time": null,
+        "home_team": "Boston",
+        "away_team": "Scunthorpe",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "02/10/04",
+        "time": null,
+        "home_team": "Bristol Rvs",
+        "away_team": "Oxford",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "02/10/04",
+        "time": null,
+        "home_team": "Bury",
+        "away_team": "Macclesfield",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "02/10/04",
+        "time": null,
+        "home_team": "Chester",
+        "away_team": "Swansea",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "02/10/04",
+        "time": null,
+        "home_team": "Darlington",
+        "away_team": "Southend",
+        "home_score": "4",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "02/10/04",
+        "time": null,
+        "home_team": "Kidderminster",
+        "away_team": "Cambridge",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "02/10/04",
+        "time": null,
+        "home_team": "Mansfield",
+        "away_team": "Lincoln",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "02/10/04",
+        "time": null,
+        "home_team": "Notts County",
+        "away_team": "Leyton Orient",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "02/10/04",
+        "time": null,
+        "home_team": "Rushden & D",
+        "away_team": "Rochdale",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "02/10/04",
+        "time": null,
+        "home_team": "Wycombe",
+        "away_team": "Shrewsbury",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "02/10/04",
+        "time": null,
+        "home_team": "Yeovil",
+        "away_team": "Northampton",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "08/10/04",
+        "time": null,
+        "home_team": "Cheltenham",
+        "away_team": "Chester",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "08/10/04",
+        "time": null,
+        "home_team": "Northampton",
+        "away_team": "Grimsby",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "08/10/04",
+        "time": null,
+        "home_team": "Rochdale",
+        "away_team": "Yeovil",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "08/10/04",
+        "time": null,
+        "home_team": "Scunthorpe",
+        "away_team": "Wycombe",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "08/10/04",
+        "time": null,
+        "home_team": "Shrewsbury",
+        "away_team": "Rushden & D",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "08/10/04",
+        "time": null,
+        "home_team": "Southend",
+        "away_team": "Boston",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "08/10/04",
+        "time": null,
+        "home_team": "Swansea",
+        "away_team": "Mansfield",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "09/10/04",
+        "time": null,
+        "home_team": "Cambridge",
+        "away_team": "Bristol Rvs",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "09/10/04",
+        "time": null,
+        "home_team": "Leyton Orient",
+        "away_team": "Bury",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "09/10/04",
+        "time": null,
+        "home_team": "Lincoln",
+        "away_team": "Kidderminster",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "10/10/04",
+        "time": null,
+        "home_team": "Macclesfield",
+        "away_team": "Notts County",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "10/10/04",
+        "time": null,
+        "home_team": "Oxford",
+        "away_team": "Darlington",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "15/10/04",
+        "time": null,
+        "home_team": "Cambridge",
+        "away_team": "Northampton",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "16/10/04",
+        "time": null,
+        "home_team": "Boston",
+        "away_team": "Wycombe",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "16/10/04",
+        "time": null,
+        "home_team": "Darlington",
+        "away_team": "Bury",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "16/10/04",
+        "time": null,
+        "home_team": "Grimsby",
+        "away_team": "Bristol Rvs",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "16/10/04",
+        "time": null,
+        "home_team": "Kidderminster",
+        "away_team": "Scunthorpe",
+        "home_score": "3",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "16/10/04",
+        "time": null,
+        "home_team": "Leyton Orient",
+        "away_team": "Shrewsbury",
+        "home_score": "4",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "16/10/04",
+        "time": null,
+        "home_team": "Mansfield",
+        "away_team": "Notts County",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "16/10/04",
+        "time": null,
+        "home_team": "Oxford",
+        "away_team": "Lincoln",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "16/10/04",
+        "time": null,
+        "home_team": "Rochdale",
+        "away_team": "Cheltenham",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "16/10/04",
+        "time": null,
+        "home_team": "Rushden & D",
+        "away_team": "Chester",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "16/10/04",
+        "time": null,
+        "home_team": "Southend",
+        "away_team": "Swansea",
+        "home_score": "4",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "16/10/04",
+        "time": null,
+        "home_team": "Yeovil",
+        "away_team": "Macclesfield",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "19/10/04",
+        "time": null,
+        "home_team": "Bristol Rvs",
+        "away_team": "Yeovil",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "19/10/04",
+        "time": null,
+        "home_team": "Bury",
+        "away_team": "Boston",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "19/10/04",
+        "time": null,
+        "home_team": "Cheltenham",
+        "away_team": "Mansfield",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "19/10/04",
+        "time": null,
+        "home_team": "Lincoln",
+        "away_team": "Rochdale",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "19/10/04",
+        "time": null,
+        "home_team": "Macclesfield",
+        "away_team": "Cambridge",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "19/10/04",
+        "time": null,
+        "home_team": "Northampton",
+        "away_team": "Oxford",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "19/10/04",
+        "time": null,
+        "home_team": "Notts County",
+        "away_team": "Darlington",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "19/10/04",
+        "time": null,
+        "home_team": "Scunthorpe",
+        "away_team": "Southend",
+        "home_score": "3",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "19/10/04",
+        "time": null,
+        "home_team": "Shrewsbury",
+        "away_team": "Grimsby",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "19/10/04",
+        "time": null,
+        "home_team": "Swansea",
+        "away_team": "Leyton Orient",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "19/10/04",
+        "time": null,
+        "home_team": "Wycombe",
+        "away_team": "Rushden & D",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "23/10/04",
+        "time": null,
+        "home_team": "Bristol Rvs",
+        "away_team": "Kidderminster",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "23/10/04",
+        "time": null,
+        "home_team": "Bury",
+        "away_team": "Rushden & D",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "23/10/04",
+        "time": null,
+        "home_team": "Cheltenham",
+        "away_team": "Cambridge",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "23/10/04",
+        "time": null,
+        "home_team": "Chester",
+        "away_team": "Grimsby",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "23/10/04",
+        "time": null,
+        "home_team": "Lincoln",
+        "away_team": "Leyton Orient",
+        "home_score": "3",
+        "away_score": "4",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "23/10/04",
+        "time": null,
+        "home_team": "Macclesfield",
+        "away_team": "Oxford",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "23/10/04",
+        "time": null,
+        "home_team": "Northampton",
+        "away_team": "Rochdale",
+        "home_score": "5",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "23/10/04",
+        "time": null,
+        "home_team": "Notts County",
+        "away_team": "Boston",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "23/10/04",
+        "time": null,
+        "home_team": "Scunthorpe",
+        "away_team": "Yeovil",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "23/10/04",
+        "time": null,
+        "home_team": "Shrewsbury",
+        "away_team": "Southend",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "23/10/04",
+        "time": null,
+        "home_team": "Wycombe",
+        "away_team": "Mansfield",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "26/10/04",
+        "time": null,
+        "home_team": "Chester",
+        "away_team": "Kidderminster",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "30/10/04",
+        "time": null,
+        "home_team": "Boston",
+        "away_team": "Bristol Rvs",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "30/10/04",
+        "time": null,
+        "home_team": "Cambridge",
+        "away_team": "Lincoln",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "30/10/04",
+        "time": null,
+        "home_team": "Darlington",
+        "away_team": "Wycombe",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "30/10/04",
+        "time": null,
+        "home_team": "Grimsby",
+        "away_team": "Swansea",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "30/10/04",
+        "time": null,
+        "home_team": "Kidderminster",
+        "away_team": "Shrewsbury",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "30/10/04",
+        "time": null,
+        "home_team": "Leyton Orient",
+        "away_team": "Scunthorpe",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "30/10/04",
+        "time": null,
+        "home_team": "Mansfield",
+        "away_team": "Bury",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "30/10/04",
+        "time": null,
+        "home_team": "Oxford",
+        "away_team": "Cheltenham",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "30/10/04",
+        "time": null,
+        "home_team": "Rochdale",
+        "away_team": "Macclesfield",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "30/10/04",
+        "time": null,
+        "home_team": "Rushden & D",
+        "away_team": "Notts County",
+        "home_score": "5",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "30/10/04",
+        "time": null,
+        "home_team": "Southend",
+        "away_team": "Northampton",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "30/10/04",
+        "time": null,
+        "home_team": "Yeovil",
+        "away_team": "Chester",
+        "home_score": "4",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "06/11/04",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Cheltenham",
+        "away_team": "Bury",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "06/11/04",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Chester",
+        "away_team": "Leyton Orient",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "06/11/04",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Kidderminster",
+        "away_team": "Boston",
+        "home_score": "0",
+        "away_score": "4",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "06/11/04",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Lincoln",
+        "away_team": "Northampton",
+        "home_score": "3",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "06/11/04",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Mansfield",
+        "away_team": "Macclesfield",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "06/11/04",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Notts County",
+        "away_team": "Shrewsbury",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "06/11/04",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Rochdale",
+        "away_team": "Cambridge",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "06/11/04",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Rushden & D",
+        "away_team": "Darlington",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "06/11/04",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Scunthorpe",
+        "away_team": "Grimsby",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "06/11/04",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Southend",
+        "away_team": "Oxford",
+        "home_score": "4",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "06/11/04",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Swansea",
+        "away_team": "Bristol Rvs",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "06/11/04",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Wycombe",
+        "away_team": "Yeovil",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "17/11/04",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Swansea",
+        "away_team": "Darlington",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "19/11/04",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Northampton",
+        "away_team": "Chester",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "20/11/04",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Boston",
+        "away_team": "Mansfield",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "20/11/04",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Bristol Rvs",
+        "away_team": "Scunthorpe",
+        "home_score": "0",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "20/11/04",
+        "time": null,
+        "home_team": "Bury",
+        "away_team": "Notts County",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "20/11/04",
+        "time": null,
+        "home_team": "Cambridge",
+        "away_team": "Rushden & D",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "20/11/04",
+        "time": null,
+        "home_team": "Darlington",
+        "away_team": "Lincoln",
+        "home_score": "0",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "20/11/04",
+        "time": null,
+        "home_team": "Grimsby",
+        "away_team": "Kidderminster",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "20/11/04",
+        "time": null,
+        "home_team": "Leyton Orient",
+        "away_team": "Wycombe",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "20/11/04",
+        "time": null,
+        "home_team": "Macclesfield",
+        "away_team": "Cheltenham",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "20/11/04",
+        "time": null,
+        "home_team": "Oxford",
+        "away_team": "Rochdale",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "20/11/04",
+        "time": null,
+        "home_team": "Shrewsbury",
+        "away_team": "Swansea",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "20/11/04",
+        "time": null,
+        "home_team": "Yeovil",
+        "away_team": "Southend",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "26/11/04",
+        "time": null,
+        "home_team": "Cheltenham",
+        "away_team": "Darlington",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "26/11/04",
+        "time": null,
+        "home_team": "Southend",
+        "away_team": "Grimsby",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "27/11/04",
+        "time": null,
+        "home_team": "Chester",
+        "away_team": "Oxford",
+        "home_score": "1",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "27/11/04",
+        "time": null,
+        "home_team": "Kidderminster",
+        "away_team": "Northampton",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "27/11/04",
+        "time": null,
+        "home_team": "Lincoln",
+        "away_team": "Yeovil",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "27/11/04",
+        "time": null,
+        "home_team": "Mansfield",
+        "away_team": "Leyton Orient",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "27/11/04",
+        "time": null,
+        "home_team": "Notts County",
+        "away_team": "Cambridge",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "27/11/04",
+        "time": null,
+        "home_team": "Rochdale",
+        "away_team": "Boston",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "27/11/04",
+        "time": null,
+        "home_team": "Rushden & D",
+        "away_team": "Macclesfield",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "27/11/04",
+        "time": null,
+        "home_team": "Scunthorpe",
+        "away_team": "Shrewsbury",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "27/11/04",
+        "time": null,
+        "home_team": "Swansea",
+        "away_team": "Bury",
+        "home_score": "1",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "27/11/04",
+        "time": null,
+        "home_team": "Wycombe",
+        "away_team": "Bristol Rvs",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "07/12/04",
+        "time": null,
+        "home_team": "Bristol Rvs",
+        "away_team": "Chester",
+        "home_score": "4",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "07/12/04",
+        "time": null,
+        "home_team": "Bury",
+        "away_team": "Wycombe",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "07/12/04",
+        "time": null,
+        "home_team": "Cambridge",
+        "away_team": "Scunthorpe",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "07/12/04",
+        "time": null,
+        "home_team": "Darlington",
+        "away_team": "Mansfield",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "07/12/04",
+        "time": null,
+        "home_team": "Grimsby",
+        "away_team": "Notts County",
+        "home_score": "3",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "07/12/04",
+        "time": null,
+        "home_team": "Leyton Orient",
+        "away_team": "Southend",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "07/12/04",
+        "time": null,
+        "home_team": "Macclesfield",
+        "away_team": "Lincoln",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "07/12/04",
+        "time": null,
+        "home_team": "Northampton",
+        "away_team": "Cheltenham",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "07/12/04",
+        "time": null,
+        "home_team": "Shrewsbury",
+        "away_team": "Rochdale",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "07/12/04",
+        "time": null,
+        "home_team": "Yeovil",
+        "away_team": "Kidderminster",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "08/12/04",
+        "time": null,
+        "home_team": "Boston",
+        "away_team": "Rushden & D",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "08/12/04",
+        "time": null,
+        "home_team": "Oxford",
+        "away_team": "Swansea",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "11/12/04",
+        "time": null,
+        "home_team": "Bristol Rvs",
+        "away_team": "Macclesfield",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "11/12/04",
+        "time": null,
+        "home_team": "Bury",
+        "away_team": "Southend",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "11/12/04",
+        "time": null,
+        "home_team": "Chester",
+        "away_team": "Shrewsbury",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "11/12/04",
+        "time": null,
+        "home_team": "Darlington",
+        "away_team": "Leyton Orient",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "11/12/04",
+        "time": null,
+        "home_team": "Kidderminster",
+        "away_team": "Rochdale",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "11/12/04",
+        "time": null,
+        "home_team": "Lincoln",
+        "away_team": "Cheltenham",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "11/12/04",
+        "time": null,
+        "home_team": "Mansfield",
+        "away_team": "Rushden & D",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "11/12/04",
+        "time": null,
+        "home_team": "Northampton",
+        "away_team": "Boston",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "11/12/04",
+        "time": null,
+        "home_team": "Notts County",
+        "away_team": "Wycombe",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "11/12/04",
+        "time": null,
+        "home_team": "Oxford",
+        "away_team": "Cambridge",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "11/12/04",
+        "time": null,
+        "home_team": "Scunthorpe",
+        "away_team": "Swansea",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "11/12/04",
+        "time": null,
+        "home_team": "Yeovil",
+        "away_team": "Grimsby",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "17/12/04",
+        "time": null,
+        "home_team": "Grimsby",
+        "away_team": "Oxford",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "17/12/04",
+        "time": null,
+        "home_team": "Southend",
+        "away_team": "Chester",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "18/12/04",
+        "time": null,
+        "home_team": "Boston",
+        "away_team": "Darlington",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "18/12/04",
+        "time": null,
+        "home_team": "Cambridge",
+        "away_team": "Bury",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "18/12/04",
+        "time": null,
+        "home_team": "Cheltenham",
+        "away_team": "Kidderminster",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "18/12/04",
+        "time": null,
+        "home_team": "Leyton Orient",
+        "away_team": "Yeovil",
+        "home_score": "2",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "18/12/04",
+        "time": null,
+        "home_team": "Macclesfield",
+        "away_team": "Northampton",
+        "home_score": "1",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "18/12/04",
+        "time": null,
+        "home_team": "Rochdale",
+        "away_team": "Bristol Rvs",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "18/12/04",
+        "time": null,
+        "home_team": "Rushden & D",
+        "away_team": "Scunthorpe",
+        "home_score": "1",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "18/12/04",
+        "time": null,
+        "home_team": "Shrewsbury",
+        "away_team": "Mansfield",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "18/12/04",
+        "time": null,
+        "home_team": "Swansea",
+        "away_team": "Notts County",
+        "home_score": "4",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "18/12/04",
+        "time": null,
+        "home_team": "Wycombe",
+        "away_team": "Lincoln",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "26/12/04",
+        "time": null,
+        "home_team": "Bristol Rvs",
+        "away_team": "Leyton Orient",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "26/12/04",
+        "time": null,
+        "home_team": "Chester",
+        "away_team": "Scunthorpe",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "26/12/04",
+        "time": null,
+        "home_team": "Darlington",
+        "away_team": "Rochdale",
+        "home_score": "0",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "26/12/04",
+        "time": null,
+        "home_team": "Grimsby",
+        "away_team": "Macclesfield",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "26/12/04",
+        "time": null,
+        "home_team": "Kidderminster",
+        "away_team": "Swansea",
+        "home_score": "1",
+        "away_score": "5",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "26/12/04",
+        "time": null,
+        "home_team": "Rushden & D",
+        "away_team": "Oxford",
+        "home_score": "3",
+        "away_score": "3",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "26/12/04",
+        "time": null,
+        "home_team": "Wycombe",
+        "away_team": "Southend",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "26/12/04",
+        "time": null,
+        "home_team": "Yeovil",
+        "away_team": "Cheltenham",
+        "home_score": "4",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "28/12/04",
+        "time": null,
+        "home_team": "Cambridge",
+        "away_team": "Yeovil",
+        "home_score": "3",
+        "away_score": "5",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "28/12/04",
+        "time": null,
+        "home_team": "Leyton Orient",
+        "away_team": "Rushden & D",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "28/12/04",
+        "time": null,
+        "home_team": "Macclesfield",
+        "away_team": "Wycombe",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "28/12/04",
+        "time": null,
+        "home_team": "Northampton",
+        "away_team": "Bury",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "28/12/04",
+        "time": null,
+        "home_team": "Oxford",
+        "away_team": "Kidderminster",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "28/12/04",
+        "time": null,
+        "home_team": "Rochdale",
+        "away_team": "Chester",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "28/12/04",
+        "time": null,
+        "home_team": "Scunthorpe",
+        "away_team": "Notts County",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "28/12/04",
+        "time": null,
+        "home_team": "Shrewsbury",
+        "away_team": "Darlington",
+        "home_score": "4",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "28/12/04",
+        "time": null,
+        "home_team": "Southend",
+        "away_team": "Mansfield",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "28/12/04",
+        "time": null,
+        "home_team": "Swansea",
+        "away_team": "Boston",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "29/12/04",
+        "time": null,
+        "home_team": "Cheltenham",
+        "away_team": "Bristol Rvs",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "29/12/04",
+        "time": null,
+        "home_team": "Lincoln",
+        "away_team": "Grimsby",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "01/01/05",
+        "time": null,
+        "home_team": "Cambridge",
+        "away_team": "Boston",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "01/01/05",
+        "time": null,
+        "home_team": "Cheltenham",
+        "away_team": "Notts County",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "01/01/05",
+        "time": null,
+        "home_team": "Leyton Orient",
+        "away_team": "Kidderminster",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "01/01/05",
+        "time": null,
+        "home_team": "Lincoln",
+        "away_team": "Bury",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "01/01/05",
+        "time": null,
+        "home_team": "Macclesfield",
+        "away_team": "Chester",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "01/01/05",
+        "time": null,
+        "home_team": "Northampton",
+        "away_team": "Mansfield",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "01/01/05",
+        "time": null,
+        "home_team": "Oxford",
+        "away_team": "Wycombe",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "01/01/05",
+        "time": null,
+        "home_team": "Scunthorpe",
+        "away_team": "Darlington",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "01/01/05",
+        "time": null,
+        "home_team": "Shrewsbury",
+        "away_team": "Bristol Rvs",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "01/01/05",
+        "time": null,
+        "home_team": "Southend",
+        "away_team": "Rushden & D",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "01/01/05",
+        "time": null,
+        "home_team": "Swansea",
+        "away_team": "Yeovil",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "03/01/05",
+        "time": null,
+        "home_team": "Boston",
+        "away_team": "Leyton Orient",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "03/01/05",
+        "time": null,
+        "home_team": "Bristol Rvs",
+        "away_team": "Northampton",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "03/01/05",
+        "time": null,
+        "home_team": "Bury",
+        "away_team": "Oxford",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "03/01/05",
+        "time": null,
+        "home_team": "Chester",
+        "away_team": "Lincoln",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "03/01/05",
+        "time": null,
+        "home_team": "Darlington",
+        "away_team": "Macclesfield",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "03/01/05",
+        "time": null,
+        "home_team": "Grimsby",
+        "away_team": "Cambridge",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "03/01/05",
+        "time": null,
+        "home_team": "Kidderminster",
+        "away_team": "Southend",
+        "home_score": "1",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "03/01/05",
+        "time": null,
+        "home_team": "Mansfield",
+        "away_team": "Scunthorpe",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "03/01/05",
+        "time": null,
+        "home_team": "Notts County",
+        "away_team": "Rochdale",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "03/01/05",
+        "time": null,
+        "home_team": "Rushden & D",
+        "away_team": "Swansea",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "03/01/05",
+        "time": null,
+        "home_team": "Wycombe",
+        "away_team": "Cheltenham",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "03/01/05",
+        "time": null,
+        "home_team": "Yeovil",
+        "away_team": "Shrewsbury",
+        "home_score": "4",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "08/01/05",
+        "time": null,
+        "home_team": "Bristol Rvs",
+        "away_team": "Cambridge",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "08/01/05",
+        "time": null,
+        "home_team": "Bury",
+        "away_team": "Leyton Orient",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "08/01/05",
+        "time": null,
+        "home_team": "Darlington",
+        "away_team": "Oxford",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "08/01/05",
+        "time": null,
+        "home_team": "Kidderminster",
+        "away_team": "Lincoln",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "08/01/05",
+        "time": null,
+        "home_team": "Rushden & D",
+        "away_team": "Shrewsbury",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "11/01/05",
+        "time": null,
+        "home_team": "Grimsby",
+        "away_team": "Northampton",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "11/01/05",
+        "time": null,
+        "home_team": "Mansfield",
+        "away_team": "Cambridge",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "12/01/05",
+        "time": null,
+        "home_team": "Boston",
+        "away_team": "Southend",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "15/01/05",
+        "time": null,
+        "home_team": "Cambridge",
+        "away_team": "Chester",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "15/01/05",
+        "time": null,
+        "home_team": "Cheltenham",
+        "away_team": "Rushden & D",
+        "home_score": "4",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "15/01/05",
+        "time": null,
+        "home_team": "Leyton Orient",
+        "away_team": "Grimsby",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "15/01/05",
+        "time": null,
+        "home_team": "Lincoln",
+        "away_team": "Bristol Rvs",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "15/01/05",
+        "time": null,
+        "home_team": "Macclesfield",
+        "away_team": "Kidderminster",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "15/01/05",
+        "time": null,
+        "home_team": "Northampton",
+        "away_team": "Darlington",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "15/01/05",
+        "time": null,
+        "home_team": "Oxford",
+        "away_team": "Yeovil",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "15/01/05",
+        "time": null,
+        "home_team": "Rochdale",
+        "away_team": "Mansfield",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "15/01/05",
+        "time": null,
+        "home_team": "Scunthorpe",
+        "away_team": "Bury",
+        "home_score": "3",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "15/01/05",
+        "time": null,
+        "home_team": "Shrewsbury",
+        "away_team": "Boston",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "15/01/05",
+        "time": null,
+        "home_team": "Southend",
+        "away_team": "Notts County",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "15/01/05",
+        "time": null,
+        "home_team": "Swansea",
+        "away_team": "Wycombe",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "22/01/05",
+        "time": null,
+        "home_team": "Boston",
+        "away_team": "Swansea",
+        "home_score": "2",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "22/01/05",
+        "time": null,
+        "home_team": "Bristol Rvs",
+        "away_team": "Cheltenham",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "22/01/05",
+        "time": null,
+        "home_team": "Bury",
+        "away_team": "Northampton",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "22/01/05",
+        "time": null,
+        "home_team": "Chester",
+        "away_team": "Rochdale",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "22/01/05",
+        "time": null,
+        "home_team": "Darlington",
+        "away_team": "Shrewsbury",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "22/01/05",
+        "time": null,
+        "home_team": "Grimsby",
+        "away_team": "Lincoln",
+        "home_score": "2",
+        "away_score": "4",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "22/01/05",
+        "time": null,
+        "home_team": "Kidderminster",
+        "away_team": "Oxford",
+        "home_score": "1",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "22/01/05",
+        "time": null,
+        "home_team": "Mansfield",
+        "away_team": "Southend",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "22/01/05",
+        "time": null,
+        "home_team": "Notts County",
+        "away_team": "Scunthorpe",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "22/01/05",
+        "time": null,
+        "home_team": "Rushden & D",
+        "away_team": "Leyton Orient",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "22/01/05",
+        "time": null,
+        "home_team": "Wycombe",
+        "away_team": "Macclesfield",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "22/01/05",
+        "time": null,
+        "home_team": "Yeovil",
+        "away_team": "Cambridge",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "25/01/05",
+        "time": null,
+        "home_team": "Notts County",
+        "away_team": "Macclesfield",
+        "home_score": "0",
+        "away_score": "5",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "25/01/05",
+        "time": null,
+        "home_team": "Yeovil",
+        "away_team": "Rochdale",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "28/01/05",
+        "time": null,
+        "home_team": "Cheltenham",
+        "away_team": "Grimsby",
+        "home_score": "2",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "29/01/05",
+        "time": null,
+        "home_team": "Cambridge",
+        "away_team": "Kidderminster",
+        "home_score": "1",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "29/01/05",
+        "time": null,
+        "home_team": "Leyton Orient",
+        "away_team": "Notts County",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "29/01/05",
+        "time": null,
+        "home_team": "Lincoln",
+        "away_team": "Mansfield",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "29/01/05",
+        "time": null,
+        "home_team": "Macclesfield",
+        "away_team": "Bury",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "29/01/05",
+        "time": null,
+        "home_team": "Oxford",
+        "away_team": "Bristol Rvs",
+        "home_score": "3",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "29/01/05",
+        "time": null,
+        "home_team": "Rochdale",
+        "away_team": "Rushden & D",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "29/01/05",
+        "time": null,
+        "home_team": "Scunthorpe",
+        "away_team": "Boston",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "29/01/05",
+        "time": null,
+        "home_team": "Shrewsbury",
+        "away_team": "Wycombe",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "29/01/05",
+        "time": null,
+        "home_team": "Southend",
+        "away_team": "Darlington",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            ""
+        ],
+        "date": "29/01/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Swansea",
+        "away_team": "Chester",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            ""
+        ],
+        "date": "01/02/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Chester",
+        "away_team": "Cheltenham",
+        "home_score": "0",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            ""
+        ],
+        "date": "04/02/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Northampton",
+        "away_team": "Cambridge",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            ""
+        ],
+        "date": "04/02/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Swansea",
+        "away_team": "Southend",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            ""
+        ],
+        "date": "05/02/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Bristol Rvs",
+        "away_team": "Grimsby",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            ""
+        ],
+        "date": "05/02/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Bury",
+        "away_team": "Darlington",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            ""
+        ],
+        "date": "05/02/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Cheltenham",
+        "away_team": "Rochdale",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            ""
+        ],
+        "date": "05/02/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Chester",
+        "away_team": "Rushden & D",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            ""
+        ],
+        "date": "05/02/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Lincoln",
+        "away_team": "Oxford",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            ""
+        ],
+        "date": "05/02/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Macclesfield",
+        "away_team": "Yeovil",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            ""
+        ],
+        "date": "05/02/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Notts County",
+        "away_team": "Mansfield",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            ""
+        ],
+        "date": "05/02/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Scunthorpe",
+        "away_team": "Kidderminster",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            ""
+        ],
+        "date": "05/02/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Shrewsbury",
+        "away_team": "Leyton Orient",
+        "home_score": "4",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            ""
+        ],
+        "date": "05/02/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Wycombe",
+        "away_team": "Boston",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            ""
+        ],
+        "date": "08/02/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Bury",
+        "away_team": "Shrewsbury",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            ""
+        ],
+        "date": "08/02/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Mansfield",
+        "away_team": "Swansea",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            ""
+        ],
+        "date": "11/02/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Southend",
+        "away_team": "Scunthorpe",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            ""
+        ],
+        "date": "12/02/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Boston",
+        "away_team": "Bury",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            ""
+        ],
+        "date": "12/02/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Cambridge",
+        "away_team": "Macclesfield",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            ""
+        ],
+        "date": "12/02/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Darlington",
+        "away_team": "Notts County",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            ""
+        ],
+        "date": "12/02/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Grimsby",
+        "away_team": "Shrewsbury",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            ""
+        ],
+        "date": "12/02/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Kidderminster",
+        "away_team": "Chester",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            ""
+        ],
+        "date": "12/02/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Leyton Orient",
+        "away_team": "Swansea",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            ""
+        ],
+        "date": "12/02/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Mansfield",
+        "away_team": "Cheltenham",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            ""
+        ],
+        "date": "12/02/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Oxford",
+        "away_team": "Northampton",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            ""
+        ],
+        "date": "12/02/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Rochdale",
+        "away_team": "Lincoln",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            ""
+        ],
+        "date": "12/02/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Rushden & D",
+        "away_team": "Wycombe",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            ""
+        ],
+        "date": "12/02/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Yeovil",
+        "away_team": "Bristol Rvs",
+        "home_score": "4",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            ""
+        ],
+        "date": "15/02/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Notts County",
+        "away_team": "Northampton",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            ""
+        ],
+        "date": "15/02/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Wycombe",
+        "away_team": "Scunthorpe",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            ""
+        ],
+        "date": "16/02/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Boston",
+        "away_team": "Lincoln",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            ""
+        ],
+        "date": "19/02/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Bristol Rvs",
+        "away_team": "Boston",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "19/02/05",
+        "time": null,
+        "home_team": "Bury",
+        "away_team": "Mansfield",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "19/02/05",
+        "time": null,
+        "home_team": "Cheltenham",
+        "away_team": "Oxford",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "19/02/05",
+        "time": null,
+        "home_team": "Chester",
+        "away_team": "Yeovil",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "19/02/05",
+        "time": null,
+        "home_team": "Lincoln",
+        "away_team": "Cambridge",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "19/02/05",
+        "time": null,
+        "home_team": "Macclesfield",
+        "away_team": "Rochdale",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "19/02/05",
+        "time": null,
+        "home_team": "Northampton",
+        "away_team": "Southend",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "19/02/05",
+        "time": null,
+        "home_team": "Notts County",
+        "away_team": "Rushden & D",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "19/02/05",
+        "time": null,
+        "home_team": "Scunthorpe",
+        "away_team": "Leyton Orient",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "19/02/05",
+        "time": null,
+        "home_team": "Shrewsbury",
+        "away_team": "Kidderminster",
+        "home_score": "4",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "19/02/05",
+        "time": null,
+        "home_team": "Swansea",
+        "away_team": "Grimsby",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "19/02/05",
+        "time": null,
+        "home_team": "Wycombe",
+        "away_team": "Darlington",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "22/02/05",
+        "time": null,
+        "home_team": "Cambridge",
+        "away_team": "Cheltenham",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "22/02/05",
+        "time": null,
+        "home_team": "Darlington",
+        "away_team": "Swansea",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "22/02/05",
+        "time": null,
+        "home_team": "Grimsby",
+        "away_team": "Chester",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "22/02/05",
+        "time": null,
+        "home_team": "Kidderminster",
+        "away_team": "Bristol Rvs",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "22/02/05",
+        "time": null,
+        "home_team": "Leyton Orient",
+        "away_team": "Lincoln",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "22/02/05",
+        "time": null,
+        "home_team": "Mansfield",
+        "away_team": "Wycombe",
+        "home_score": "1",
+        "away_score": "4",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "22/02/05",
+        "time": null,
+        "home_team": "Rushden & D",
+        "away_team": "Bury",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "22/02/05",
+        "time": null,
+        "home_team": "Southend",
+        "away_team": "Shrewsbury",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "22/02/05",
+        "time": null,
+        "home_team": "Yeovil",
+        "away_team": "Scunthorpe",
+        "home_score": "4",
+        "away_score": "3",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "26/02/05",
+        "time": null,
+        "home_team": "Boston",
+        "away_team": "Northampton",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "26/02/05",
+        "time": null,
+        "home_team": "Cambridge",
+        "away_team": "Oxford",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "26/02/05",
+        "time": null,
+        "home_team": "Cheltenham",
+        "away_team": "Lincoln",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "26/02/05",
+        "time": null,
+        "home_team": "Grimsby",
+        "away_team": "Yeovil",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "26/02/05",
+        "time": null,
+        "home_team": "Leyton Orient",
+        "away_team": "Darlington",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "26/02/05",
+        "time": null,
+        "home_team": "Macclesfield",
+        "away_team": "Bristol Rvs",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "26/02/05",
+        "time": null,
+        "home_team": "Rochdale",
+        "away_team": "Kidderminster",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "26/02/05",
+        "time": null,
+        "home_team": "Rushden & D",
+        "away_team": "Mansfield",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "26/02/05",
+        "time": null,
+        "home_team": "Shrewsbury",
+        "away_team": "Chester",
+        "home_score": "5",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "26/02/05",
+        "time": null,
+        "home_team": "Southend",
+        "away_team": "Bury",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "26/02/05",
+        "time": null,
+        "home_team": "Swansea",
+        "away_team": "Scunthorpe",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "26/02/05",
+        "time": null,
+        "home_team": "Wycombe",
+        "away_team": "Notts County",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "01/03/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Northampton",
+        "away_team": "Yeovil",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "01/03/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Rochdale",
+        "away_team": "Grimsby",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "05/03/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Bristol Rvs",
+        "away_team": "Rochdale",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "05/03/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Bury",
+        "away_team": "Cambridge",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "05/03/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Chester",
+        "away_team": "Southend",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "05/03/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Darlington",
+        "away_team": "Boston",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "05/03/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Kidderminster",
+        "away_team": "Cheltenham",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "05/03/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Lincoln",
+        "away_team": "Wycombe",
+        "home_score": "2",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "05/03/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Mansfield",
+        "away_team": "Shrewsbury",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "05/03/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Northampton",
+        "away_team": "Macclesfield",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "05/03/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Notts County",
+        "away_team": "Swansea",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "05/03/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Oxford",
+        "away_team": "Grimsby",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "05/03/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Scunthorpe",
+        "away_team": "Rushden & D",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "05/03/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Yeovil",
+        "away_team": "Leyton Orient",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "08/03/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Rochdale",
+        "away_team": "Northampton",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "12/03/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Boston",
+        "away_team": "Grimsby",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "12/03/05",
+        "time": null,
+        "home_team": "Bury",
+        "away_team": "Bristol Rvs",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "12/03/05",
+        "time": null,
+        "home_team": "Darlington",
+        "away_team": "Yeovil",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "12/03/05",
+        "time": null,
+        "home_team": "Leyton Orient",
+        "away_team": "Cambridge",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "12/03/05",
+        "time": null,
+        "home_team": "Mansfield",
+        "away_team": "Oxford",
+        "home_score": "1",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "12/03/05",
+        "time": null,
+        "home_team": "Notts County",
+        "away_team": "Kidderminster",
+        "home_score": "1",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "12/03/05",
+        "time": null,
+        "home_team": "Rushden & D",
+        "away_team": "Northampton",
+        "home_score": "3",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "12/03/05",
+        "time": null,
+        "home_team": "Scunthorpe",
+        "away_team": "Cheltenham",
+        "home_score": "4",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "12/03/05",
+        "time": null,
+        "home_team": "Shrewsbury",
+        "away_team": "Macclesfield",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "12/03/05",
+        "time": null,
+        "home_team": "Southend",
+        "away_team": "Lincoln",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "12/03/05",
+        "time": null,
+        "home_team": "Swansea",
+        "away_team": "Rochdale",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "12/03/05",
+        "time": null,
+        "home_team": "Wycombe",
+        "away_team": "Chester",
+        "home_score": "4",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "16/03/05",
+        "time": null,
+        "home_team": "Boston",
+        "away_team": "Notts County",
+        "home_score": "4",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "19/03/05",
+        "time": null,
+        "home_team": "Bristol Rvs",
+        "away_team": "Mansfield",
+        "home_score": "4",
+        "away_score": "4",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "19/03/05",
+        "time": null,
+        "home_team": "Cambridge",
+        "away_team": "Wycombe",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "19/03/05",
+        "time": null,
+        "home_team": "Cheltenham",
+        "away_team": "Southend",
+        "home_score": "0",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "19/03/05",
+        "time": null,
+        "home_team": "Chester",
+        "away_team": "Notts County",
+        "home_score": "3",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "19/03/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Grimsby",
+        "away_team": "Darlington",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "19/03/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Kidderminster",
+        "away_team": "Rushden & D",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "19/03/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Lincoln",
+        "away_team": "Shrewsbury",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "19/03/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Macclesfield",
+        "away_team": "Leyton Orient",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "19/03/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Northampton",
+        "away_team": "Swansea",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "19/03/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Oxford",
+        "away_team": "Boston",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "19/03/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Rochdale",
+        "away_team": "Scunthorpe",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "19/03/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Yeovil",
+        "away_team": "Bury",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "25/03/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Bury",
+        "away_team": "Grimsby",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "25/03/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Leyton Orient",
+        "away_team": "Cheltenham",
+        "home_score": "2",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "25/03/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Mansfield",
+        "away_team": "Chester",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "25/03/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Rushden & D",
+        "away_team": "Lincoln",
+        "home_score": "1",
+        "away_score": "4",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "25/03/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Scunthorpe",
+        "away_team": "Oxford",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "25/03/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Shrewsbury",
+        "away_team": "Cambridge",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "25/03/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Southend",
+        "away_team": "Rochdale",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "25/03/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Swansea",
+        "away_team": "Macclesfield",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "25/03/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Wycombe",
+        "away_team": "Northampton",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "26/03/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Boston",
+        "away_team": "Yeovil",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "26/03/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Darlington",
+        "away_team": "Kidderminster",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "26/03/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Notts County",
+        "away_team": "Bristol Rvs",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "28/03/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Bristol Rvs",
+        "away_team": "Darlington",
+        "home_score": "3",
+        "away_score": "3",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "28/03/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Cambridge",
+        "away_team": "Southend",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "28/03/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Cheltenham",
+        "away_team": "Swansea",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "28/03/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Chester",
+        "away_team": "Bury",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "28/03/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Grimsby",
+        "away_team": "Rushden & D",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "28/03/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Kidderminster",
+        "away_team": "Mansfield",
+        "home_score": "1",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "28/03/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Lincoln",
+        "away_team": "Scunthorpe",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "28/03/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Macclesfield",
+        "away_team": "Boston",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "28/03/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Northampton",
+        "away_team": "Shrewsbury",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "28/03/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Oxford",
+        "away_team": "Leyton Orient",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "28/03/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Rochdale",
+        "away_team": "Wycombe",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "29/03/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Yeovil",
+        "away_team": "Notts County",
+        "home_score": "1",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "01/04/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Southend",
+        "away_team": "Bristol Rvs",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "02/04/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Boston",
+        "away_team": "Cheltenham",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "02/04/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Bury",
+        "away_team": "Rochdale",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "02/04/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Darlington",
+        "away_team": "Chester",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "02/04/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Leyton Orient",
+        "away_team": "Northampton",
+        "home_score": "3",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "02/04/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Mansfield",
+        "away_team": "Grimsby",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "02/04/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Notts County",
+        "away_team": "Lincoln",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "02/04/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Rushden & D",
+        "away_team": "Yeovil",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "02/04/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Scunthorpe",
+        "away_team": "Macclesfield",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "02/04/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Shrewsbury",
+        "away_team": "Oxford",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "02/04/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Swansea",
+        "away_team": "Cambridge",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "02/04/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Wycombe",
+        "away_team": "Kidderminster",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "06/04/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Oxford",
+        "away_team": "Macclesfield",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "08/04/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Cheltenham",
+        "away_team": "Shrewsbury",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "09/04/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Bristol Rvs",
+        "away_team": "Rushden & D",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "09/04/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Cambridge",
+        "away_team": "Darlington",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "09/04/05",
+        "time": null,
+        "home_team": "Chester",
+        "away_team": "Boston",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "09/04/05",
+        "time": null,
+        "home_team": "Grimsby",
+        "away_team": "Wycombe",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "09/04/05",
+        "time": null,
+        "home_team": "Kidderminster",
+        "away_team": "Bury",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "09/04/05",
+        "time": null,
+        "home_team": "Lincoln",
+        "away_team": "Swansea",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "09/04/05",
+        "time": null,
+        "home_team": "Northampton",
+        "away_team": "Scunthorpe",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "09/04/05",
+        "time": null,
+        "home_team": "Oxford",
+        "away_team": "Notts County",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "09/04/05",
+        "time": null,
+        "home_team": "Rochdale",
+        "away_team": "Leyton Orient",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "09/04/05",
+        "time": null,
+        "home_team": "Yeovil",
+        "away_team": "Mansfield",
+        "home_score": "5",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "15/04/05",
+        "time": null,
+        "home_team": "Southend",
+        "away_team": "Leyton Orient",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "15/04/05",
+        "time": null,
+        "home_team": "Swansea",
+        "away_team": "Oxford",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "16/04/05",
+        "time": null,
+        "home_team": "Cheltenham",
+        "away_team": "Northampton",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "16/04/05",
+        "time": null,
+        "home_team": "Chester",
+        "away_team": "Bristol Rvs",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "16/04/05",
+        "time": null,
+        "home_team": "Kidderminster",
+        "away_team": "Yeovil",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "16/04/05",
+        "time": null,
+        "home_team": "Lincoln",
+        "away_team": "Macclesfield",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "16/04/05",
+        "time": null,
+        "home_team": "Mansfield",
+        "away_team": "Darlington",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "16/04/05",
+        "time": null,
+        "home_team": "Notts County",
+        "away_team": "Grimsby",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "16/04/05",
+        "time": null,
+        "home_team": "Rochdale",
+        "away_team": "Shrewsbury",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "16/04/05",
+        "time": null,
+        "home_team": "Rushden & D",
+        "away_team": "Boston",
+        "home_score": "4",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "16/04/05",
+        "time": null,
+        "home_team": "Scunthorpe",
+        "away_team": "Cambridge",
+        "home_score": "4",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "16/04/05",
+        "time": null,
+        "home_team": "Wycombe",
+        "away_team": "Bury",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "19/04/05",
+        "time": null,
+        "home_team": "Macclesfield",
+        "away_team": "Southend",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "23/04/05",
+        "time": null,
+        "home_team": "Boston",
+        "away_team": "Kidderminster",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "23/04/05",
+        "time": null,
+        "home_team": "Bristol Rvs",
+        "away_team": "Swansea",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "23/04/05",
+        "time": null,
+        "home_team": "Bury",
+        "away_team": "Cheltenham",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "23/04/05",
+        "time": null,
+        "home_team": "Cambridge",
+        "away_team": "Rochdale",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "23/04/05",
+        "time": null,
+        "home_team": "Darlington",
+        "away_team": "Rushden & D",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "23/04/05",
+        "time": null,
+        "home_team": "Grimsby",
+        "away_team": "Scunthorpe",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "23/04/05",
+        "time": null,
+        "home_team": "Leyton Orient",
+        "away_team": "Chester",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "23/04/05",
+        "time": null,
+        "home_team": "Macclesfield",
+        "away_team": "Mansfield",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "23/04/05",
+        "time": null,
+        "home_team": "Northampton",
+        "away_team": "Lincoln",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "23/04/05",
+        "time": null,
+        "home_team": "Oxford",
+        "away_team": "Southend",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "23/04/05",
+        "time": null,
+        "home_team": "Shrewsbury",
+        "away_team": "Notts County",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "23/04/05",
+        "time": null,
+        "home_team": "Yeovil",
+        "away_team": "Wycombe",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "30/04/05",
+        "time": null,
+        "home_team": "Cheltenham",
+        "away_team": "Macclesfield",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "30/04/05",
+        "time": null,
+        "home_team": "Chester",
+        "away_team": "Northampton",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "30/04/05",
+        "time": null,
+        "home_team": "Kidderminster",
+        "away_team": "Grimsby",
+        "home_score": "1",
+        "away_score": "4",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "30/04/05",
+        "time": null,
+        "home_team": "Lincoln",
+        "away_team": "Darlington",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "30/04/05",
+        "time": null,
+        "home_team": "Mansfield",
+        "away_team": "Boston",
+        "home_score": "3",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "30/04/05",
+        "time": null,
+        "home_team": "Notts County",
+        "away_team": "Bury",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "30/04/05",
+        "time": null,
+        "home_team": "Rochdale",
+        "away_team": "Oxford",
+        "home_score": "5",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "30/04/05",
+        "time": null,
+        "home_team": "Rushden & D",
+        "away_team": "Cambridge",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "30/04/05",
+        "time": null,
+        "home_team": "Scunthorpe",
+        "away_team": "Bristol Rvs",
+        "home_score": "4",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "30/04/05",
+        "time": null,
+        "home_team": "Southend",
+        "away_team": "Yeovil",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "30/04/05",
+        "time": null,
+        "home_team": "Swansea",
+        "away_team": "Shrewsbury",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "30/04/05",
+        "time": null,
+        "home_team": "Wycombe",
+        "away_team": "Leyton Orient",
+        "home_score": "3",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "07/05/05",
+        "time": null,
+        "home_team": "Boston",
+        "away_team": "Rochdale",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "07/05/05",
+        "time": null,
+        "home_team": "Bristol Rvs",
+        "away_team": "Wycombe",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "07/05/05",
+        "time": null,
+        "home_team": "Bury",
+        "away_team": "Swansea",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "07/05/05",
+        "time": null,
+        "home_team": "Cambridge",
+        "away_team": "Notts County",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "07/05/05",
+        "time": null,
+        "home_team": "Darlington",
+        "away_team": "Cheltenham",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "07/05/05",
+        "time": null,
+        "home_team": "Grimsby",
+        "away_team": "Southend",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "07/05/05",
+        "time": null,
+        "home_team": "Leyton Orient",
+        "away_team": "Mansfield",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "07/05/05",
+        "time": null,
+        "home_team": "Macclesfield",
+        "away_team": "Rushden & D",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "07/05/05",
+        "time": null,
+        "home_team": "Northampton",
+        "away_team": "Kidderminster",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "07/05/05",
+        "time": null,
+        "home_team": "Oxford",
+        "away_team": "Chester",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "07/05/05",
+        "time": null,
+        "home_team": "Shrewsbury",
+        "away_team": "Scunthorpe",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2004",
+        "date": "07/05/05",
+        "time": null,
+        "home_team": "Yeovil",
+        "away_team": "Lincoln",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    }
+]

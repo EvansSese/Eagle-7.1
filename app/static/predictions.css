@@ -1,0 +1,58 @@
+.prediction-columns { display: grid; height: calc(100vh - 211px); min-height: 510px; max-height: 1000px; grid-template-columns: minmax(230px, .78fr) minmax(325px, 1.1fr) minmax(350px, 1.15fr) minmax(230px, .78fr); gap: 13px; overflow-x: auto; }
+.prediction-leagues-pane .pane-heading { min-height: 61px; }
+.prediction-leagues-pane .pane-search { margin-top: 9px; }
+.prediction-filter { display: flex; flex: 0 0 auto; align-items: center; gap: 8px; padding: 9px 12px; color: var(--muted); font-size: 11px; }
+.prediction-filter select { flex: 1 1 auto; min-width: 0; min-height: 32px; padding: 0 8px; border: 1px solid var(--line); border-radius: 6px; background: var(--surface); color: var(--ink); font-size: 11px; }
+.prediction-fixture-list, .prediction-details, .favorite-fixture-list { min-height: 0; flex: 1 1 auto; overflow: auto; overscroll-behavior: contain; scrollbar-color: #d7dfd8 transparent; scrollbar-width: thin; }
+.prediction-fixture-list, .favorite-fixture-list { padding: 8px; }
+.prediction-fixture-card { margin-bottom: 8px; padding: 10px; border: 1px solid #e9eee9; border-radius: 7px; background: #fff; }
+.prediction-fixture-card.selected { border-color: #83b991; box-shadow: inset 2px 0 #439461; }
+.prediction-fixture-select { display: flex; width: 100%; justify-content: center; padding: 1px 0 8px; border: 0; background: transparent; text-align: left; cursor: pointer; }
+.prediction-fixture-teams { display: grid; width: 100%; min-width: 0; grid-template-columns: minmax(0, 1fr) minmax(64px, auto) minmax(0, 1fr); align-items: center; gap: 5px; color: #3e4a42; font-size: 11px; font-weight: 700; line-height: 1.45; }
+.prediction-fixture-team { display: flex; min-width: 0; align-items: center; gap: 6px; }
+.prediction-fixture-team.home { justify-content: flex-start; }
+.prediction-fixture-team.away { justify-content: flex-end; text-align: right; }
+.prediction-team-logo-wrap { display: grid; width: 23px; height: 23px; flex: 0 0 auto; place-items: center; order: 1; }
+.prediction-fixture-team.away .prediction-team-logo-wrap { order: 0; }
+.prediction-team-logo { display: grid; width: 23px; height: 23px; flex: 0 0 auto; place-items: center; border-radius: 50%; background: #edf2ee; color: #43865a; font-size: 9px; font-weight: 700; object-fit: contain; }
+.prediction-team-logo-fallback { display: grid; width: 23px; height: 23px; flex: 0 0 auto; place-items: center; border-radius: 50%; background: #edf2ee; color: #43865a; font-size: 9px; font-weight: 700; }
+.prediction-team-name { overflow: hidden; min-width: 0; text-overflow: ellipsis; }
+.prediction-fixture-center { display: grid; justify-items: center; gap: 2px; color: #849087; font-size: 9px; font-weight: 500; text-align: center; }
+.prediction-team-separator { color: #a4afa6; font-size: 10px; font-weight: 600; }
+.prediction-fixture-date, .prediction-fixture-time { color: #58665c; font-size: 8px; white-space: nowrap; }
+.prediction-fixture-time { color: #849087; }
+.prediction-fixture-venue { overflow: hidden; margin: -2px 0 7px; color: #849087; font-size: 9px; text-overflow: ellipsis; white-space: nowrap; }
+.prediction-card-summary { margin: 0 0 5px; color: #708077; font-size: 9px; line-height: 1.4; }
+.prediction-fixture-picks { display: grid; gap: 5px; }
+.prediction-pick { display: flex; align-items: center; justify-content: space-between; gap: 7px; padding-top: 5px; border-top: 1px solid #f0f2f0; color: #6f7a72; font-size: 9px; }
+.prediction-pick strong { overflow: hidden; color: #3e4a42; font-size: 10px; text-overflow: ellipsis; white-space: nowrap; }
+.confidence-badge { flex: 0 0 auto; color: #408254; font-size: 9px; font-weight: 700; }
+.prediction-round-heading { position: sticky; top: -8px; z-index: 1; display: flex; width: calc(100% + 16px); min-height: 32px; align-items: center; gap: 8px; margin: 0 -8px 7px; padding: 7px 13px; border: 0; border-bottom: 1px solid #edf0ed; background: #fff; color: #6d796f; cursor: pointer; font-size: 10px; font-weight: 700; text-align: left; }
+.prediction-round-chevron { width: 11px; color: #7c9181; font-size: 13px; }
+.prediction-round-name { flex: 1 1 auto; }
+.prediction-round-accuracy { color: #43865a; font-size: 10px; white-space: nowrap; }
+.prediction-test-badge, .prediction-test-unknown { display: inline-block; margin: 0 0 6px; padding: 2px 6px; border-radius: 4px; background: #e8f3fa; color: #285d7a; font-size: 9px; font-weight: 700; }
+.prediction-test-unknown { background: #f4eee2; color: #765b28; }
+.prediction-fixture-markers { display: flex; align-items: flex-start; justify-content: space-between; gap: 8px; }
+.prediction-correct-indicators { display: flex; gap: 4px; margin: 0 0 6px auto; }
+.prediction-correct-indicator { display: inline-grid; width: 21px; height: 21px; place-items: center; border-radius: 50%; background: #27864a; color: #fff; font-size: 8px; font-weight: 700; }
+.prediction-evaluation .prediction-result-correct { color: #286d42; font-weight: 700; }
+.prediction-evaluation .prediction-result-incorrect { color: #a34738; font-weight: 700; }
+.prediction-evaluation .prediction-result-unavailable { color: #728078; }
+.prediction-round-fixtures[hidden] { display: none; }
+.prediction-details { padding: 11px; }
+.prediction-analysis-card { margin: 0 0 9px; padding: 10px; border: 1px solid #e9eee9; border-radius: 7px; background: #fbfcfb; }
+.prediction-analysis-card h3 { margin: 0 0 8px; color: #47544a; font-size: 11px; }
+.prediction-analysis-card p { margin: 0; color: #728078; font-size: 10px; line-height: 1.5; }
+.prediction-rank-list { display: grid; gap: 6px; margin: 0; padding: 0; list-style: none; }
+.prediction-rank-list li { display: flex; align-items: center; justify-content: space-between; gap: 8px; color: #626f65; font-size: 10px; }
+.prediction-rank-list li:first-child { color: #286d42; font-weight: 700; }
+.prediction-rank-list strong { color: #43865a; font-size: 10px; white-space: nowrap; }
+.prediction-model-list { display: grid; gap: 5px; margin-top: 8px; padding-top: 8px; border-top: 1px solid #e9eee9; }
+.prediction-model-row { display: flex; justify-content: space-between; gap: 8px; color: #728078; font-size: 9px; }
+.prediction-model-row strong { color: #445047; text-align: right; }
+.prediction-detail-heading { display: flex; align-items: center; justify-content: space-between; gap: 8px; }
+.prediction-detail-round { min-width: 0; flex: 1 1 auto; overflow: hidden; color: #728078; font-size: 10px; font-weight: 700; text-overflow: ellipsis; white-space: nowrap; }
+.prediction-detail-card .prediction-fixture-teams { margin: 10px 0; }
+.prediction-detail-card .prediction-fixture-venue:last-child { margin-bottom: 0; }
+.prediction-detail-heading .prediction-test-badge, .prediction-detail-heading .prediction-test-unknown { margin-bottom: 0; }

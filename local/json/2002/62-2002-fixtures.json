@@ -1,0 +1,6660 @@
+[
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "02/08/02",
+        "time": null,
+        "home_team": "Reims",
+        "away_team": "Lorient",
+        "home_score": "1",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "03/08/02",
+        "time": null,
+        "home_team": "Amiens",
+        "away_team": "Le Mans",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "03/08/02",
+        "time": null,
+        "home_team": "Caen",
+        "away_team": "Valence",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "03/08/02",
+        "time": null,
+        "home_team": "Chateauroux",
+        "away_team": "Beauvais",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "03/08/02",
+        "time": null,
+        "home_team": "Clermont",
+        "away_team": "Niort",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "03/08/02",
+        "time": null,
+        "home_team": "Grenoble",
+        "away_team": "St Etienne",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "03/08/02",
+        "time": null,
+        "home_team": "Gueugnon",
+        "away_team": "Metz",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "03/08/02",
+        "time": null,
+        "home_team": "Istres",
+        "away_team": "Toulouse",
+        "home_score": "0",
+        "away_score": "4",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "03/08/02",
+        "time": null,
+        "home_team": "Laval",
+        "away_team": "Wasquehal",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "03/08/02",
+        "time": null,
+        "home_team": "Nancy",
+        "away_team": "Creteil",
+        "home_score": "2",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "10/08/02",
+        "time": null,
+        "home_team": "Beauvais",
+        "away_team": "Clermont",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "10/08/02",
+        "time": null,
+        "home_team": "Caen",
+        "away_team": "Chateauroux",
+        "home_score": "4",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "10/08/02",
+        "time": null,
+        "home_team": "Creteil",
+        "away_team": "Laval",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "10/08/02",
+        "time": null,
+        "home_team": "Le Mans",
+        "away_team": "Gueugnon",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "10/08/02",
+        "time": null,
+        "home_team": "Metz",
+        "away_team": "Reims",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "10/08/02",
+        "time": null,
+        "home_team": "Niort",
+        "away_team": "Amiens",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "10/08/02",
+        "time": null,
+        "home_team": "St Etienne",
+        "away_team": "Istres",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "10/08/02",
+        "time": null,
+        "home_team": "Valence",
+        "away_team": "Nancy",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "10/08/02",
+        "time": null,
+        "home_team": "Wasquehal",
+        "away_team": "Grenoble",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "11/08/02",
+        "time": null,
+        "home_team": "Lorient",
+        "away_team": "Toulouse",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "16/08/02",
+        "time": null,
+        "home_team": "Nancy",
+        "away_team": "Caen",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "17/08/02",
+        "time": null,
+        "home_team": "Amiens",
+        "away_team": "St Etienne",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "17/08/02",
+        "time": null,
+        "home_team": "Chateauroux",
+        "away_team": "Creteil",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "17/08/02",
+        "time": null,
+        "home_team": "Clermont",
+        "away_team": "Valence",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "17/08/02",
+        "time": null,
+        "home_team": "Grenoble",
+        "away_team": "Niort",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "17/08/02",
+        "time": null,
+        "home_team": "Gueugnon",
+        "away_team": "Wasquehal",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "17/08/02",
+        "time": null,
+        "home_team": "Istres",
+        "away_team": "Lorient",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "17/08/02",
+        "time": null,
+        "home_team": "Laval",
+        "away_team": "Beauvais",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "17/08/02",
+        "time": null,
+        "home_team": "Reims",
+        "away_team": "Le Mans",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "17/08/02",
+        "time": null,
+        "home_team": "Toulouse",
+        "away_team": "Metz",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "24/08/02",
+        "time": null,
+        "home_team": "Beauvais",
+        "away_team": "Gueugnon",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "24/08/02",
+        "time": null,
+        "home_team": "Caen",
+        "away_team": "Laval",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "24/08/02",
+        "time": null,
+        "home_team": "Creteil",
+        "away_team": "Grenoble",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "24/08/02",
+        "time": null,
+        "home_team": "Le Mans",
+        "away_team": "Toulouse",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "24/08/02",
+        "time": null,
+        "home_team": "Metz",
+        "away_team": "Lorient",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "24/08/02",
+        "time": null,
+        "home_team": "Niort",
+        "away_team": "Istres",
+        "home_score": "1",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "24/08/02",
+        "time": null,
+        "home_team": "Valence",
+        "away_team": "Chateauroux",
+        "home_score": "4",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "24/08/02",
+        "time": null,
+        "home_team": "Wasquehal",
+        "away_team": "Clermont",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "25/08/02",
+        "time": null,
+        "home_team": "Nancy",
+        "away_team": "Amiens",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "25/08/02",
+        "time": null,
+        "home_team": "St Etienne",
+        "away_team": "Reims",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "30/08/02",
+        "time": null,
+        "home_team": "Clermont",
+        "away_team": "Creteil",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "30/08/02",
+        "time": null,
+        "home_team": "Grenoble",
+        "away_team": "Beauvais",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "31/08/02",
+        "time": null,
+        "home_team": "Amiens",
+        "away_team": "Wasquehal",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "31/08/02",
+        "time": null,
+        "home_team": "Chateauroux",
+        "away_team": "Nancy",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "31/08/02",
+        "time": null,
+        "home_team": "Gueugnon",
+        "away_team": "St Etienne",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "31/08/02",
+        "time": null,
+        "home_team": "Istres",
+        "away_team": "Metz",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "31/08/02",
+        "time": null,
+        "home_team": "Laval",
+        "away_team": "Valence",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "31/08/02",
+        "time": null,
+        "home_team": "Reims",
+        "away_team": "Niort",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "31/08/02",
+        "time": null,
+        "home_team": "Toulouse",
+        "away_team": "Caen",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "01/09/02",
+        "time": null,
+        "home_team": "Lorient",
+        "away_team": "Le Mans",
+        "home_score": "3",
+        "away_score": "4",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "04/09/02",
+        "time": null,
+        "home_team": "Beauvais",
+        "away_team": "Istres",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "04/09/02",
+        "time": null,
+        "home_team": "Caen",
+        "away_team": "Clermont",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "04/09/02",
+        "time": null,
+        "home_team": "Chateauroux",
+        "away_team": "Gueugnon",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "04/09/02",
+        "time": null,
+        "home_team": "Creteil",
+        "away_team": "Amiens",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "04/09/02",
+        "time": null,
+        "home_team": "Nancy",
+        "away_team": "Laval",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "04/09/02",
+        "time": null,
+        "home_team": "Niort",
+        "away_team": "Toulouse",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "04/09/02",
+        "time": null,
+        "home_team": "St Etienne",
+        "away_team": "Lorient",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "04/09/02",
+        "time": null,
+        "home_team": "Valence",
+        "away_team": "Grenoble",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "04/09/02",
+        "time": null,
+        "home_team": "Wasquehal",
+        "away_team": "Reims",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "05/09/02",
+        "time": null,
+        "home_team": "Le Mans",
+        "away_team": "Metz",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "10/09/02",
+        "time": null,
+        "home_team": "Istres",
+        "away_team": "Le Mans",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "11/09/02",
+        "time": null,
+        "home_team": "Amiens",
+        "away_team": "Valence",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "11/09/02",
+        "time": null,
+        "home_team": "Clermont",
+        "away_team": "Nancy",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "11/09/02",
+        "time": null,
+        "home_team": "Grenoble",
+        "away_team": "Caen",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "11/09/02",
+        "time": null,
+        "home_team": "Gueugnon",
+        "away_team": "Creteil",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "11/09/02",
+        "time": null,
+        "home_team": "Laval",
+        "away_team": "Chateauroux",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "11/09/02",
+        "time": null,
+        "home_team": "Metz",
+        "away_team": "Wasquehal",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "11/09/02",
+        "time": null,
+        "home_team": "Reims",
+        "away_team": "Beauvais",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "11/09/02",
+        "time": null,
+        "home_team": "Toulouse",
+        "away_team": "St Etienne",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "12/09/02",
+        "time": null,
+        "home_team": "Lorient",
+        "away_team": "Niort",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "14/09/02",
+        "time": null,
+        "home_team": "Beauvais",
+        "away_team": "Toulouse",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "14/09/02",
+        "time": null,
+        "home_team": "Chateauroux",
+        "away_team": "Clermont",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "14/09/02",
+        "time": null,
+        "home_team": "Laval",
+        "away_team": "Reims",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "14/09/02",
+        "time": null,
+        "home_team": "Nancy",
+        "away_team": "Grenoble",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "14/09/02",
+        "time": null,
+        "home_team": "St Etienne",
+        "away_team": "Le Mans",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "14/09/02",
+        "time": null,
+        "home_team": "Valence",
+        "away_team": "Gueugnon",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "14/09/02",
+        "time": null,
+        "home_team": "Wasquehal",
+        "away_team": "Istres",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "15/09/02",
+        "time": null,
+        "home_team": "Caen",
+        "away_team": "Amiens",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "15/09/02",
+        "time": null,
+        "home_team": "Creteil",
+        "away_team": "Lorient",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "15/09/02",
+        "time": null,
+        "home_team": "Niort",
+        "away_team": "Metz",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "20/09/02",
+        "time": null,
+        "home_team": "Metz",
+        "away_team": "St Etienne",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "20/09/02",
+        "time": null,
+        "home_team": "Toulouse",
+        "away_team": "Wasquehal",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "21/09/02",
+        "time": null,
+        "home_team": "Amiens",
+        "away_team": "Beauvais",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "21/09/02",
+        "time": null,
+        "home_team": "Clermont",
+        "away_team": "Laval",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "21/09/02",
+        "time": null,
+        "home_team": "Grenoble",
+        "away_team": "Chateauroux",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "21/09/02",
+        "time": null,
+        "home_team": "Gueugnon",
+        "away_team": "Caen",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "21/09/02",
+        "time": null,
+        "home_team": "Istres",
+        "away_team": "Valence",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "21/09/02",
+        "time": null,
+        "home_team": "Le Mans",
+        "away_team": "Niort",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "21/09/02",
+        "time": null,
+        "home_team": "Reims",
+        "away_team": "Creteil",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "22/09/02",
+        "time": null,
+        "home_team": "Lorient",
+        "away_team": "Nancy",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "28/09/02",
+        "time": null,
+        "home_team": "Beauvais",
+        "away_team": "Lorient",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "28/09/02",
+        "time": null,
+        "home_team": "Caen",
+        "away_team": "Reims",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "28/09/02",
+        "time": null,
+        "home_team": "Chateauroux",
+        "away_team": "Amiens",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "28/09/02",
+        "time": null,
+        "home_team": "Creteil",
+        "away_team": "Istres",
+        "home_score": "5",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "28/09/02",
+        "time": null,
+        "home_team": "Laval",
+        "away_team": "Grenoble",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "28/09/02",
+        "time": null,
+        "home_team": "Nancy",
+        "away_team": "Gueugnon",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "28/09/02",
+        "time": null,
+        "home_team": "Niort",
+        "away_team": "St Etienne",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "28/09/02",
+        "time": null,
+        "home_team": "Valence",
+        "away_team": "Toulouse",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "28/09/02",
+        "time": null,
+        "home_team": "Wasquehal",
+        "away_team": "Le Mans",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "29/09/02",
+        "time": null,
+        "home_team": "Clermont",
+        "away_team": "Metz",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "04/10/02",
+        "time": null,
+        "home_team": "Amiens",
+        "away_team": "Laval",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "04/10/02",
+        "time": null,
+        "home_team": "Le Mans",
+        "away_team": "Nancy",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "05/10/02",
+        "time": null,
+        "home_team": "Grenoble",
+        "away_team": "Clermont",
+        "home_score": "6",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "05/10/02",
+        "time": null,
+        "home_team": "Gueugnon",
+        "away_team": "Niort",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "05/10/02",
+        "time": null,
+        "home_team": "Istres",
+        "away_team": "Chateauroux",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "05/10/02",
+        "time": null,
+        "home_team": "Metz",
+        "away_team": "Beauvais",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "05/10/02",
+        "time": null,
+        "home_team": "Reims",
+        "away_team": "Valence",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "05/10/02",
+        "time": null,
+        "home_team": "St Etienne",
+        "away_team": "Wasquehal",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "05/10/02",
+        "time": null,
+        "home_team": "Toulouse",
+        "away_team": "Creteil",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "06/10/02",
+        "time": null,
+        "home_team": "Lorient",
+        "away_team": "Caen",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "18/10/02",
+        "time": null,
+        "home_team": "Valence",
+        "away_team": "Metz",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "19/10/02",
+        "time": null,
+        "home_team": "Beauvais",
+        "away_team": "St Etienne",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "19/10/02",
+        "time": null,
+        "home_team": "Caen",
+        "away_team": "Istres",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "19/10/02",
+        "time": null,
+        "home_team": "Chateauroux",
+        "away_team": "Reims",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "19/10/02",
+        "time": null,
+        "home_team": "Clermont",
+        "away_team": "Lorient",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "19/10/02",
+        "time": null,
+        "home_team": "Creteil",
+        "away_team": "Le Mans",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "19/10/02",
+        "time": null,
+        "home_team": "Grenoble",
+        "away_team": "Amiens",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "19/10/02",
+        "time": null,
+        "home_team": "Laval",
+        "away_team": "Gueugnon",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "19/10/02",
+        "time": null,
+        "home_team": "Nancy",
+        "away_team": "Toulouse",
+        "home_score": "3",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "19/10/02",
+        "time": null,
+        "home_team": "Wasquehal",
+        "away_team": "Niort",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "26/10/02",
+        "time": null,
+        "home_team": "Amiens",
+        "away_team": "Clermont",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "26/10/02",
+        "time": null,
+        "home_team": "Gueugnon",
+        "away_team": "Grenoble",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "26/10/02",
+        "time": null,
+        "home_team": "Istres",
+        "away_team": "Laval",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "26/10/02",
+        "time": null,
+        "home_team": "Le Mans",
+        "away_team": "Valence",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "26/10/02",
+        "time": null,
+        "home_team": "Lorient",
+        "away_team": "Wasquehal",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "26/10/02",
+        "time": null,
+        "home_team": "Metz",
+        "away_team": "Creteil",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "26/10/02",
+        "time": null,
+        "home_team": "Niort",
+        "away_team": "Beauvais",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "26/10/02",
+        "time": null,
+        "home_team": "Reims",
+        "away_team": "Nancy",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "26/10/02",
+        "time": null,
+        "home_team": "St Etienne",
+        "away_team": "Caen",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "27/10/02",
+        "time": null,
+        "home_team": "Toulouse",
+        "away_team": "Chateauroux",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "01/11/02",
+        "time": null,
+        "home_team": "Caen",
+        "away_team": "Le Mans",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "02/11/02",
+        "time": null,
+        "home_team": "Amiens",
+        "away_team": "Reims",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "02/11/02",
+        "time": null,
+        "home_team": "Beauvais",
+        "away_team": "Wasquehal",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "02/11/02",
+        "time": null,
+        "home_team": "Chateauroux",
+        "away_team": "Lorient",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "02/11/02",
+        "time": null,
+        "home_team": "Clermont",
+        "away_team": "Gueugnon",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "02/11/02",
+        "time": null,
+        "home_team": "Creteil",
+        "away_team": "Niort",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "02/11/02",
+        "time": null,
+        "home_team": "Grenoble",
+        "away_team": "Istres",
+        "home_score": "5",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "02/11/02",
+        "time": null,
+        "home_team": "Laval",
+        "away_team": "Toulouse",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "02/11/02",
+        "time": null,
+        "home_team": "Valence",
+        "away_team": "St Etienne",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "03/11/02",
+        "time": null,
+        "home_team": "Nancy",
+        "away_team": "Metz",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "08/11/02",
+        "time": null,
+        "home_team": "Wasquehal",
+        "away_team": "Caen",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "09/11/02",
+        "time": null,
+        "home_team": "Gueugnon",
+        "away_team": "Amiens",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "09/11/02",
+        "time": null,
+        "home_team": "Istres",
+        "away_team": "Nancy",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "09/11/02",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Le Mans",
+        "away_team": "Beauvais",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "09/11/02",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Metz",
+        "away_team": "Chateauroux",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "09/11/02",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Niort",
+        "away_team": "Valence",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "09/11/02",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Reims",
+        "away_team": "Grenoble",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "09/11/02",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "St Etienne",
+        "away_team": "Creteil",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "09/11/02",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Toulouse",
+        "away_team": "Clermont",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "10/11/02",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Lorient",
+        "away_team": "Laval",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "15/11/02",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Chateauroux",
+        "away_team": "Le Mans",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "16/11/02",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Amiens",
+        "away_team": "Istres",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "16/11/02",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Caen",
+        "away_team": "Niort",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "16/11/02",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Clermont",
+        "away_team": "Reims",
+        "home_score": "3",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "16/11/02",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Creteil",
+        "away_team": "Beauvais",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "16/11/02",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Grenoble",
+        "away_team": "Toulouse",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "16/11/02",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Gueugnon",
+        "away_team": "Lorient",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "16/11/02",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Laval",
+        "away_team": "Metz",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "17/11/02",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Nancy",
+        "away_team": "St Etienne",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            ""
+        ],
+        "date": "29/11/02",
+        "time": [
+            ""
+        ],
+        "home_team": "Metz",
+        "away_team": "Caen",
+        "home_score": "4",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            ""
+        ],
+        "date": "30/11/02",
+        "time": [
+            ""
+        ],
+        "home_team": "Istres",
+        "away_team": "Clermont",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            ""
+        ],
+        "date": "30/11/02",
+        "time": [
+            ""
+        ],
+        "home_team": "Le Mans",
+        "away_team": "Laval",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            ""
+        ],
+        "date": "30/11/02",
+        "time": [
+            ""
+        ],
+        "home_team": "Lorient",
+        "away_team": "Grenoble",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            ""
+        ],
+        "date": "30/11/02",
+        "time": [
+            ""
+        ],
+        "home_team": "Niort",
+        "away_team": "Nancy",
+        "home_score": "3",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            ""
+        ],
+        "date": "30/11/02",
+        "time": [
+            ""
+        ],
+        "home_team": "Reims",
+        "away_team": "Gueugnon",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            ""
+        ],
+        "date": "30/11/02",
+        "time": [
+            ""
+        ],
+        "home_team": "St Etienne",
+        "away_team": "Chateauroux",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            ""
+        ],
+        "date": "30/11/02",
+        "time": [
+            ""
+        ],
+        "home_team": "Toulouse",
+        "away_team": "Amiens",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            ""
+        ],
+        "date": "30/11/02",
+        "time": [
+            ""
+        ],
+        "home_team": "Wasquehal",
+        "away_team": "Creteil",
+        "home_score": "2",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            ""
+        ],
+        "date": "04/12/02",
+        "time": [
+            ""
+        ],
+        "home_team": "Caen",
+        "away_team": "Beauvais",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            ""
+        ],
+        "date": "04/12/02",
+        "time": [
+            ""
+        ],
+        "home_team": "Chateauroux",
+        "away_team": "Niort",
+        "home_score": "4",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            ""
+        ],
+        "date": "04/12/02",
+        "time": [
+            ""
+        ],
+        "home_team": "Clermont",
+        "away_team": "Le Mans",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            ""
+        ],
+        "date": "04/12/02",
+        "time": [
+            ""
+        ],
+        "home_team": "Grenoble",
+        "away_team": "Metz",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            ""
+        ],
+        "date": "04/12/02",
+        "time": [
+            ""
+        ],
+        "home_team": "Gueugnon",
+        "away_team": "Toulouse",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            ""
+        ],
+        "date": "04/12/02",
+        "time": [
+            ""
+        ],
+        "home_team": "Laval",
+        "away_team": "St Etienne",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            ""
+        ],
+        "date": "04/12/02",
+        "time": [
+            ""
+        ],
+        "home_team": "Nancy",
+        "away_team": "Wasquehal",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "04/12/02",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Reims",
+        "away_team": "Istres",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "04/12/02",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Valence",
+        "away_team": "Creteil",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "05/12/02",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Amiens",
+        "away_team": "Lorient",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "07/12/02",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Valence",
+        "away_team": "Wasquehal",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "11/12/02",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Beauvais",
+        "away_team": "Valence",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "18/12/02",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Le Mans",
+        "away_team": "Grenoble",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "18/12/02",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Wasquehal",
+        "away_team": "Chateauroux",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "19/12/02",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Beauvais",
+        "away_team": "Nancy",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "19/12/02",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Creteil",
+        "away_team": "Caen",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "19/12/02",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Istres",
+        "away_team": "Gueugnon",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "19/12/02",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Lorient",
+        "away_team": "Valence",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "19/12/02",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Metz",
+        "away_team": "Amiens",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "19/12/02",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Niort",
+        "away_team": "Laval",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "19/12/02",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "St Etienne",
+        "away_team": "Clermont",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "19/12/02",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Toulouse",
+        "away_team": "Reims",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "11/01/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Grenoble",
+        "away_team": "Wasquehal",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "11/01/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Toulouse",
+        "away_team": "Lorient",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "15/01/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Le Mans",
+        "away_team": "Reims",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "15/01/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Lorient",
+        "away_team": "Istres",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "15/01/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Niort",
+        "away_team": "Grenoble",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "15/01/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Valence",
+        "away_team": "Clermont",
+        "home_score": "4",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "16/01/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Metz",
+        "away_team": "Toulouse",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "18/01/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Amiens",
+        "away_team": "Niort",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "18/01/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Chateauroux",
+        "away_team": "Caen",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "22/01/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Amiens",
+        "away_team": "Nancy",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "22/01/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Chateauroux",
+        "away_team": "Valence",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "22/01/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Clermont",
+        "away_team": "Wasquehal",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "22/01/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Grenoble",
+        "away_team": "Creteil",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "22/01/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Gueugnon",
+        "away_team": "Beauvais",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "22/01/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Istres",
+        "away_team": "Niort",
+        "home_score": "1",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "22/01/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Laval",
+        "away_team": "Caen",
+        "home_score": "3",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "22/01/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Lorient",
+        "away_team": "Metz",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "22/01/03",
+        "time": null,
+        "home_team": "Reims",
+        "away_team": "St Etienne",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "21/01/03",
+        "time": null,
+        "home_team": "Toulouse",
+        "away_team": "Le Mans",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "28/01/03",
+        "time": null,
+        "home_team": "Le Mans",
+        "away_team": "Lorient",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "28/01/03",
+        "time": null,
+        "home_team": "Metz",
+        "away_team": "Istres",
+        "home_score": "4",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "29/01/03",
+        "time": null,
+        "home_team": "Beauvais",
+        "away_team": "Grenoble",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "29/01/03",
+        "time": null,
+        "home_team": "Creteil",
+        "away_team": "Clermont",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "29/01/03",
+        "time": null,
+        "home_team": "Nancy",
+        "away_team": "Chateauroux",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "29/01/03",
+        "time": null,
+        "home_team": "Niort",
+        "away_team": "Reims",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "29/01/03",
+        "time": null,
+        "home_team": "St Etienne",
+        "away_team": "Gueugnon",
+        "home_score": "0",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "29/01/03",
+        "time": null,
+        "home_team": "Valence",
+        "away_team": "Laval",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "29/01/03",
+        "time": null,
+        "home_team": "Wasquehal",
+        "away_team": "Amiens",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "30/01/03",
+        "time": null,
+        "home_team": "Caen",
+        "away_team": "Toulouse",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "31/01/03",
+        "time": null,
+        "home_team": "Metz",
+        "away_team": "Le Mans",
+        "home_score": "4",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "01/02/03",
+        "time": null,
+        "home_team": "Grenoble",
+        "away_team": "Valence",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "01/02/03",
+        "time": null,
+        "home_team": "Istres",
+        "away_team": "Beauvais",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": "2002",
+        "date": "01/02/03",
+        "time": null,
+        "home_team": "Laval",
+        "away_team": "Nancy",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "01/02/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Lorient",
+        "away_team": "St Etienne",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "02/02/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Clermont",
+        "away_team": "Caen",
+        "home_score": "2",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "02/02/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Toulouse",
+        "away_team": "Niort",
+        "home_score": "4",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "04/02/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Beauvais",
+        "away_team": "Reims",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "04/02/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Chateauroux",
+        "away_team": "Laval",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "05/02/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Caen",
+        "away_team": "Grenoble",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "05/02/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Le Mans",
+        "away_team": "Istres",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "05/02/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Nancy",
+        "away_team": "Clermont",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "05/02/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Niort",
+        "away_team": "Lorient",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "05/02/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Valence",
+        "away_team": "Amiens",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "05/02/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Wasquehal",
+        "away_team": "Metz",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "07/02/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Reims",
+        "away_team": "Laval",
+        "home_score": "3",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "08/02/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Amiens",
+        "away_team": "Caen",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "08/02/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Clermont",
+        "away_team": "Chateauroux",
+        "home_score": "1",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "08/02/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Grenoble",
+        "away_team": "Nancy",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "08/02/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Gueugnon",
+        "away_team": "Valence",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "08/02/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Istres",
+        "away_team": "Wasquehal",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "08/02/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Lorient",
+        "away_team": "Creteil",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "08/02/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Metz",
+        "away_team": "Niort",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "09/02/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Le Mans",
+        "away_team": "St Etienne",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "09/02/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Toulouse",
+        "away_team": "Beauvais",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "13/02/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Creteil",
+        "away_team": "Chateauroux",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "14/02/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Clermont",
+        "away_team": "Beauvais",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "14/02/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Istres",
+        "away_team": "St Etienne",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "18/02/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Gueugnon",
+        "away_team": "Le Mans",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "18/02/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Nancy",
+        "away_team": "Valence",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "22/02/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Beauvais",
+        "away_team": "Amiens",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "22/02/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Caen",
+        "away_team": "Gueugnon",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "22/02/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Chateauroux",
+        "away_team": "Grenoble",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "22/02/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Creteil",
+        "away_team": "Reims",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "22/02/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Laval",
+        "away_team": "Clermont",
+        "home_score": "1",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "22/02/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Niort",
+        "away_team": "Le Mans",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "22/02/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "St Etienne",
+        "away_team": "Metz",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "22/02/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Valence",
+        "away_team": "Istres",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "22/02/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Wasquehal",
+        "away_team": "Toulouse",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "28/02/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Grenoble",
+        "away_team": "Laval",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "28/02/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "St Etienne",
+        "away_team": "Niort",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "01/03/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Amiens",
+        "away_team": "Chateauroux",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "01/03/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Gueugnon",
+        "away_team": "Nancy",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "01/03/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Istres",
+        "away_team": "Creteil",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "01/03/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Le Mans",
+        "away_team": "Wasquehal",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "01/03/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Lorient",
+        "away_team": "Beauvais",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "01/03/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Metz",
+        "away_team": "Clermont",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "01/03/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Reims",
+        "away_team": "Caen",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "01/03/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Toulouse",
+        "away_team": "Valence",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "04/03/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Laval",
+        "away_team": "Creteil",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "07/03/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Creteil",
+        "away_team": "Toulouse",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "08/03/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Beauvais",
+        "away_team": "Metz",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "08/03/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Caen",
+        "away_team": "Lorient",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "08/03/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Chateauroux",
+        "away_team": "Istres",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "08/03/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Clermont",
+        "away_team": "Grenoble",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "08/03/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Laval",
+        "away_team": "Amiens",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "08/03/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Nancy",
+        "away_team": "Le Mans",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "08/03/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Niort",
+        "away_team": "Gueugnon",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "08/03/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Valence",
+        "away_team": "Reims",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "08/03/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Wasquehal",
+        "away_team": "St Etienne",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "12/03/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Caen",
+        "away_team": "Nancy",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "13/03/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Wasquehal",
+        "away_team": "Gueugnon",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "14/03/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Beauvais",
+        "away_team": "Laval",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "14/03/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "St Etienne",
+        "away_team": "Amiens",
+        "home_score": "4",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "16/03/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Reims",
+        "away_team": "Metz",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "18/03/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Amiens",
+        "away_team": "Creteil",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "18/03/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Gueugnon",
+        "away_team": "Chateauroux",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "21/03/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Le Mans",
+        "away_team": "Creteil",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            ""
+        ],
+        "date": "22/03/03",
+        "time": [
+            ""
+        ],
+        "home_team": "Amiens",
+        "away_team": "Grenoble",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            ""
+        ],
+        "date": "22/03/03",
+        "time": [
+            ""
+        ],
+        "home_team": "Gueugnon",
+        "away_team": "Laval",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            ""
+        ],
+        "date": "22/03/03",
+        "time": [
+            ""
+        ],
+        "home_team": "Istres",
+        "away_team": "Caen",
+        "home_score": "0",
+        "away_score": "4",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            ""
+        ],
+        "date": "22/03/03",
+        "time": [
+            ""
+        ],
+        "home_team": "Lorient",
+        "away_team": "Clermont",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            ""
+        ],
+        "date": "22/03/03",
+        "time": [
+            ""
+        ],
+        "home_team": "Metz",
+        "away_team": "Valence",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            ""
+        ],
+        "date": "22/03/03",
+        "time": [
+            ""
+        ],
+        "home_team": "Niort",
+        "away_team": "Wasquehal",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            ""
+        ],
+        "date": "22/03/03",
+        "time": [
+            ""
+        ],
+        "home_team": "Reims",
+        "away_team": "Chateauroux",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            ""
+        ],
+        "date": "22/03/03",
+        "time": [
+            ""
+        ],
+        "home_team": "St Etienne",
+        "away_team": "Beauvais",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            ""
+        ],
+        "date": "22/03/03",
+        "time": [
+            ""
+        ],
+        "home_team": "Toulouse",
+        "away_team": "Nancy",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            ""
+        ],
+        "date": "27/03/03",
+        "time": [
+            ""
+        ],
+        "home_team": "Chateauroux",
+        "away_team": "Toulouse",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            ""
+        ],
+        "date": "28/03/03",
+        "time": [
+            ""
+        ],
+        "home_team": "Beauvais",
+        "away_team": "Niort",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            ""
+        ],
+        "date": "28/03/03",
+        "time": [
+            ""
+        ],
+        "home_team": "Caen",
+        "away_team": "St Etienne",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            ""
+        ],
+        "date": "28/03/03",
+        "time": [
+            ""
+        ],
+        "home_team": "Clermont",
+        "away_team": "Amiens",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            ""
+        ],
+        "date": "28/03/03",
+        "time": [
+            ""
+        ],
+        "home_team": "Creteil",
+        "away_team": "Metz",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            ""
+        ],
+        "date": "28/03/03",
+        "time": [
+            ""
+        ],
+        "home_team": "Grenoble",
+        "away_team": "Gueugnon",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            ""
+        ],
+        "date": "28/03/03",
+        "time": [
+            ""
+        ],
+        "home_team": "Laval",
+        "away_team": "Istres",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "28/03/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Nancy",
+        "away_team": "Reims",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "28/03/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Valence",
+        "away_team": "Le Mans",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "28/03/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Wasquehal",
+        "away_team": "Lorient",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "04/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Le Mans",
+        "away_team": "Caen",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "04/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Metz",
+        "away_team": "Nancy",
+        "home_score": "4",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "04/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Toulouse",
+        "away_team": "Laval",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "05/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Gueugnon",
+        "away_team": "Clermont",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "05/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Istres",
+        "away_team": "Grenoble",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "05/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Lorient",
+        "away_team": "Chateauroux",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "05/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Niort",
+        "away_team": "Creteil",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "05/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Reims",
+        "away_team": "Amiens",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "05/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "St Etienne",
+        "away_team": "Valence",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "05/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Wasquehal",
+        "away_team": "Beauvais",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "11/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Nancy",
+        "away_team": "Istres",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "12/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Amiens",
+        "away_team": "Gueugnon",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "12/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Beauvais",
+        "away_team": "Le Mans",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "12/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Caen",
+        "away_team": "Wasquehal",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "12/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Chateauroux",
+        "away_team": "Metz",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "12/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Clermont",
+        "away_team": "Toulouse",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "12/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Creteil",
+        "away_team": "St Etienne",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "12/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Grenoble",
+        "away_team": "Reims",
+        "home_score": "4",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "12/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Valence",
+        "away_team": "Niort",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "13/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Laval",
+        "away_team": "Lorient",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "18/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Toulouse",
+        "away_team": "Grenoble",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "19/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Beauvais",
+        "away_team": "Creteil",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "19/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Istres",
+        "away_team": "Amiens",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "19/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Le Mans",
+        "away_team": "Chateauroux",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "19/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Lorient",
+        "away_team": "Gueugnon",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "19/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Metz",
+        "away_team": "Laval",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "19/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Niort",
+        "away_team": "Caen",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "19/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Reims",
+        "away_team": "Clermont",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "19/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "St Etienne",
+        "away_team": "Nancy",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "19/04/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Wasquehal",
+        "away_team": "Valence",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "22/04/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Nancy",
+        "away_team": "Lorient",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "24/04/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "St Etienne",
+        "away_team": "Toulouse",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "25/04/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Creteil",
+        "away_team": "Gueugnon",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "25/04/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Reims",
+        "away_team": "Wasquehal",
+        "home_score": "4",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "02/05/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Grenoble",
+        "away_team": "Lorient",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "02/05/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Laval",
+        "away_team": "Le Mans",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "03/05/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Amiens",
+        "away_team": "Toulouse",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "03/05/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Caen",
+        "away_team": "Metz",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "03/05/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Chateauroux",
+        "away_team": "St Etienne",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "03/05/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Clermont",
+        "away_team": "Istres",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "03/05/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Creteil",
+        "away_team": "Wasquehal",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "03/05/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Gueugnon",
+        "away_team": "Reims",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "03/05/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Nancy",
+        "away_team": "Niort",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "03/05/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Valence",
+        "away_team": "Beauvais",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "09/05/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Metz",
+        "away_team": "Grenoble",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "09/05/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Toulouse",
+        "away_team": "Gueugnon",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "10/05/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Beauvais",
+        "away_team": "Caen",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "10/05/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Creteil",
+        "away_team": "Valence",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "10/05/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Istres",
+        "away_team": "Reims",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "10/05/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Le Mans",
+        "away_team": "Clermont",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "10/05/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Lorient",
+        "away_team": "Amiens",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "10/05/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Niort",
+        "away_team": "Chateauroux",
+        "home_score": "4",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "10/05/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "St Etienne",
+        "away_team": "Laval",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "10/05/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Wasquehal",
+        "away_team": "Nancy",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "16/05/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Amiens",
+        "away_team": "Metz",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "16/05/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Caen",
+        "away_team": "Creteil",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "16/05/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Chateauroux",
+        "away_team": "Wasquehal",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "16/05/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Clermont",
+        "away_team": "St Etienne",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "16/05/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Grenoble",
+        "away_team": "Le Mans",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "16/05/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Gueugnon",
+        "away_team": "Istres",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "16/05/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Laval",
+        "away_team": "Niort",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "16/05/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Nancy",
+        "away_team": "Beauvais",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "16/05/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Reims",
+        "away_team": "Toulouse",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "16/05/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Valence",
+        "away_team": "Lorient",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "23/05/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Beauvais",
+        "away_team": "Chateauroux",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "23/05/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Creteil",
+        "away_team": "Nancy",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "23/05/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Le Mans",
+        "away_team": "Amiens",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "23/05/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Lorient",
+        "away_team": "Reims",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "23/05/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Metz",
+        "away_team": "Gueugnon",
+        "home_score": "4",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "23/05/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Niort",
+        "away_team": "Clermont",
+        "home_score": "3",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "23/05/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "St Etienne",
+        "away_team": "Grenoble",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "23/05/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Toulouse",
+        "away_team": "Istres",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "23/05/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Valence",
+        "away_team": "Caen",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 62,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "23/05/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Wasquehal",
+        "away_team": "Laval",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    }
+]

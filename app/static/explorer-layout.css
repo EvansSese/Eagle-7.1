@@ -1,0 +1,10 @@
+.explorer-columns {
+  display: grid;
+  height: calc(100vh - 211px);
+  min-height: 510px;
+  max-height: 1000px;
+  grid-template-columns: minmax(245px, .78fr) minmax(325px, 1fr) minmax(350px, 1.08fr);
+  gap: 13px;
+}
+
+.explorer-pane { display: flex; min-width: 0; min-height: 0; flex-direction: column; overflow: hidden; border: 1px solid var(--line); border-radius: 10px; background: var(--surface); box-shadow: 0 2px 6px #1c332109; }

@@ -1,0 +1,2917 @@
+[
+    {
+        "league_id": 183,
+        "season": "2002",
+        "date": "03/08/02",
+        "time": null,
+        "home_team": "Airdrie Utd",
+        "away_team": "Forfar",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 183,
+        "season": "2002",
+        "date": "03/08/02",
+        "time": null,
+        "home_team": "Brechin",
+        "away_team": "Berwick",
+        "home_score": "2",
+        "away_score": "4",
+        "result": "A"
+    },
+    {
+        "league_id": 183,
+        "season": "2002",
+        "date": "03/08/02",
+        "time": null,
+        "home_team": "Cowdenbeath",
+        "away_team": "Hamilton",
+        "home_score": "1",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 183,
+        "season": "2002",
+        "date": "03/08/02",
+        "time": null,
+        "home_team": "Raith Rvs",
+        "away_team": "Stranraer",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 183,
+        "season": "2002",
+        "date": "03/08/02",
+        "time": null,
+        "home_team": "Stenhousemuir",
+        "away_team": "Dumbarton",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 183,
+        "season": "2002",
+        "date": "10/08/02",
+        "time": null,
+        "home_team": "Berwick",
+        "away_team": "Raith Rvs",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 183,
+        "season": "2002",
+        "date": "10/08/02",
+        "time": null,
+        "home_team": "Dumbarton",
+        "away_team": "Brechin",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 183,
+        "season": "2002",
+        "date": "10/08/02",
+        "time": null,
+        "home_team": "Forfar",
+        "away_team": "Stenhousemuir",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 183,
+        "season": "2002",
+        "date": "10/08/02",
+        "time": null,
+        "home_team": "Hamilton",
+        "away_team": "Airdrie Utd",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 183,
+        "season": "2002",
+        "date": "10/08/02",
+        "time": null,
+        "home_team": "Stranraer",
+        "away_team": "Cowdenbeath",
+        "home_score": "2",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 183,
+        "season": "2002",
+        "date": "17/08/02",
+        "time": null,
+        "home_team": "Airdrie Utd",
+        "away_team": "Stranraer",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 183,
+        "season": "2002",
+        "date": "17/08/02",
+        "time": null,
+        "home_team": "Brechin",
+        "away_team": "Hamilton",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 183,
+        "season": "2002",
+        "date": "17/08/02",
+        "time": null,
+        "home_team": "Cowdenbeath",
+        "away_team": "Forfar",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 183,
+        "season": "2002",
+        "date": "17/08/02",
+        "time": null,
+        "home_team": "Raith Rvs",
+        "away_team": "Dumbarton",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 183,
+        "season": "2002",
+        "date": "17/08/02",
+        "time": null,
+        "home_team": "Stenhousemuir",
+        "away_team": "Berwick",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 183,
+        "season": "2002",
+        "date": "24/08/02",
+        "time": null,
+        "home_team": "Brechin",
+        "away_team": "Forfar",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 183,
+        "season": "2002",
+        "date": "24/08/02",
+        "time": null,
+        "home_team": "Cowdenbeath",
+        "away_team": "Raith Rvs",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 183,
+        "season": "2002",
+        "date": "24/08/02",
+        "time": null,
+        "home_team": "Dumbarton",
+        "away_team": "Airdrie Utd",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 183,
+        "season": "2002",
+        "date": "24/08/02",
+        "time": null,
+        "home_team": "Hamilton",
+        "away_team": "Berwick",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 183,
+        "season": "2002",
+        "date": "24/08/02",
+        "time": null,
+        "home_team": "Stenhousemuir",
+        "away_team": "Stranraer",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 183,
+        "season": "2002",
+        "date": "31/08/02",
+        "time": null,
+        "home_team": "Airdrie Utd",
+        "away_team": "Cowdenbeath",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 183,
+        "season": "2002",
+        "date": "31/08/02",
+        "time": null,
+        "home_team": "Berwick",
+        "away_team": "Dumbarton",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 183,
+        "season": "2002",
+        "date": "31/08/02",
+        "time": null,
+        "home_team": "Forfar",
+        "away_team": "Hamilton",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 183,
+        "season": "2002",
+        "date": "31/08/02",
+        "time": null,
+        "home_team": "Raith Rvs",
+        "away_team": "Stenhousemuir",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 183,
+        "season": "2002",
+        "date": "31/08/02",
+        "time": null,
+        "home_team": "Stranraer",
+        "away_team": "Brechin",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 183,
+        "season": "2002",
+        "date": "14/09/02",
+        "time": null,
+        "home_team": "Berwick",
+        "away_team": "Stranraer",
+        "home_score": "3",
+        "away_score": "4",
+        "result": "A"
+    },
+    {
+        "league_id": 183,
+        "season": "2002",
+        "date": "14/09/02",
+        "time": null,
+        "home_team": "Brechin",
+        "away_team": "Cowdenbeath",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 183,
+        "season": "2002",
+        "date": "14/09/02",
+        "time": null,
+        "home_team": "Dumbarton",
+        "away_team": "Forfar",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 183,
+        "season": "2002",
+        "date": "14/09/02",
+        "time": null,
+        "home_team": "Raith Rvs",
+        "away_team": "Airdrie Utd",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 183,
+        "season": "2002",
+        "date": "14/09/02",
+        "time": null,
+        "home_team": "Stenhousemuir",
+        "away_team": "Hamilton",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 183,
+        "season": "2002",
+        "date": "21/09/02",
+        "time": null,
+        "home_team": "Airdrie Utd",
+        "away_team": "Brechin",
+        "home_score": "2",
+        "away_score": "4",
+        "result": "A"
+    },
+    {
+        "league_id": 183,
+        "season": "2002",
+        "date": "21/09/02",
+        "time": null,
+        "home_team": "Cowdenbeath",
+        "away_team": "Stenhousemuir",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 183,
+        "season": "2002",
+        "date": "21/09/02",
+        "time": null,
+        "home_team": "Forfar",
+        "away_team": "Berwick",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 183,
+        "season": "2002",
+        "date": "21/09/02",
+        "time": null,
+        "home_team": "Hamilton",
+        "away_team": "Raith Rvs",
+        "home_score": "0",
+        "away_score": "4",
+        "result": "A"
+    },
+    {
+        "league_id": 183,
+        "season": "2002",
+        "date": "21/09/02",
+        "time": null,
+        "home_team": "Stranraer",
+        "away_team": "Dumbarton",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 183,
+        "season": "2002",
+        "date": "28/09/02",
+        "time": null,
+        "home_team": "Berwick",
+        "away_team": "Cowdenbeath",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 183,
+        "season": "2002",
+        "date": "28/09/02",
+        "time": null,
+        "home_team": "Dumbarton",
+        "away_team": "Hamilton",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 183,
+        "season": "2002",
+        "date": "28/09/02",
+        "time": null,
+        "home_team": "Raith Rvs",
+        "away_team": "Brechin",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 183,
+        "season": "2002",
+        "date": "28/09/02",
+        "time": null,
+        "home_team": "Stenhousemuir",
+        "away_team": "Airdrie Utd",
+        "home_score": "4",
+        "away_score": "3",
+        "result": "H"
+    },
+    {
+        "league_id": 183,
+        "season": "2002",
+        "date": "28/09/02",
+        "time": null,
+        "home_team": "Stranraer",
+        "away_team": "Forfar",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 183,
+        "season": "2002",
+        "date": "05/10/02",
+        "time": null,
+        "home_team": "Airdrie Utd",
+        "away_team": "Berwick",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 183,
+        "season": "2002",
+        "date": "05/10/02",
+        "time": null,
+        "home_team": "Brechin",
+        "away_team": "Stenhousemuir",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 183,
+        "season": "2002",
+        "date": "05/10/02",
+        "time": null,
+        "home_team": "Cowdenbeath",
+        "away_team": "Dumbarton",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 183,
+        "season": "2002",
+        "date": "05/10/02",
+        "time": null,
+        "home_team": "Forfar",
+        "away_team": "Raith Rvs",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 183,
+        "season": "2002",
+        "date": "05/10/02",
+        "time": null,
+        "home_team": "Hamilton",
+        "away_team": "Stranraer",
+        "home_score": "1",
+        "away_score": "5",
+        "result": "A"
+    },
+    {
+        "league_id": 183,
+        "season": "2002",
+        "date": "19/10/02",
+        "time": null,
+        "home_team": "Airdrie Utd",
+        "away_team": "Hamilton",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 183,
+        "season": "2002",
+        "date": "19/10/02",
+        "time": null,
+        "home_team": "Cowdenbeath",
+        "away_team": "Stranraer",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 183,
+        "season": "2002",
+        "date": "19/10/02",
+        "time": null,
+        "home_team": "Raith Rvs",
+        "away_team": "Berwick",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 183,
+        "season": "2002",
+        "date": "19/10/02",
+        "time": null,
+        "home_team": "Stenhousemuir",
+        "away_team": "Forfar",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 183,
+        "season": "2002",
+        "date": "26/10/02",
+        "time": null,
+        "home_team": "Berwick",
+        "away_team": "Brechin",
+        "home_score": "0",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 183,
+        "season": "2002",
+        "date": "26/10/02",
+        "time": null,
+        "home_team": "Dumbarton",
+        "away_team": "Stenhousemuir",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 183,
+        "season": "2002",
+        "date": "26/10/02",
+        "time": null,
+        "home_team": "Forfar",
+        "away_team": "Airdrie Utd",
+        "home_score": "5",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 183,
+        "season": "2002",
+        "date": "26/10/02",
+        "time": null,
+        "home_team": "Hamilton",
+        "away_team": "Cowdenbeath",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 183,
+        "season": "2002",
+        "date": "26/10/02",
+        "time": null,
+        "home_team": "Stranraer",
+        "away_team": "Raith Rvs",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 183,
+        "season": "2002",
+        "date": "29/10/02",
+        "time": null,
+        "home_team": "Brechin",
+        "away_team": "Dumbarton",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 183,
+        "season": "2002",
+        "date": "02/11/02",
+        "time": null,
+        "home_team": "Brechin",
+        "away_team": "Stranraer",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 183,
+        "season": "2002",
+        "date": "02/11/02",
+        "time": null,
+        "home_team": "Cowdenbeath",
+        "away_team": "Airdrie Utd",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 183,
+        "season": "2002",
+        "date": "02/11/02",
+        "time": null,
+        "home_team": "Dumbarton",
+        "away_team": "Berwick",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 183,
+        "season": "2002",
+        "date": "02/11/02",
+        "time": null,
+        "home_team": "Hamilton",
+        "away_team": "Forfar",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 183,
+        "season": "2002",
+        "date": "02/11/02",
+        "time": null,
+        "home_team": "Stenhousemuir",
+        "away_team": "Raith Rvs",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 183,
+        "season": "2002",
+        "date": "09/11/02",
+        "time": null,
+        "home_team": "Airdrie Utd",
+        "away_team": "Dumbarton",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 183,
+        "season": "2002",
+        "date": "09/11/02",
+        "time": null,
+        "home_team": "Berwick",
+        "away_team": "Hamilton",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 183,
+        "season": "2002",
+        "date": "09/11/02",
+        "time": null,
+        "home_team": "Forfar",
+        "away_team": "Brechin",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 183,
+        "season": "2002",
+        "date": "09/11/02",
+        "time": null,
+        "home_team": "Raith Rvs",
+        "away_team": "Cowdenbeath",
+        "home_score": "4",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 183,
+        "season": "2002",
+        "date": "09/11/02",
+        "time": null,
+        "home_team": "Stranraer",
+        "away_team": "Stenhousemuir",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 183,
+        "season": "2002",
+        "date": "16/11/02",
+        "time": null,
+        "home_team": "Airdrie Utd",
+        "away_team": "Raith Rvs",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 183,
+        "season": "2002",
+        "date": "16/11/02",
+        "time": null,
+        "home_team": "Cowdenbeath",
+        "away_team": "Brechin",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 183,
+        "season": "2002",
+        "date": "16/11/02",
+        "time": null,
+        "home_team": "Forfar",
+        "away_team": "Dumbarton",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 183,
+        "season": "2002",
+        "date": "16/11/02",
+        "time": null,
+        "home_team": "Hamilton",
+        "away_team": "Stenhousemuir",
+        "home_score": "2",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 183,
+        "season": "2002",
+        "date": "16/11/02",
+        "time": null,
+        "home_team": "Stranraer",
+        "away_team": "Berwick",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 183,
+        "season": "2002",
+        "date": "23/11/02",
+        "time": null,
+        "home_team": "Berwick",
+        "away_team": "Forfar",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 183,
+        "season": "2002",
+        "date": "23/11/02",
+        "time": null,
+        "home_team": "Brechin",
+        "away_team": "Airdrie Utd",
+        "home_score": "1",
+        "away_score": "5",
+        "result": "A"
+    },
+    {
+        "league_id": 183,
+        "season": "2002",
+        "date": "23/11/02",
+        "time": null,
+        "home_team": "Dumbarton",
+        "away_team": "Stranraer",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 183,
+        "season": "2002",
+        "date": "23/11/02",
+        "time": null,
+        "home_team": "Raith Rvs",
+        "away_team": "Hamilton",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 183,
+        "season": "2002",
+        "date": "23/11/02",
+        "time": null,
+        "home_team": "Stenhousemuir",
+        "away_team": "Cowdenbeath",
+        "home_score": "4",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 183,
+        "season": "2002",
+        "date": "30/11/02",
+        "time": null,
+        "home_team": "Berwick",
+        "away_team": "Airdrie Utd",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 183,
+        "season": "2002",
+        "date": "30/11/02",
+        "time": null,
+        "home_team": "Dumbarton",
+        "away_team": "Cowdenbeath",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 183,
+        "season": "2002",
+        "date": "30/11/02",
+        "time": null,
+        "home_team": "Raith Rvs",
+        "away_team": "Forfar",
+        "home_score": "5",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 183,
+        "season": "2002",
+        "date": "30/11/02",
+        "time": null,
+        "home_team": "Stenhousemuir",
+        "away_team": "Brechin",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 183,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "30/11/02",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Stranraer",
+        "away_team": "Hamilton",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 183,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "14/12/02",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Airdrie Utd",
+        "away_team": "Stenhousemuir",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 183,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "14/12/02",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Brechin",
+        "away_team": "Raith Rvs",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 183,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "14/12/02",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Cowdenbeath",
+        "away_team": "Berwick",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 183,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "14/12/02",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Hamilton",
+        "away_team": "Dumbarton",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 183,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "28/12/02",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Berwick",
+        "away_team": "Stenhousemuir",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 183,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "28/12/02",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Dumbarton",
+        "away_team": "Raith Rvs",
+        "home_score": "0",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 183,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "28/12/02",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Forfar",
+        "away_team": "Cowdenbeath",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 183,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "28/12/02",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Hamilton",
+        "away_team": "Brechin",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 183,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "28/12/02",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Stranraer",
+        "away_team": "Airdrie Utd",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 183,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "01/01/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Brechin",
+        "away_team": "Forfar",
+        "home_score": "3",
+        "away_score": "4",
+        "result": "A"
+    },
+    {
+        "league_id": 183,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "01/01/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Cowdenbeath",
+        "away_team": "Raith Rvs",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 183,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "01/01/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Dumbarton",
+        "away_team": "Airdrie Utd",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 183,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "01/01/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Stenhousemuir",
+        "away_team": "Stranraer",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 183,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "11/01/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Berwick",
+        "away_team": "Dumbarton",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 183,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "18/01/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Berwick",
+        "away_team": "Stranraer",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 183,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "18/01/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Brechin",
+        "away_team": "Cowdenbeath",
+        "home_score": "5",
+        "away_score": "7",
+        "result": "A"
+    },
+    {
+        "league_id": 183,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "18/01/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Dumbarton",
+        "away_team": "Forfar",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 183,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "18/01/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Raith Rvs",
+        "away_team": "Airdrie Utd",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 183,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "18/01/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Stenhousemuir",
+        "away_team": "Hamilton",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 183,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "25/01/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Brechin",
+        "away_team": "Berwick",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 183,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "25/01/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Stenhousemuir",
+        "away_team": "Dumbarton",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 183,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "01/02/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Airdrie Utd",
+        "away_team": "Brechin",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 183,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "01/02/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Hamilton",
+        "away_team": "Raith Rvs",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 183,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "01/02/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Stranraer",
+        "away_team": "Dumbarton",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 183,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "08/02/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Berwick",
+        "away_team": "Cowdenbeath",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 183,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "08/02/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Dumbarton",
+        "away_team": "Hamilton",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 183,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "08/02/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Raith Rvs",
+        "away_team": "Brechin",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 183,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "08/02/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Stenhousemuir",
+        "away_team": "Airdrie Utd",
+        "home_score": "3",
+        "away_score": "3",
+        "result": "D"
+    },
+    {
+        "league_id": 183,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "08/02/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Stranraer",
+        "away_team": "Forfar",
+        "home_score": "3",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 183,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "11/02/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Airdrie Utd",
+        "away_team": "Cowdenbeath",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 183,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "22/02/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Berwick",
+        "away_team": "Raith Rvs",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 183,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "22/02/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Forfar",
+        "away_team": "Stenhousemuir",
+        "home_score": "3",
+        "away_score": "3",
+        "result": "D"
+    },
+    {
+        "league_id": 183,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "25/02/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Airdrie Utd",
+        "away_team": "Forfar",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 183,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "25/02/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Cowdenbeath",
+        "away_team": "Stenhousemuir",
+        "home_score": "3",
+        "away_score": "3",
+        "result": "D"
+    },
+    {
+        "league_id": 183,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "25/02/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Hamilton",
+        "away_team": "Berwick",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 183,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "25/02/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Stranraer",
+        "away_team": "Brechin",
+        "home_score": "2",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 183,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "01/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Airdrie Utd",
+        "away_team": "Stranraer",
+        "home_score": "3",
+        "away_score": "3",
+        "result": "D"
+    },
+    {
+        "league_id": 183,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "01/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Brechin",
+        "away_team": "Hamilton",
+        "home_score": "4",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 183,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "01/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Cowdenbeath",
+        "away_team": "Forfar",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 183,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "01/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Raith Rvs",
+        "away_team": "Dumbarton",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 183,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "01/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Stenhousemuir",
+        "away_team": "Berwick",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 183,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "04/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Cowdenbeath",
+        "away_team": "Hamilton",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 183,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "04/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Forfar",
+        "away_team": "Berwick",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 183,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "04/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Raith Rvs",
+        "away_team": "Stranraer",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 183,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "08/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Airdrie Utd",
+        "away_team": "Dumbarton",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 183,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "08/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Berwick",
+        "away_team": "Hamilton",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 183,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "08/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Forfar",
+        "away_team": "Brechin",
+        "home_score": "1",
+        "away_score": "5",
+        "result": "A"
+    },
+    {
+        "league_id": 183,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "08/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Raith Rvs",
+        "away_team": "Cowdenbeath",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 183,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "11/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Dumbarton",
+        "away_team": "Brechin",
+        "home_score": "1",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 183,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "11/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Forfar",
+        "away_team": "Raith Rvs",
+        "home_score": "4",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 183,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "11/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Hamilton",
+        "away_team": "Airdrie Utd",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 183,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "11/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Stranraer",
+        "away_team": "Cowdenbeath",
+        "home_score": "4",
+        "away_score": "4",
+        "result": "D"
+    },
+    {
+        "league_id": 183,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "15/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Brechin",
+        "away_team": "Stranraer",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 183,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "15/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Cowdenbeath",
+        "away_team": "Airdrie Utd",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 183,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "15/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Dumbarton",
+        "away_team": "Berwick",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 183,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "15/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Hamilton",
+        "away_team": "Forfar",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 183,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "15/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Stenhousemuir",
+        "away_team": "Raith Rvs",
+        "home_score": "1",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 183,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "18/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Cowdenbeath",
+        "away_team": "Dumbarton",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 183,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "18/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Hamilton",
+        "away_team": "Stranraer",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 183,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "22/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Berwick",
+        "away_team": "Forfar",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 183,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "22/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Brechin",
+        "away_team": "Airdrie Utd",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 183,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "22/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Raith Rvs",
+        "away_team": "Hamilton",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 183,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "22/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Stenhousemuir",
+        "away_team": "Cowdenbeath",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 183,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "25/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Forfar",
+        "away_team": "Hamilton",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 183,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "26/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Raith Rvs",
+        "away_team": "Stenhousemuir",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 183,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "28/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Airdrie Utd",
+        "away_team": "Berwick",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 183,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "29/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Brechin",
+        "away_team": "Stenhousemuir",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 183,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "30/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Forfar",
+        "away_team": "Stranraer",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 183,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "01/04/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Dumbarton",
+        "away_team": "Stranraer",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 183,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "05/04/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Airdrie Utd",
+        "away_team": "Raith Rvs",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 183,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "05/04/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Cowdenbeath",
+        "away_team": "Brechin",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 183,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "05/04/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Forfar",
+        "away_team": "Dumbarton",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 183,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "05/04/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Hamilton",
+        "away_team": "Stenhousemuir",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 183,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "05/04/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Stranraer",
+        "away_team": "Berwick",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 183,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "08/04/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Stranraer",
+        "away_team": "Stenhousemuir",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 183,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "12/04/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Berwick",
+        "away_team": "Airdrie Utd",
+        "home_score": "0",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 183,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "12/04/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Dumbarton",
+        "away_team": "Cowdenbeath",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 183,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "12/04/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Raith Rvs",
+        "away_team": "Forfar",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 183,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "12/04/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Stenhousemuir",
+        "away_team": "Brechin",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 183,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "12/04/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Stranraer",
+        "away_team": "Hamilton",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 183,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "19/04/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Airdrie Utd",
+        "away_team": "Stenhousemuir",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 183,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "19/04/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Brechin",
+        "away_team": "Raith Rvs",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 183,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "19/04/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Cowdenbeath",
+        "away_team": "Berwick",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 183,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "19/04/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Forfar",
+        "away_team": "Stranraer",
+        "home_score": "4",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 183,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "19/04/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Hamilton",
+        "away_team": "Dumbarton",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 183,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "26/04/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Berwick",
+        "away_team": "Brechin",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 183,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "26/04/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Dumbarton",
+        "away_team": "Stenhousemuir",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 183,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "26/04/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Forfar",
+        "away_team": "Airdrie Utd",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 183,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "26/04/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Hamilton",
+        "away_team": "Cowdenbeath",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 183,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "26/04/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Stranraer",
+        "away_team": "Raith Rvs",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 183,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "03/05/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Airdrie Utd",
+        "away_team": "Hamilton",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 183,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "03/05/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Brechin",
+        "away_team": "Dumbarton",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 183,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "03/05/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Cowdenbeath",
+        "away_team": "Stranraer",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 183,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "03/05/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Raith Rvs",
+        "away_team": "Berwick",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 183,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "03/05/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Stenhousemuir",
+        "away_team": "Forfar",
+        "home_score": "1",
+        "away_score": "4",
+        "result": "A"
+    },
+    {
+        "league_id": 183,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "10/05/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Berwick",
+        "away_team": "Stenhousemuir",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 183,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "10/05/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Dumbarton",
+        "away_team": "Raith Rvs",
+        "home_score": "4",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 183,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "10/05/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Forfar",
+        "away_team": "Cowdenbeath",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 183,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "10/05/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Hamilton",
+        "away_team": "Brechin",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 183,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "10/05/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Stranraer",
+        "away_team": "Airdrie Utd",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 183,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "",
+        "away_team": "",
+        "home_score": "",
+        "away_score": "",
+        "result": ""
+    }
+]

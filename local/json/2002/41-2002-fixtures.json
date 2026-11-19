@@ -1,0 +1,8208 @@
+[
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "10/08/02",
+        "time": null,
+        "home_team": "Bristol City",
+        "away_team": "Blackpool",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "10/08/02",
+        "time": null,
+        "home_team": "Cheltenham",
+        "away_team": "Wigan",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "10/08/02",
+        "time": null,
+        "home_team": "Colchester",
+        "away_team": "Stockport",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "10/08/02",
+        "time": null,
+        "home_team": "Huddersfield",
+        "away_team": "Brentford",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "10/08/02",
+        "time": null,
+        "home_team": "Luton",
+        "away_team": "Peterboro",
+        "home_score": "2",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "10/08/02",
+        "time": null,
+        "home_team": "Mansfield",
+        "away_team": "Plymouth",
+        "home_score": "4",
+        "away_score": "3",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "10/08/02",
+        "time": null,
+        "home_team": "Northampton",
+        "away_team": "Crewe",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "10/08/02",
+        "time": null,
+        "home_team": "Notts County",
+        "away_team": "Wycombe",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "10/08/02",
+        "time": null,
+        "home_team": "Oldham",
+        "away_team": "Cardiff",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "10/08/02",
+        "time": null,
+        "home_team": "Port Vale",
+        "away_team": "Tranmere",
+        "home_score": "1",
+        "away_score": "4",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "10/08/02",
+        "time": null,
+        "home_team": "QPR",
+        "away_team": "Chesterfield",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "10/08/02",
+        "time": null,
+        "home_team": "Swindon",
+        "away_team": "Barnsley",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "13/08/02",
+        "time": null,
+        "home_team": "Barnsley",
+        "away_team": "Cheltenham",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "13/08/02",
+        "time": null,
+        "home_team": "Blackpool",
+        "away_team": "Luton",
+        "home_score": "5",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "13/08/02",
+        "time": null,
+        "home_team": "Brentford",
+        "away_team": "Bristol City",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "13/08/02",
+        "time": null,
+        "home_team": "Cardiff",
+        "away_team": "Port Vale",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "13/08/02",
+        "time": null,
+        "home_team": "Chesterfield",
+        "away_team": "Swindon",
+        "home_score": "2",
+        "away_score": "4",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "13/08/02",
+        "time": null,
+        "home_team": "Crewe",
+        "away_team": "Notts County",
+        "home_score": "0",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "13/08/02",
+        "time": null,
+        "home_team": "Peterboro",
+        "away_team": "Oldham",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "13/08/02",
+        "time": null,
+        "home_team": "Plymouth",
+        "away_team": "Huddersfield",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "13/08/02",
+        "time": null,
+        "home_team": "Stockport",
+        "away_team": "QPR",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "13/08/02",
+        "time": null,
+        "home_team": "Tranmere",
+        "away_team": "Colchester",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "13/08/02",
+        "time": null,
+        "home_team": "Wigan",
+        "away_team": "Mansfield",
+        "home_score": "3",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "13/08/02",
+        "time": null,
+        "home_team": "Wycombe",
+        "away_team": "Northampton",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "17/08/02",
+        "time": null,
+        "home_team": "Barnsley",
+        "away_team": "QPR",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "17/08/02",
+        "time": null,
+        "home_team": "Blackpool",
+        "away_team": "Swindon",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "17/08/02",
+        "time": null,
+        "home_team": "Brentford",
+        "away_team": "Oldham",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "17/08/02",
+        "time": null,
+        "home_team": "Cardiff",
+        "away_team": "Northampton",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "17/08/02",
+        "time": null,
+        "home_team": "Chesterfield",
+        "away_team": "Port Vale",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "17/08/02",
+        "time": null,
+        "home_team": "Crewe",
+        "away_team": "Colchester",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "17/08/02",
+        "time": null,
+        "home_team": "Peterboro",
+        "away_team": "Huddersfield",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "17/08/02",
+        "time": null,
+        "home_team": "Plymouth",
+        "away_team": "Luton",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "17/08/02",
+        "time": null,
+        "home_team": "Stockport",
+        "away_team": "Notts County",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "17/08/02",
+        "time": null,
+        "home_team": "Tranmere",
+        "away_team": "Cheltenham",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "17/08/02",
+        "time": null,
+        "home_team": "Wigan",
+        "away_team": "Bristol City",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "17/08/02",
+        "time": null,
+        "home_team": "Wycombe",
+        "away_team": "Mansfield",
+        "home_score": "3",
+        "away_score": "3",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "23/08/02",
+        "time": null,
+        "home_team": "Northampton",
+        "away_team": "Blackpool",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "24/08/02",
+        "time": null,
+        "home_team": "Bristol City",
+        "away_team": "Wycombe",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "24/08/02",
+        "time": null,
+        "home_team": "Cheltenham",
+        "away_team": "Plymouth",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "24/08/02",
+        "time": null,
+        "home_team": "Colchester",
+        "away_team": "Brentford",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "24/08/02",
+        "time": null,
+        "home_team": "Huddersfield",
+        "away_team": "Crewe",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "24/08/02",
+        "time": null,
+        "home_team": "Luton",
+        "away_team": "Barnsley",
+        "home_score": "2",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "24/08/02",
+        "time": null,
+        "home_team": "Mansfield",
+        "away_team": "Chesterfield",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "24/08/02",
+        "time": null,
+        "home_team": "Notts County",
+        "away_team": "Wigan",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "24/08/02",
+        "time": null,
+        "home_team": "Oldham",
+        "away_team": "Tranmere",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "24/08/02",
+        "time": null,
+        "home_team": "Port Vale",
+        "away_team": "Stockport",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "24/08/02",
+        "time": null,
+        "home_team": "QPR",
+        "away_team": "Peterboro",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "24/08/02",
+        "time": null,
+        "home_team": "Swindon",
+        "away_team": "Cardiff",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "26/08/02",
+        "time": null,
+        "home_team": "Barnsley",
+        "away_team": "Notts County",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "26/08/02",
+        "time": null,
+        "home_team": "Blackpool",
+        "away_team": "Oldham",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "26/08/02",
+        "time": null,
+        "home_team": "Brentford",
+        "away_team": "Swindon",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "26/08/02",
+        "time": null,
+        "home_team": "Cardiff",
+        "away_team": "Luton",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "26/08/02",
+        "time": null,
+        "home_team": "Peterboro",
+        "away_team": "Colchester",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "26/08/02",
+        "time": null,
+        "home_team": "Plymouth",
+        "away_team": "Bristol City",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "26/08/02",
+        "time": null,
+        "home_team": "Stockport",
+        "away_team": "Mansfield",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "26/08/02",
+        "time": null,
+        "home_team": "Tranmere",
+        "away_team": "Huddersfield",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "26/08/02",
+        "time": null,
+        "home_team": "Wigan",
+        "away_team": "Port Vale",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "26/08/02",
+        "time": null,
+        "home_team": "Wycombe",
+        "away_team": "QPR",
+        "home_score": "4",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "27/08/02",
+        "time": null,
+        "home_team": "Chesterfield",
+        "away_team": "Northampton",
+        "home_score": "4",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "27/08/02",
+        "time": null,
+        "home_team": "Crewe",
+        "away_team": "Cheltenham",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "31/08/02",
+        "time": null,
+        "home_team": "Bristol City",
+        "away_team": "Tranmere",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "31/08/02",
+        "time": null,
+        "home_team": "Cheltenham",
+        "away_team": "Cardiff",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "31/08/02",
+        "time": null,
+        "home_team": "Colchester",
+        "away_team": "Wigan",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "31/08/02",
+        "time": null,
+        "home_team": "Huddersfield",
+        "away_team": "Blackpool",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "31/08/02",
+        "time": null,
+        "home_team": "Luton",
+        "away_team": "Chesterfield",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "31/08/02",
+        "time": null,
+        "home_team": "Mansfield",
+        "away_team": "Crewe",
+        "home_score": "0",
+        "away_score": "5",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "31/08/02",
+        "time": null,
+        "home_team": "Northampton",
+        "away_team": "Barnsley",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "31/08/02",
+        "time": null,
+        "home_team": "Notts County",
+        "away_team": "Brentford",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "31/08/02",
+        "time": null,
+        "home_team": "Oldham",
+        "away_team": "Wycombe",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "31/08/02",
+        "time": null,
+        "home_team": "Port Vale",
+        "away_team": "Peterboro",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "31/08/02",
+        "time": null,
+        "home_team": "QPR",
+        "away_team": "Plymouth",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "31/08/02",
+        "time": null,
+        "home_team": "Swindon",
+        "away_team": "Stockport",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "06/09/02",
+        "time": null,
+        "home_team": "Bristol City",
+        "away_team": "Northampton",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "07/09/02",
+        "time": null,
+        "home_team": "Blackpool",
+        "away_team": "Tranmere",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "07/09/02",
+        "time": null,
+        "home_team": "Brentford",
+        "away_team": "Luton",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "07/09/02",
+        "time": null,
+        "home_team": "Colchester",
+        "away_team": "Cheltenham",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "07/09/02",
+        "time": null,
+        "home_team": "Crewe",
+        "away_team": "Chesterfield",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "07/09/02",
+        "time": null,
+        "home_team": "Huddersfield",
+        "away_team": "Barnsley",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "07/09/02",
+        "time": null,
+        "home_team": "Mansfield",
+        "away_team": "QPR",
+        "home_score": "0",
+        "away_score": "4",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "07/09/02",
+        "time": null,
+        "home_team": "Notts County",
+        "away_team": "Oldham",
+        "home_score": "1",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "07/09/02",
+        "time": null,
+        "home_team": "Swindon",
+        "away_team": "Port Vale",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "07/09/02",
+        "time": null,
+        "home_team": "Wigan",
+        "away_team": "Wycombe",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "14/09/02",
+        "time": null,
+        "home_team": "Barnsley",
+        "away_team": "Plymouth",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "14/09/02",
+        "time": null,
+        "home_team": "Cardiff",
+        "away_team": "Stockport",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "14/09/02",
+        "time": null,
+        "home_team": "Cheltenham",
+        "away_team": "Bristol City",
+        "home_score": "2",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "14/09/02",
+        "time": null,
+        "home_team": "Chesterfield",
+        "away_team": "Wigan",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "14/09/02",
+        "time": null,
+        "home_team": "Luton",
+        "away_team": "Notts County",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "14/09/02",
+        "time": null,
+        "home_team": "Northampton",
+        "away_team": "Huddersfield",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "14/09/02",
+        "time": null,
+        "home_team": "Oldham",
+        "away_team": "Mansfield",
+        "home_score": "6",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "14/09/02",
+        "time": null,
+        "home_team": "Peterboro",
+        "away_team": "Crewe",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "14/09/02",
+        "time": null,
+        "home_team": "Port Vale",
+        "away_team": "Colchester",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "14/09/02",
+        "time": null,
+        "home_team": "QPR",
+        "away_team": "Swindon",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "14/09/02",
+        "time": null,
+        "home_team": "Tranmere",
+        "away_team": "Brentford",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "14/09/02",
+        "time": null,
+        "home_team": "Wycombe",
+        "away_team": "Blackpool",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "17/09/02",
+        "time": null,
+        "home_team": "Barnsley",
+        "away_team": "Blackpool",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "17/09/02",
+        "time": null,
+        "home_team": "Cardiff",
+        "away_team": "Brentford",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "17/09/02",
+        "time": null,
+        "home_team": "Cheltenham",
+        "away_team": "Swindon",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "17/09/02",
+        "time": null,
+        "home_team": "Chesterfield",
+        "away_team": "Stockport",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "17/09/02",
+        "time": null,
+        "home_team": "Luton",
+        "away_team": "Mansfield",
+        "home_score": "2",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "17/09/02",
+        "time": null,
+        "home_team": "Northampton",
+        "away_team": "Colchester",
+        "home_score": "4",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "17/09/02",
+        "time": null,
+        "home_team": "Oldham",
+        "away_team": "Bristol City",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "17/09/02",
+        "time": null,
+        "home_team": "Peterboro",
+        "away_team": "Plymouth",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "17/09/02",
+        "time": null,
+        "home_team": "Port Vale",
+        "away_team": "Notts County",
+        "home_score": "3",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "17/09/02",
+        "time": null,
+        "home_team": "QPR",
+        "away_team": "Huddersfield",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "17/09/02",
+        "time": null,
+        "home_team": "Tranmere",
+        "away_team": "Wigan",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "17/09/02",
+        "time": null,
+        "home_team": "Wycombe",
+        "away_team": "Crewe",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "21/09/02",
+        "time": null,
+        "home_team": "Blackpool",
+        "away_team": "Port Vale",
+        "home_score": "3",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "21/09/02",
+        "time": null,
+        "home_team": "Brentford",
+        "away_team": "Wycombe",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "21/09/02",
+        "time": null,
+        "home_team": "Bristol City",
+        "away_team": "QPR",
+        "home_score": "1",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "21/09/02",
+        "time": null,
+        "home_team": "Colchester",
+        "away_team": "Oldham",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "21/09/02",
+        "time": null,
+        "home_team": "Crewe",
+        "away_team": "Tranmere",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "21/09/02",
+        "time": null,
+        "home_team": "Huddersfield",
+        "away_team": "Luton",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "21/09/02",
+        "time": null,
+        "home_team": "Mansfield",
+        "away_team": "Cheltenham",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "21/09/02",
+        "time": null,
+        "home_team": "Notts County",
+        "away_team": "Cardiff",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "21/09/02",
+        "time": null,
+        "home_team": "Plymouth",
+        "away_team": "Chesterfield",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "21/09/02",
+        "time": null,
+        "home_team": "Stockport",
+        "away_team": "Barnsley",
+        "home_score": "4",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "21/09/02",
+        "time": null,
+        "home_team": "Swindon",
+        "away_team": "Northampton",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "21/09/02",
+        "time": null,
+        "home_team": "Wigan",
+        "away_team": "Peterboro",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "24/09/02",
+        "time": null,
+        "home_team": "Plymouth",
+        "away_team": "Cardiff",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "28/09/02",
+        "time": null,
+        "home_team": "Barnsley",
+        "away_team": "Wigan",
+        "home_score": "1",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "28/09/02",
+        "time": null,
+        "home_team": "Cardiff",
+        "away_team": "Crewe",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "28/09/02",
+        "time": null,
+        "home_team": "Cheltenham",
+        "away_team": "Notts County",
+        "home_score": "1",
+        "away_score": "4",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "28/09/02",
+        "time": null,
+        "home_team": "Chesterfield",
+        "away_team": "Blackpool",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "28/09/02",
+        "time": null,
+        "home_team": "Luton",
+        "away_team": "Swindon",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "28/09/02",
+        "time": null,
+        "home_team": "Northampton",
+        "away_team": "Mansfield",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "28/09/02",
+        "time": null,
+        "home_team": "Oldham",
+        "away_team": "Huddersfield",
+        "home_score": "4",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "28/09/02",
+        "time": null,
+        "home_team": "Peterboro",
+        "away_team": "Brentford",
+        "home_score": "5",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "28/09/02",
+        "time": null,
+        "home_team": "Port Vale",
+        "away_team": "Bristol City",
+        "home_score": "2",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "28/09/02",
+        "time": null,
+        "home_team": "QPR",
+        "away_team": "Colchester",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "28/09/02",
+        "time": null,
+        "home_team": "Tranmere",
+        "away_team": "Stockport",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "28/09/02",
+        "time": null,
+        "home_team": "Wycombe",
+        "away_team": "Plymouth",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "05/10/02",
+        "time": null,
+        "home_team": "Blackpool",
+        "away_team": "Cheltenham",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "05/10/02",
+        "time": null,
+        "home_team": "Brentford",
+        "away_team": "Barnsley",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "05/10/02",
+        "time": null,
+        "home_team": "Bristol City",
+        "away_team": "Chesterfield",
+        "home_score": "4",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "05/10/02",
+        "time": null,
+        "home_team": "Colchester",
+        "away_team": "Wycombe",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "05/10/02",
+        "time": null,
+        "home_team": "Crewe",
+        "away_team": "QPR",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "05/10/02",
+        "time": null,
+        "home_team": "Huddersfield",
+        "away_team": "Port Vale",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "05/10/02",
+        "time": null,
+        "home_team": "Mansfield",
+        "away_team": "Tranmere",
+        "home_score": "6",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "05/10/02",
+        "time": null,
+        "home_team": "Notts County",
+        "away_team": "Peterboro",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "05/10/02",
+        "time": null,
+        "home_team": "Plymouth",
+        "away_team": "Northampton",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "05/10/02",
+        "time": null,
+        "home_team": "Stockport",
+        "away_team": "Luton",
+        "home_score": "2",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "05/10/02",
+        "time": null,
+        "home_team": "Swindon",
+        "away_team": "Oldham",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "05/10/02",
+        "time": null,
+        "home_team": "Wigan",
+        "away_team": "Cardiff",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "08/10/02",
+        "time": null,
+        "home_team": "Stockport",
+        "away_team": "Peterboro",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "12/10/02",
+        "time": null,
+        "home_team": "Barnsley",
+        "away_team": "Bristol City",
+        "home_score": "1",
+        "away_score": "4",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "12/10/02",
+        "time": null,
+        "home_team": "Cardiff",
+        "away_team": "Wycombe",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "12/10/02",
+        "time": null,
+        "home_team": "Chesterfield",
+        "away_team": "Tranmere",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "12/10/02",
+        "time": null,
+        "home_team": "Huddersfield",
+        "away_team": "Notts County",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "12/10/02",
+        "time": null,
+        "home_team": "Luton",
+        "away_team": "Cheltenham",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "12/10/02",
+        "time": null,
+        "home_team": "Northampton",
+        "away_team": "Brentford",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "12/10/02",
+        "time": null,
+        "home_team": "Peterboro",
+        "away_team": "Mansfield",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "12/10/02",
+        "time": null,
+        "home_team": "Plymouth",
+        "away_team": "Wigan",
+        "home_score": "1",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "12/10/02",
+        "time": null,
+        "home_team": "Port Vale",
+        "away_team": "Oldham",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "12/10/02",
+        "time": null,
+        "home_team": "Stockport",
+        "away_team": "Crewe",
+        "home_score": "1",
+        "away_score": "4",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "12/10/02",
+        "time": null,
+        "home_team": "Swindon",
+        "away_team": "Colchester",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "14/10/02",
+        "time": null,
+        "home_team": "QPR",
+        "away_team": "Blackpool",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "18/10/02",
+        "time": null,
+        "home_team": "Colchester",
+        "away_team": "Chesterfield",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "19/10/02",
+        "time": null,
+        "home_team": "Blackpool",
+        "away_team": "Cardiff",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "19/10/02",
+        "time": null,
+        "home_team": "Brentford",
+        "away_team": "Port Vale",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "19/10/02",
+        "time": null,
+        "home_team": "Bristol City",
+        "away_team": "Swindon",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "19/10/02",
+        "time": null,
+        "home_team": "Cheltenham",
+        "away_team": "QPR",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "19/10/02",
+        "time": null,
+        "home_team": "Crewe",
+        "away_team": "Plymouth",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "19/10/02",
+        "time": null,
+        "home_team": "Mansfield",
+        "away_team": "Huddersfield",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "19/10/02",
+        "time": null,
+        "home_team": "Notts County",
+        "away_team": "Northampton",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "19/10/02",
+        "time": null,
+        "home_team": "Oldham",
+        "away_team": "Luton",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "19/10/02",
+        "time": null,
+        "home_team": "Tranmere",
+        "away_team": "Barnsley",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "19/10/02",
+        "time": null,
+        "home_team": "Wigan",
+        "away_team": "Stockport",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "19/10/02",
+        "time": null,
+        "home_team": "Wycombe",
+        "away_team": "Peterboro",
+        "home_score": "3",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "26/10/02",
+        "time": null,
+        "home_team": "Barnsley",
+        "away_team": "Wycombe",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "26/10/02",
+        "time": null,
+        "home_team": "Cardiff",
+        "away_team": "Tranmere",
+        "home_score": "4",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "26/10/02",
+        "time": null,
+        "home_team": "Chesterfield",
+        "away_team": "Notts County",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "26/10/02",
+        "time": null,
+        "home_team": "Huddersfield",
+        "away_team": "Colchester",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "26/10/02",
+        "time": null,
+        "home_team": "Luton",
+        "away_team": "Wigan",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "26/10/02",
+        "time": null,
+        "home_team": "Northampton",
+        "away_team": "Cheltenham",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "26/10/02",
+        "time": null,
+        "home_team": "Peterboro",
+        "away_team": "Bristol City",
+        "home_score": "1",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "26/10/02",
+        "time": null,
+        "home_team": "Plymouth",
+        "away_team": "Blackpool",
+        "home_score": "1",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "26/10/02",
+        "time": null,
+        "home_team": "Port Vale",
+        "away_team": "Crewe",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "26/10/02",
+        "time": null,
+        "home_team": "QPR",
+        "away_team": "Oldham",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "26/10/02",
+        "time": null,
+        "home_team": "Stockport",
+        "away_team": "Brentford",
+        "home_score": "2",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "26/10/02",
+        "time": null,
+        "home_team": "Swindon",
+        "away_team": "Mansfield",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "29/10/02",
+        "time": null,
+        "home_team": "Blackpool",
+        "away_team": "Stockport",
+        "home_score": "1",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "29/10/02",
+        "time": null,
+        "home_team": "Brentford",
+        "away_team": "Plymouth",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "29/10/02",
+        "time": null,
+        "home_team": "Bristol City",
+        "away_team": "Huddersfield",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "29/10/02",
+        "time": null,
+        "home_team": "Cheltenham",
+        "away_team": "Port Vale",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "29/10/02",
+        "time": null,
+        "home_team": "Colchester",
+        "away_team": "Barnsley",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "29/10/02",
+        "time": null,
+        "home_team": "Crewe",
+        "away_team": "Luton",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "29/10/02",
+        "time": null,
+        "home_team": "Mansfield",
+        "away_team": "Cardiff",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "29/10/02",
+        "time": null,
+        "home_team": "Notts County",
+        "away_team": "Swindon",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "29/10/02",
+        "time": null,
+        "home_team": "Oldham",
+        "away_team": "Northampton",
+        "home_score": "4",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "29/10/02",
+        "time": null,
+        "home_team": "Tranmere",
+        "away_team": "Peterboro",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "29/10/02",
+        "time": null,
+        "home_team": "Wigan",
+        "away_team": "QPR",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "29/10/02",
+        "time": null,
+        "home_team": "Wycombe",
+        "away_team": "Chesterfield",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "01/11/02",
+        "time": null,
+        "home_team": "Mansfield",
+        "away_team": "Colchester",
+        "home_score": "4",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "02/11/02",
+        "time": null,
+        "home_team": "Brentford",
+        "away_team": "Blackpool",
+        "home_score": "5",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "02/11/02",
+        "time": null,
+        "home_team": "Cardiff",
+        "away_team": "Peterboro",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "02/11/02",
+        "time": null,
+        "home_team": "Cheltenham",
+        "away_team": "Huddersfield",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "02/11/02",
+        "time": null,
+        "home_team": "Chesterfield",
+        "away_team": "Barnsley",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "02/11/02",
+        "time": null,
+        "home_team": "Northampton",
+        "away_team": "Luton",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "02/11/02",
+        "time": null,
+        "home_team": "Oldham",
+        "away_team": "Stockport",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "02/11/02",
+        "time": null,
+        "home_team": "Port Vale",
+        "away_team": "QPR",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "02/11/02",
+        "time": null,
+        "home_team": "Tranmere",
+        "away_team": "Plymouth",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "02/11/02",
+        "time": null,
+        "home_team": "Wigan",
+        "away_team": "Crewe",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "02/11/02",
+        "time": null,
+        "home_team": "Wycombe",
+        "away_team": "Swindon",
+        "home_score": "2",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "09/11/02",
+        "time": null,
+        "home_team": "Barnsley",
+        "away_team": "Cardiff",
+        "home_score": "3",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "09/11/02",
+        "time": null,
+        "home_team": "Blackpool",
+        "away_team": "Wigan",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "09/11/02",
+        "time": null,
+        "home_team": "Colchester",
+        "away_team": "Bristol City",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "09/11/02",
+        "time": null,
+        "home_team": "Crewe",
+        "away_team": "Brentford",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "09/11/02",
+        "time": null,
+        "home_team": "Huddersfield",
+        "away_team": "Wycombe",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "09/11/02",
+        "time": null,
+        "home_team": "Luton",
+        "away_team": "Port Vale",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "09/11/02",
+        "time": null,
+        "home_team": "Notts County",
+        "away_team": "Mansfield",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "09/11/02",
+        "time": null,
+        "home_team": "Peterboro",
+        "away_team": "Chesterfield",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "09/11/02",
+        "time": null,
+        "home_team": "Plymouth",
+        "away_team": "Oldham",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "09/11/02",
+        "time": null,
+        "home_team": "QPR",
+        "away_team": "Northampton",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "09/11/02",
+        "time": null,
+        "home_team": "Stockport",
+        "away_team": "Cheltenham",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "09/11/02",
+        "time": null,
+        "home_team": "Swindon",
+        "away_team": "Tranmere",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "23/11/02",
+        "time": null,
+        "home_team": "Brentford",
+        "away_team": "Wigan",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "23/11/02",
+        "time": null,
+        "home_team": "Crewe",
+        "away_team": "Blackpool",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "23/11/02",
+        "time": null,
+        "home_team": "Huddersfield",
+        "away_team": "Swindon",
+        "home_score": "2",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "23/11/02",
+        "time": null,
+        "home_team": "Luton",
+        "away_team": "QPR",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "23/11/02",
+        "time": null,
+        "home_team": "Mansfield",
+        "away_team": "Bristol City",
+        "home_score": "4",
+        "away_score": "5",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "23/11/02",
+        "time": null,
+        "home_team": "Northampton",
+        "away_team": "Port Vale",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "23/11/02",
+        "time": null,
+        "home_team": "Notts County",
+        "away_team": "Colchester",
+        "home_score": "2",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "23/11/02",
+        "time": null,
+        "home_team": "Oldham",
+        "away_team": "Cheltenham",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "23/11/02",
+        "time": null,
+        "home_team": "Peterboro",
+        "away_team": "Barnsley",
+        "home_score": "1",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "23/11/02",
+        "time": null,
+        "home_team": "Plymouth",
+        "away_team": "Stockport",
+        "home_score": "4",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "23/11/02",
+        "time": null,
+        "home_team": "Wycombe",
+        "away_team": "Tranmere",
+        "home_score": "1",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "24/11/02",
+        "time": null,
+        "home_team": "Cardiff",
+        "away_team": "Chesterfield",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "29/11/02",
+        "time": null,
+        "home_team": "QPR",
+        "away_team": "Cardiff",
+        "home_score": "0",
+        "away_score": "4",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "30/11/02",
+        "time": null,
+        "home_team": "Barnsley",
+        "away_team": "Oldham",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "30/11/02",
+        "time": null,
+        "home_team": "Blackpool",
+        "away_team": "Notts County",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "30/11/02",
+        "time": null,
+        "home_team": "Bristol City",
+        "away_team": "Crewe",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "30/11/02",
+        "time": null,
+        "home_team": "Cheltenham",
+        "away_team": "Brentford",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "30/11/02",
+        "time": null,
+        "home_team": "Chesterfield",
+        "away_team": "Huddersfield",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "30/11/02",
+        "time": null,
+        "home_team": "Colchester",
+        "away_team": "Plymouth",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "30/11/02",
+        "time": null,
+        "home_team": "Port Vale",
+        "away_team": "Mansfield",
+        "home_score": "4",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "30/11/02",
+        "time": null,
+        "home_team": "Stockport",
+        "away_team": "Wycombe",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "30/11/02",
+        "time": null,
+        "home_team": "Swindon",
+        "away_team": "Peterboro",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "30/11/02",
+        "time": null,
+        "home_team": "Tranmere",
+        "away_team": "Luton",
+        "home_score": "1",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "30/11/02",
+        "time": null,
+        "home_team": "Wigan",
+        "away_team": "Northampton",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "03/12/02",
+        "time": null,
+        "home_team": "Bristol City",
+        "away_team": "Notts County",
+        "home_score": "3",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "14/12/02",
+        "time": null,
+        "home_team": "Brentford",
+        "away_team": "Chesterfield",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "14/12/02",
+        "time": null,
+        "home_team": "Cardiff",
+        "away_team": "Bristol City",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "14/12/02",
+        "time": null,
+        "home_team": "Crewe",
+        "away_team": "Barnsley",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "14/12/02",
+        "time": null,
+        "home_team": "Huddersfield",
+        "away_team": "Stockport",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "14/12/02",
+        "time": null,
+        "home_team": "Luton",
+        "away_team": "Colchester",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "14/12/02",
+        "time": null,
+        "home_team": "Mansfield",
+        "away_team": "Blackpool",
+        "home_score": "4",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "14/12/02",
+        "time": null,
+        "home_team": "Northampton",
+        "away_team": "Tranmere",
+        "home_score": "0",
+        "away_score": "4",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "14/12/02",
+        "time": null,
+        "home_team": "Notts County",
+        "away_team": "QPR",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "14/12/02",
+        "time": null,
+        "home_team": "Oldham",
+        "away_team": "Wigan",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "14/12/02",
+        "time": null,
+        "home_team": "Peterboro",
+        "away_team": "Cheltenham",
+        "home_score": "4",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "14/12/02",
+        "time": null,
+        "home_team": "Plymouth",
+        "away_team": "Swindon",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "14/12/02",
+        "time": null,
+        "home_team": "Wycombe",
+        "away_team": "Port Vale",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "20/12/02",
+        "time": null,
+        "home_team": "Colchester",
+        "away_team": "Cardiff",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "20/12/02",
+        "time": null,
+        "home_team": "Stockport",
+        "away_team": "Northampton",
+        "home_score": "4",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "21/12/02",
+        "time": null,
+        "home_team": "Barnsley",
+        "away_team": "Mansfield",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "21/12/02",
+        "time": null,
+        "home_team": "Blackpool",
+        "away_team": "Peterboro",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "21/12/02",
+        "time": null,
+        "home_team": "Bristol City",
+        "away_team": "Luton",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "21/12/02",
+        "time": null,
+        "home_team": "Cheltenham",
+        "away_team": "Wycombe",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "21/12/02",
+        "time": null,
+        "home_team": "Chesterfield",
+        "away_team": "Oldham",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "21/12/02",
+        "time": null,
+        "home_team": "Port Vale",
+        "away_team": "Plymouth",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "21/12/02",
+        "time": null,
+        "home_team": "QPR",
+        "away_team": "Brentford",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "21/12/02",
+        "time": null,
+        "home_team": "Swindon",
+        "away_team": "Crewe",
+        "home_score": "1",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "21/12/02",
+        "time": null,
+        "home_team": "Tranmere",
+        "away_team": "Notts County",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "21/12/02",
+        "time": null,
+        "home_team": "Wigan",
+        "away_team": "Huddersfield",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "26/12/02",
+        "time": null,
+        "home_team": "Bristol City",
+        "away_team": "Plymouth",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "26/12/02",
+        "time": null,
+        "home_team": "Cheltenham",
+        "away_team": "Crewe",
+        "home_score": "0",
+        "away_score": "4",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "26/12/02",
+        "time": null,
+        "home_team": "Colchester",
+        "away_team": "Peterboro",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "26/12/02",
+        "time": null,
+        "home_team": "Huddersfield",
+        "away_team": "Tranmere",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "26/12/02",
+        "time": null,
+        "home_team": "Luton",
+        "away_team": "Cardiff",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "26/12/02",
+        "time": null,
+        "home_team": "Mansfield",
+        "away_team": "Stockport",
+        "home_score": "4",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "26/12/02",
+        "time": null,
+        "home_team": "Northampton",
+        "away_team": "Chesterfield",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "26/12/02",
+        "time": null,
+        "home_team": "Notts County",
+        "away_team": "Barnsley",
+        "home_score": "3",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "26/12/02",
+        "time": null,
+        "home_team": "Oldham",
+        "away_team": "Blackpool",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "26/12/02",
+        "time": null,
+        "home_team": "Port Vale",
+        "away_team": "Wigan",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "26/12/02",
+        "time": null,
+        "home_team": "QPR",
+        "away_team": "Wycombe",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "26/12/02",
+        "time": null,
+        "home_team": "Swindon",
+        "away_team": "Brentford",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "28/12/02",
+        "time": null,
+        "home_team": "Barnsley",
+        "away_team": "Port Vale",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "28/12/02",
+        "time": null,
+        "home_team": "Blackpool",
+        "away_team": "Colchester",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "28/12/02",
+        "time": null,
+        "home_team": "Brentford",
+        "away_team": "Mansfield",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "28/12/02",
+        "time": null,
+        "home_team": "Chesterfield",
+        "away_team": "Cheltenham",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "28/12/02",
+        "time": null,
+        "home_team": "Peterboro",
+        "away_team": "Northampton",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "28/12/02",
+        "time": null,
+        "home_team": "Plymouth",
+        "away_team": "Notts County",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "28/12/02",
+        "time": null,
+        "home_team": "Stockport",
+        "away_team": "Bristol City",
+        "home_score": "1",
+        "away_score": "4",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "28/12/02",
+        "time": null,
+        "home_team": "Tranmere",
+        "away_team": "QPR",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "28/12/02",
+        "time": null,
+        "home_team": "Wigan",
+        "away_team": "Swindon",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "28/12/02",
+        "time": null,
+        "home_team": "Wycombe",
+        "away_team": "Luton",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "29/12/02",
+        "time": null,
+        "home_team": "Cardiff",
+        "away_team": "Huddersfield",
+        "home_score": "4",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "29/12/02",
+        "time": null,
+        "home_team": "Crewe",
+        "away_team": "Oldham",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "01/01/03",
+        "time": null,
+        "home_team": "Barnsley",
+        "away_team": "Northampton",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "01/01/03",
+        "time": null,
+        "home_team": "Blackpool",
+        "away_team": "Huddersfield",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "01/01/03",
+        "time": null,
+        "home_team": "Cardiff",
+        "away_team": "Swindon",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "01/01/03",
+        "time": null,
+        "home_team": "Chesterfield",
+        "away_team": "Luton",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "01/01/03",
+        "time": null,
+        "home_team": "Crewe",
+        "away_team": "Mansfield",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "01/01/03",
+        "time": null,
+        "home_team": "Peterboro",
+        "away_team": "QPR",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "01/01/03",
+        "time": null,
+        "home_team": "Plymouth",
+        "away_team": "Cheltenham",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "01/01/03",
+        "time": null,
+        "home_team": "Stockport",
+        "away_team": "Port Vale",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "01/01/03",
+        "time": null,
+        "home_team": "Tranmere",
+        "away_team": "Oldham",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "01/01/03",
+        "time": null,
+        "home_team": "Wigan",
+        "away_team": "Notts County",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "01/01/03",
+        "time": null,
+        "home_team": "Wycombe",
+        "away_team": "Bristol City",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "04/01/03",
+        "time": null,
+        "home_team": "Colchester",
+        "away_team": "Tranmere",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "04/01/03",
+        "time": null,
+        "home_team": "Northampton",
+        "away_team": "Wycombe",
+        "home_score": "0",
+        "away_score": "5",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "04/01/03",
+        "time": null,
+        "home_team": "Oldham",
+        "away_team": "Peterboro",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "04/01/03",
+        "time": null,
+        "home_team": "QPR",
+        "away_team": "Stockport",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "04/01/03",
+        "time": null,
+        "home_team": "Swindon",
+        "away_team": "Chesterfield",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "10/01/03",
+        "time": null,
+        "home_team": "Bristol City",
+        "away_team": "Wigan",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "11/01/03",
+        "time": null,
+        "home_team": "Colchester",
+        "away_team": "Crewe",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "11/01/03",
+        "time": null,
+        "home_team": "Huddersfield",
+        "away_team": "Peterboro",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "11/01/03",
+        "time": null,
+        "home_team": "Mansfield",
+        "away_team": "Wycombe",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "11/01/03",
+        "time": null,
+        "home_team": "QPR",
+        "away_team": "Barnsley",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "14/01/03",
+        "time": null,
+        "home_team": "Oldham",
+        "away_team": "Brentford",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "18/01/03",
+        "time": null,
+        "home_team": "Barnsley",
+        "away_team": "Luton",
+        "home_score": "2",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "18/01/03",
+        "time": null,
+        "home_team": "Blackpool",
+        "away_team": "Northampton",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "18/01/03",
+        "time": null,
+        "home_team": "Brentford",
+        "away_team": "Notts County",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "18/01/03",
+        "time": null,
+        "home_team": "Cardiff",
+        "away_team": "Cheltenham",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "18/01/03",
+        "time": null,
+        "home_team": "Chesterfield",
+        "away_team": "Mansfield",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "18/01/03",
+        "time": null,
+        "home_team": "Crewe",
+        "away_team": "Huddersfield",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "18/01/03",
+        "time": null,
+        "home_team": "Peterboro",
+        "away_team": "Port Vale",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "18/01/03",
+        "time": null,
+        "home_team": "Plymouth",
+        "away_team": "QPR",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "18/01/03",
+        "time": null,
+        "home_team": "Stockport",
+        "away_team": "Swindon",
+        "home_score": "2",
+        "away_score": "5",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "18/01/03",
+        "time": null,
+        "home_team": "Tranmere",
+        "away_team": "Bristol City",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "18/01/03",
+        "time": null,
+        "home_team": "Wigan",
+        "away_team": "Colchester",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "18/01/03",
+        "time": null,
+        "home_team": "Wycombe",
+        "away_team": "Oldham",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "21/01/03",
+        "time": null,
+        "home_team": "Notts County",
+        "away_team": "Stockport",
+        "home_score": "3",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "22/01/03",
+        "time": null,
+        "home_team": "Swindon",
+        "away_team": "Blackpool",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "25/01/03",
+        "time": null,
+        "home_team": "Bristol City",
+        "away_team": "Stockport",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "25/01/03",
+        "time": null,
+        "home_team": "Cheltenham",
+        "away_team": "Chesterfield",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "25/01/03",
+        "time": null,
+        "home_team": "Colchester",
+        "away_team": "Blackpool",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "25/01/03",
+        "time": null,
+        "home_team": "Huddersfield",
+        "away_team": "Cardiff",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "25/01/03",
+        "time": null,
+        "home_team": "Luton",
+        "away_team": "Wycombe",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "25/01/03",
+        "time": null,
+        "home_team": "Northampton",
+        "away_team": "Peterboro",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "25/01/03",
+        "time": null,
+        "home_team": "Notts County",
+        "away_team": "Plymouth",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "25/01/03",
+        "time": null,
+        "home_team": "Oldham",
+        "away_team": "Crewe",
+        "home_score": "1",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "25/01/03",
+        "time": null,
+        "home_team": "Port Vale",
+        "away_team": "Barnsley",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "25/01/03",
+        "time": null,
+        "home_team": "QPR",
+        "away_team": "Tranmere",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "25/01/03",
+        "time": null,
+        "home_team": "Swindon",
+        "away_team": "Wigan",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "28/01/03",
+        "time": null,
+        "home_team": "Mansfield",
+        "away_team": "Wigan",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "31/01/03",
+        "time": null,
+        "home_team": "Cardiff",
+        "away_team": "Oldham",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "01/02/03",
+        "time": null,
+        "home_team": "Barnsley",
+        "away_team": "Swindon",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "01/02/03",
+        "time": null,
+        "home_team": "Blackpool",
+        "away_team": "Bristol City",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "01/02/03",
+        "time": null,
+        "home_team": "Crewe",
+        "away_team": "Northampton",
+        "home_score": "3",
+        "away_score": "3",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "01/02/03",
+        "time": null,
+        "home_team": "Peterboro",
+        "away_team": "Luton",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "01/02/03",
+        "time": null,
+        "home_team": "Plymouth",
+        "away_team": "Mansfield",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "01/02/03",
+        "time": null,
+        "home_team": "Stockport",
+        "away_team": "Colchester",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "01/02/03",
+        "time": null,
+        "home_team": "Tranmere",
+        "away_team": "Port Vale",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "01/02/03",
+        "time": null,
+        "home_team": "Wigan",
+        "away_team": "Cheltenham",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "01/02/03",
+        "time": null,
+        "home_team": "Wycombe",
+        "away_team": "Notts County",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "02/02/03",
+        "time": null,
+        "home_team": "Chesterfield",
+        "away_team": "QPR",
+        "home_score": "2",
+        "away_score": "4",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "04/02/03",
+        "time": null,
+        "home_team": "Cheltenham",
+        "away_team": "Tranmere",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "04/02/03",
+        "time": null,
+        "home_team": "Huddersfield",
+        "away_team": "Plymouth",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "04/02/03",
+        "time": null,
+        "home_team": "Mansfield",
+        "away_team": "Brentford",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": "2002",
+        "date": "04/02/03",
+        "time": null,
+        "home_team": "Northampton",
+        "away_team": "Cardiff",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "04/02/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Notts County",
+        "away_team": "Crewe",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "08/02/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Brentford",
+        "away_team": "Crewe",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "08/02/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Bristol City",
+        "away_team": "Colchester",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "08/02/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Cardiff",
+        "away_team": "Barnsley",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "08/02/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Cheltenham",
+        "away_team": "Stockport",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "08/02/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Chesterfield",
+        "away_team": "Peterboro",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "08/02/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Mansfield",
+        "away_team": "Notts County",
+        "home_score": "3",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "08/02/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Northampton",
+        "away_team": "QPR",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "08/02/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Oldham",
+        "away_team": "Plymouth",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "08/02/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Port Vale",
+        "away_team": "Luton",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "08/02/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Tranmere",
+        "away_team": "Swindon",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "08/02/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Wigan",
+        "away_team": "Blackpool",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "08/02/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Wycombe",
+        "away_team": "Huddersfield",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "11/02/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Bristol City",
+        "away_team": "Brentford",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "11/02/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Luton",
+        "away_team": "Blackpool",
+        "home_score": "1",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "11/02/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Port Vale",
+        "away_team": "Chesterfield",
+        "home_score": "5",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "14/02/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Colchester",
+        "away_team": "Mansfield",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "15/02/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Barnsley",
+        "away_team": "Chesterfield",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "15/02/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Blackpool",
+        "away_team": "Brentford",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "15/02/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Huddersfield",
+        "away_team": "Cheltenham",
+        "home_score": "3",
+        "away_score": "3",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "15/02/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Luton",
+        "away_team": "Northampton",
+        "home_score": "3",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "15/02/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Notts County",
+        "away_team": "Bristol City",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "15/02/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Plymouth",
+        "away_team": "Tranmere",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "15/02/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "QPR",
+        "away_team": "Port Vale",
+        "home_score": "4",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "15/02/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Stockport",
+        "away_team": "Oldham",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "15/02/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Swindon",
+        "away_team": "Wycombe",
+        "home_score": "0",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "18/02/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Cheltenham",
+        "away_team": "Barnsley",
+        "home_score": "1",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "21/02/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Cardiff",
+        "away_team": "Plymouth",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "22/02/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Barnsley",
+        "away_team": "Huddersfield",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "22/02/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Cheltenham",
+        "away_team": "Colchester",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "22/02/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Chesterfield",
+        "away_team": "Crewe",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "22/02/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Luton",
+        "away_team": "Brentford",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "22/02/03",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Northampton",
+        "away_team": "Bristol City",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "22/02/03",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Oldham",
+        "away_team": "Notts County",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "22/02/03",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Peterboro",
+        "away_team": "Stockport",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "22/02/03",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Port Vale",
+        "away_team": "Swindon",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "22/02/03",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "QPR",
+        "away_team": "Mansfield",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "22/02/03",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Tranmere",
+        "away_team": "Blackpool",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "22/02/03",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Wycombe",
+        "away_team": "Wigan",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "25/02/03",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Brentford",
+        "away_team": "Huddersfield",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "25/02/03",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Crewe",
+        "away_team": "Wigan",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "25/02/03",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Luton",
+        "away_team": "Plymouth",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "25/02/03",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Port Vale",
+        "away_team": "Cardiff",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "01/03/03",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Blackpool",
+        "away_team": "Wycombe",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "01/03/03",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Brentford",
+        "away_team": "Tranmere",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "01/03/03",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Bristol City",
+        "away_team": "Cheltenham",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "01/03/03",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Colchester",
+        "away_team": "Port Vale",
+        "home_score": "4",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "01/03/03",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Crewe",
+        "away_team": "Peterboro",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "01/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Huddersfield",
+        "away_team": "Northampton",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "01/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Mansfield",
+        "away_team": "Oldham",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "01/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Notts County",
+        "away_team": "Luton",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "01/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Plymouth",
+        "away_team": "Barnsley",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "01/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Stockport",
+        "away_team": "Cardiff",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "01/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Swindon",
+        "away_team": "QPR",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "01/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Wigan",
+        "away_team": "Chesterfield",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "04/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Blackpool",
+        "away_team": "Barnsley",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "04/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Brentford",
+        "away_team": "Cardiff",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "04/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Bristol City",
+        "away_team": "Oldham",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "04/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Colchester",
+        "away_team": "Northampton",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "04/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Crewe",
+        "away_team": "Wycombe",
+        "home_score": "4",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "04/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Huddersfield",
+        "away_team": "QPR",
+        "home_score": "0",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "04/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Mansfield",
+        "away_team": "Luton",
+        "home_score": "3",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "04/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Notts County",
+        "away_team": "Port Vale",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "04/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Plymouth",
+        "away_team": "Peterboro",
+        "home_score": "6",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "04/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Stockport",
+        "away_team": "Chesterfield",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "04/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Wigan",
+        "away_team": "Tranmere",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "08/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Barnsley",
+        "away_team": "Stockport",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "08/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Cardiff",
+        "away_team": "Notts County",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "08/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Cheltenham",
+        "away_team": "Mansfield",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "08/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Chesterfield",
+        "away_team": "Plymouth",
+        "home_score": "3",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "08/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Luton",
+        "away_team": "Huddersfield",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "08/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Northampton",
+        "away_team": "Swindon",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "08/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Oldham",
+        "away_team": "Colchester",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "08/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Peterboro",
+        "away_team": "Wigan",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "08/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Port Vale",
+        "away_team": "Blackpool",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "08/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "QPR",
+        "away_team": "Bristol City",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "08/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Tranmere",
+        "away_team": "Crewe",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "08/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Wycombe",
+        "away_team": "Brentford",
+        "home_score": "4",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "11/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Brentford",
+        "away_team": "Colchester",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "12/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Swindon",
+        "away_team": "Cheltenham",
+        "home_score": "0",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "14/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Tranmere",
+        "away_team": "Cardiff",
+        "home_score": "3",
+        "away_score": "3",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "15/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Blackpool",
+        "away_team": "Plymouth",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "15/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Brentford",
+        "away_team": "Stockport",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "15/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Bristol City",
+        "away_team": "Peterboro",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "15/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Cheltenham",
+        "away_team": "Northampton",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "15/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Colchester",
+        "away_team": "Huddersfield",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "15/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Crewe",
+        "away_team": "Port Vale",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "15/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Mansfield",
+        "away_team": "Swindon",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "15/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Notts County",
+        "away_team": "Chesterfield",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "15/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Oldham",
+        "away_team": "QPR",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "15/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Wigan",
+        "away_team": "Luton",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "15/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Wycombe",
+        "away_team": "Barnsley",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "18/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Barnsley",
+        "away_team": "Tranmere",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "18/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Cardiff",
+        "away_team": "Blackpool",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "18/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Chesterfield",
+        "away_team": "Colchester",
+        "home_score": "0",
+        "away_score": "4",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "18/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Huddersfield",
+        "away_team": "Mansfield",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "18/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Luton",
+        "away_team": "Oldham",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "18/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Northampton",
+        "away_team": "Notts County",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "18/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Peterboro",
+        "away_team": "Wycombe",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "18/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Plymouth",
+        "away_team": "Crewe",
+        "home_score": "1",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "18/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Port Vale",
+        "away_team": "Brentford",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "18/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "QPR",
+        "away_team": "Cheltenham",
+        "home_score": "4",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "18/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Stockport",
+        "away_team": "Wigan",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "19/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Swindon",
+        "away_team": "Bristol City",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "21/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Cardiff",
+        "away_team": "Mansfield",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "22/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Barnsley",
+        "away_team": "Colchester",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "22/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Chesterfield",
+        "away_team": "Wycombe",
+        "home_score": "4",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "22/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Huddersfield",
+        "away_team": "Bristol City",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "22/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Luton",
+        "away_team": "Crewe",
+        "home_score": "0",
+        "away_score": "4",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "22/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Northampton",
+        "away_team": "Oldham",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "22/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Peterboro",
+        "away_team": "Tranmere",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "22/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Plymouth",
+        "away_team": "Brentford",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "22/03/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Port Vale",
+        "away_team": "Cheltenham",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "22/03/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "QPR",
+        "away_team": "Wigan",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "22/03/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Stockport",
+        "away_team": "Blackpool",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "22/03/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Swindon",
+        "away_team": "Notts County",
+        "home_score": "5",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "29/03/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Blackpool",
+        "away_team": "QPR",
+        "home_score": "1",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "29/03/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Brentford",
+        "away_team": "Northampton",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "29/03/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Bristol City",
+        "away_team": "Barnsley",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "29/03/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Colchester",
+        "away_team": "Swindon",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "29/03/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Crewe",
+        "away_team": "Stockport",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "29/03/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Mansfield",
+        "away_team": "Peterboro",
+        "home_score": "1",
+        "away_score": "5",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "29/03/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Notts County",
+        "away_team": "Huddersfield",
+        "home_score": "3",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "29/03/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Oldham",
+        "away_team": "Port Vale",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "29/03/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Tranmere",
+        "away_team": "Chesterfield",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "29/03/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Wigan",
+        "away_team": "Plymouth",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "04/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Northampton",
+        "away_team": "Wigan",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "05/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Brentford",
+        "away_team": "Cheltenham",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "05/04/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Cardiff",
+        "away_team": "QPR",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "05/04/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Huddersfield",
+        "away_team": "Chesterfield",
+        "home_score": "4",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "05/04/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Luton",
+        "away_team": "Tranmere",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "05/04/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Mansfield",
+        "away_team": "Port Vale",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "05/04/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Notts County",
+        "away_team": "Blackpool",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "05/04/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Oldham",
+        "away_team": "Barnsley",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "05/04/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Peterboro",
+        "away_team": "Swindon",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "05/04/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Plymouth",
+        "away_team": "Colchester",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "05/04/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Wycombe",
+        "away_team": "Stockport",
+        "home_score": "1",
+        "away_score": "4",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "08/04/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Cheltenham",
+        "away_team": "Luton",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "08/04/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Wycombe",
+        "away_team": "Cardiff",
+        "home_score": "0",
+        "away_score": "4",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "12/04/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Barnsley",
+        "away_team": "Peterboro",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "12/04/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Blackpool",
+        "away_team": "Crewe",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "12/04/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Bristol City",
+        "away_team": "Mansfield",
+        "home_score": "5",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "12/04/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Cheltenham",
+        "away_team": "Oldham",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "12/04/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Colchester",
+        "away_team": "Notts County",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "12/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Port Vale",
+        "away_team": "Northampton",
+        "home_score": "3",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "12/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "QPR",
+        "away_team": "Luton",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "12/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Stockport",
+        "away_team": "Plymouth",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "12/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Swindon",
+        "away_team": "Huddersfield",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "12/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Tranmere",
+        "away_team": "Wycombe",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "12/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Wigan",
+        "away_team": "Brentford",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "13/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Chesterfield",
+        "away_team": "Cardiff",
+        "home_score": "0",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "15/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Crewe",
+        "away_team": "Bristol City",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "16/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Peterboro",
+        "away_team": "Cardiff",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "18/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Northampton",
+        "away_team": "Stockport",
+        "home_score": "0",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "19/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Brentford",
+        "away_team": "QPR",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "19/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Cardiff",
+        "away_team": "Colchester",
+        "home_score": "0",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "19/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Crewe",
+        "away_team": "Swindon",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "19/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Huddersfield",
+        "away_team": "Wigan",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "19/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Luton",
+        "away_team": "Bristol City",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "19/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Mansfield",
+        "away_team": "Barnsley",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "19/04/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Notts County",
+        "away_team": "Tranmere",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "19/04/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Oldham",
+        "away_team": "Chesterfield",
+        "home_score": "4",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "19/04/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Peterboro",
+        "away_team": "Blackpool",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "19/04/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Plymouth",
+        "away_team": "Port Vale",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "19/04/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Wycombe",
+        "away_team": "Cheltenham",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "21/04/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Barnsley",
+        "away_team": "Crewe",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "21/04/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Blackpool",
+        "away_team": "Mansfield",
+        "home_score": "3",
+        "away_score": "3",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "21/04/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Cheltenham",
+        "away_team": "Peterboro",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "21/04/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Chesterfield",
+        "away_team": "Brentford",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "21/04/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Colchester",
+        "away_team": "Luton",
+        "home_score": "0",
+        "away_score": "5",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "21/04/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Port Vale",
+        "away_team": "Wycombe",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "21/04/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "QPR",
+        "away_team": "Notts County",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "21/04/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Stockport",
+        "away_team": "Huddersfield",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "21/04/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Tranmere",
+        "away_team": "Northampton",
+        "home_score": "4",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "21/04/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Wigan",
+        "away_team": "Oldham",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "22/04/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Bristol City",
+        "away_team": "Cardiff",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "23/04/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Swindon",
+        "away_team": "Plymouth",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "26/04/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Barnsley",
+        "away_team": "Brentford",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "26/04/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Cardiff",
+        "away_team": "Wigan",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "26/04/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Cheltenham",
+        "away_team": "Blackpool",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "26/04/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Chesterfield",
+        "away_team": "Bristol City",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "26/04/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Luton",
+        "away_team": "Stockport",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "26/04/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Northampton",
+        "away_team": "Plymouth",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "26/04/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Oldham",
+        "away_team": "Swindon",
+        "home_score": "4",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "26/04/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Peterboro",
+        "away_team": "Notts County",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "26/04/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Port Vale",
+        "away_team": "Huddersfield",
+        "home_score": "5",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "26/04/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "QPR",
+        "away_team": "Crewe",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "26/04/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Wycombe",
+        "away_team": "Colchester",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "29/04/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Tranmere",
+        "away_team": "Mansfield",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "03/05/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Blackpool",
+        "away_team": "Chesterfield",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "03/05/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Brentford",
+        "away_team": "Peterboro",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "03/05/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Bristol City",
+        "away_team": "Port Vale",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "03/05/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Colchester",
+        "away_team": "QPR",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "03/05/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Crewe",
+        "away_team": "Cardiff",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "03/05/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Huddersfield",
+        "away_team": "Oldham",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "03/05/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Mansfield",
+        "away_team": "Northampton",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "03/05/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Notts County",
+        "away_team": "Cheltenham",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "03/05/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Plymouth",
+        "away_team": "Wycombe",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "03/05/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Stockport",
+        "away_team": "Tranmere",
+        "home_score": "2",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "03/05/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Swindon",
+        "away_team": "Luton",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 41,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "03/05/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Wigan",
+        "away_team": "Barnsley",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    }
+]

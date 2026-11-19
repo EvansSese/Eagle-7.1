@@ -1,0 +1,6972 @@
+[
+    {
+        "league_id": 136,
+        "season": "2004",
+        "date": "10/09/04",
+        "time": null,
+        "home_team": "Torino",
+        "away_team": "Verona",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2004",
+        "date": "11/09/04",
+        "time": null,
+        "home_team": "Arezzo",
+        "away_team": "Catania",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2004",
+        "date": "11/09/04",
+        "time": null,
+        "home_team": "Catanzaro",
+        "away_team": "Bari",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2004",
+        "date": "11/09/04",
+        "time": null,
+        "home_team": "Cesena",
+        "away_team": "Triestina",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2004",
+        "date": "11/09/04",
+        "time": null,
+        "home_team": "Empoli",
+        "away_team": "Ascoli",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2004",
+        "date": "11/09/04",
+        "time": null,
+        "home_team": "Perugia",
+        "away_team": "Crotone",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2004",
+        "date": "11/09/04",
+        "time": null,
+        "home_team": "Pescara",
+        "away_team": "Piacenza",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": "2004",
+        "date": "11/09/04",
+        "time": null,
+        "home_team": "Salernitana",
+        "away_team": "Treviso",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": "2004",
+        "date": "11/09/04",
+        "time": null,
+        "home_team": "Venezia",
+        "away_team": "Albinoleffe",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": "2004",
+        "date": "11/09/04",
+        "time": null,
+        "home_team": "Vicenza",
+        "away_team": "Ternana",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2004",
+        "date": "13/09/04",
+        "time": null,
+        "home_team": "Modena",
+        "away_team": "Genoa",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": "2004",
+        "date": "17/09/04",
+        "time": null,
+        "home_team": "Catania",
+        "away_team": "Vicenza",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2004",
+        "date": "17/09/04",
+        "time": null,
+        "home_team": "Piacenza",
+        "away_team": "Venezia",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2004",
+        "date": "18/09/04",
+        "time": null,
+        "home_team": "Albinoleffe",
+        "away_team": "Modena",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2004",
+        "date": "18/09/04",
+        "time": null,
+        "home_team": "Ascoli",
+        "away_team": "Torino",
+        "home_score": "0",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "18/09/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Bari",
+        "away_team": "Perugia",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "18/09/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Crotone",
+        "away_team": "Cesena",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "18/09/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Genoa",
+        "away_team": "Pescara",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "18/09/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Ternana",
+        "away_team": "Salernitana",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "18/09/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Treviso",
+        "away_team": "Arezzo",
+        "home_score": "1",
+        "away_score": "4",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "18/09/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Triestina",
+        "away_team": "Catanzaro",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "18/09/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Verona",
+        "away_team": "Empoli",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "21/09/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Arezzo",
+        "away_team": "Ascoli",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "21/09/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Catanzaro",
+        "away_team": "Catania",
+        "home_score": "2",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "21/09/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Cesena",
+        "away_team": "Bari",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "21/09/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Empoli",
+        "away_team": "Ternana",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "21/09/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Modena",
+        "away_team": "Piacenza",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "21/09/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Perugia",
+        "away_team": "Treviso",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "21/09/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Pescara",
+        "away_team": "Albinoleffe",
+        "home_score": "1",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "21/09/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Torino",
+        "away_team": "Genoa",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "21/09/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Venezia",
+        "away_team": "Verona",
+        "home_score": "3",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "21/09/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Vicenza",
+        "away_team": "Crotone",
+        "home_score": "3",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "22/09/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Salernitana",
+        "away_team": "Triestina",
+        "home_score": "3",
+        "away_score": "3",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "24/09/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Ascoli",
+        "away_team": "Catanzaro",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "25/09/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Albinoleffe",
+        "away_team": "Vicenza",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "25/09/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Bari",
+        "away_team": "Torino",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "25/09/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Catania",
+        "away_team": "Perugia",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "25/09/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Crotone",
+        "away_team": "Modena",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "25/09/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Genoa",
+        "away_team": "Salernitana",
+        "home_score": "5",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "25/09/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Piacenza",
+        "away_team": "Cesena",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "25/09/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Ternana",
+        "away_team": "Venezia",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "25/09/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Treviso",
+        "away_team": "Pescara",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "25/09/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Triestina",
+        "away_team": "Empoli",
+        "home_score": "3",
+        "away_score": "4",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "27/09/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Verona",
+        "away_team": "Arezzo",
+        "home_score": "5",
+        "away_score": "3",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "01/10/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Perugia",
+        "away_team": "Genoa",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "01/10/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Vicenza",
+        "away_team": "Piacenza",
+        "home_score": "4",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "02/10/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Arezzo",
+        "away_team": "Triestina",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "02/10/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Ascoli",
+        "away_team": "Treviso",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "02/10/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Bari",
+        "away_team": "Albinoleffe",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "02/10/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Catanzaro",
+        "away_team": "Crotone",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "02/10/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Cesena",
+        "away_team": "Verona",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "02/10/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Empoli",
+        "away_team": "Salernitana",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "02/10/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Modena",
+        "away_team": "Ternana",
+        "home_score": "4",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "02/10/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Torino",
+        "away_team": "Catania",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "02/10/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Venezia",
+        "away_team": "Pescara",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "06/10/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Albinoleffe",
+        "away_team": "Catanzaro",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "06/10/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Catania",
+        "away_team": "Ascoli",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "06/10/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Crotone",
+        "away_team": "Torino",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "06/10/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Genoa",
+        "away_team": "Vicenza",
+        "home_score": "5",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "06/10/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Pescara",
+        "away_team": "Modena",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "06/10/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Piacenza",
+        "away_team": "Empoli",
+        "home_score": "1",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "06/10/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Salernitana",
+        "away_team": "Perugia",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "06/10/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Ternana",
+        "away_team": "Arezzo",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "06/10/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Triestina",
+        "away_team": "Treviso",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "06/10/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Venezia",
+        "away_team": "Cesena",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "06/10/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Verona",
+        "away_team": "Bari",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "10/10/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Arezzo",
+        "away_team": "Crotone",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "10/10/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Ascoli",
+        "away_team": "Verona",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "10/10/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Bari",
+        "away_team": "Genoa",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "10/10/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Catania",
+        "away_team": "Triestina",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "10/10/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Catanzaro",
+        "away_team": "Salernitana",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "10/10/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Modena",
+        "away_team": "Venezia",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "10/10/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Perugia",
+        "away_team": "Cesena",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "10/10/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Torino",
+        "away_team": "Piacenza",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "10/10/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Treviso",
+        "away_team": "Ternana",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "10/10/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Vicenza",
+        "away_team": "Pescara",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "11/10/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Empoli",
+        "away_team": "Albinoleffe",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "15/10/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Salernitana",
+        "away_team": "Torino",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "16/10/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Albinoleffe",
+        "away_team": "Ascoli",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "16/10/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Cesena",
+        "away_team": "Vicenza",
+        "home_score": "1",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "16/10/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Crotone",
+        "away_team": "Bari",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "16/10/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Modena",
+        "away_team": "Perugia",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "16/10/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Pescara",
+        "away_team": "Arezzo",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "16/10/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Piacenza",
+        "away_team": "Catanzaro",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "16/10/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Ternana",
+        "away_team": "Triestina",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "16/10/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Venezia",
+        "away_team": "Empoli",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "16/10/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Verona",
+        "away_team": "Catania",
+        "home_score": "4",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "18/10/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Genoa",
+        "away_team": "Treviso",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "22/10/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Catanzaro",
+        "away_team": "Modena",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "22/10/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Vicenza",
+        "away_team": "Venezia",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "23/10/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Arezzo",
+        "away_team": "Genoa",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "23/10/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Ascoli",
+        "away_team": "Bari",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "23/10/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Catania",
+        "away_team": "Ternana",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "23/10/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Empoli",
+        "away_team": "Crotone",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "23/10/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Perugia",
+        "away_team": "Pescara",
+        "home_score": "4",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "23/10/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Salernitana",
+        "away_team": "Piacenza",
+        "home_score": "3",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "23/10/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Torino",
+        "away_team": "Cesena",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "23/10/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Treviso",
+        "away_team": "Albinoleffe",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "23/10/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Triestina",
+        "away_team": "Verona",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "26/10/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Bari",
+        "away_team": "Ternana",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "26/10/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Cesena",
+        "away_team": "Catanzaro",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "26/10/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Crotone",
+        "away_team": "Catania",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "26/10/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Genoa",
+        "away_team": "Verona",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "26/10/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Modena",
+        "away_team": "Arezzo",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "26/10/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Perugia",
+        "away_team": "Empoli",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "26/10/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Pescara",
+        "away_team": "Torino",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "26/10/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Piacenza",
+        "away_team": "Ascoli",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "26/10/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Venezia",
+        "away_team": "Salernitana",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "26/10/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Vicenza",
+        "away_team": "Treviso",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "29/10/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Catania",
+        "away_team": "Bari",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "30/10/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Albinoleffe",
+        "away_team": "Genoa",
+        "home_score": "0",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "30/10/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Arezzo",
+        "away_team": "Cesena",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "30/10/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Ascoli",
+        "away_team": "Vicenza",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "30/10/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Catanzaro",
+        "away_team": "Venezia",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "30/10/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Empoli",
+        "away_team": "Torino",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "30/10/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Salernitana",
+        "away_team": "Pescara",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "30/10/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Treviso",
+        "away_team": "Piacenza",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "30/10/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Triestina",
+        "away_team": "Crotone",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "30/10/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Verona",
+        "away_team": "Modena",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "01/11/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Ternana",
+        "away_team": "Perugia",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "03/11/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Albinoleffe",
+        "away_team": "Triestina",
+        "home_score": "3",
+        "away_score": "3",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "05/11/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Modena",
+        "away_team": "Salernitana",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "07/11/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Bari",
+        "away_team": "Arezzo",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "07/11/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Cesena",
+        "away_team": "Treviso",
+        "home_score": "3",
+        "away_score": "4",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "07/11/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Crotone",
+        "away_team": "Ternana",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "07/11/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Genoa",
+        "away_team": "Triestina",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "07/11/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Piacenza",
+        "away_team": "Catania",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "07/11/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Torino",
+        "away_team": "Perugia",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "07/11/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Venezia",
+        "away_team": "Ascoli",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "07/11/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Verona",
+        "away_team": "Albinoleffe",
+        "home_score": "3",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "07/11/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Vicenza",
+        "away_team": "Catanzaro",
+        "home_score": "5",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "08/11/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Pescara",
+        "away_team": "Empoli",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "12/11/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Ascoli",
+        "away_team": "Crotone",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "13/11/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Catania",
+        "away_team": "Genoa",
+        "home_score": "1",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "14/11/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Arezzo",
+        "away_team": "Albinoleffe",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "14/11/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Catanzaro",
+        "away_team": "Pescara",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "14/11/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Empoli",
+        "away_team": "Modena",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "14/11/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Perugia",
+        "away_team": "Vicenza",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "14/11/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Salernitana",
+        "away_team": "Cesena",
+        "home_score": "6",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "14/11/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Ternana",
+        "away_team": "Piacenza",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "14/11/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Torino",
+        "away_team": "Venezia",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "14/11/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Treviso",
+        "away_team": "Verona",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "14/11/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Triestina",
+        "away_team": "Bari",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "19/11/04",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Verona",
+        "away_team": "Ternana",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "21/11/04",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Albinoleffe",
+        "away_team": "Crotone",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "21/11/04",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Bari",
+        "away_team": "Salernitana",
+        "home_score": "1",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "21/11/04",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Catanzaro",
+        "away_team": "Arezzo",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "21/11/04",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Cesena",
+        "away_team": "Empoli",
+        "home_score": "3",
+        "away_score": "3",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "21/11/04",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Genoa",
+        "away_team": "Ascoli",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "21/11/04",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Modena",
+        "away_team": "Triestina",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "21/11/04",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Pescara",
+        "away_team": "Catania",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "21/11/04",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Piacenza",
+        "away_team": "Perugia",
+        "home_score": "2",
+        "away_score": "4",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "21/11/04",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Venezia",
+        "away_team": "Treviso",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "22/11/04",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Vicenza",
+        "away_team": "Torino",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "26/11/04",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Empoli",
+        "away_team": "Catanzaro",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "28/11/04",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Arezzo",
+        "away_team": "Piacenza",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "28/11/04",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Catania",
+        "away_team": "Albinoleffe",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "28/11/04",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Crotone",
+        "away_team": "Verona",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "28/11/04",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Pescara",
+        "away_team": "Cesena",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "28/11/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Salernitana",
+        "away_team": "Vicenza",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "28/11/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Ternana",
+        "away_team": "Genoa",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "28/11/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Torino",
+        "away_team": "Modena",
+        "home_score": "0",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "28/11/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Treviso",
+        "away_team": "Bari",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "28/11/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Triestina",
+        "away_team": "Ascoli",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "29/11/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Perugia",
+        "away_team": "Venezia",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "03/12/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Arezzo",
+        "away_team": "Torino",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "05/12/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Albinoleffe",
+        "away_team": "Salernitana",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "05/12/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Ascoli",
+        "away_team": "Ternana",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "05/12/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Bari",
+        "away_team": "Venezia",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "05/12/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Catanzaro",
+        "away_team": "Perugia",
+        "home_score": "1",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "05/12/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Cesena",
+        "away_team": "Modena",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "05/12/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Genoa",
+        "away_team": "Crotone",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "05/12/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Treviso",
+        "away_team": "Catania",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "05/12/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Verona",
+        "away_team": "Pescara",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "05/12/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Vicenza",
+        "away_team": "Empoli",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "06/12/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Triestina",
+        "away_team": "Piacenza",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "10/12/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Cesena",
+        "away_team": "Genoa",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "12/12/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Empoli",
+        "away_team": "Catania",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "12/12/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Modena",
+        "away_team": "Vicenza",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "12/12/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Perugia",
+        "away_team": "Verona",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "12/12/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Pescara",
+        "away_team": "Ascoli",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "12/12/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Piacenza",
+        "away_team": "Bari",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "12/12/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Salernitana",
+        "away_team": "Arezzo",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "12/12/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Ternana",
+        "away_team": "Albinoleffe",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "12/12/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Torino",
+        "away_team": "Catanzaro",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "12/12/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Venezia",
+        "away_team": "Triestina",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "13/12/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Crotone",
+        "away_team": "Treviso",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "17/12/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Catania",
+        "away_team": "Salernitana",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "19/12/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Albinoleffe",
+        "away_team": "Piacenza",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "19/12/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Arezzo",
+        "away_team": "Perugia",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "19/12/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Bari",
+        "away_team": "Modena",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": "2004",
+        "date": "19/12/04",
+        "time": null,
+        "home_team": "Crotone",
+        "away_team": "Venezia",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2004",
+        "date": "19/12/04",
+        "time": null,
+        "home_team": "Genoa",
+        "away_team": "Empoli",
+        "home_score": "3",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2004",
+        "date": "19/12/04",
+        "time": null,
+        "home_team": "Ternana",
+        "away_team": "Pescara",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": "2004",
+        "date": "19/12/04",
+        "time": null,
+        "home_team": "Treviso",
+        "away_team": "Catanzaro",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2004",
+        "date": "19/12/04",
+        "time": null,
+        "home_team": "Triestina",
+        "away_team": "Torino",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": "2004",
+        "date": "19/12/04",
+        "time": null,
+        "home_team": "Verona",
+        "away_team": "Vicenza",
+        "home_score": "5",
+        "away_score": "3",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2004",
+        "date": "20/12/04",
+        "time": null,
+        "home_team": "Ascoli",
+        "away_team": "Cesena",
+        "home_score": "4",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2004",
+        "date": "06/01/05",
+        "time": null,
+        "home_team": "Catanzaro",
+        "away_team": "Genoa",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": "2004",
+        "date": "06/01/05",
+        "time": null,
+        "home_team": "Cesena",
+        "away_team": "Albinoleffe",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2004",
+        "date": "06/01/05",
+        "time": null,
+        "home_team": "Empoli",
+        "away_team": "Treviso",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": "2004",
+        "date": "06/01/05",
+        "time": null,
+        "home_team": "Modena",
+        "away_team": "Catania",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2004",
+        "date": "06/01/05",
+        "time": null,
+        "home_team": "Perugia",
+        "away_team": "Ascoli",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2004",
+        "date": "06/01/05",
+        "time": null,
+        "home_team": "Pescara",
+        "away_team": "Bari",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": "2004",
+        "date": "06/01/05",
+        "time": null,
+        "home_team": "Piacenza",
+        "away_team": "Crotone",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2004",
+        "date": "06/01/05",
+        "time": null,
+        "home_team": "Salernitana",
+        "away_team": "Verona",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": "2004",
+        "date": "06/01/05",
+        "time": null,
+        "home_team": "Torino",
+        "away_team": "Ternana",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "06/01/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Venezia",
+        "away_team": "Arezzo",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "06/01/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Vicenza",
+        "away_team": "Triestina",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "09/01/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Albinoleffe",
+        "away_team": "Torino",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "09/01/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Ascoli",
+        "away_team": "Salernitana",
+        "home_score": "3",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "09/01/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Catania",
+        "away_team": "Venezia",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "09/01/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Crotone",
+        "away_team": "Pescara",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "09/01/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Genoa",
+        "away_team": "Piacenza",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "09/01/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Ternana",
+        "away_team": "Cesena",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "09/01/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Treviso",
+        "away_team": "Modena",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "09/01/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Triestina",
+        "away_team": "Perugia",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "09/01/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Verona",
+        "away_team": "Catanzaro",
+        "home_score": "4",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "10/01/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Arezzo",
+        "away_team": "Empoli",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "10/01/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Bari",
+        "away_team": "Vicenza",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "14/01/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Pescara",
+        "away_team": "Triestina",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "16/01/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Catanzaro",
+        "away_team": "Ternana",
+        "home_score": "1",
+        "away_score": "4",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "16/01/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Cesena",
+        "away_team": "Catania",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "16/01/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Empoli",
+        "away_team": "Bari",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "16/01/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Modena",
+        "away_team": "Ascoli",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "16/01/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Perugia",
+        "away_team": "Albinoleffe",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "16/01/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Salernitana",
+        "away_team": "Crotone",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "16/01/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Torino",
+        "away_team": "Treviso",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "16/01/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Venezia",
+        "away_team": "Genoa",
+        "home_score": "0",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "16/01/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Vicenza",
+        "away_team": "Arezzo",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "17/01/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Piacenza",
+        "away_team": "Verona",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "21/01/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Genoa",
+        "away_team": "Modena",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "23/01/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Albinoleffe",
+        "away_team": "Venezia",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "23/01/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Ascoli",
+        "away_team": "Empoli",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "23/01/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Bari",
+        "away_team": "Catanzaro",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "23/01/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Catania",
+        "away_team": "Arezzo",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "23/01/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Piacenza",
+        "away_team": "Pescara",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "23/01/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Ternana",
+        "away_team": "Vicenza",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "23/01/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Treviso",
+        "away_team": "Salernitana",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "23/01/05",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Triestina",
+        "away_team": "Cesena",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "23/01/05",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Verona",
+        "away_team": "Torino",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "24/01/05",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Crotone",
+        "away_team": "Perugia",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "28/01/05",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Empoli",
+        "away_team": "Verona",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "28/01/05",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Salernitana",
+        "away_team": "Ternana",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "30/01/05",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Arezzo",
+        "away_team": "Treviso",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "30/01/05",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Catanzaro",
+        "away_team": "Triestina",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "30/01/05",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Cesena",
+        "away_team": "Crotone",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "30/01/05",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Modena",
+        "away_team": "Albinoleffe",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "30/01/05",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Perugia",
+        "away_team": "Bari",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "30/01/05",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Pescara",
+        "away_team": "Genoa",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "30/01/05",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Torino",
+        "away_team": "Ascoli",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "30/01/05",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Venezia",
+        "away_team": "Piacenza",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "30/01/05",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Vicenza",
+        "away_team": "Catania",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "02/02/05",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Catania",
+        "away_team": "Catanzaro",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "03/02/05",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Albinoleffe",
+        "away_team": "Pescara",
+        "home_score": "4",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "03/02/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Ascoli",
+        "away_team": "Arezzo",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "03/02/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Bari",
+        "away_team": "Cesena",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "03/02/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Crotone",
+        "away_team": "Vicenza",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "03/02/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Genoa",
+        "away_team": "Torino",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "03/02/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Piacenza",
+        "away_team": "Modena",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "03/02/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Ternana",
+        "away_team": "Empoli",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "03/02/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Treviso",
+        "away_team": "Perugia",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "03/02/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Triestina",
+        "away_team": "Salernitana",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "03/02/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Verona",
+        "away_team": "Venezia",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "06/02/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Arezzo",
+        "away_team": "Verona",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "06/02/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Catanzaro",
+        "away_team": "Ascoli",
+        "home_score": "2",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "06/02/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Empoli",
+        "away_team": "Triestina",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "06/02/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Modena",
+        "away_team": "Crotone",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "06/02/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Perugia",
+        "away_team": "Catania",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "06/02/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Pescara",
+        "away_team": "Treviso",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "06/02/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Salernitana",
+        "away_team": "Genoa",
+        "home_score": "4",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "06/02/05",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Venezia",
+        "away_team": "Ternana",
+        "home_score": "3",
+        "away_score": "3",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "06/02/05",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Vicenza",
+        "away_team": "Albinoleffe",
+        "home_score": "4",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "07/02/05",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Cesena",
+        "away_team": "Piacenza",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "07/02/05",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Torino",
+        "away_team": "Bari",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "11/02/05",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Triestina",
+        "away_team": "Arezzo",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "13/02/05",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Albinoleffe",
+        "away_team": "Bari",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "13/02/05",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Catania",
+        "away_team": "Torino",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "13/02/05",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Crotone",
+        "away_team": "Catanzaro",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "13/02/05",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Genoa",
+        "away_team": "Perugia",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "13/02/05",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Pescara",
+        "away_team": "Venezia",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "13/02/05",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Piacenza",
+        "away_team": "Vicenza",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "13/02/05",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Salernitana",
+        "away_team": "Empoli",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "13/02/05",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Ternana",
+        "away_team": "Modena",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "13/02/05",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Verona",
+        "away_team": "Cesena",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "14/02/05",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Treviso",
+        "away_team": "Ascoli",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "18/02/05",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Modena",
+        "away_team": "Pescara",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": "2004",
+        "date": "20/02/05",
+        "time": null,
+        "home_team": "Arezzo",
+        "away_team": "Ternana",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": "2004",
+        "date": "20/02/05",
+        "time": null,
+        "home_team": "Ascoli",
+        "away_team": "Catania",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": "2004",
+        "date": "20/02/05",
+        "time": null,
+        "home_team": "Bari",
+        "away_team": "Verona",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2004",
+        "date": "20/02/05",
+        "time": null,
+        "home_team": "Catanzaro",
+        "away_team": "Albinoleffe",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": "2004",
+        "date": "20/02/05",
+        "time": null,
+        "home_team": "Cesena",
+        "away_team": "Venezia",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": "2004",
+        "date": "20/02/05",
+        "time": null,
+        "home_team": "Empoli",
+        "away_team": "Piacenza",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": "2004",
+        "date": "20/02/05",
+        "time": null,
+        "home_team": "Torino",
+        "away_team": "Crotone",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2004",
+        "date": "20/02/05",
+        "time": null,
+        "home_team": "Treviso",
+        "away_team": "Triestina",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2004",
+        "date": "20/02/05",
+        "time": null,
+        "home_team": "Vicenza",
+        "away_team": "Genoa",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": "2004",
+        "date": "21/02/05",
+        "time": null,
+        "home_team": "Perugia",
+        "away_team": "Salernitana",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": "2004",
+        "date": "25/02/05",
+        "time": null,
+        "home_team": "Piacenza",
+        "away_team": "Torino",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2004",
+        "date": "27/02/05",
+        "time": null,
+        "home_team": "Cesena",
+        "away_team": "Perugia",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": "2004",
+        "date": "27/02/05",
+        "time": null,
+        "home_team": "Crotone",
+        "away_team": "Arezzo",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2004",
+        "date": "27/02/05",
+        "time": null,
+        "home_team": "Genoa",
+        "away_team": "Bari",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2004",
+        "date": "27/02/05",
+        "time": null,
+        "home_team": "Pescara",
+        "away_team": "Vicenza",
+        "home_score": "4",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2004",
+        "date": "27/02/05",
+        "time": null,
+        "home_team": "Salernitana",
+        "away_team": "Catanzaro",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": "2004",
+        "date": "27/02/05",
+        "time": null,
+        "home_team": "Ternana",
+        "away_team": "Treviso",
+        "home_score": "3",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2004",
+        "date": "27/02/05",
+        "time": null,
+        "home_team": "Triestina",
+        "away_team": "Catania",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2004",
+        "date": "27/02/05",
+        "time": null,
+        "home_team": "Venezia",
+        "away_team": "Modena",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": "2004",
+        "date": "27/02/05",
+        "time": null,
+        "home_team": "Verona",
+        "away_team": "Ascoli",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": "2004",
+        "date": "28/02/05",
+        "time": null,
+        "home_team": "Albinoleffe",
+        "away_team": "Empoli",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": "2004",
+        "date": "04/03/05",
+        "time": null,
+        "home_team": "Bari",
+        "away_team": "Crotone",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": "2004",
+        "date": "06/03/05",
+        "time": null,
+        "home_team": "Arezzo",
+        "away_team": "Pescara",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": "2004",
+        "date": "06/03/05",
+        "time": null,
+        "home_team": "Ascoli",
+        "away_team": "Albinoleffe",
+        "home_score": "2",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": "2004",
+        "date": "06/03/05",
+        "time": null,
+        "home_team": "Catania",
+        "away_team": "Verona",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": "2004",
+        "date": "06/03/05",
+        "time": null,
+        "home_team": "Catanzaro",
+        "away_team": "Piacenza",
+        "home_score": "1",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": "2004",
+        "date": "06/03/05",
+        "time": null,
+        "home_team": "Empoli",
+        "away_team": "Venezia",
+        "home_score": "5",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2004",
+        "date": "06/03/05",
+        "time": null,
+        "home_team": "Perugia",
+        "away_team": "Modena",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": "2004",
+        "date": "06/03/05",
+        "time": null,
+        "home_team": "Torino",
+        "away_team": "Salernitana",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": "2004",
+        "date": "06/03/05",
+        "time": null,
+        "home_team": "Triestina",
+        "away_team": "Ternana",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2004",
+        "date": "06/03/05",
+        "time": null,
+        "home_team": "Vicenza",
+        "away_team": "Cesena",
+        "home_score": "4",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2004",
+        "date": "07/03/05",
+        "time": null,
+        "home_team": "Treviso",
+        "away_team": "Genoa",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "11/03/05",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Pescara",
+        "away_team": "Perugia",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "13/03/05",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Bari",
+        "away_team": "Ascoli",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "13/03/05",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Cesena",
+        "away_team": "Torino",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "13/03/05",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Crotone",
+        "away_team": "Empoli",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "13/03/05",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Genoa",
+        "away_team": "Arezzo",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "13/03/05",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Modena",
+        "away_team": "Catanzaro",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "13/03/05",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Piacenza",
+        "away_team": "Salernitana",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "13/03/05",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Venezia",
+        "away_team": "Vicenza",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "14/03/05",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Ternana",
+        "away_team": "Catania",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "17/03/05",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Albinoleffe",
+        "away_team": "Treviso",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "17/03/05",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Verona",
+        "away_team": "Triestina",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "26/03/05",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Arezzo",
+        "away_team": "Modena",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "26/03/05",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Ascoli",
+        "away_team": "Piacenza",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "26/03/05",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Catania",
+        "away_team": "Crotone",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "26/03/05",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Catanzaro",
+        "away_team": "Cesena",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "26/03/05",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Empoli",
+        "away_team": "Perugia",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "26/03/05",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Salernitana",
+        "away_team": "Venezia",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "26/03/05",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Ternana",
+        "away_team": "Bari",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "26/03/05",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Torino",
+        "away_team": "Pescara",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "26/03/05",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Treviso",
+        "away_team": "Vicenza",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "26/03/05",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Triestina",
+        "away_team": "Albinoleffe",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "26/03/05",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Verona",
+        "away_team": "Genoa",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "01/04/05",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Cesena",
+        "away_team": "Arezzo",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "09/04/05",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Bari",
+        "away_team": "Catania",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "09/04/05",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Crotone",
+        "away_team": "Triestina",
+        "home_score": "4",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "09/04/05",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Genoa",
+        "away_team": "Albinoleffe",
+        "home_score": "3",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "09/04/05",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Perugia",
+        "away_team": "Ternana",
+        "home_score": "4",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "09/04/05",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Pescara",
+        "away_team": "Salernitana",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "09/04/05",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Piacenza",
+        "away_team": "Treviso",
+        "home_score": "3",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "09/04/05",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Torino",
+        "away_team": "Empoli",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "09/04/05",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Venezia",
+        "away_team": "Catanzaro",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "09/04/05",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Vicenza",
+        "away_team": "Ascoli",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "10/04/05",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Modena",
+        "away_team": "Verona",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "15/04/05",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Catania",
+        "away_team": "Piacenza",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "15/04/05",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Empoli",
+        "away_team": "Pescara",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "16/04/05",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Albinoleffe",
+        "away_team": "Verona",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "16/04/05",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Arezzo",
+        "away_team": "Bari",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "16/04/05",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Ascoli",
+        "away_team": "Venezia",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "16/04/05",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Catanzaro",
+        "away_team": "Vicenza",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "16/04/05",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Perugia",
+        "away_team": "Torino",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "16/04/05",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Salernitana",
+        "away_team": "Modena",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "16/04/05",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Ternana",
+        "away_team": "Crotone",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "16/04/05",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Treviso",
+        "away_team": "Cesena",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "16/04/05",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Triestina",
+        "away_team": "Genoa",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "20/04/05",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Albinoleffe",
+        "away_team": "Arezzo",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "20/04/05",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Bari",
+        "away_team": "Triestina",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "20/04/05",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Cesena",
+        "away_team": "Salernitana",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "20/04/05",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Crotone",
+        "away_team": "Ascoli",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "20/04/05",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Genoa",
+        "away_team": "Catania",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "20/04/05",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Modena",
+        "away_team": "Empoli",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "20/04/05",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Pescara",
+        "away_team": "Catanzaro",
+        "home_score": "3",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "20/04/05",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Piacenza",
+        "away_team": "Ternana",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "20/04/05",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Venezia",
+        "away_team": "Torino",
+        "home_score": "0",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "20/04/05",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Verona",
+        "away_team": "Treviso",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "20/04/05",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Vicenza",
+        "away_team": "Perugia",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "23/04/05",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Arezzo",
+        "away_team": "Catanzaro",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "23/04/05",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Catania",
+        "away_team": "Pescara",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "23/04/05",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Crotone",
+        "away_team": "Albinoleffe",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "23/04/05",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Empoli",
+        "away_team": "Cesena",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "23/04/05",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Perugia",
+        "away_team": "Piacenza",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "23/04/05",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Salernitana",
+        "away_team": "Bari",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "23/04/05",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Ternana",
+        "away_team": "Verona",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "23/04/05",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Treviso",
+        "away_team": "Venezia",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "23/04/05",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Triestina",
+        "away_team": "Modena",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "25/04/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Ascoli",
+        "away_team": "Genoa",
+        "home_score": "0",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "25/04/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Torino",
+        "away_team": "Vicenza",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "29/04/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Bari",
+        "away_team": "Treviso",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "30/04/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Albinoleffe",
+        "away_team": "Catania",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "30/04/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Ascoli",
+        "away_team": "Triestina",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "30/04/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Cesena",
+        "away_team": "Pescara",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "30/04/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Genoa",
+        "away_team": "Ternana",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "30/04/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Modena",
+        "away_team": "Torino",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "30/04/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Piacenza",
+        "away_team": "Arezzo",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "30/04/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Venezia",
+        "away_team": "Perugia",
+        "home_score": "2",
+        "away_score": "4",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "30/04/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Verona",
+        "away_team": "Crotone",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "30/04/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Vicenza",
+        "away_team": "Salernitana",
+        "home_score": "4",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "02/05/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Catanzaro",
+        "away_team": "Empoli",
+        "home_score": "2",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "06/05/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Modena",
+        "away_team": "Cesena",
+        "home_score": "4",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "07/05/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Catania",
+        "away_team": "Treviso",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "07/05/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Crotone",
+        "away_team": "Genoa",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "07/05/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Empoli",
+        "away_team": "Vicenza",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "07/05/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Perugia",
+        "away_team": "Catanzaro",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "07/05/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Pescara",
+        "away_team": "Verona",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "07/05/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Piacenza",
+        "away_team": "Triestina",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "07/05/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Ternana",
+        "away_team": "Ascoli",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "07/05/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Torino",
+        "away_team": "Arezzo",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "07/05/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Venezia",
+        "away_team": "Bari",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "09/05/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Salernitana",
+        "away_team": "Albinoleffe",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "13/05/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Verona",
+        "away_team": "Perugia",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "14/05/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Albinoleffe",
+        "away_team": "Ternana",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "14/05/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Arezzo",
+        "away_team": "Salernitana",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "14/05/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Ascoli",
+        "away_team": "Pescara",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "14/05/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Bari",
+        "away_team": "Piacenza",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "14/05/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Catania",
+        "away_team": "Empoli",
+        "home_score": "1",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "14/05/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Catanzaro",
+        "away_team": "Torino",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "14/05/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Genoa",
+        "away_team": "Cesena",
+        "home_score": "3",
+        "away_score": "3",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "14/05/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Treviso",
+        "away_team": "Crotone",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "14/05/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Vicenza",
+        "away_team": "Modena",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "16/05/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Triestina",
+        "away_team": "Venezia",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "21/05/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Catanzaro",
+        "away_team": "Treviso",
+        "home_score": "1",
+        "away_score": "4",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "21/05/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Cesena",
+        "away_team": "Ascoli",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "21/05/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Empoli",
+        "away_team": "Genoa",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "21/05/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Modena",
+        "away_team": "Bari",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "21/05/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Perugia",
+        "away_team": "Arezzo",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "21/05/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Pescara",
+        "away_team": "Ternana",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "21/05/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Piacenza",
+        "away_team": "Albinoleffe",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "21/05/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Salernitana",
+        "away_team": "Catania",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "21/05/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Torino",
+        "away_team": "Triestina",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "21/05/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Venezia",
+        "away_team": "Crotone",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "21/05/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Vicenza",
+        "away_team": "Verona",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "27/05/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Bari",
+        "away_team": "Pescara",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": [
+            ""
+        ],
+        "date": "28/05/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Albinoleffe",
+        "away_team": "Cesena",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": "2004",
+        "date": "28/05/05",
+        "time": null,
+        "home_team": "Arezzo",
+        "away_team": "Venezia",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2004",
+        "date": "28/05/05",
+        "time": null,
+        "home_team": "Ascoli",
+        "away_team": "Perugia",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": "2004",
+        "date": "28/05/05",
+        "time": null,
+        "home_team": "Catania",
+        "away_team": "Modena",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": "2004",
+        "date": "28/05/05",
+        "time": null,
+        "home_team": "Crotone",
+        "away_team": "Piacenza",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2004",
+        "date": "28/05/05",
+        "time": null,
+        "home_team": "Genoa",
+        "away_team": "Catanzaro",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2004",
+        "date": "28/05/05",
+        "time": null,
+        "home_team": "Ternana",
+        "away_team": "Torino",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": "2004",
+        "date": "28/05/05",
+        "time": null,
+        "home_team": "Treviso",
+        "away_team": "Empoli",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": "2004",
+        "date": "28/05/05",
+        "time": null,
+        "home_team": "Triestina",
+        "away_team": "Vicenza",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": "2004",
+        "date": "28/05/05",
+        "time": null,
+        "home_team": "Verona",
+        "away_team": "Salernitana",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": "2004",
+        "date": "05/06/05",
+        "time": null,
+        "home_team": "Catanzaro",
+        "away_team": "Verona",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": "2004",
+        "date": "05/06/05",
+        "time": null,
+        "home_team": "Cesena",
+        "away_team": "Ternana",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2004",
+        "date": "05/06/05",
+        "time": null,
+        "home_team": "Empoli",
+        "away_team": "Arezzo",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": "2004",
+        "date": "05/06/05",
+        "time": null,
+        "home_team": "Modena",
+        "away_team": "Treviso",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": "2004",
+        "date": "05/06/05",
+        "time": null,
+        "home_team": "Perugia",
+        "away_team": "Triestina",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2004",
+        "date": "05/06/05",
+        "time": null,
+        "home_team": "Pescara",
+        "away_team": "Crotone",
+        "home_score": "1",
+        "away_score": "4",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": "2004",
+        "date": "05/06/05",
+        "time": null,
+        "home_team": "Piacenza",
+        "away_team": "Genoa",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": "2004",
+        "date": "05/06/05",
+        "time": null,
+        "home_team": "Salernitana",
+        "away_team": "Ascoli",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2004",
+        "date": "05/06/05",
+        "time": null,
+        "home_team": "Torino",
+        "away_team": "Albinoleffe",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2004",
+        "date": "05/06/05",
+        "time": null,
+        "home_team": "Venezia",
+        "away_team": "Catania",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": "2004",
+        "date": "05/06/05",
+        "time": null,
+        "home_team": "Vicenza",
+        "away_team": "Bari",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 136,
+        "season": "2004",
+        "date": "11/06/05",
+        "time": null,
+        "home_team": "Albinoleffe",
+        "away_team": "Perugia",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": "2004",
+        "date": "11/06/05",
+        "time": null,
+        "home_team": "Arezzo",
+        "away_team": "Vicenza",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2004",
+        "date": "11/06/05",
+        "time": null,
+        "home_team": "Ascoli",
+        "away_team": "Modena",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2004",
+        "date": "11/06/05",
+        "time": null,
+        "home_team": "Bari",
+        "away_team": "Empoli",
+        "home_score": "4",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2004",
+        "date": "11/06/05",
+        "time": null,
+        "home_team": "Catania",
+        "away_team": "Cesena",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2004",
+        "date": "11/06/05",
+        "time": null,
+        "home_team": "Crotone",
+        "away_team": "Salernitana",
+        "home_score": "4",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2004",
+        "date": "11/06/05",
+        "time": null,
+        "home_team": "Genoa",
+        "away_team": "Venezia",
+        "home_score": "3",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2004",
+        "date": "11/06/05",
+        "time": null,
+        "home_team": "Ternana",
+        "away_team": "Catanzaro",
+        "home_score": "3",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2004",
+        "date": "11/06/05",
+        "time": null,
+        "home_team": "Treviso",
+        "away_team": "Torino",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 136,
+        "season": "2004",
+        "date": "11/06/05",
+        "time": null,
+        "home_team": "Triestina",
+        "away_team": "Pescara",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 136,
+        "season": "2004",
+        "date": "11/06/05",
+        "time": null,
+        "home_team": "Verona",
+        "away_team": "Piacenza",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    }
+]

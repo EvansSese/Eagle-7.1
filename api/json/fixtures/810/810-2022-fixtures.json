@@ -1,0 +1,85 @@
+{
+    "get": "fixtures",
+    "parameters": {
+        "season": "2022",
+        "league": "810"
+    },
+    "errors": [],
+    "results": 1,
+    "paging": {
+        "current": 1,
+        "total": 1
+    },
+    "response": [
+        {
+            "fixture": {
+                "id": 984788,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2023-01-20T15:30:00+00:00",
+                "timestamp": 1674228600,
+                "periods": {
+                    "first": 1674228600,
+                    "second": 1674232200
+                },
+                "venue": {
+                    "id": null,
+                    "name": "Hazza Bin Zayed Stadium",
+                    "city": "Al Ain"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": null
+                }
+            },
+            "league": {
+                "id": 810,
+                "name": "Super Copa",
+                "country": "Argentina",
+                "logo": "https://media.api-sports.io/football/leagues/810.png",
+                "flag": "https://media.api-sports.io/flags/ar.svg",
+                "season": 2022,
+                "round": "Final",
+                "standings": false
+            },
+            "teams": {
+                "home": {
+                    "id": 451,
+                    "name": "Boca Juniors",
+                    "logo": "https://media.api-sports.io/football/teams/451.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 436,
+                    "name": "Racing Club",
+                    "logo": "https://media.api-sports.io/football/teams/436.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        }
+    ]
+}

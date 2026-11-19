@@ -1,0 +1,2046 @@
+[
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "07/08/04",
+        "time": null,
+        "home_team": "East Fife",
+        "away_team": "Montrose",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "07/08/04",
+        "time": null,
+        "home_team": "Gretna",
+        "away_team": "Albion Rvs",
+        "home_score": "6",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "07/08/04",
+        "time": null,
+        "home_team": "Peterhead",
+        "away_team": "East Stirling",
+        "home_score": "5",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "07/08/04",
+        "time": null,
+        "home_team": "Queens Park",
+        "away_team": "Cowdenbeath",
+        "home_score": "3",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "07/08/04",
+        "time": null,
+        "home_team": "Stenhousemuir",
+        "away_team": "Elgin",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "14/08/04",
+        "time": null,
+        "home_team": "Albion Rvs",
+        "away_team": "East Fife",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "14/08/04",
+        "time": null,
+        "home_team": "Cowdenbeath",
+        "away_team": "Stenhousemuir",
+        "home_score": "0",
+        "away_score": "6",
+        "result": "A"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "14/08/04",
+        "time": null,
+        "home_team": "East Stirling",
+        "away_team": "Gretna",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "14/08/04",
+        "time": null,
+        "home_team": "Elgin",
+        "away_team": "Queens Park",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "14/08/04",
+        "time": null,
+        "home_team": "Montrose",
+        "away_team": "Peterhead",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "21/08/04",
+        "time": null,
+        "home_team": "East Fife",
+        "away_team": "Cowdenbeath",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "21/08/04",
+        "time": null,
+        "home_team": "Gretna",
+        "away_team": "Montrose",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "21/08/04",
+        "time": null,
+        "home_team": "Peterhead",
+        "away_team": "Elgin",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "21/08/04",
+        "time": null,
+        "home_team": "Queens Park",
+        "away_team": "Albion Rvs",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "21/08/04",
+        "time": null,
+        "home_team": "Stenhousemuir",
+        "away_team": "East Stirling",
+        "home_score": "6",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "28/08/04",
+        "time": null,
+        "home_team": "Albion Rvs",
+        "away_team": "Peterhead",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "28/08/04",
+        "time": null,
+        "home_team": "Cowdenbeath",
+        "away_team": "East Stirling",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "28/08/04",
+        "time": null,
+        "home_team": "East Fife",
+        "away_team": "Stenhousemuir",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "28/08/04",
+        "time": null,
+        "home_team": "Elgin",
+        "away_team": "Montrose",
+        "home_score": "1",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "28/08/04",
+        "time": null,
+        "home_team": "Queens Park",
+        "away_team": "Gretna",
+        "home_score": "3",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "04/09/04",
+        "time": null,
+        "home_team": "East Stirling",
+        "away_team": "Elgin",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "04/09/04",
+        "time": null,
+        "home_team": "Gretna",
+        "away_team": "Cowdenbeath",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "04/09/04",
+        "time": null,
+        "home_team": "Montrose",
+        "away_team": "Albion Rvs",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "04/09/04",
+        "time": null,
+        "home_team": "Peterhead",
+        "away_team": "East Fife",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "04/09/04",
+        "time": null,
+        "home_team": "Stenhousemuir",
+        "away_team": "Queens Park",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "11/09/04",
+        "time": null,
+        "home_team": "Albion Rvs",
+        "away_team": "Stenhousemuir",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "11/09/04",
+        "time": null,
+        "home_team": "Cowdenbeath",
+        "away_team": "Elgin",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "11/09/04",
+        "time": null,
+        "home_team": "East Fife",
+        "away_team": "East Stirling",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "11/09/04",
+        "time": null,
+        "home_team": "Peterhead",
+        "away_team": "Gretna",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "11/09/04",
+        "time": null,
+        "home_team": "Queens Park",
+        "away_team": "Montrose",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "18/09/04",
+        "time": null,
+        "home_team": "East Stirling",
+        "away_team": "Queens Park",
+        "home_score": "0",
+        "away_score": "5",
+        "result": "A"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "18/09/04",
+        "time": null,
+        "home_team": "Elgin",
+        "away_team": "Albion Rvs",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "18/09/04",
+        "time": null,
+        "home_team": "Gretna",
+        "away_team": "East Fife",
+        "home_score": "5",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "18/09/04",
+        "time": null,
+        "home_team": "Montrose",
+        "away_team": "Cowdenbeath",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "18/09/04",
+        "time": null,
+        "home_team": "Stenhousemuir",
+        "away_team": "Peterhead",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "25/09/04",
+        "time": null,
+        "home_team": "Albion Rvs",
+        "away_team": "East Stirling",
+        "home_score": "3",
+        "away_score": "3",
+        "result": "D"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "25/09/04",
+        "time": null,
+        "home_team": "East Fife",
+        "away_team": "Queens Park",
+        "home_score": "1",
+        "away_score": "4",
+        "result": "A"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "25/09/04",
+        "time": null,
+        "home_team": "Gretna",
+        "away_team": "Elgin",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "25/09/04",
+        "time": null,
+        "home_team": "Montrose",
+        "away_team": "Stenhousemuir",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "25/09/04",
+        "time": null,
+        "home_team": "Peterhead",
+        "away_team": "Cowdenbeath",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "02/10/04",
+        "time": null,
+        "home_team": "Cowdenbeath",
+        "away_team": "Albion Rvs",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "02/10/04",
+        "time": null,
+        "home_team": "East Stirling",
+        "away_team": "Montrose",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "02/10/04",
+        "time": null,
+        "home_team": "Elgin",
+        "away_team": "East Fife",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "02/10/04",
+        "time": null,
+        "home_team": "Queens Park",
+        "away_team": "Peterhead",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "02/10/04",
+        "time": null,
+        "home_team": "Stenhousemuir",
+        "away_team": "Gretna",
+        "home_score": "0",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "16/10/04",
+        "time": null,
+        "home_team": "East Fife",
+        "away_team": "Albion Rvs",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "16/10/04",
+        "time": null,
+        "home_team": "Gretna",
+        "away_team": "East Stirling",
+        "home_score": "8",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "16/10/04",
+        "time": null,
+        "home_team": "Peterhead",
+        "away_team": "Montrose",
+        "home_score": "3",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "16/10/04",
+        "time": null,
+        "home_team": "Queens Park",
+        "away_team": "Elgin",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "16/10/04",
+        "time": null,
+        "home_team": "Stenhousemuir",
+        "away_team": "Cowdenbeath",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "23/10/04",
+        "time": null,
+        "home_team": "Albion Rvs",
+        "away_team": "Gretna",
+        "home_score": "2",
+        "away_score": "6",
+        "result": "A"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "23/10/04",
+        "time": null,
+        "home_team": "Cowdenbeath",
+        "away_team": "Queens Park",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "23/10/04",
+        "time": null,
+        "home_team": "East Stirling",
+        "away_team": "Peterhead",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "23/10/04",
+        "time": null,
+        "home_team": "Elgin",
+        "away_team": "Stenhousemuir",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "23/10/04",
+        "time": null,
+        "home_team": "Montrose",
+        "away_team": "East Fife",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "30/10/04",
+        "time": null,
+        "home_team": "East Stirling",
+        "away_team": "Cowdenbeath",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "30/10/04",
+        "time": null,
+        "home_team": "Gretna",
+        "away_team": "Queens Park",
+        "home_score": "4",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "30/10/04",
+        "time": null,
+        "home_team": "Montrose",
+        "away_team": "Elgin",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "30/10/04",
+        "time": null,
+        "home_team": "Peterhead",
+        "away_team": "Albion Rvs",
+        "home_score": "4",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "30/10/04",
+        "time": null,
+        "home_team": "Stenhousemuir",
+        "away_team": "East Fife",
+        "home_score": "5",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "06/11/04",
+        "time": null,
+        "home_team": "Albion Rvs",
+        "away_team": "Montrose",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "06/11/04",
+        "time": null,
+        "home_team": "Cowdenbeath",
+        "away_team": "Gretna",
+        "home_score": "0",
+        "away_score": "8",
+        "result": "A"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "06/11/04",
+        "time": null,
+        "home_team": "East Fife",
+        "away_team": "Peterhead",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 184,
+        "season": [
+            ""
+        ],
+        "date": "06/11/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Elgin",
+        "away_team": "East Stirling",
+        "home_score": "1",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 184,
+        "season": [
+            ""
+        ],
+        "date": "06/11/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Queens Park",
+        "away_team": "Stenhousemuir",
+        "home_score": "4",
+        "away_score": "3",
+        "result": "H"
+    },
+    {
+        "league_id": 184,
+        "season": [
+            ""
+        ],
+        "date": "13/11/04",
+        "time": [
+            ""
+        ],
+        "home_team": "East Stirling",
+        "away_team": "East Fife",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 184,
+        "season": [
+            ""
+        ],
+        "date": "13/11/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Elgin",
+        "away_team": "Cowdenbeath",
+        "home_score": "0",
+        "away_score": "4",
+        "result": "A"
+    },
+    {
+        "league_id": 184,
+        "season": [
+            ""
+        ],
+        "date": "13/11/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Gretna",
+        "away_team": "Peterhead",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 184,
+        "season": [
+            ""
+        ],
+        "date": "13/11/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Montrose",
+        "away_team": "Queens Park",
+        "home_score": "2",
+        "away_score": "4",
+        "result": "A"
+    },
+    {
+        "league_id": 184,
+        "season": [
+            ""
+        ],
+        "date": "13/11/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Stenhousemuir",
+        "away_team": "Albion Rvs",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 184,
+        "season": [
+            ""
+        ],
+        "date": "20/11/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Gretna",
+        "away_team": "Albion Rvs",
+        "home_score": "6",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 184,
+        "season": [
+            ""
+        ],
+        "date": "27/11/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Albion Rvs",
+        "away_team": "Elgin",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 184,
+        "season": [
+            ""
+        ],
+        "date": "27/11/04",
+        "time": [
+            ""
+        ],
+        "home_team": "East Fife",
+        "away_team": "Gretna",
+        "home_score": "1",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 184,
+        "season": [
+            ""
+        ],
+        "date": "27/11/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Queens Park",
+        "away_team": "East Stirling",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 184,
+        "season": [
+            ""
+        ],
+        "date": "30/11/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Cowdenbeath",
+        "away_team": "Montrose",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 184,
+        "season": [
+            ""
+        ],
+        "date": "30/11/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Peterhead",
+        "away_team": "Stenhousemuir",
+        "home_score": "5",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 184,
+        "season": [
+            ""
+        ],
+        "date": "04/12/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Cowdenbeath",
+        "away_team": "Peterhead",
+        "home_score": "0",
+        "away_score": "4",
+        "result": "A"
+    },
+    {
+        "league_id": 184,
+        "season": [
+            ""
+        ],
+        "date": "04/12/04",
+        "time": [
+            ""
+        ],
+        "home_team": "East Stirling",
+        "away_team": "Albion Rvs",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 184,
+        "season": [
+            ""
+        ],
+        "date": "04/12/04",
+        "time": [
+            ""
+        ],
+        "home_team": "Elgin",
+        "away_team": "Gretna",
+        "home_score": "1",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "04/12/04",
+        "time": null,
+        "home_team": "Queens Park",
+        "away_team": "East Fife",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "04/12/04",
+        "time": null,
+        "home_team": "Stenhousemuir",
+        "away_team": "Montrose",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "18/12/04",
+        "time": null,
+        "home_team": "Albion Rvs",
+        "away_team": "Cowdenbeath",
+        "home_score": "2",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "18/12/04",
+        "time": null,
+        "home_team": "Gretna",
+        "away_team": "Stenhousemuir",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "18/12/04",
+        "time": null,
+        "home_team": "Peterhead",
+        "away_team": "Queens Park",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "27/12/04",
+        "time": null,
+        "home_team": "East Fife",
+        "away_team": "Montrose",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "27/12/04",
+        "time": null,
+        "home_team": "Peterhead",
+        "away_team": "East Stirling",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "27/12/04",
+        "time": null,
+        "home_team": "Queens Park",
+        "away_team": "Cowdenbeath",
+        "home_score": "2",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "27/12/04",
+        "time": null,
+        "home_team": "Stenhousemuir",
+        "away_team": "Elgin",
+        "home_score": "4",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "01/01/05",
+        "time": null,
+        "home_team": "Cowdenbeath",
+        "away_team": "East Fife",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "01/01/05",
+        "time": null,
+        "home_team": "Montrose",
+        "away_team": "Gretna",
+        "home_score": "2",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "03/01/05",
+        "time": null,
+        "home_team": "Albion Rvs",
+        "away_team": "Peterhead",
+        "home_score": "0",
+        "away_score": "4",
+        "result": "A"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "03/01/05",
+        "time": null,
+        "home_team": "East Fife",
+        "away_team": "Stenhousemuir",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "03/01/05",
+        "time": null,
+        "home_team": "Elgin",
+        "away_team": "Montrose",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "03/01/05",
+        "time": null,
+        "home_team": "Queens Park",
+        "away_team": "Gretna",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "08/01/05",
+        "time": null,
+        "home_team": "Cowdenbeath",
+        "away_team": "East Stirling",
+        "home_score": "3",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "15/01/05",
+        "time": null,
+        "home_team": "East Stirling",
+        "away_team": "Elgin",
+        "home_score": "0",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "15/01/05",
+        "time": null,
+        "home_team": "Gretna",
+        "away_team": "Cowdenbeath",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "15/01/05",
+        "time": null,
+        "home_team": "Montrose",
+        "away_team": "Albion Rvs",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "15/01/05",
+        "time": null,
+        "home_team": "Peterhead",
+        "away_team": "East Fife",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "15/01/05",
+        "time": null,
+        "home_team": "Stenhousemuir",
+        "away_team": "Queens Park",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "22/01/05",
+        "time": null,
+        "home_team": "Peterhead",
+        "away_team": "Gretna",
+        "home_score": "4",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "22/01/05",
+        "time": null,
+        "home_team": "Queens Park",
+        "away_team": "Montrose",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "29/01/05",
+        "time": null,
+        "home_team": "East Stirling",
+        "away_team": "Queens Park",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "29/01/05",
+        "time": null,
+        "home_team": "Elgin",
+        "away_team": "Albion Rvs",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "29/01/05",
+        "time": null,
+        "home_team": "Gretna",
+        "away_team": "East Fife",
+        "home_score": "4",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "29/01/05",
+        "time": null,
+        "home_team": "Montrose",
+        "away_team": "Cowdenbeath",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "29/01/05",
+        "time": null,
+        "home_team": "Stenhousemuir",
+        "away_team": "Peterhead",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "05/02/05",
+        "time": null,
+        "home_team": "Albion Rvs",
+        "away_team": "East Stirling",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "05/02/05",
+        "time": null,
+        "home_team": "East Fife",
+        "away_team": "Queens Park",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "05/02/05",
+        "time": null,
+        "home_team": "Gretna",
+        "away_team": "Elgin",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "05/02/05",
+        "time": null,
+        "home_team": "Montrose",
+        "away_team": "Stenhousemuir",
+        "home_score": "0",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "05/02/05",
+        "time": null,
+        "home_team": "Peterhead",
+        "away_team": "Cowdenbeath",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "12/02/05",
+        "time": null,
+        "home_team": "Cowdenbeath",
+        "away_team": "Albion Rvs",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "12/02/05",
+        "time": null,
+        "home_team": "East Stirling",
+        "away_team": "Montrose",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "12/02/05",
+        "time": null,
+        "home_team": "Elgin",
+        "away_team": "East Fife",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "12/02/05",
+        "time": null,
+        "home_team": "Queens Park",
+        "away_team": "Peterhead",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "12/02/05",
+        "time": null,
+        "home_team": "Stenhousemuir",
+        "away_team": "Gretna",
+        "home_score": "1",
+        "away_score": "4",
+        "result": "A"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "15/02/05",
+        "time": null,
+        "home_team": "East Fife",
+        "away_team": "East Stirling",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "19/02/05",
+        "time": null,
+        "home_team": "East Fife",
+        "away_team": "Cowdenbeath",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "19/02/05",
+        "time": null,
+        "home_team": "Gretna",
+        "away_team": "Montrose",
+        "home_score": "4",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "19/02/05",
+        "time": null,
+        "home_team": "Queens Park",
+        "away_team": "Albion Rvs",
+        "home_score": "0",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "19/02/05",
+        "time": null,
+        "home_team": "Stenhousemuir",
+        "away_team": "East Stirling",
+        "home_score": "3",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "26/02/05",
+        "time": null,
+        "home_team": "Montrose",
+        "away_team": "Peterhead",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "01/03/05",
+        "time": null,
+        "home_team": "Albion Rvs",
+        "away_team": "Queens Park",
+        "home_score": "0",
+        "away_score": "4",
+        "result": "A"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "01/03/05",
+        "time": null,
+        "home_team": "Montrose",
+        "away_team": "East Stirling",
+        "home_score": "4",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "01/03/05",
+        "time": null,
+        "home_team": "Peterhead",
+        "away_team": "Elgin",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "05/03/05",
+        "time": null,
+        "home_team": "Albion Rvs",
+        "away_team": "Montrose",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "05/03/05",
+        "time": null,
+        "home_team": "Cowdenbeath",
+        "away_team": "Gretna",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "05/03/05",
+        "time": null,
+        "home_team": "East Fife",
+        "away_team": "Peterhead",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "05/03/05",
+        "time": null,
+        "home_team": "Elgin",
+        "away_team": "East Stirling",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "05/03/05",
+        "time": null,
+        "home_team": "Queens Park",
+        "away_team": "Stenhousemuir",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "08/03/05",
+        "time": null,
+        "home_team": "Albion Rvs",
+        "away_team": "Stenhousemuir",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "08/03/05",
+        "time": null,
+        "home_team": "East Stirling",
+        "away_team": "Gretna",
+        "home_score": "0",
+        "away_score": "4",
+        "result": "A"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "08/03/05",
+        "time": null,
+        "home_team": "Elgin",
+        "away_team": "Peterhead",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "12/03/05",
+        "time": null,
+        "home_team": "East Stirling",
+        "away_team": "Cowdenbeath",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "12/03/05",
+        "time": null,
+        "home_team": "Gretna",
+        "away_team": "Queens Park",
+        "home_score": "4",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "12/03/05",
+        "time": null,
+        "home_team": "Montrose",
+        "away_team": "Elgin",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "12/03/05",
+        "time": null,
+        "home_team": "Peterhead",
+        "away_team": "Albion Rvs",
+        "home_score": "2",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "12/03/05",
+        "time": null,
+        "home_team": "Stenhousemuir",
+        "away_team": "East Fife",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "15/03/05",
+        "time": null,
+        "home_team": "Cowdenbeath",
+        "away_team": "Elgin",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "15/03/05",
+        "time": null,
+        "home_team": "East Stirling",
+        "away_team": "Stenhousemuir",
+        "home_score": "3",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "19/03/05",
+        "time": null,
+        "home_team": "East Stirling",
+        "away_team": "East Fife",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "19/03/05",
+        "time": null,
+        "home_team": "Elgin",
+        "away_team": "Cowdenbeath",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "19/03/05",
+        "time": null,
+        "home_team": "Gretna",
+        "away_team": "Peterhead",
+        "home_score": "6",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "19/03/05",
+        "time": null,
+        "home_team": "Montrose",
+        "away_team": "Queens Park",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "19/03/05",
+        "time": null,
+        "home_team": "Stenhousemuir",
+        "away_team": "Albion Rvs",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "22/03/05",
+        "time": null,
+        "home_team": "Albion Rvs",
+        "away_team": "East Fife",
+        "home_score": "0",
+        "away_score": "6",
+        "result": "A"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "22/03/05",
+        "time": null,
+        "home_team": "Cowdenbeath",
+        "away_team": "Stenhousemuir",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "22/03/05",
+        "time": null,
+        "home_team": "Elgin",
+        "away_team": "Queens Park",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "26/03/05",
+        "time": null,
+        "home_team": "East Fife",
+        "away_team": "Elgin",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "02/04/05",
+        "time": null,
+        "home_team": "Albion Rvs",
+        "away_team": "Elgin",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "02/04/05",
+        "time": null,
+        "home_team": "Cowdenbeath",
+        "away_team": "Montrose",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "02/04/05",
+        "time": null,
+        "home_team": "East Fife",
+        "away_team": "Gretna",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "02/04/05",
+        "time": null,
+        "home_team": "Peterhead",
+        "away_team": "Stenhousemuir",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "02/04/05",
+        "time": null,
+        "home_team": "Queens Park",
+        "away_team": "East Stirling",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "09/04/05",
+        "time": null,
+        "home_team": "Albion Rvs",
+        "away_team": "Cowdenbeath",
+        "home_score": "1",
+        "away_score": "4",
+        "result": "A"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "09/04/05",
+        "time": null,
+        "home_team": "East Fife",
+        "away_team": "Elgin",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "09/04/05",
+        "time": null,
+        "home_team": "Gretna",
+        "away_team": "Stenhousemuir",
+        "home_score": "7",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "09/04/05",
+        "time": null,
+        "home_team": "Montrose",
+        "away_team": "East Stirling",
+        "home_score": "4",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "09/04/05",
+        "time": null,
+        "home_team": "Peterhead",
+        "away_team": "Queens Park",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "16/04/05",
+        "time": null,
+        "home_team": "Cowdenbeath",
+        "away_team": "Peterhead",
+        "home_score": "4",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "16/04/05",
+        "time": null,
+        "home_team": "East Stirling",
+        "away_team": "Albion Rvs",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "16/04/05",
+        "time": null,
+        "home_team": "Elgin",
+        "away_team": "Gretna",
+        "home_score": "2",
+        "away_score": "6",
+        "result": "A"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "16/04/05",
+        "time": null,
+        "home_team": "Queens Park",
+        "away_team": "East Fife",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "16/04/05",
+        "time": null,
+        "home_team": "Stenhousemuir",
+        "away_team": "Montrose",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "23/04/05",
+        "time": null,
+        "home_team": "Albion Rvs",
+        "away_team": "Queens Park",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "23/04/05",
+        "time": null,
+        "home_team": "Cowdenbeath",
+        "away_team": "East Fife",
+        "home_score": "4",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "23/04/05",
+        "time": null,
+        "home_team": "East Stirling",
+        "away_team": "Stenhousemuir",
+        "home_score": "1",
+        "away_score": "4",
+        "result": "A"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "23/04/05",
+        "time": null,
+        "home_team": "Elgin",
+        "away_team": "Peterhead",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "23/04/05",
+        "time": null,
+        "home_team": "Montrose",
+        "away_team": "Gretna",
+        "home_score": "0",
+        "away_score": "4",
+        "result": "A"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "30/04/05",
+        "time": null,
+        "home_team": "East Fife",
+        "away_team": "Albion Rvs",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "30/04/05",
+        "time": null,
+        "home_team": "Gretna",
+        "away_team": "East Stirling",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "30/04/05",
+        "time": null,
+        "home_team": "Peterhead",
+        "away_team": "Montrose",
+        "home_score": "4",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "30/04/05",
+        "time": null,
+        "home_team": "Queens Park",
+        "away_team": "Elgin",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "30/04/05",
+        "time": null,
+        "home_team": "Stenhousemuir",
+        "away_team": "Cowdenbeath",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "07/05/05",
+        "time": null,
+        "home_team": "Albion Rvs",
+        "away_team": "Gretna",
+        "home_score": "0",
+        "away_score": "5",
+        "result": "A"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "07/05/05",
+        "time": null,
+        "home_team": "Cowdenbeath",
+        "away_team": "Queens Park",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "07/05/05",
+        "time": null,
+        "home_team": "East Stirling",
+        "away_team": "Peterhead",
+        "home_score": "1",
+        "away_score": "5",
+        "result": "A"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "07/05/05",
+        "time": null,
+        "home_team": "Elgin",
+        "away_team": "Stenhousemuir",
+        "home_score": "4",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 184,
+        "season": "2004",
+        "date": "07/05/05",
+        "time": null,
+        "home_team": "Montrose",
+        "away_team": "East Fife",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    }
+]

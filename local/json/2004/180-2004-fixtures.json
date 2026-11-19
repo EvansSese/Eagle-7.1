@@ -1,0 +1,2046 @@
+[
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "07/08/04",
+        "time": null,
+        "home_team": "Airdrie Utd",
+        "away_team": "St Johnstone",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "07/08/04",
+        "time": null,
+        "home_team": "Clyde",
+        "away_team": "Partick",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "07/08/04",
+        "time": null,
+        "home_team": "Hamilton",
+        "away_team": "Raith Rvs",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "07/08/04",
+        "time": null,
+        "home_team": "Queen of Sth",
+        "away_team": "Ross County",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "07/08/04",
+        "time": null,
+        "home_team": "St Mirren",
+        "away_team": "Falkirk",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "14/08/04",
+        "time": null,
+        "home_team": "Falkirk",
+        "away_team": "Hamilton",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "14/08/04",
+        "time": null,
+        "home_team": "Partick",
+        "away_team": "Airdrie Utd",
+        "home_score": "3",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "14/08/04",
+        "time": null,
+        "home_team": "Raith Rvs",
+        "away_team": "Clyde",
+        "home_score": "2",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "14/08/04",
+        "time": null,
+        "home_team": "Ross County",
+        "away_team": "St Mirren",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "14/08/04",
+        "time": null,
+        "home_team": "St Johnstone",
+        "away_team": "Queen of Sth",
+        "home_score": "1",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "21/08/04",
+        "time": null,
+        "home_team": "Airdrie Utd",
+        "away_team": "Raith Rvs",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "21/08/04",
+        "time": null,
+        "home_team": "Clyde",
+        "away_team": "Ross County",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "21/08/04",
+        "time": null,
+        "home_team": "Hamilton",
+        "away_team": "Partick",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "21/08/04",
+        "time": null,
+        "home_team": "Queen of Sth",
+        "away_team": "Falkirk",
+        "home_score": "1",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "21/08/04",
+        "time": null,
+        "home_team": "St Mirren",
+        "away_team": "St Johnstone",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "28/08/04",
+        "time": null,
+        "home_team": "Falkirk",
+        "away_team": "Airdrie Utd",
+        "home_score": "5",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "28/08/04",
+        "time": null,
+        "home_team": "Queen of Sth",
+        "away_team": "Clyde",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "28/08/04",
+        "time": null,
+        "home_team": "Ross County",
+        "away_team": "Partick",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "28/08/04",
+        "time": null,
+        "home_team": "St Johnstone",
+        "away_team": "Raith Rvs",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "28/08/04",
+        "time": null,
+        "home_team": "St Mirren",
+        "away_team": "Hamilton",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "04/09/04",
+        "time": null,
+        "home_team": "Airdrie Utd",
+        "away_team": "Queen of Sth",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "04/09/04",
+        "time": null,
+        "home_team": "Clyde",
+        "away_team": "St Mirren",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "04/09/04",
+        "time": null,
+        "home_team": "Hamilton",
+        "away_team": "St Johnstone",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "04/09/04",
+        "time": null,
+        "home_team": "Partick",
+        "away_team": "Falkirk",
+        "home_score": "1",
+        "away_score": "4",
+        "result": "A"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "04/09/04",
+        "time": null,
+        "home_team": "Raith Rvs",
+        "away_team": "Ross County",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "11/09/04",
+        "time": null,
+        "home_team": "Clyde",
+        "away_team": "Airdrie Utd",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "11/09/04",
+        "time": null,
+        "home_team": "Falkirk",
+        "away_team": "Raith Rvs",
+        "home_score": "4",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "11/09/04",
+        "time": null,
+        "home_team": "Queen of Sth",
+        "away_team": "Hamilton",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "11/09/04",
+        "time": null,
+        "home_team": "Ross County",
+        "away_team": "St Johnstone",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "11/09/04",
+        "time": null,
+        "home_team": "St Mirren",
+        "away_team": "Partick",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "18/09/04",
+        "time": null,
+        "home_team": "Airdrie Utd",
+        "away_team": "Ross County",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "18/09/04",
+        "time": null,
+        "home_team": "Hamilton",
+        "away_team": "Clyde",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "18/09/04",
+        "time": null,
+        "home_team": "Partick",
+        "away_team": "Queen of Sth",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "18/09/04",
+        "time": null,
+        "home_team": "Raith Rvs",
+        "away_team": "St Mirren",
+        "home_score": "0",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "18/09/04",
+        "time": null,
+        "home_team": "St Johnstone",
+        "away_team": "Falkirk",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "25/09/04",
+        "time": null,
+        "home_team": "Falkirk",
+        "away_team": "Clyde",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "25/09/04",
+        "time": null,
+        "home_team": "Hamilton",
+        "away_team": "Ross County",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "25/09/04",
+        "time": null,
+        "home_team": "Raith Rvs",
+        "away_team": "Queen of Sth",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "25/09/04",
+        "time": null,
+        "home_team": "St Johnstone",
+        "away_team": "Partick",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "25/09/04",
+        "time": null,
+        "home_team": "St Mirren",
+        "away_team": "Airdrie Utd",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "02/10/04",
+        "time": null,
+        "home_team": "Airdrie Utd",
+        "away_team": "Hamilton",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "02/10/04",
+        "time": null,
+        "home_team": "Clyde",
+        "away_team": "St Johnstone",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "02/10/04",
+        "time": null,
+        "home_team": "Partick",
+        "away_team": "Raith Rvs",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "02/10/04",
+        "time": null,
+        "home_team": "Queen of Sth",
+        "away_team": "St Mirren",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "02/10/04",
+        "time": null,
+        "home_team": "Ross County",
+        "away_team": "Falkirk",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "16/10/04",
+        "time": null,
+        "home_team": "Airdrie Utd",
+        "away_team": "Partick",
+        "home_score": "4",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "16/10/04",
+        "time": null,
+        "home_team": "Clyde",
+        "away_team": "Raith Rvs",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "16/10/04",
+        "time": null,
+        "home_team": "Hamilton",
+        "away_team": "Falkirk",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "16/10/04",
+        "time": null,
+        "home_team": "Queen of Sth",
+        "away_team": "St Johnstone",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "16/10/04",
+        "time": null,
+        "home_team": "St Mirren",
+        "away_team": "Ross County",
+        "home_score": "3",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "23/10/04",
+        "time": null,
+        "home_team": "Falkirk",
+        "away_team": "St Mirren",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "23/10/04",
+        "time": null,
+        "home_team": "Partick",
+        "away_team": "Clyde",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "23/10/04",
+        "time": null,
+        "home_team": "Raith Rvs",
+        "away_team": "Hamilton",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "23/10/04",
+        "time": null,
+        "home_team": "Ross County",
+        "away_team": "Queen of Sth",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "23/10/04",
+        "time": null,
+        "home_team": "St Johnstone",
+        "away_team": "Airdrie Utd",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "30/10/04",
+        "time": null,
+        "home_team": "Airdrie Utd",
+        "away_team": "Falkirk",
+        "home_score": "1",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "30/10/04",
+        "time": null,
+        "home_team": "Clyde",
+        "away_team": "Queen of Sth",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "30/10/04",
+        "time": null,
+        "home_team": "Hamilton",
+        "away_team": "St Mirren",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "30/10/04",
+        "time": null,
+        "home_team": "Partick",
+        "away_team": "Ross County",
+        "home_score": "4",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "30/10/04",
+        "time": null,
+        "home_team": "Raith Rvs",
+        "away_team": "St Johnstone",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "06/11/04",
+        "time": null,
+        "home_team": "Queen of Sth",
+        "away_team": "Airdrie Utd",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "06/11/04",
+        "time": null,
+        "home_team": "St Johnstone",
+        "away_team": "Hamilton",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "06/11/04",
+        "time": null,
+        "home_team": "St Mirren",
+        "away_team": "Clyde",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "13/11/04",
+        "time": null,
+        "home_team": "Airdrie Utd",
+        "away_team": "Clyde",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "13/11/04",
+        "time": null,
+        "home_team": "Hamilton",
+        "away_team": "Queen of Sth",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "13/11/04",
+        "time": null,
+        "home_team": "Partick",
+        "away_team": "St Mirren",
+        "home_score": "0",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "13/11/04",
+        "time": null,
+        "home_team": "Raith Rvs",
+        "away_team": "Falkirk",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "13/11/04",
+        "time": null,
+        "home_team": "St Johnstone",
+        "away_team": "Ross County",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "20/11/04",
+        "time": null,
+        "home_team": "Clyde",
+        "away_team": "Hamilton",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "20/11/04",
+        "time": null,
+        "home_team": "Falkirk",
+        "away_team": "St Johnstone",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "20/11/04",
+        "time": null,
+        "home_team": "Queen of Sth",
+        "away_team": "Partick",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "20/11/04",
+        "time": null,
+        "home_team": "Ross County",
+        "away_team": "Airdrie Utd",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "20/11/04",
+        "time": null,
+        "home_team": "St Mirren",
+        "away_team": "Raith Rvs",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "23/11/04",
+        "time": null,
+        "home_team": "Falkirk",
+        "away_team": "Partick",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "23/11/04",
+        "time": null,
+        "home_team": "Ross County",
+        "away_team": "Raith",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "27/11/04",
+        "time": null,
+        "home_team": "Falkirk",
+        "away_team": "Ross County",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "27/11/04",
+        "time": null,
+        "home_team": "Hamilton",
+        "away_team": "Airdrie Utd",
+        "home_score": "1",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "27/11/04",
+        "time": null,
+        "home_team": "Raith Rvs",
+        "away_team": "Partick",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "27/11/04",
+        "time": null,
+        "home_team": "St Johnstone",
+        "away_team": "Clyde",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "27/11/04",
+        "time": null,
+        "home_team": "St Mirren",
+        "away_team": "Queen of Sth",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "04/12/04",
+        "time": null,
+        "home_team": "Airdrie Utd",
+        "away_team": "St Mirren",
+        "home_score": "3",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "04/12/04",
+        "time": null,
+        "home_team": "Clyde",
+        "away_team": "Falkirk",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "04/12/04",
+        "time": null,
+        "home_team": "Partick",
+        "away_team": "St Johnstone",
+        "home_score": "0",
+        "away_score": "4",
+        "result": "A"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "04/12/04",
+        "time": null,
+        "home_team": "Queen of Sth",
+        "away_team": "Raith Rvs",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "04/12/04",
+        "time": null,
+        "home_team": "Ross County",
+        "away_team": "Hamilton",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "11/12/04",
+        "time": null,
+        "home_team": "Airdrie Utd",
+        "away_team": "St Johnstone",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "11/12/04",
+        "time": null,
+        "home_team": "Clyde",
+        "away_team": "Partick",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "11/12/04",
+        "time": null,
+        "home_team": "Hamilton",
+        "away_team": "Raith Rvs",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "11/12/04",
+        "time": null,
+        "home_team": "Queen of Sth",
+        "away_team": "Ross County",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "11/12/04",
+        "time": null,
+        "home_team": "St Mirren",
+        "away_team": "Falkirk",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "18/12/04",
+        "time": null,
+        "home_team": "Falkirk",
+        "away_team": "Queen of Sth",
+        "home_score": "4",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "18/12/04",
+        "time": null,
+        "home_team": "Partick",
+        "away_team": "Hamilton",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "18/12/04",
+        "time": null,
+        "home_team": "Raith Rvs",
+        "away_team": "Airdrie Utd",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "18/12/04",
+        "time": null,
+        "home_team": "Ross County",
+        "away_team": "Clyde",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "18/12/04",
+        "time": null,
+        "home_team": "St Johnstone",
+        "away_team": "St Mirren",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "26/12/04",
+        "time": null,
+        "home_team": "Falkirk",
+        "away_team": "Airdrie Utd",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "26/12/04",
+        "time": null,
+        "home_team": "St Johnstone",
+        "away_team": "Raith Rvs",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "26/12/04",
+        "time": null,
+        "home_team": "St Mirren",
+        "away_team": "Hamilton",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "27/12/04",
+        "time": null,
+        "home_team": "Ross County",
+        "away_team": "Partick",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "29/12/04",
+        "time": null,
+        "home_team": "Airdrie Utd",
+        "away_team": "Queen of Sth",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "29/12/04",
+        "time": null,
+        "home_team": "Hamilton",
+        "away_team": "St Johnstone",
+        "home_score": "0",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "29/12/04",
+        "time": null,
+        "home_team": "Partick",
+        "away_team": "Falkirk",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "29/12/04",
+        "time": null,
+        "home_team": "Raith Rvs",
+        "away_team": "Ross County",
+        "home_score": "1",
+        "away_score": "4",
+        "result": "A"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "01/01/05",
+        "time": null,
+        "home_team": "Clyde",
+        "away_team": "Airdrie Utd",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "01/01/05",
+        "time": null,
+        "home_team": "Falkirk",
+        "away_team": "Raith Rvs",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "01/01/05",
+        "time": null,
+        "home_team": "Queen of Sth",
+        "away_team": "Hamilton",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "01/01/05",
+        "time": null,
+        "home_team": "St Mirren",
+        "away_team": "Partick",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "03/01/05",
+        "time": null,
+        "home_team": "Ross County",
+        "away_team": "St Johnstone",
+        "home_score": "4",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "15/01/05",
+        "time": null,
+        "home_team": "Airdrie Utd",
+        "away_team": "Ross County",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "15/01/05",
+        "time": null,
+        "home_team": "Hamilton",
+        "away_team": "Clyde",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "15/01/05",
+        "time": null,
+        "home_team": "Partick",
+        "away_team": "Queen of Sth",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "15/01/05",
+        "time": null,
+        "home_team": "Raith Rvs",
+        "away_team": "St Mirren",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "15/01/05",
+        "time": null,
+        "home_team": "St Johnstone",
+        "away_team": "Falkirk",
+        "home_score": "0",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "22/01/05",
+        "time": null,
+        "home_team": "Hamilton",
+        "away_team": "Ross County",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "22/01/05",
+        "time": null,
+        "home_team": "Raith Rvs",
+        "away_team": "Queen of Sth",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "22/01/05",
+        "time": null,
+        "home_team": "St Johnstone",
+        "away_team": "Partick",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "22/01/05",
+        "time": null,
+        "home_team": "St Mirren",
+        "away_team": "Airdrie Utd",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "29/01/05",
+        "time": null,
+        "home_team": "Partick",
+        "away_team": "Raith Rvs",
+        "home_score": "4",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "29/01/05",
+        "time": null,
+        "home_team": "Queen of Sth",
+        "away_team": "St Mirren",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "29/01/05",
+        "time": null,
+        "home_team": "Ross County",
+        "away_team": "Falkirk",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "12/02/05",
+        "time": null,
+        "home_team": "Falkirk",
+        "away_team": "Hamilton",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "12/02/05",
+        "time": null,
+        "home_team": "Partick",
+        "away_team": "Airdrie Utd",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "12/02/05",
+        "time": null,
+        "home_team": "Raith Rvs",
+        "away_team": "Clyde",
+        "home_score": "3",
+        "away_score": "3",
+        "result": "D"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "12/02/05",
+        "time": null,
+        "home_team": "St Johnstone",
+        "away_team": "Queen of Sth",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "19/02/05",
+        "time": null,
+        "home_team": "Airdrie Utd",
+        "away_team": "Raith Rvs",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "19/02/05",
+        "time": null,
+        "home_team": "Clyde",
+        "away_team": "Ross County",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "19/02/05",
+        "time": null,
+        "home_team": "Hamilton",
+        "away_team": "Partick",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "19/02/05",
+        "time": null,
+        "home_team": "Queen of Sth",
+        "away_team": "Falkirk",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "19/02/05",
+        "time": null,
+        "home_team": "St Mirren",
+        "away_team": "St Johnstone",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "01/03/05",
+        "time": null,
+        "home_team": "Ross County",
+        "away_team": "St Mirren",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "02/03/05",
+        "time": null,
+        "home_team": "Queen of Sth",
+        "away_team": "Clyde",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "05/03/05",
+        "time": null,
+        "home_team": "Falkirk",
+        "away_team": "Partick",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "05/03/05",
+        "time": null,
+        "home_team": "Queen of Sth",
+        "away_team": "Airdrie Utd",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "05/03/05",
+        "time": null,
+        "home_team": "Ross County",
+        "away_team": "Raith Rvs",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "05/03/05",
+        "time": null,
+        "home_team": "St Johnstone",
+        "away_team": "Hamilton",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "05/03/05",
+        "time": null,
+        "home_team": "St Mirren",
+        "away_team": "Clyde",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "08/03/05",
+        "time": null,
+        "home_team": "Airdrie Utd",
+        "away_team": "Hamilton",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "08/03/05",
+        "time": null,
+        "home_team": "Clyde",
+        "away_team": "St Mirren",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "12/03/05",
+        "time": null,
+        "home_team": "Airdrie Utd",
+        "away_team": "Falkirk",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "12/03/05",
+        "time": null,
+        "home_team": "Clyde",
+        "away_team": "Queen of Sth",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "12/03/05",
+        "time": null,
+        "home_team": "Hamilton",
+        "away_team": "St Mirren",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "12/03/05",
+        "time": null,
+        "home_team": "Partick",
+        "away_team": "Ross County",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "12/03/05",
+        "time": null,
+        "home_team": "Raith Rvs",
+        "away_team": "St Johnstone",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 180,
+        "season": [
+            ""
+        ],
+        "date": "15/03/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Falkirk",
+        "away_team": "Clyde",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 180,
+        "season": [
+            ""
+        ],
+        "date": "19/03/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Airdrie Utd",
+        "away_team": "Clyde",
+        "home_score": "2",
+        "away_score": "4",
+        "result": "A"
+    },
+    {
+        "league_id": 180,
+        "season": [
+            ""
+        ],
+        "date": "19/03/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Hamilton",
+        "away_team": "Queen of Sth",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 180,
+        "season": [
+            ""
+        ],
+        "date": "19/03/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Partick",
+        "away_team": "St Mirren",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 180,
+        "season": [
+            ""
+        ],
+        "date": "19/03/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Raith Rvs",
+        "away_team": "Falkirk",
+        "home_score": "3",
+        "away_score": "3",
+        "result": "D"
+    },
+    {
+        "league_id": 180,
+        "season": [
+            ""
+        ],
+        "date": "19/03/05",
+        "time": [
+            ""
+        ],
+        "home_team": "St Johnstone",
+        "away_team": "Ross County",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 180,
+        "season": [
+            ""
+        ],
+        "date": "22/03/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Clyde",
+        "away_team": "St Johnstone",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 180,
+        "season": [
+            ""
+        ],
+        "date": "02/04/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Clyde",
+        "away_team": "Hamilton",
+        "home_score": "1",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 180,
+        "season": [
+            ""
+        ],
+        "date": "02/04/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Falkirk",
+        "away_team": "St Johnstone",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": [
+            ""
+        ],
+        "date": "02/04/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Queen of Sth",
+        "away_team": "Partick",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": [
+            ""
+        ],
+        "date": "02/04/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Ross County",
+        "away_team": "Airdrie Utd",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": [
+            ""
+        ],
+        "date": "02/04/05",
+        "time": [
+            ""
+        ],
+        "home_team": "St Mirren",
+        "away_team": "Raith Rvs",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": [
+            ""
+        ],
+        "date": "09/04/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Falkirk",
+        "away_team": "Ross County",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": [
+            ""
+        ],
+        "date": "09/04/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Hamilton",
+        "away_team": "Airdrie Utd",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 180,
+        "season": [
+            ""
+        ],
+        "date": "09/04/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Raith Rvs",
+        "away_team": "Partick",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": [
+            ""
+        ],
+        "date": "09/04/05",
+        "time": [
+            ""
+        ],
+        "home_team": "St Johnstone",
+        "away_team": "Clyde",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "09/04/05",
+        "time": null,
+        "home_team": "St Mirren",
+        "away_team": "Queen of Sth",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "16/04/05",
+        "time": null,
+        "home_team": "Airdrie Utd",
+        "away_team": "St Mirren",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "16/04/05",
+        "time": null,
+        "home_team": "Clyde",
+        "away_team": "Falkirk",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "16/04/05",
+        "time": null,
+        "home_team": "Partick",
+        "away_team": "St Johnstone",
+        "home_score": "0",
+        "away_score": "4",
+        "result": "A"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "16/04/05",
+        "time": null,
+        "home_team": "Queen of Sth",
+        "away_team": "Raith Rvs",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "16/04/05",
+        "time": null,
+        "home_team": "Ross County",
+        "away_team": "Hamilton",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "23/04/05",
+        "time": null,
+        "home_team": "Falkirk",
+        "away_team": "St Mirren",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "23/04/05",
+        "time": null,
+        "home_team": "Partick",
+        "away_team": "Clyde",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "23/04/05",
+        "time": null,
+        "home_team": "Raith Rvs",
+        "away_team": "Hamilton",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "23/04/05",
+        "time": null,
+        "home_team": "Ross County",
+        "away_team": "Queen of Sth",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "23/04/05",
+        "time": null,
+        "home_team": "St Johnstone",
+        "away_team": "Airdrie Utd",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "30/04/05",
+        "time": null,
+        "home_team": "Airdrie Utd",
+        "away_team": "Partick",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "30/04/05",
+        "time": null,
+        "home_team": "Clyde",
+        "away_team": "Raith Rvs",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "30/04/05",
+        "time": null,
+        "home_team": "Hamilton",
+        "away_team": "Falkirk",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "30/04/05",
+        "time": null,
+        "home_team": "Queen of Sth",
+        "away_team": "St Johnstone",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "30/04/05",
+        "time": null,
+        "home_team": "St Mirren",
+        "away_team": "Ross County",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "07/05/05",
+        "time": null,
+        "home_team": "Falkirk",
+        "away_team": "Queen of Sth",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "07/05/05",
+        "time": null,
+        "home_team": "Partick",
+        "away_team": "Hamilton",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "07/05/05",
+        "time": null,
+        "home_team": "Raith Rvs",
+        "away_team": "Airdrie Utd",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "07/05/05",
+        "time": null,
+        "home_team": "Ross County",
+        "away_team": "Clyde",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 180,
+        "season": "2004",
+        "date": "07/05/05",
+        "time": null,
+        "home_team": "St Johnstone",
+        "away_team": "St Mirren",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    }
+]

@@ -1,0 +1,4392 @@
+[
+    {
+        "league_id": 203,
+        "season": "2002",
+        "date": "09/08/02",
+        "time": null,
+        "home_team": "Trabzonspor",
+        "away_team": "Fenerbahce",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 203,
+        "season": "2002",
+        "date": "10/08/02",
+        "time": null,
+        "home_team": "Ankaragucu",
+        "away_team": "Malatyaspor",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 203,
+        "season": "2002",
+        "date": "10/08/02",
+        "time": null,
+        "home_team": "Bursaspor",
+        "away_team": "Besiktas",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 203,
+        "season": "2002",
+        "date": "10/08/02",
+        "time": null,
+        "home_team": "Diyarbakirspor",
+        "away_team": "Altay",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 203,
+        "season": "2002",
+        "date": "10/08/02",
+        "time": null,
+        "home_team": "Istanbulspor",
+        "away_team": "Adanaspor",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 203,
+        "season": "2002",
+        "date": "11/08/02",
+        "time": null,
+        "home_team": "Galatasaray",
+        "away_team": "Samsunspor",
+        "home_score": "4",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": "2002",
+        "date": "11/08/02",
+        "time": null,
+        "home_team": "Gaziantepspor",
+        "away_team": "Denizlispor",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 203,
+        "season": "2002",
+        "date": "11/08/02",
+        "time": null,
+        "home_team": "Goztep",
+        "away_team": "Elazigspor",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": "2002",
+        "date": "11/08/02",
+        "time": null,
+        "home_team": "Kocaelispor",
+        "away_team": "Genclerbirligi",
+        "home_score": "1",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 203,
+        "season": "2002",
+        "date": "16/08/02",
+        "time": null,
+        "home_team": "Denizlispor",
+        "away_team": "Galatasaray",
+        "home_score": "1",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 203,
+        "season": "2002",
+        "date": "17/08/02",
+        "time": null,
+        "home_team": "Besiktas",
+        "away_team": "Kocaelispor",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": "2002",
+        "date": "17/08/02",
+        "time": null,
+        "home_team": "Elazigspor",
+        "away_team": "Trabzonspor",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": "2002",
+        "date": "17/08/02",
+        "time": null,
+        "home_team": "Genclerbirligi",
+        "away_team": "Istanbulspor",
+        "home_score": "4",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": "2002",
+        "date": "17/08/02",
+        "time": null,
+        "home_team": "Malatyaspor",
+        "away_team": "Gaziantepspor",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 203,
+        "season": "2002",
+        "date": "17/08/02",
+        "time": null,
+        "home_team": "Samsunspor",
+        "away_team": "Bursaspor",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "18/08/02",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Adanaspor",
+        "away_team": "Diyarbakirspor",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "18/08/02",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Altay",
+        "away_team": "Goztep",
+        "home_score": "4",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "18/08/02",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Fenerbahce",
+        "away_team": "Ankaragucu",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "24/08/02",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Goztep",
+        "away_team": "Adanaspor",
+        "home_score": "1",
+        "away_score": "4",
+        "result": "A"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "24/08/02",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Istanbulspor",
+        "away_team": "Besiktas",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "24/08/02",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Kocaelispor",
+        "away_team": "Samsunspor",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "24/08/02",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Trabzonspor",
+        "away_team": "Altay",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "25/08/02",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Ankaragucu",
+        "away_team": "Elazigspor",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "25/08/02",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Denizlispor",
+        "away_team": "Malatyaspor",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "25/08/02",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Diyarbakirspor",
+        "away_team": "Genclerbirligi",
+        "home_score": "1",
+        "away_score": "4",
+        "result": "A"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "25/08/02",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Galatasaray",
+        "away_team": "Bursaspor",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "30/08/02",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Besiktas",
+        "away_team": "Diyarbakirspor",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "31/08/02",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Adanaspor",
+        "away_team": "Trabzonspor",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "31/08/02",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Altay",
+        "away_team": "Ankaragucu",
+        "home_score": "2",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "31/08/02",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Bursaspor",
+        "away_team": "Kocaelispor",
+        "home_score": "4",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "31/08/02",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Malatyaspor",
+        "away_team": "Galatasaray",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "01/09/02",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Elazigspor",
+        "away_team": "Gaziantepspor",
+        "home_score": "1",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "01/09/02",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Fenerbahce",
+        "away_team": "Denizlispor",
+        "home_score": "3",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "01/09/02",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Genclerbirligi",
+        "away_team": "Goztep",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "01/09/02",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Samsunspor",
+        "away_team": "Istanbulspor",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "11/09/02",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Gaziantepspor",
+        "away_team": "Fenerbahce",
+        "home_score": "3",
+        "away_score": "3",
+        "result": "D"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "13/09/02",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Galatasaray",
+        "away_team": "Kocaelispor",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "14/09/02",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Ankaragucu",
+        "away_team": "Adanaspor",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "14/09/02",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Denizlispor",
+        "away_team": "Elazigspor",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "14/09/02",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Malatyaspor",
+        "away_team": "Fenerbahce",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "14/09/02",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Trabzonspor",
+        "away_team": "Genclerbirligi",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "15/09/02",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Diyarbakirspor",
+        "away_team": "Samsunspor",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "15/09/02",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Gaziantepspor",
+        "away_team": "Altay",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "15/09/02",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Goztep",
+        "away_team": "Besiktas",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "15/09/02",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Istanbulspor",
+        "away_team": "Bursaspor",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "21/09/02",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Adanaspor",
+        "away_team": "Gaziantepspor",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "21/09/02",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Bursaspor",
+        "away_team": "Diyarbakirspor",
+        "home_score": "4",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": "2002",
+        "date": "21/09/02",
+        "time": null,
+        "home_team": "Elazigspor",
+        "away_team": "Malatyaspor",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": "2002",
+        "date": "21/09/02",
+        "time": null,
+        "home_team": "Samsunspor",
+        "away_team": "Goztep",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 203,
+        "season": "2002",
+        "date": "22/09/02",
+        "time": null,
+        "home_team": "Altay",
+        "away_team": "Denizlispor",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": "2002",
+        "date": "22/09/02",
+        "time": null,
+        "home_team": "Besiktas",
+        "away_team": "Trabzonspor",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 203,
+        "season": "2002",
+        "date": "22/09/02",
+        "time": null,
+        "home_team": "Genclerbirligi",
+        "away_team": "Ankaragucu",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 203,
+        "season": "2002",
+        "date": "22/09/02",
+        "time": null,
+        "home_team": "Kocaelispor",
+        "away_team": "Istanbulspor",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 203,
+        "season": "2002",
+        "date": "27/09/02",
+        "time": null,
+        "home_team": "Galatasaray",
+        "away_team": "Istanbulspor",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": "2002",
+        "date": "28/09/02",
+        "time": null,
+        "home_team": "Ankaragucu",
+        "away_team": "Besiktas",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 203,
+        "season": "2002",
+        "date": "28/09/02",
+        "time": null,
+        "home_team": "Denizlispor",
+        "away_team": "Adanaspor",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": "2002",
+        "date": "28/09/02",
+        "time": null,
+        "home_team": "Diyarbakirspor",
+        "away_team": "Kocaelispor",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 203,
+        "season": "2002",
+        "date": "28/09/02",
+        "time": null,
+        "home_team": "Trabzonspor",
+        "away_team": "Samsunspor",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 203,
+        "season": "2002",
+        "date": "29/09/02",
+        "time": null,
+        "home_team": "Fenerbahce",
+        "away_team": "Elazigspor",
+        "home_score": "4",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": "2002",
+        "date": "29/09/02",
+        "time": null,
+        "home_team": "Gaziantepspor",
+        "away_team": "Genclerbirligi",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": "2002",
+        "date": "29/09/02",
+        "time": null,
+        "home_team": "Goztep",
+        "away_team": "Bursaspor",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 203,
+        "season": "2002",
+        "date": "29/09/02",
+        "time": null,
+        "home_team": "Malatyaspor",
+        "away_team": "Altay",
+        "home_score": "6",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": "2002",
+        "date": "05/10/02",
+        "time": null,
+        "home_team": "Adanaspor",
+        "away_team": "Malatyaspor",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 203,
+        "season": "2002",
+        "date": "05/10/02",
+        "time": null,
+        "home_team": "Bursaspor",
+        "away_team": "Trabzonspor",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 203,
+        "season": "2002",
+        "date": "05/10/02",
+        "time": null,
+        "home_team": "Elazigspor",
+        "away_team": "Galatasaray",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 203,
+        "season": "2002",
+        "date": "05/10/02",
+        "time": null,
+        "home_team": "Istanbulspor",
+        "away_team": "Diyarbakirspor",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": "2002",
+        "date": "06/10/02",
+        "time": null,
+        "home_team": "Altay",
+        "away_team": "Fenerbahce",
+        "home_score": "1",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 203,
+        "season": "2002",
+        "date": "06/10/02",
+        "time": null,
+        "home_team": "Besiktas",
+        "away_team": "Gaziantepspor",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 203,
+        "season": "2002",
+        "date": "06/10/02",
+        "time": null,
+        "home_team": "Genclerbirligi",
+        "away_team": "Denizlispor",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 203,
+        "season": "2002",
+        "date": "06/10/02",
+        "time": null,
+        "home_team": "Kocaelispor",
+        "away_team": "Goztep",
+        "home_score": "1",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 203,
+        "season": "2002",
+        "date": "06/10/02",
+        "time": null,
+        "home_team": "Samsunspor",
+        "away_team": "Ankaragucu",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": "2002",
+        "date": "18/10/02",
+        "time": null,
+        "home_team": "Fenerbahce",
+        "away_team": "Adanaspor",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 203,
+        "season": "2002",
+        "date": "19/10/02",
+        "time": null,
+        "home_team": "Galatasaray",
+        "away_team": "Diyarbakirspor",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": "2002",
+        "date": "19/10/02",
+        "time": null,
+        "home_team": "Gaziantepspor",
+        "away_team": "Samsunspor",
+        "home_score": "4",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": "2002",
+        "date": "19/10/02",
+        "time": null,
+        "home_team": "Goztep",
+        "away_team": "Istanbulspor",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 203,
+        "season": "2002",
+        "date": "19/10/02",
+        "time": null,
+        "home_team": "Malatyaspor",
+        "away_team": "Genclerbirligi",
+        "home_score": "5",
+        "away_score": "4",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": "2002",
+        "date": "20/10/02",
+        "time": null,
+        "home_team": "Ankaragucu",
+        "away_team": "Bursaspor",
+        "home_score": "4",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": "2002",
+        "date": "20/10/02",
+        "time": null,
+        "home_team": "Denizlispor",
+        "away_team": "Besiktas",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 203,
+        "season": "2002",
+        "date": "20/10/02",
+        "time": null,
+        "home_team": "Elazigspor",
+        "away_team": "Altay",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": "2002",
+        "date": "20/10/02",
+        "time": null,
+        "home_team": "Trabzonspor",
+        "away_team": "Kocaelispor",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": "2002",
+        "date": "25/10/02",
+        "time": null,
+        "home_team": "Besiktas",
+        "away_team": "Malatyaspor",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": "2002",
+        "date": "26/10/02",
+        "time": null,
+        "home_team": "Altay",
+        "away_team": "Galatasaray",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 203,
+        "season": "2002",
+        "date": "26/10/02",
+        "time": null,
+        "home_team": "Istanbulspor",
+        "away_team": "Trabzonspor",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 203,
+        "season": "2002",
+        "date": "26/10/02",
+        "time": null,
+        "home_team": "Kocaelispor",
+        "away_team": "Ankaragucu",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": "2002",
+        "date": "26/10/02",
+        "time": null,
+        "home_team": "Samsunspor",
+        "away_team": "Denizlispor",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 203,
+        "season": "2002",
+        "date": "27/10/02",
+        "time": null,
+        "home_team": "Adanaspor",
+        "away_team": "Elazigspor",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 203,
+        "season": "2002",
+        "date": "27/10/02",
+        "time": null,
+        "home_team": "Bursaspor",
+        "away_team": "Gaziantepspor",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 203,
+        "season": "2002",
+        "date": "27/10/02",
+        "time": null,
+        "home_team": "Diyarbakirspor",
+        "away_team": "Goztep",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": "2002",
+        "date": "27/10/02",
+        "time": null,
+        "home_team": "Genclerbirligi",
+        "away_team": "Fenerbahce",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 203,
+        "season": "2002",
+        "date": "01/11/02",
+        "time": null,
+        "home_team": "Trabzonspor",
+        "away_team": "Diyarbakirspor",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": "2002",
+        "date": "02/11/02",
+        "time": null,
+        "home_team": "Altay",
+        "away_team": "Adanaspor",
+        "home_score": "0",
+        "away_score": "4",
+        "result": "A"
+    },
+    {
+        "league_id": 203,
+        "season": "2002",
+        "date": "02/11/02",
+        "time": null,
+        "home_team": "Ankaragucu",
+        "away_team": "Istanbulspor",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": "2002",
+        "date": "02/11/02",
+        "time": null,
+        "home_team": "Elazigspor",
+        "away_team": "Genclerbirligi",
+        "home_score": "0",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 203,
+        "season": "2002",
+        "date": "02/11/02",
+        "time": null,
+        "home_team": "Galatasaray",
+        "away_team": "Goztep",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": "2002",
+        "date": "02/11/02",
+        "time": null,
+        "home_team": "Gaziantepspor",
+        "away_team": "Kocaelispor",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": "2002",
+        "date": "02/11/02",
+        "time": null,
+        "home_team": "Malatyaspor",
+        "away_team": "Samsunspor",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": "2002",
+        "date": "06/11/02",
+        "time": null,
+        "home_team": "Denizlispor",
+        "away_team": "Bursaspor",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 203,
+        "season": "2002",
+        "date": "06/11/02",
+        "time": null,
+        "home_team": "Fenerbahce",
+        "away_team": "Galatasaray",
+        "home_score": "6",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": "2002",
+        "date": "08/11/02",
+        "time": null,
+        "home_team": "Besiktas",
+        "away_team": "Elazigspor",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": "2002",
+        "date": "09/11/02",
+        "time": null,
+        "home_team": "Adanaspor",
+        "away_team": "Galatasaray",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 203,
+        "season": "2002",
+        "date": "09/11/02",
+        "time": null,
+        "home_team": "Diyarbakirspor",
+        "away_team": "Ankaragucu",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": "2002",
+        "date": "09/11/02",
+        "time": null,
+        "home_team": "Goztep",
+        "away_team": "Trabzonspor",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 203,
+        "season": "2002",
+        "date": "09/11/02",
+        "time": null,
+        "home_team": "Istanbulspor",
+        "away_team": "Gaziantepspor",
+        "home_score": "1",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 203,
+        "season": "2002",
+        "date": "10/11/02",
+        "time": null,
+        "home_team": "Bursaspor",
+        "away_team": "Malatyaspor",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 203,
+        "season": "2002",
+        "date": "10/11/02",
+        "time": null,
+        "home_team": "Genclerbirligi",
+        "away_team": "Altay",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": "2002",
+        "date": "10/11/02",
+        "time": null,
+        "home_team": "Kocaelispor",
+        "away_team": "Denizlispor",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": "2002",
+        "date": "10/11/02",
+        "time": null,
+        "home_team": "Samsunspor",
+        "away_team": "Fenerbahce",
+        "home_score": "1",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 203,
+        "season": "2002",
+        "date": "16/11/02",
+        "time": null,
+        "home_team": "Adanaspor",
+        "away_team": "Genclerbirligi",
+        "home_score": "2",
+        "away_score": "7",
+        "result": "A"
+    },
+    {
+        "league_id": 203,
+        "season": "2002",
+        "date": "16/11/02",
+        "time": null,
+        "home_team": "Ankaragucu",
+        "away_team": "Goztep",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": "2002",
+        "date": "16/11/02",
+        "time": null,
+        "home_team": "Galatasaray",
+        "away_team": "Trabzonspor",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": "2002",
+        "date": "16/11/02",
+        "time": null,
+        "home_team": "Gaziantepspor",
+        "away_team": "Diyarbakirspor",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": "2002",
+        "date": "17/11/02",
+        "time": null,
+        "home_team": "Altay",
+        "away_team": "Besiktas",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 203,
+        "season": "2002",
+        "date": "17/11/02",
+        "time": null,
+        "home_team": "Denizlispor",
+        "away_team": "Istanbulspor",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": "2002",
+        "date": "17/11/02",
+        "time": null,
+        "home_team": "Elazigspor",
+        "away_team": "Samsunspor",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": "2002",
+        "date": "17/11/02",
+        "time": null,
+        "home_team": "Fenerbahce",
+        "away_team": "Bursaspor",
+        "home_score": "7",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": "2002",
+        "date": "17/11/02",
+        "time": null,
+        "home_team": "Malatyaspor",
+        "away_team": "Kocaelispor",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": "2002",
+        "date": "23/11/02",
+        "time": null,
+        "home_team": "Besiktas",
+        "away_team": "Adanaspor",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": "2002",
+        "date": "23/11/02",
+        "time": null,
+        "home_team": "Diyarbakirspor",
+        "away_team": "Denizlispor",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 203,
+        "season": "2002",
+        "date": "23/11/02",
+        "time": null,
+        "home_team": "Istanbulspor",
+        "away_team": "Malatyaspor",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 203,
+        "season": "2002",
+        "date": "23/11/02",
+        "time": null,
+        "home_team": "Kocaelispor",
+        "away_team": "Fenerbahce",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 203,
+        "season": "2002",
+        "date": "23/11/02",
+        "time": null,
+        "home_team": "Trabzonspor",
+        "away_team": "Ankaragucu",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": "2002",
+        "date": "24/11/02",
+        "time": null,
+        "home_team": "Bursaspor",
+        "away_team": "Elazigspor",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 203,
+        "season": "2002",
+        "date": "24/11/02",
+        "time": null,
+        "home_team": "Genclerbirligi",
+        "away_team": "Galatasaray",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": "2002",
+        "date": "24/11/02",
+        "time": null,
+        "home_team": "Goztep",
+        "away_team": "Gaziantepspor",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": "2002",
+        "date": "24/11/02",
+        "time": null,
+        "home_team": "Samsunspor",
+        "away_team": "Altay",
+        "home_score": "2",
+        "away_score": "4",
+        "result": "A"
+    },
+    {
+        "league_id": 203,
+        "season": "2002",
+        "date": "29/11/02",
+        "time": null,
+        "home_team": "Fenerbahce",
+        "away_team": "Istanbulspor",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": "2002",
+        "date": "30/11/02",
+        "time": null,
+        "home_team": "Altay",
+        "away_team": "Bursaspor",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "30/11/02",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Ankaragucu",
+        "away_team": "Galatasaray",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "30/11/02",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Elazigspor",
+        "away_team": "Kocaelispor",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "30/11/02",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Gaziantepspor",
+        "away_team": "Trabzonspor",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "01/12/02",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Adanaspor",
+        "away_team": "Samsunspor",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "01/12/02",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Besiktas",
+        "away_team": "Genclerbirligi",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "01/12/02",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Denizlispor",
+        "away_team": "Goztep",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "01/12/02",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Malatyaspor",
+        "away_team": "Diyarbakirspor",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "07/12/02",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Diyarbakirspor",
+        "away_team": "Fenerbahce",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "07/12/02",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Istanbulspor",
+        "away_team": "Elazigspor",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "07/12/02",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Kocaelispor",
+        "away_team": "Altay",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "07/12/02",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Trabzonspor",
+        "away_team": "Denizlispor",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "08/12/02",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Ankaragucu",
+        "away_team": "Gaziantepspor",
+        "home_score": "5",
+        "away_score": "3",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "08/12/02",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Bursaspor",
+        "away_team": "Adanaspor",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "08/12/02",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Galatasaray",
+        "away_team": "Besiktas",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "08/12/02",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Goztep",
+        "away_team": "Malatyaspor",
+        "home_score": "0",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "08/12/02",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Samsunspor",
+        "away_team": "Genclerbirligi",
+        "home_score": "2",
+        "away_score": "7",
+        "result": "A"
+    },
+    {
+        "league_id": 203,
+        "season": "2002",
+        "date": "13/12/02",
+        "time": null,
+        "home_team": "Gaziantepspor",
+        "away_team": "Galatasaray",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 203,
+        "season": "2002",
+        "date": "14/12/02",
+        "time": null,
+        "home_team": "Adanaspor",
+        "away_team": "Kocaelispor",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": "2002",
+        "date": "14/12/02",
+        "time": null,
+        "home_team": "Altay",
+        "away_team": "Istanbulspor",
+        "home_score": "4",
+        "away_score": "3",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": "2002",
+        "date": "14/12/02",
+        "time": null,
+        "home_team": "Fenerbahce",
+        "away_team": "Goztep",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 203,
+        "season": "2002",
+        "date": "14/12/02",
+        "time": null,
+        "home_team": "Malatyaspor",
+        "away_team": "Trabzonspor",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 203,
+        "season": "2002",
+        "date": "15/12/02",
+        "time": null,
+        "home_team": "Besiktas",
+        "away_team": "Samsunspor",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": "2002",
+        "date": "15/12/02",
+        "time": null,
+        "home_team": "Elazigspor",
+        "away_team": "Diyarbakirspor",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 203,
+        "season": "2002",
+        "date": "15/12/02",
+        "time": null,
+        "home_team": "Genclerbirligi",
+        "away_team": "Bursaspor",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": "2002",
+        "date": "21/12/02",
+        "time": null,
+        "home_team": "Adanaspor",
+        "away_team": "Istanbulspor",
+        "home_score": "0",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 203,
+        "season": "2002",
+        "date": "21/12/02",
+        "time": null,
+        "home_team": "Besiktas",
+        "away_team": "Bursaspor",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": "2002",
+        "date": "22/12/02",
+        "time": null,
+        "home_team": "Altay",
+        "away_team": "Diyarbakirspor",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 203,
+        "season": "2002",
+        "date": "22/12/02",
+        "time": null,
+        "home_team": "Fenerbahce",
+        "away_team": "Trabzonspor",
+        "home_score": "3",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": "2002",
+        "date": "22/12/02",
+        "time": null,
+        "home_team": "Genclerbirligi",
+        "away_team": "Kocaelispor",
+        "home_score": "5",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": "2002",
+        "date": "22/12/02",
+        "time": null,
+        "home_team": "Samsunspor",
+        "away_team": "Galatasaray",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 203,
+        "season": "2002",
+        "date": "28/01/03",
+        "time": null,
+        "home_team": "Denizlispor",
+        "away_team": "Ankaragucu",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": "2002",
+        "date": "02/02/03",
+        "time": null,
+        "home_team": "Denizlispor",
+        "away_team": "Gaziantepspor",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": "2002",
+        "date": "02/02/03",
+        "time": null,
+        "home_team": "Elazigspor",
+        "away_team": "Goztep",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 203,
+        "season": "2002",
+        "date": "02/02/03",
+        "time": null,
+        "home_team": "Fenerbahce",
+        "away_team": "Besiktas",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 203,
+        "season": "2002",
+        "date": "02/02/03",
+        "time": null,
+        "home_team": "Malatyaspor",
+        "away_team": "Ankaragucu",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": "2002",
+        "date": "08/02/03",
+        "time": null,
+        "home_team": "Bursaspor",
+        "away_team": "Samsunspor",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": "2002",
+        "date": "08/02/03",
+        "time": null,
+        "home_team": "Gaziantepspor",
+        "away_team": "Malatyaspor",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": "2002",
+        "date": "08/02/03",
+        "time": null,
+        "home_team": "Goztep",
+        "away_team": "Altay",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 203,
+        "season": "2002",
+        "date": "08/02/03",
+        "time": null,
+        "home_team": "Kocaelispor",
+        "away_team": "Besiktas",
+        "home_score": "0",
+        "away_score": "5",
+        "result": "A"
+    },
+    {
+        "league_id": 203,
+        "season": "2002",
+        "date": "09/02/03",
+        "time": null,
+        "home_team": "Ankaragucu",
+        "away_team": "Fenerbahce",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 203,
+        "season": "2002",
+        "date": "09/02/03",
+        "time": null,
+        "home_team": "Diyarbakirspor",
+        "away_team": "Adanaspor",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": "2002",
+        "date": "09/02/03",
+        "time": null,
+        "home_team": "Istanbulspor",
+        "away_team": "Genclerbirligi",
+        "home_score": "1",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 203,
+        "season": "2002",
+        "date": "09/02/03",
+        "time": null,
+        "home_team": "Trabzonspor",
+        "away_team": "Elazigspor",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 203,
+        "season": "2002",
+        "date": "15/02/03",
+        "time": null,
+        "home_team": "Fenerbahce",
+        "away_team": "Gaziantepspor",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": "2002",
+        "date": "15/02/03",
+        "time": null,
+        "home_team": "Malatyaspor",
+        "away_team": "Denizlispor",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": "2002",
+        "date": "15/02/03",
+        "time": null,
+        "home_team": "Samsunspor",
+        "away_team": "Kocaelispor",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": "2002",
+        "date": "16/02/03",
+        "time": null,
+        "home_team": "Adanaspor",
+        "away_team": "Goztep",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 203,
+        "season": "2002",
+        "date": "16/02/03",
+        "time": null,
+        "home_team": "Altay",
+        "away_team": "Trabzonspor",
+        "home_score": "1",
+        "away_score": "4",
+        "result": "A"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            ""
+        ],
+        "date": "16/02/03",
+        "time": [
+            ""
+        ],
+        "home_team": "Besiktas",
+        "away_team": "Istanbulspor",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            ""
+        ],
+        "date": "16/02/03",
+        "time": [
+            ""
+        ],
+        "home_team": "Bursaspor",
+        "away_team": "Galatasaray",
+        "home_score": "0",
+        "away_score": "4",
+        "result": "A"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            ""
+        ],
+        "date": "16/02/03",
+        "time": [
+            ""
+        ],
+        "home_team": "Elazigspor",
+        "away_team": "Ankaragucu",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            ""
+        ],
+        "date": "16/02/03",
+        "time": [
+            ""
+        ],
+        "home_team": "Genclerbirligi",
+        "away_team": "Diyarbakirspor",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            ""
+        ],
+        "date": "22/02/03",
+        "time": [
+            ""
+        ],
+        "home_team": "Goztep",
+        "away_team": "Genclerbirligi",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            ""
+        ],
+        "date": "22/02/03",
+        "time": [
+            ""
+        ],
+        "home_team": "Trabzonspor",
+        "away_team": "Adanaspor",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            ""
+        ],
+        "date": "23/02/03",
+        "time": [
+            ""
+        ],
+        "home_team": "Ankaragucu",
+        "away_team": "Altay",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            ""
+        ],
+        "date": "23/02/03",
+        "time": [
+            ""
+        ],
+        "home_team": "Galatasaray",
+        "away_team": "Malatyaspor",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            ""
+        ],
+        "date": "23/02/03",
+        "time": [
+            ""
+        ],
+        "home_team": "Istanbulspor",
+        "away_team": "Samsunspor",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            ""
+        ],
+        "date": "28/02/03",
+        "time": [
+            ""
+        ],
+        "home_team": "Fenerbahce",
+        "away_team": "Malatyaspor",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            ""
+        ],
+        "date": "01/03/03",
+        "time": [
+            ""
+        ],
+        "home_team": "Altay",
+        "away_team": "Gaziantepspor",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            ""
+        ],
+        "date": "01/03/03",
+        "time": [
+            ""
+        ],
+        "home_team": "Bursaspor",
+        "away_team": "Istanbulspor",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            ""
+        ],
+        "date": "01/03/03",
+        "time": [
+            ""
+        ],
+        "home_team": "Genclerbirligi",
+        "away_team": "Trabzonspor",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            ""
+        ],
+        "date": "01/03/03",
+        "time": [
+            ""
+        ],
+        "home_team": "Kocaelispor",
+        "away_team": "Galatasaray",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            ""
+        ],
+        "date": "02/03/03",
+        "time": [
+            ""
+        ],
+        "home_team": "Adanaspor",
+        "away_team": "Ankaragucu",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            ""
+        ],
+        "date": "02/03/03",
+        "time": [
+            ""
+        ],
+        "home_team": "Besiktas",
+        "away_team": "Goztep",
+        "home_score": "7",
+        "away_score": "3",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "02/03/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Elazigspor",
+        "away_team": "Denizlispor",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "02/03/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Samsunspor",
+        "away_team": "Diyarbakirspor",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "07/03/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Gaziantepspor",
+        "away_team": "Adanaspor",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "08/03/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Denizlispor",
+        "away_team": "Altay",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "08/03/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Galatasaray",
+        "away_team": "Fenerbahce",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "08/03/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Goztep",
+        "away_team": "Samsunspor",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "08/03/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Malatyaspor",
+        "away_team": "Elazigspor",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "09/03/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Ankaragucu",
+        "away_team": "Genclerbirligi",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "09/03/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Diyarbakirspor",
+        "away_team": "Bursaspor",
+        "home_score": "4",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "09/03/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Istanbulspor",
+        "away_team": "Kocaelispor",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "09/03/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Trabzonspor",
+        "away_team": "Besiktas",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "14/03/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Genclerbirligi",
+        "away_team": "Gaziantepspor",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "15/03/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Adanaspor",
+        "away_team": "Denizlispor",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "15/03/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Elazigspor",
+        "away_team": "Fenerbahce",
+        "home_score": "3",
+        "away_score": "3",
+        "result": "D"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "15/03/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Istanbulspor",
+        "away_team": "Galatasaray",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "15/03/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Samsunspor",
+        "away_team": "Trabzonspor",
+        "home_score": "1",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "16/03/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Altay",
+        "away_team": "Malatyaspor",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "16/03/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Besiktas",
+        "away_team": "Ankaragucu",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "16/03/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Bursaspor",
+        "away_team": "Goztep",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "16/03/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Kocaelispor",
+        "away_team": "Diyarbakirspor",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "19/03/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Galatasaray",
+        "away_team": "Denizlispor",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "19/03/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Gaziantepspor",
+        "away_team": "Elazigspor",
+        "home_score": "4",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "19/03/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Kocaelispor",
+        "away_team": "Bursaspor",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "22/03/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Ankaragucu",
+        "away_team": "Samsunspor",
+        "home_score": "3",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "22/03/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Diyarbakirspor",
+        "away_team": "Istanbulspor",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "22/03/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Fenerbahce",
+        "away_team": "Altay",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "22/03/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Malatyaspor",
+        "away_team": "Adanaspor",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "23/03/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Denizlispor",
+        "away_team": "Genclerbirligi",
+        "home_score": "1",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "23/03/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Galatasaray",
+        "away_team": "Elazigspor",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "23/03/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Gaziantepspor",
+        "away_team": "Besiktas",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "23/03/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Goztep",
+        "away_team": "Kocaelispor",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "23/03/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Trabzonspor",
+        "away_team": "Bursaspor",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "05/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Besiktas",
+        "away_team": "Denizlispor",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "05/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Genclerbirligi",
+        "away_team": "Malatyaspor",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "05/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Kocaelispor",
+        "away_team": "Trabzonspor",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "05/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Samsunspor",
+        "away_team": "Gaziantepspor",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "06/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Adanaspor",
+        "away_team": "Fenerbahce",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "06/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Altay",
+        "away_team": "Elazigspor",
+        "home_score": "5",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "06/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Bursaspor",
+        "away_team": "Ankaragucu",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "06/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Diyarbakirspor",
+        "away_team": "Galatasaray",
+        "home_score": "1",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "06/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Istanbulspor",
+        "away_team": "Goztep",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "11/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Galatasaray",
+        "away_team": "Altay",
+        "home_score": "5",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "12/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Denizlispor",
+        "away_team": "Samsunspor",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "12/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Goztep",
+        "away_team": "Diyarbakirspor",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "12/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Malatyaspor",
+        "away_team": "Besiktas",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "13/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Ankaragucu",
+        "away_team": "Kocaelispor",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "13/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Elazigspor",
+        "away_team": "Adanaspor",
+        "home_score": "4",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "13/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Fenerbahce",
+        "away_team": "Genclerbirligi",
+        "home_score": "3",
+        "away_score": "3",
+        "result": "D"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "13/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Gaziantepspor",
+        "away_team": "Bursaspor",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "13/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Trabzonspor",
+        "away_team": "Istanbulspor",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "16/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Denizlispor",
+        "away_team": "Fenerbahce",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "16/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Diyarbakirspor",
+        "away_team": "Besiktas",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "18/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Goztep",
+        "away_team": "Galatasaray",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "19/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Diyarbakirspor",
+        "away_team": "Trabzonspor",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "19/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Genclerbirligi",
+        "away_team": "Elazigspor",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "19/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Istanbulspor",
+        "away_team": "Ankaragucu",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "19/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Samsunspor",
+        "away_team": "Malatyaspor",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "20/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Adanaspor",
+        "away_team": "Altay",
+        "home_score": "5",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "20/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Besiktas",
+        "away_team": "Fenerbahce",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "20/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Bursaspor",
+        "away_team": "Denizlispor",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "20/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Kocaelispor",
+        "away_team": "Gaziantepspor",
+        "home_score": "0",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "26/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Ankaragucu",
+        "away_team": "Diyarbakirspor",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "26/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Denizlispor",
+        "away_team": "Kocaelispor",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "26/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Elazigspor",
+        "away_team": "Besiktas",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "26/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Fenerbahce",
+        "away_team": "Samsunspor",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "27/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Altay",
+        "away_team": "Genclerbirligi",
+        "home_score": "3",
+        "away_score": "3",
+        "result": "D"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "27/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Galatasaray",
+        "away_team": "Adanaspor",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "27/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Gaziantepspor",
+        "away_team": "Istanbulspor",
+        "home_score": "4",
+        "away_score": "3",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "27/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Malatyaspor",
+        "away_team": "Bursaspor",
+        "home_score": "4",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "27/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Trabzonspor",
+        "away_team": "Goztep",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "03/05/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Besiktas",
+        "away_team": "Altay",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "03/05/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Bursaspor",
+        "away_team": "Fenerbahce",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "03/05/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Genclerbirligi",
+        "away_team": "Adanaspor",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "03/05/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Istanbulspor",
+        "away_team": "Denizlispor",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "03/05/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Samsunspor",
+        "away_team": "Elazigspor",
+        "home_score": "4",
+        "away_score": "3",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "04/05/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Diyarbakirspor",
+        "away_team": "Gaziantepspor",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "04/05/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Goztep",
+        "away_team": "Ankaragucu",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "04/05/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Kocaelispor",
+        "away_team": "Malatyaspor",
+        "home_score": "2",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "04/05/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Trabzonspor",
+        "away_team": "Galatasaray",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "09/05/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Fenerbahce",
+        "away_team": "Kocaelispor",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "10/05/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Adanaspor",
+        "away_team": "Besiktas",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "11/05/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Altay",
+        "away_team": "Samsunspor",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "11/05/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Ankaragucu",
+        "away_team": "Trabzonspor",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "11/05/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Denizlispor",
+        "away_team": "Diyarbakirspor",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "11/05/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Elazigspor",
+        "away_team": "Bursaspor",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "11/05/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Galatasaray",
+        "away_team": "Genclerbirligi",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "11/05/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Gaziantepspor",
+        "away_team": "Goztep",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "11/05/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Malatyaspor",
+        "away_team": "Istanbulspor",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "16/05/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Trabzonspor",
+        "away_team": "Gaziantepspor",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "17/05/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Bursaspor",
+        "away_team": "Altay",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "17/05/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Diyarbakirspor",
+        "away_team": "Malatyaspor",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "17/05/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Galatasaray",
+        "away_team": "Ankaragucu",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "17/05/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Genclerbirligi",
+        "away_team": "Besiktas",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "17/05/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Goztep",
+        "away_team": "Denizlispor",
+        "home_score": "2",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "17/05/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Istanbulspor",
+        "away_team": "Fenerbahce",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "17/05/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Kocaelispor",
+        "away_team": "Elazigspor",
+        "home_score": "1",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "17/05/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Samsunspor",
+        "away_team": "Adanaspor",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "25/05/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Adanaspor",
+        "away_team": "Bursaspor",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "25/05/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Altay",
+        "away_team": "Kocaelispor",
+        "home_score": "5",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "25/05/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Besiktas",
+        "away_team": "Galatasaray",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "25/05/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Denizlispor",
+        "away_team": "Trabzonspor",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "25/05/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Elazigspor",
+        "away_team": "Istanbulspor",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "25/05/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Fenerbahce",
+        "away_team": "Diyarbakirspor",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "25/05/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Gaziantepspor",
+        "away_team": "Ankaragucu",
+        "home_score": "4",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "25/05/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Genclerbirligi",
+        "away_team": "Samsunspor",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "25/05/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Malatyaspor",
+        "away_team": "Goztep",
+        "home_score": "4",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "30/05/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Galatasaray",
+        "away_team": "Gaziantepspor",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "31/05/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Ankaragucu",
+        "away_team": "Denizlispor",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "31/05/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Bursaspor",
+        "away_team": "Genclerbirligi",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "31/05/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Diyarbakirspor",
+        "away_team": "Elazigspor",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "31/05/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Goztep",
+        "away_team": "Fenerbahce",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 203,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "31/05/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Istanbulspor",
+        "away_team": "Altay",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 203,
+        "season": "2002",
+        "date": "31/05/03",
+        "time": null,
+        "home_team": "Kocaelispor",
+        "away_team": "Adanaspor",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 203,
+        "season": "2002",
+        "date": "31/05/03",
+        "time": null,
+        "home_team": "Samsunspor",
+        "away_team": "Besiktas",
+        "home_score": "3",
+        "away_score": "4",
+        "result": "A"
+    },
+    {
+        "league_id": 203,
+        "season": "2002",
+        "date": "31/05/03",
+        "time": null,
+        "home_team": "Trabzonspor",
+        "away_team": "Malatyaspor",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    }
+]

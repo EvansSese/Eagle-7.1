@@ -1,0 +1,4722 @@
+[
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "14/08/04",
+        "time": null,
+        "home_team": "Aston Villa",
+        "away_team": "Southampton",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "14/08/04",
+        "time": null,
+        "home_team": "Blackburn",
+        "away_team": "West Brom",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "14/08/04",
+        "time": null,
+        "home_team": "Bolton",
+        "away_team": "Charlton",
+        "home_score": "4",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "14/08/04",
+        "time": null,
+        "home_team": "Man City",
+        "away_team": "Fulham",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "14/08/04",
+        "time": null,
+        "home_team": "Middlesbrough",
+        "away_team": "Newcastle",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "14/08/04",
+        "time": null,
+        "home_team": "Norwich",
+        "away_team": "Crystal Palace",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "14/08/04",
+        "time": null,
+        "home_team": "Portsmouth",
+        "away_team": "Birmingham",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "14/08/04",
+        "time": null,
+        "home_team": "Tottenham",
+        "away_team": "Liverpool",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "15/08/04",
+        "time": null,
+        "home_team": "Chelsea",
+        "away_team": "Man United",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "15/08/04",
+        "time": null,
+        "home_team": "Everton",
+        "away_team": "Arsenal",
+        "home_score": "1",
+        "away_score": "4",
+        "result": "A"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "21/08/04",
+        "time": null,
+        "home_team": "Birmingham",
+        "away_team": "Chelsea",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "21/08/04",
+        "time": null,
+        "home_team": "Charlton",
+        "away_team": "Portsmouth",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "21/08/04",
+        "time": null,
+        "home_team": "Crystal Palace",
+        "away_team": "Everton",
+        "home_score": "1",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "21/08/04",
+        "time": null,
+        "home_team": "Fulham",
+        "away_team": "Bolton",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "21/08/04",
+        "time": null,
+        "home_team": "Liverpool",
+        "away_team": "Man City",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "21/08/04",
+        "time": null,
+        "home_team": "Man United",
+        "away_team": "Norwich",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "21/08/04",
+        "time": null,
+        "home_team": "Newcastle",
+        "away_team": "Tottenham",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "21/08/04",
+        "time": null,
+        "home_team": "Southampton",
+        "away_team": "Blackburn",
+        "home_score": "3",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "22/08/04",
+        "time": null,
+        "home_team": "Arsenal",
+        "away_team": "Middlesbrough",
+        "home_score": "5",
+        "away_score": "3",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "22/08/04",
+        "time": null,
+        "home_team": "West Brom",
+        "away_team": "Aston Villa",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "24/08/04",
+        "time": null,
+        "home_team": "Birmingham",
+        "away_team": "Man City",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "24/08/04",
+        "time": null,
+        "home_team": "Crystal Palace",
+        "away_team": "Chelsea",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "25/08/04",
+        "time": null,
+        "home_team": "Arsenal",
+        "away_team": "Blackburn",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "25/08/04",
+        "time": null,
+        "home_team": "Charlton",
+        "away_team": "Aston Villa",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "25/08/04",
+        "time": null,
+        "home_team": "Fulham",
+        "away_team": "Middlesbrough",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "25/08/04",
+        "time": null,
+        "home_team": "Newcastle",
+        "away_team": "Norwich",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "25/08/04",
+        "time": null,
+        "home_team": "Southampton",
+        "away_team": "Bolton",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "25/08/04",
+        "time": null,
+        "home_team": "West Brom",
+        "away_team": "Tottenham",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "28/08/04",
+        "time": null,
+        "home_team": "Aston Villa",
+        "away_team": "Newcastle",
+        "home_score": "4",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "28/08/04",
+        "time": null,
+        "home_team": "Blackburn",
+        "away_team": "Man United",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "28/08/04",
+        "time": null,
+        "home_team": "Chelsea",
+        "away_team": "Southampton",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "28/08/04",
+        "time": null,
+        "home_team": "Everton",
+        "away_team": "West Brom",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "28/08/04",
+        "time": null,
+        "home_team": "Man City",
+        "away_team": "Charlton",
+        "home_score": "4",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "28/08/04",
+        "time": null,
+        "home_team": "Middlesbrough",
+        "away_team": "Crystal Palace",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "28/08/04",
+        "time": null,
+        "home_team": "Norwich",
+        "away_team": "Arsenal",
+        "home_score": "1",
+        "away_score": "4",
+        "result": "A"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "28/08/04",
+        "time": null,
+        "home_team": "Tottenham",
+        "away_team": "Birmingham",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "29/08/04",
+        "time": null,
+        "home_team": "Bolton",
+        "away_team": "Liverpool",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "30/08/04",
+        "time": null,
+        "home_team": "Man United",
+        "away_team": "Everton",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "30/08/04",
+        "time": null,
+        "home_team": "Portsmouth",
+        "away_team": "Fulham",
+        "home_score": "4",
+        "away_score": "3",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "11/09/04",
+        "time": null,
+        "home_team": "Aston Villa",
+        "away_team": "Chelsea",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "11/09/04",
+        "time": null,
+        "home_team": "Bolton",
+        "away_team": "Man United",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "11/09/04",
+        "time": null,
+        "home_team": "Fulham",
+        "away_team": "Arsenal",
+        "home_score": "0",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "11/09/04",
+        "time": null,
+        "home_team": "Liverpool",
+        "away_team": "West Brom",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "11/09/04",
+        "time": null,
+        "home_team": "Man City",
+        "away_team": "Everton",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "11/09/04",
+        "time": null,
+        "home_team": "Middlesbrough",
+        "away_team": "Birmingham",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "11/09/04",
+        "time": null,
+        "home_team": "Newcastle",
+        "away_team": "Blackburn",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "11/09/04",
+        "time": null,
+        "home_team": "Portsmouth",
+        "away_team": "Crystal Palace",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "12/09/04",
+        "time": null,
+        "home_team": "Tottenham",
+        "away_team": "Norwich",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "13/09/04",
+        "time": null,
+        "home_team": "Charlton",
+        "away_team": "Southampton",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "18/09/04",
+        "time": null,
+        "home_team": "Arsenal",
+        "away_team": "Bolton",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "18/09/04",
+        "time": null,
+        "home_team": "Birmingham",
+        "away_team": "Charlton",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "18/09/04",
+        "time": null,
+        "home_team": "Blackburn",
+        "away_team": "Portsmouth",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "18/09/04",
+        "time": null,
+        "home_team": "Crystal Palace",
+        "away_team": "Man City",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "18/09/04",
+        "time": null,
+        "home_team": "Norwich",
+        "away_team": "Aston Villa",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "18/09/04",
+        "time": null,
+        "home_team": "West Brom",
+        "away_team": "Fulham",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "19/09/04",
+        "time": null,
+        "home_team": "Chelsea",
+        "away_team": "Tottenham",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "19/09/04",
+        "time": null,
+        "home_team": "Everton",
+        "away_team": "Middlesbrough",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "19/09/04",
+        "time": null,
+        "home_team": "Southampton",
+        "away_team": "Newcastle",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "20/09/04",
+        "time": null,
+        "home_team": "Man United",
+        "away_team": "Liverpool",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "25/09/04",
+        "time": null,
+        "home_team": "Aston Villa",
+        "away_team": "Crystal Palace",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "25/09/04",
+        "time": null,
+        "home_team": "Bolton",
+        "away_team": "Birmingham",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "25/09/04",
+        "time": null,
+        "home_team": "Fulham",
+        "away_team": "Southampton",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "25/09/04",
+        "time": null,
+        "home_team": "Liverpool",
+        "away_team": "Norwich",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "25/09/04",
+        "time": null,
+        "home_team": "Man City",
+        "away_team": "Arsenal",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "25/09/04",
+        "time": null,
+        "home_team": "Middlesbrough",
+        "away_team": "Chelsea",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "25/09/04",
+        "time": null,
+        "home_team": "Newcastle",
+        "away_team": "West Brom",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "25/09/04",
+        "time": null,
+        "home_team": "Tottenham",
+        "away_team": "Man United",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "26/09/04",
+        "time": null,
+        "home_team": "Portsmouth",
+        "away_team": "Everton",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "27/09/04",
+        "time": null,
+        "home_team": "Charlton",
+        "away_team": "Blackburn",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "02/10/04",
+        "time": null,
+        "home_team": "Arsenal",
+        "away_team": "Charlton",
+        "home_score": "4",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "02/10/04",
+        "time": null,
+        "home_team": "Blackburn",
+        "away_team": "Aston Villa",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "02/10/04",
+        "time": null,
+        "home_team": "Everton",
+        "away_team": "Tottenham",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "02/10/04",
+        "time": null,
+        "home_team": "Norwich",
+        "away_team": "Portsmouth",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "02/10/04",
+        "time": null,
+        "home_team": "Southampton",
+        "away_team": "Man City",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "02/10/04",
+        "time": null,
+        "home_team": "West Brom",
+        "away_team": "Bolton",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "03/10/04",
+        "time": null,
+        "home_team": "Birmingham",
+        "away_team": "Newcastle",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "03/10/04",
+        "time": null,
+        "home_team": "Chelsea",
+        "away_team": "Liverpool",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "03/10/04",
+        "time": null,
+        "home_team": "Man United",
+        "away_team": "Middlesbrough",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "04/10/04",
+        "time": null,
+        "home_team": "Crystal Palace",
+        "away_team": "Fulham",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "16/10/04",
+        "time": null,
+        "home_team": "Arsenal",
+        "away_team": "Aston Villa",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "16/10/04",
+        "time": null,
+        "home_team": "Birmingham",
+        "away_team": "Man United",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "16/10/04",
+        "time": null,
+        "home_team": "Blackburn",
+        "away_team": "Middlesbrough",
+        "home_score": "0",
+        "away_score": "4",
+        "result": "A"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "16/10/04",
+        "time": null,
+        "home_team": "Bolton",
+        "away_team": "Crystal Palace",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "16/10/04",
+        "time": null,
+        "home_team": "Everton",
+        "away_team": "Southampton",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "16/10/04",
+        "time": null,
+        "home_team": "Fulham",
+        "away_team": "Liverpool",
+        "home_score": "2",
+        "away_score": "4",
+        "result": "A"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "16/10/04",
+        "time": null,
+        "home_team": "Man City",
+        "away_team": "Chelsea",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "16/10/04",
+        "time": null,
+        "home_team": "West Brom",
+        "away_team": "Norwich",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "17/10/04",
+        "time": null,
+        "home_team": "Charlton",
+        "away_team": "Newcastle",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "18/10/04",
+        "time": null,
+        "home_team": "Portsmouth",
+        "away_team": "Tottenham",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "23/10/04",
+        "time": null,
+        "home_team": "Aston Villa",
+        "away_team": "Fulham",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "23/10/04",
+        "time": null,
+        "home_team": "Chelsea",
+        "away_team": "Blackburn",
+        "home_score": "4",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "23/10/04",
+        "time": null,
+        "home_team": "Crystal Palace",
+        "away_team": "West Brom",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "23/10/04",
+        "time": null,
+        "home_team": "Liverpool",
+        "away_team": "Charlton",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "23/10/04",
+        "time": null,
+        "home_team": "Norwich",
+        "away_team": "Everton",
+        "home_score": "2",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "23/10/04",
+        "time": null,
+        "home_team": "Tottenham",
+        "away_team": "Bolton",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "24/10/04",
+        "time": null,
+        "home_team": "Man United",
+        "away_team": "Arsenal",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "24/10/04",
+        "time": null,
+        "home_team": "Middlesbrough",
+        "away_team": "Portsmouth",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "24/10/04",
+        "time": null,
+        "home_team": "Newcastle",
+        "away_team": "Man City",
+        "home_score": "4",
+        "away_score": "3",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "24/10/04",
+        "time": null,
+        "home_team": "Southampton",
+        "away_team": "Birmingham",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "30/10/04",
+        "time": null,
+        "home_team": "Arsenal",
+        "away_team": "Southampton",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "30/10/04",
+        "time": null,
+        "home_team": "Birmingham",
+        "away_team": "Crystal Palace",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "30/10/04",
+        "time": null,
+        "home_team": "Blackburn",
+        "away_team": "Liverpool",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "30/10/04",
+        "time": null,
+        "home_team": "Charlton",
+        "away_team": "Middlesbrough",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "30/10/04",
+        "time": null,
+        "home_team": "Everton",
+        "away_team": "Aston Villa",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "30/10/04",
+        "time": null,
+        "home_team": "Fulham",
+        "away_team": "Tottenham",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "30/10/04",
+        "time": null,
+        "home_team": "Portsmouth",
+        "away_team": "Man United",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "30/10/04",
+        "time": null,
+        "home_team": "West Brom",
+        "away_team": "Chelsea",
+        "home_score": "1",
+        "away_score": "4",
+        "result": "A"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "31/10/04",
+        "time": null,
+        "home_team": "Bolton",
+        "away_team": "Newcastle",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "01/11/04",
+        "time": null,
+        "home_team": "Man City",
+        "away_team": "Norwich",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "06/11/04",
+        "time": null,
+        "home_team": "Aston Villa",
+        "away_team": "Portsmouth",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "06/11/04",
+        "time": null,
+        "home_team": "Chelsea",
+        "away_team": "Everton",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "06/11/04",
+        "time": null,
+        "home_team": "Crystal Palace",
+        "away_team": "Arsenal",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "06/11/04",
+        "time": null,
+        "home_team": "Liverpool",
+        "away_team": "Birmingham",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "06/11/04",
+        "time": null,
+        "home_team": "Norwich",
+        "away_team": "Blackburn",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "06/11/04",
+        "time": null,
+        "home_team": "Southampton",
+        "away_team": "West Brom",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "06/11/04",
+        "time": null,
+        "home_team": "Tottenham",
+        "away_team": "Charlton",
+        "home_score": "2",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "07/11/04",
+        "time": null,
+        "home_team": "Man United",
+        "away_team": "Man City",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "07/11/04",
+        "time": null,
+        "home_team": "Middlesbrough",
+        "away_team": "Bolton",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "07/11/04",
+        "time": null,
+        "home_team": "Newcastle",
+        "away_team": "Fulham",
+        "home_score": "1",
+        "away_score": "4",
+        "result": "A"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "13/11/04",
+        "time": null,
+        "home_team": "Birmingham",
+        "away_team": "Everton",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "13/11/04",
+        "time": null,
+        "home_team": "Bolton",
+        "away_team": "Aston Villa",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "13/11/04",
+        "time": null,
+        "home_team": "Charlton",
+        "away_team": "Norwich",
+        "home_score": "4",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "13/11/04",
+        "time": null,
+        "home_team": "Fulham",
+        "away_team": "Chelsea",
+        "home_score": "1",
+        "away_score": "4",
+        "result": "A"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "13/11/04",
+        "time": null,
+        "home_team": "Liverpool",
+        "away_team": "Crystal Palace",
+        "home_score": "3",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "13/11/04",
+        "time": null,
+        "home_team": "Man City",
+        "away_team": "Blackburn",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "13/11/04",
+        "time": null,
+        "home_team": "Southampton",
+        "away_team": "Portsmouth",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "13/11/04",
+        "time": null,
+        "home_team": "Tottenham",
+        "away_team": "Arsenal",
+        "home_score": "4",
+        "away_score": "5",
+        "result": "A"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "14/11/04",
+        "time": null,
+        "home_team": "Newcastle",
+        "away_team": "Man United",
+        "home_score": "1",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "14/11/04",
+        "time": null,
+        "home_team": "West Brom",
+        "away_team": "Middlesbrough",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "20/11/04",
+        "time": null,
+        "home_team": "Arsenal",
+        "away_team": "West Brom",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "20/11/04",
+        "time": null,
+        "home_team": "Chelsea",
+        "away_team": "Bolton",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "20/11/04",
+        "time": null,
+        "home_team": "Crystal Palace",
+        "away_team": "Newcastle",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "20/11/04",
+        "time": null,
+        "home_team": "Everton",
+        "away_team": "Fulham",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "20/11/04",
+        "time": null,
+        "home_team": "Man United",
+        "away_team": "Charlton",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "20/11/04",
+        "time": null,
+        "home_team": "Middlesbrough",
+        "away_team": "Liverpool",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "20/11/04",
+        "time": null,
+        "home_team": "Norwich",
+        "away_team": "Southampton",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "20/11/04",
+        "time": null,
+        "home_team": "Portsmouth",
+        "away_team": "Man City",
+        "home_score": "1",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "21/11/04",
+        "time": null,
+        "home_team": "Blackburn",
+        "away_team": "Birmingham",
+        "home_score": "3",
+        "away_score": "3",
+        "result": "D"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "22/11/04",
+        "time": null,
+        "home_team": "Aston Villa",
+        "away_team": "Tottenham",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "27/11/04",
+        "time": null,
+        "home_team": "Birmingham",
+        "away_team": "Norwich",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "27/11/04",
+        "time": null,
+        "home_team": "Bolton",
+        "away_team": "Portsmouth",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "27/11/04",
+        "time": null,
+        "home_team": "Charlton",
+        "away_team": "Chelsea",
+        "home_score": "0",
+        "away_score": "4",
+        "result": "A"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "27/11/04",
+        "time": null,
+        "home_team": "Fulham",
+        "away_team": "Blackburn",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "27/11/04",
+        "time": null,
+        "home_team": "Man City",
+        "away_team": "Aston Villa",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "27/11/04",
+        "time": null,
+        "home_team": "Southampton",
+        "away_team": "Crystal Palace",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "27/11/04",
+        "time": null,
+        "home_team": "West Brom",
+        "away_team": "Man United",
+        "home_score": "0",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "28/11/04",
+        "time": null,
+        "home_team": "Liverpool",
+        "away_team": "Arsenal",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "28/11/04",
+        "time": null,
+        "home_team": "Newcastle",
+        "away_team": "Everton",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "28/11/04",
+        "time": null,
+        "home_team": "Tottenham",
+        "away_team": "Middlesbrough",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "04/12/04",
+        "time": null,
+        "home_team": "Arsenal",
+        "away_team": "Birmingham",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "04/12/04",
+        "time": null,
+        "home_team": "Aston Villa",
+        "away_team": "Liverpool",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "04/12/04",
+        "time": null,
+        "home_team": "Blackburn",
+        "away_team": "Tottenham",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "04/12/04",
+        "time": null,
+        "home_team": "Chelsea",
+        "away_team": "Newcastle",
+        "home_score": "4",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "04/12/04",
+        "time": null,
+        "home_team": "Everton",
+        "away_team": "Bolton",
+        "home_score": "3",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "04/12/04",
+        "time": null,
+        "home_team": "Man United",
+        "away_team": "Southampton",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "04/12/04",
+        "time": null,
+        "home_team": "Norwich",
+        "away_team": "Fulham",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "04/12/04",
+        "time": null,
+        "home_team": "Portsmouth",
+        "away_team": "West Brom",
+        "home_score": "3",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "05/12/04",
+        "time": null,
+        "home_team": "Crystal Palace",
+        "away_team": "Charlton",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "06/12/04",
+        "time": null,
+        "home_team": "Middlesbrough",
+        "away_team": "Man City",
+        "home_score": "3",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "11/12/04",
+        "time": null,
+        "home_team": "Crystal Palace",
+        "away_team": "Blackburn",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "11/12/04",
+        "time": null,
+        "home_team": "Everton",
+        "away_team": "Liverpool",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "11/12/04",
+        "time": null,
+        "home_team": "Man City",
+        "away_team": "Tottenham",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "11/12/04",
+        "time": null,
+        "home_team": "Newcastle",
+        "away_team": "Portsmouth",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "11/12/04",
+        "time": null,
+        "home_team": "Norwich",
+        "away_team": "Bolton",
+        "home_score": "3",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "11/12/04",
+        "time": null,
+        "home_team": "Southampton",
+        "away_team": "Middlesbrough",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "11/12/04",
+        "time": null,
+        "home_team": "West Brom",
+        "away_team": "Charlton",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "12/12/04",
+        "time": null,
+        "home_team": "Arsenal",
+        "away_team": "Chelsea",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "12/12/04",
+        "time": null,
+        "home_team": "Aston Villa",
+        "away_team": "Birmingham",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "13/12/04",
+        "time": null,
+        "home_team": "Fulham",
+        "away_team": "Man United",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "14/12/04",
+        "time": null,
+        "home_team": "Liverpool",
+        "away_team": "Portsmouth",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "18/12/04",
+        "time": null,
+        "home_team": "Birmingham",
+        "away_team": "West Brom",
+        "home_score": "4",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "18/12/04",
+        "time": null,
+        "home_team": "Blackburn",
+        "away_team": "Everton",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "18/12/04",
+        "time": null,
+        "home_team": "Bolton",
+        "away_team": "Man City",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "18/12/04",
+        "time": null,
+        "home_team": "Chelsea",
+        "away_team": "Norwich",
+        "home_score": "4",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "18/12/04",
+        "time": null,
+        "home_team": "Man United",
+        "away_team": "Crystal Palace",
+        "home_score": "5",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "18/12/04",
+        "time": null,
+        "home_team": "Middlesbrough",
+        "away_team": "Aston Villa",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "18/12/04",
+        "time": null,
+        "home_team": "Tottenham",
+        "away_team": "Southampton",
+        "home_score": "5",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "19/12/04",
+        "time": null,
+        "home_team": "Liverpool",
+        "away_team": "Newcastle",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "19/12/04",
+        "time": null,
+        "home_team": "Portsmouth",
+        "away_team": "Arsenal",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "20/12/04",
+        "time": null,
+        "home_team": "Charlton",
+        "away_team": "Fulham",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "26/12/04",
+        "time": null,
+        "home_team": "Arsenal",
+        "away_team": "Fulham",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "26/12/04",
+        "time": null,
+        "home_team": "Birmingham",
+        "away_team": "Middlesbrough",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "26/12/04",
+        "time": null,
+        "home_team": "Blackburn",
+        "away_team": "Newcastle",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "26/12/04",
+        "time": null,
+        "home_team": "Chelsea",
+        "away_team": "Aston Villa",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "26/12/04",
+        "time": null,
+        "home_team": "Crystal Palace",
+        "away_team": "Portsmouth",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "26/12/04",
+        "time": null,
+        "home_team": "Everton",
+        "away_team": "Man City",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "26/12/04",
+        "time": null,
+        "home_team": "Man United",
+        "away_team": "Bolton",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "26/12/04",
+        "time": null,
+        "home_team": "Norwich",
+        "away_team": "Tottenham",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "26/12/04",
+        "time": null,
+        "home_team": "Southampton",
+        "away_team": "Charlton",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "26/12/04",
+        "time": null,
+        "home_team": "West Brom",
+        "away_team": "Liverpool",
+        "home_score": "0",
+        "away_score": "5",
+        "result": "A"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "28/12/04",
+        "time": null,
+        "home_team": "Aston Villa",
+        "away_team": "Man United",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "28/12/04",
+        "time": null,
+        "home_team": "Bolton",
+        "away_team": "Blackburn",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "28/12/04",
+        "time": null,
+        "home_team": "Charlton",
+        "away_team": "Everton",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "28/12/04",
+        "time": null,
+        "home_team": "Fulham",
+        "away_team": "Birmingham",
+        "home_score": "2",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "28/12/04",
+        "time": null,
+        "home_team": "Liverpool",
+        "away_team": "Southampton",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "28/12/04",
+        "time": null,
+        "home_team": "Man City",
+        "away_team": "West Brom",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "28/12/04",
+        "time": null,
+        "home_team": "Middlesbrough",
+        "away_team": "Norwich",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "28/12/04",
+        "time": null,
+        "home_team": "Portsmouth",
+        "away_team": "Chelsea",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "28/12/04",
+        "time": null,
+        "home_team": "Tottenham",
+        "away_team": "Crystal Palace",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "29/12/04",
+        "time": null,
+        "home_team": "Newcastle",
+        "away_team": "Arsenal",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "01/01/05",
+        "time": null,
+        "home_team": "Aston Villa",
+        "away_team": "Blackburn",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "01/01/05",
+        "time": null,
+        "home_team": "Bolton",
+        "away_team": "West Brom",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "01/01/05",
+        "time": null,
+        "home_team": "Charlton",
+        "away_team": "Arsenal",
+        "home_score": "1",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "01/01/05",
+        "time": null,
+        "home_team": "Fulham",
+        "away_team": "Crystal Palace",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "01/01/05",
+        "time": null,
+        "home_team": "Liverpool",
+        "away_team": "Chelsea",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "01/01/05",
+        "time": null,
+        "home_team": "Man City",
+        "away_team": "Southampton",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "01/01/05",
+        "time": null,
+        "home_team": "Middlesbrough",
+        "away_team": "Man United",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "01/01/05",
+        "time": null,
+        "home_team": "Newcastle",
+        "away_team": "Birmingham",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "01/01/05",
+        "time": null,
+        "home_team": "Portsmouth",
+        "away_team": "Norwich",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "01/01/05",
+        "time": null,
+        "home_team": "Tottenham",
+        "away_team": "Everton",
+        "home_score": "5",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "03/01/05",
+        "time": null,
+        "home_team": "Blackburn",
+        "away_team": "Charlton",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "03/01/05",
+        "time": null,
+        "home_team": "Crystal Palace",
+        "away_team": "Aston Villa",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "03/01/05",
+        "time": null,
+        "home_team": "Norwich",
+        "away_team": "Liverpool",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "03/01/05",
+        "time": null,
+        "home_team": "West Brom",
+        "away_team": "Newcastle",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "04/01/05",
+        "time": null,
+        "home_team": "Arsenal",
+        "away_team": "Man City",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "04/01/05",
+        "time": null,
+        "home_team": "Birmingham",
+        "away_team": "Bolton",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "04/01/05",
+        "time": null,
+        "home_team": "Chelsea",
+        "away_team": "Middlesbrough",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "04/01/05",
+        "time": null,
+        "home_team": "Everton",
+        "away_team": "Portsmouth",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "04/01/05",
+        "time": null,
+        "home_team": "Man United",
+        "away_team": "Tottenham",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "05/01/05",
+        "time": null,
+        "home_team": "Southampton",
+        "away_team": "Fulham",
+        "home_score": "3",
+        "away_score": "3",
+        "result": "D"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "15/01/05",
+        "time": null,
+        "home_team": "Aston Villa",
+        "away_team": "Norwich",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "15/01/05",
+        "time": null,
+        "home_team": "Bolton",
+        "away_team": "Arsenal",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "15/01/05",
+        "time": null,
+        "home_team": "Charlton",
+        "away_team": "Birmingham",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "15/01/05",
+        "time": null,
+        "home_team": "Liverpool",
+        "away_team": "Man United",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "15/01/05",
+        "time": null,
+        "home_team": "Man City",
+        "away_team": "Crystal Palace",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "15/01/05",
+        "time": null,
+        "home_team": "Newcastle",
+        "away_team": "Southampton",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "15/01/05",
+        "time": null,
+        "home_team": "Portsmouth",
+        "away_team": "Blackburn",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "15/01/05",
+        "time": null,
+        "home_team": "Tottenham",
+        "away_team": "Chelsea",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "16/01/05",
+        "time": null,
+        "home_team": "Fulham",
+        "away_team": "West Brom",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "16/01/05",
+        "time": null,
+        "home_team": "Middlesbrough",
+        "away_team": "Everton",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "22/01/05",
+        "time": null,
+        "home_team": "Birmingham",
+        "away_team": "Fulham",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "22/01/05",
+        "time": null,
+        "home_team": "Chelsea",
+        "away_team": "Portsmouth",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "22/01/05",
+        "time": null,
+        "home_team": "Crystal Palace",
+        "away_team": "Tottenham",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "22/01/05",
+        "time": null,
+        "home_team": "Everton",
+        "away_team": "Charlton",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "22/01/05",
+        "time": null,
+        "home_team": "Man United",
+        "away_team": "Aston Villa",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "22/01/05",
+        "time": null,
+        "home_team": "Norwich",
+        "away_team": "Middlesbrough",
+        "home_score": "4",
+        "away_score": "4",
+        "result": "D"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "22/01/05",
+        "time": null,
+        "home_team": "Southampton",
+        "away_team": "Liverpool",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "22/01/05",
+        "time": null,
+        "home_team": "West Brom",
+        "away_team": "Man City",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "23/01/05",
+        "time": null,
+        "home_team": "Arsenal",
+        "away_team": "Newcastle",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "24/01/05",
+        "time": null,
+        "home_team": "Blackburn",
+        "away_team": "Bolton",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "01/02/05",
+        "time": null,
+        "home_team": "Arsenal",
+        "away_team": "Man United",
+        "home_score": "2",
+        "away_score": "4",
+        "result": "A"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "01/02/05",
+        "time": null,
+        "home_team": "Bolton",
+        "away_team": "Tottenham",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "01/02/05",
+        "time": null,
+        "home_team": "Charlton",
+        "away_team": "Liverpool",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "01/02/05",
+        "time": null,
+        "home_team": "Portsmouth",
+        "away_team": "Middlesbrough",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "01/02/05",
+        "time": null,
+        "home_team": "West Brom",
+        "away_team": "Crystal Palace",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "02/02/05",
+        "time": null,
+        "home_team": "Birmingham",
+        "away_team": "Southampton",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "02/02/05",
+        "time": null,
+        "home_team": "Blackburn",
+        "away_team": "Chelsea",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "02/02/05",
+        "time": null,
+        "home_team": "Everton",
+        "away_team": "Norwich",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "02/02/05",
+        "time": null,
+        "home_team": "Fulham",
+        "away_team": "Aston Villa",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "02/02/05",
+        "time": null,
+        "home_team": "Man City",
+        "away_team": "Newcastle",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "05/02/05",
+        "time": null,
+        "home_team": "Aston Villa",
+        "away_team": "Arsenal",
+        "home_score": "1",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "05/02/05",
+        "time": null,
+        "home_team": "Crystal Palace",
+        "away_team": "Bolton",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "05/02/05",
+        "time": null,
+        "home_team": "Liverpool",
+        "away_team": "Fulham",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "05/02/05",
+        "time": null,
+        "home_team": "Man United",
+        "away_team": "Birmingham",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "05/02/05",
+        "time": null,
+        "home_team": "Middlesbrough",
+        "away_team": "Blackburn",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "05/02/05",
+        "time": null,
+        "home_team": "Newcastle",
+        "away_team": "Charlton",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "05/02/05",
+        "time": null,
+        "home_team": "Norwich",
+        "away_team": "West Brom",
+        "home_score": "3",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "05/02/05",
+        "time": null,
+        "home_team": "Tottenham",
+        "away_team": "Portsmouth",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "06/02/05",
+        "time": null,
+        "home_team": "Chelsea",
+        "away_team": "Man City",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "06/02/05",
+        "time": null,
+        "home_team": "Southampton",
+        "away_team": "Everton",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "12/02/05",
+        "time": null,
+        "home_team": "Birmingham",
+        "away_team": "Liverpool",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "12/02/05",
+        "time": null,
+        "home_team": "Blackburn",
+        "away_team": "Norwich",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "12/02/05",
+        "time": null,
+        "home_team": "Bolton",
+        "away_team": "Middlesbrough",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "12/02/05",
+        "time": null,
+        "home_team": "Everton",
+        "away_team": "Chelsea",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "12/02/05",
+        "time": null,
+        "home_team": "Portsmouth",
+        "away_team": "Aston Villa",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "13/02/05",
+        "time": null,
+        "home_team": "Man City",
+        "away_team": "Man United",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "14/02/05",
+        "time": null,
+        "home_team": "Arsenal",
+        "away_team": "Crystal Palace",
+        "home_score": "5",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "22/02/05",
+        "time": null,
+        "home_team": "West Brom",
+        "away_team": "Southampton",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "26/02/05",
+        "time": null,
+        "home_team": "Aston Villa",
+        "away_team": "Everton",
+        "home_score": "1",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "26/02/05",
+        "time": null,
+        "home_team": "Crystal Palace",
+        "away_team": "Birmingham",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "26/02/05",
+        "time": null,
+        "home_team": "Man United",
+        "away_team": "Portsmouth",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "26/02/05",
+        "time": null,
+        "home_team": "Southampton",
+        "away_team": "Arsenal",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "26/02/05",
+        "time": null,
+        "home_team": "Tottenham",
+        "away_team": "Fulham",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "27/02/05",
+        "time": null,
+        "home_team": "Middlesbrough",
+        "away_team": "Charlton",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "27/02/05",
+        "time": null,
+        "home_team": "Newcastle",
+        "away_team": "Bolton",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "28/02/05",
+        "time": null,
+        "home_team": "Norwich",
+        "away_team": "Man City",
+        "home_score": "2",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "05/03/05",
+        "time": null,
+        "home_team": "Arsenal",
+        "away_team": "Portsmouth",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "05/03/05",
+        "time": null,
+        "home_team": "Aston Villa",
+        "away_team": "Middlesbrough",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "05/03/05",
+        "time": null,
+        "home_team": "Crystal Palace",
+        "away_team": "Man United",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "05/03/05",
+        "time": null,
+        "home_team": "Fulham",
+        "away_team": "Charlton",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "05/03/05",
+        "time": null,
+        "home_team": "Newcastle",
+        "away_team": "Liverpool",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "05/03/05",
+        "time": null,
+        "home_team": "Norwich",
+        "away_team": "Chelsea",
+        "home_score": "1",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "05/03/05",
+        "time": null,
+        "home_team": "Southampton",
+        "away_team": "Tottenham",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "06/03/05",
+        "time": null,
+        "home_team": "Everton",
+        "away_team": "Blackburn",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "06/03/05",
+        "time": null,
+        "home_team": "West Brom",
+        "away_team": "Birmingham",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "07/03/05",
+        "time": null,
+        "home_team": "Man City",
+        "away_team": "Bolton",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "15/03/05",
+        "time": null,
+        "home_team": "Chelsea",
+        "away_team": "West Brom",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "16/03/05",
+        "time": null,
+        "home_team": "Charlton",
+        "away_team": "Tottenham",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "16/03/05",
+        "time": null,
+        "home_team": "Liverpool",
+        "away_team": "Blackburn",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "19/03/05",
+        "time": null,
+        "home_team": "Blackburn",
+        "away_team": "Arsenal",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "19/03/05",
+        "time": null,
+        "home_team": "Bolton",
+        "away_team": "Norwich",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "19/03/05",
+        "time": null,
+        "home_team": "Charlton",
+        "away_team": "West Brom",
+        "home_score": "1",
+        "away_score": "4",
+        "result": "A"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "19/03/05",
+        "time": null,
+        "home_team": "Chelsea",
+        "away_team": "Crystal Palace",
+        "home_score": "4",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "19/03/05",
+        "time": null,
+        "home_team": "Man United",
+        "away_team": "Fulham",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "19/03/05",
+        "time": null,
+        "home_team": "Portsmouth",
+        "away_team": "Newcastle",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "19/03/05",
+        "time": null,
+        "home_team": "Tottenham",
+        "away_team": "Man City",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "20/03/05",
+        "time": null,
+        "home_team": "Birmingham",
+        "away_team": "Aston Villa",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "20/03/05",
+        "time": null,
+        "home_team": "Liverpool",
+        "away_team": "Everton",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "20/03/05",
+        "time": null,
+        "home_team": "Middlesbrough",
+        "away_team": "Southampton",
+        "home_score": "1",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "02/04/05",
+        "time": null,
+        "home_team": "Arsenal",
+        "away_team": "Norwich",
+        "home_score": "4",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "02/04/05",
+        "time": null,
+        "home_team": "Birmingham",
+        "away_team": "Tottenham",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "02/04/05",
+        "time": null,
+        "home_team": "Charlton",
+        "away_team": "Man City",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "02/04/05",
+        "time": null,
+        "home_team": "Crystal Palace",
+        "away_team": "Middlesbrough",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "02/04/05",
+        "time": null,
+        "home_team": "Liverpool",
+        "away_team": "Bolton",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "02/04/05",
+        "time": null,
+        "home_team": "Man United",
+        "away_team": "Blackburn",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "02/04/05",
+        "time": null,
+        "home_team": "Newcastle",
+        "away_team": "Aston Villa",
+        "home_score": "0",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "02/04/05",
+        "time": null,
+        "home_team": "Southampton",
+        "away_team": "Chelsea",
+        "home_score": "1",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "03/04/05",
+        "time": null,
+        "home_team": "Fulham",
+        "away_team": "Portsmouth",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "03/04/05",
+        "time": null,
+        "home_team": "West Brom",
+        "away_team": "Everton",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "09/04/05",
+        "time": null,
+        "home_team": "Blackburn",
+        "away_team": "Southampton",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "09/04/05",
+        "time": null,
+        "home_team": "Bolton",
+        "away_team": "Fulham",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "09/04/05",
+        "time": null,
+        "home_team": "Chelsea",
+        "away_team": "Birmingham",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "09/04/05",
+        "time": null,
+        "home_team": "Man City",
+        "away_team": "Liverpool",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "09/04/05",
+        "time": null,
+        "home_team": "Middlesbrough",
+        "away_team": "Arsenal",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "09/04/05",
+        "time": null,
+        "home_team": "Norwich",
+        "away_team": "Man United",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "09/04/05",
+        "time": null,
+        "home_team": "Portsmouth",
+        "away_team": "Charlton",
+        "home_score": "4",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "10/04/05",
+        "time": null,
+        "home_team": "Aston Villa",
+        "away_team": "West Brom",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "10/04/05",
+        "time": null,
+        "home_team": "Everton",
+        "away_team": "Crystal Palace",
+        "home_score": "4",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "10/04/05",
+        "time": null,
+        "home_team": "Tottenham",
+        "away_team": "Newcastle",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "16/04/05",
+        "time": null,
+        "home_team": "Birmingham",
+        "away_team": "Portsmouth",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "16/04/05",
+        "time": null,
+        "home_team": "Charlton",
+        "away_team": "Bolton",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "16/04/05",
+        "time": null,
+        "home_team": "Crystal Palace",
+        "away_team": "Norwich",
+        "home_score": "3",
+        "away_score": "3",
+        "result": "D"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "16/04/05",
+        "time": null,
+        "home_team": "Fulham",
+        "away_team": "Man City",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "16/04/05",
+        "time": null,
+        "home_team": "Liverpool",
+        "away_team": "Tottenham",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "16/04/05",
+        "time": null,
+        "home_team": "Southampton",
+        "away_team": "Aston Villa",
+        "home_score": "2",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "19/04/05",
+        "time": null,
+        "home_team": "Bolton",
+        "away_team": "Southampton",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "19/04/05",
+        "time": null,
+        "home_team": "Middlesbrough",
+        "away_team": "Fulham",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "20/04/05",
+        "time": null,
+        "home_team": "Aston Villa",
+        "away_team": "Charlton",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "20/04/05",
+        "time": null,
+        "home_team": "Blackburn",
+        "away_team": "Crystal Palace",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "20/04/05",
+        "time": null,
+        "home_team": "Chelsea",
+        "away_team": "Arsenal",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "20/04/05",
+        "time": null,
+        "home_team": "Everton",
+        "away_team": "Man United",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "20/04/05",
+        "time": null,
+        "home_team": "Man City",
+        "away_team": "Birmingham",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "20/04/05",
+        "time": null,
+        "home_team": "Norwich",
+        "away_team": "Newcastle",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "20/04/05",
+        "time": null,
+        "home_team": "Portsmouth",
+        "away_team": "Liverpool",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 39,
+        "season": "2004",
+        "date": "20/04/05",
+        "time": null,
+        "home_team": "Tottenham",
+        "away_team": "West Brom",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 39,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "23/04/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Aston Villa",
+        "away_team": "Bolton",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 39,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "23/04/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Blackburn",
+        "away_team": "Man City",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 39,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "23/04/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Chelsea",
+        "away_team": "Fulham",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "23/04/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Crystal Palace",
+        "away_team": "Liverpool",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "23/04/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Everton",
+        "away_team": "Birmingham",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 39,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "23/04/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Middlesbrough",
+        "away_team": "West Brom",
+        "home_score": "4",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "23/04/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Norwich",
+        "away_team": "Charlton",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "24/04/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Man United",
+        "away_team": "Newcastle",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "24/04/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Portsmouth",
+        "away_team": "Southampton",
+        "home_score": "4",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "25/04/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Arsenal",
+        "away_team": "Tottenham",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "26/04/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "West Brom",
+        "away_team": "Blackburn",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 39,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "27/04/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Newcastle",
+        "away_team": "Middlesbrough",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 39,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "30/04/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Birmingham",
+        "away_team": "Blackburn",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "30/04/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Bolton",
+        "away_team": "Chelsea",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 39,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "30/04/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Fulham",
+        "away_team": "Everton",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "30/04/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Liverpool",
+        "away_team": "Middlesbrough",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 39,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "30/04/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Man City",
+        "away_team": "Portsmouth",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "30/04/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Newcastle",
+        "away_team": "Crystal Palace",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 39,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "30/04/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Southampton",
+        "away_team": "Norwich",
+        "home_score": "4",
+        "away_score": "3",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "01/05/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Charlton",
+        "away_team": "Man United",
+        "home_score": "0",
+        "away_score": "4",
+        "result": "A"
+    },
+    {
+        "league_id": 39,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "01/05/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Tottenham",
+        "away_team": "Aston Villa",
+        "home_score": "5",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "02/05/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "West Brom",
+        "away_team": "Arsenal",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 39,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "04/05/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Fulham",
+        "away_team": "Newcastle",
+        "home_score": "1",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 39,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "07/05/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Aston Villa",
+        "away_team": "Man City",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 39,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "07/05/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Blackburn",
+        "away_team": "Fulham",
+        "home_score": "1",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 39,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "07/05/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Chelsea",
+        "away_team": "Charlton",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "07/05/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Crystal Palace",
+        "away_team": "Southampton",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 39,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "07/05/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Everton",
+        "away_team": "Newcastle",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "07/05/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Man United",
+        "away_team": "West Brom",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 39,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "07/05/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Middlesbrough",
+        "away_team": "Tottenham",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "07/05/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Norwich",
+        "away_team": "Birmingham",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "07/05/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Portsmouth",
+        "away_team": "Bolton",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 39,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "08/05/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Arsenal",
+        "away_team": "Liverpool",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "10/05/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Man United",
+        "away_team": "Chelsea",
+        "home_score": "1",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 39,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "11/05/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Arsenal",
+        "away_team": "Everton",
+        "home_score": "7",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "15/05/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Birmingham",
+        "away_team": "Arsenal",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "15/05/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Bolton",
+        "away_team": "Everton",
+        "home_score": "3",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "15/05/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Charlton",
+        "away_team": "Crystal Palace",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 39,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "15/05/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Fulham",
+        "away_team": "Norwich",
+        "home_score": "6",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "15/05/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Liverpool",
+        "away_team": "Aston Villa",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 39,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "15/05/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Man City",
+        "away_team": "Middlesbrough",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 39,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "15/05/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Newcastle",
+        "away_team": "Chelsea",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 39,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "15/05/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Southampton",
+        "away_team": "Man United",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 39,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "15/05/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Tottenham",
+        "away_team": "Blackburn",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 39,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "15/05/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "West Brom",
+        "away_team": "Portsmouth",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    }
+]

@@ -1,0 +1,18 @@
+body { font-size: 16px; }
+.tree-label { font-size: 13px; }
+.tree-count, .tree-season-state { font-size: 11px; }
+.season-row .tree-label { font-size: 12px; }
+.match-summary { overflow: hidden; color: #465249; font-size: 13px; font-weight: 600; text-overflow: ellipsis; white-space: nowrap; }
+.match-result { font-size: 12px; }
+.match-kickoff { font-size: 11px; }
+.round-name { font-size: 12px; }
+.pane-heading h2 { font-size: 17px; }
+.pane-heading p, .pane-search input { font-size: 12px; }
+.detail-team-name { font-size: 12px; }
+.detail-round { font-size: 11px; }
+.detail-venue { font-size: 10px; }
+.stats-card-title > span:nth-child(2) { font-size: 11px; }
+.metric-item dt { font-size: 10px; }
+.metric-item dd { font-size: 11px; }
+.page-footer { font-size: 11px; }
+

@@ -1,0 +1,37 @@
+.pane-heading { display: flex; min-height: 67px; flex: 0 0 auto; align-items: center; justify-content: space-between; gap: 12px; padding: 12px 15px; border-bottom: 1px solid #edf0ed; }
+.pane-heading h2 { margin: 0 0 3px; font-family: "Space Grotesk", sans-serif; font-size: 16px; letter-spacing: -.3px; }
+.pane-heading p { margin: 0; color: #89938b; font-size: 11px; }
+.pane-heading-icon { color: #6e9a79; font-size: 18px; }
+.count-badge { min-width: 25px; padding: 4px 7px; border-radius: 5px; background: #edf2ee; color: #728078; font-size: 10px; font-weight: 600; text-align: center; }
+.pane-search { display: flex; min-height: 36px; flex: 0 0 auto; align-items: center; gap: 8px; margin: 11px 12px 5px; padding: 0 9px; border: 1px solid #e6ebe6; border-radius: 6px; color: #879189; }
+.pane-search > span { font-size: 19px; }
+.pane-search input { width: 100%; min-width: 0; border: 0; outline: 0; background: transparent; color: var(--ink); font-size: 11px; }
+.pane-search input::placeholder { color: #a0a9a2; }
+.pane-search:focus-within { border-color: #9dc9a9; box-shadow: 0 0 0 3px #56ae7518; }
+
+.country-tree, .fixture-list, .fixture-details { min-height: 0; flex: 1 1 auto; overflow: auto; overscroll-behavior: contain; scrollbar-color: #d7dfd8 transparent; scrollbar-width: thin; }
+.country-tree { padding: 5px 8px 11px; }
+.tree-country { margin: 1px 0; }
+.tree-row { display: flex; width: 100%; min-width: 0; align-items: center; gap: 8px; border: 0; background: transparent; text-align: left; cursor: pointer; }
+.tree-row:hover { background: #f5f8f5; }
+.tree-row.selected { background: #edf6ef; color: #286d42; }
+.country-row { min-height: 36px; padding: 0 8px; border-radius: 6px; }
+.tree-chevron { display: inline-grid; width: 13px; flex: 0 0 auto; place-items: center; color: #89968c; font-size: 16px; }
+.tree-flag { display: grid; width: 20px; height: 16px; flex: 0 0 auto; place-items: center; }
+.tree-flag-image { width: 19px; height: 14px; border: 1px solid #0000000a; border-radius: 2px; object-fit: cover; }
+.tree-label { overflow: hidden; min-width: 0; flex: 1 1 auto; color: #445047; font-size: 12px; text-overflow: ellipsis; white-space: nowrap; }
+.tree-count { flex: 0 0 auto; color: #9aa39c; font-size: 10px; }
+.league-children { margin-left: 16px; padding-left: 7px; border-left: 1px solid #e8eee8; }
+.league-row { min-height: 34px; padding: 0 7px; border-radius: 5px; }
+.tree-league-logo { display: grid; width: 19px; height: 19px; flex: 0 0 auto; place-items: center; }
+.tree-league-logo-image { width: 18px; height: 18px; object-fit: contain; }
+.tree-season-indicator { display: inline-grid; min-width: 19px; height: 18px; flex: 0 0 auto; place-items: center; border-radius: 4px; background: #edf6ef; color: #46865c; font-size: 9px; font-weight: 700; }
+.season-children { margin: 2px 0 6px 29px; padding-left: 7px; border-left: 1px solid #edf0ed; }
+.season-row { min-height: 29px; padding: 0 6px; border-radius: 5px; }
+.season-row .tree-chevron { font-size: 10px; }
+.season-row.selected .tree-chevron { color: #3c9159; font-size: 8px; }
+.season-row .tree-label { font-size: 11px; }
+.tree-season-state { flex: 0 0 auto; color: #a18e70; font-size: 9px; }
+.tree-season-state.fetched { color: #478b60; }
+.tree-empty { display: block; padding: 8px 10px; color: #929b94; font-size: 10px; }
+

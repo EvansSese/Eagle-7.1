@@ -1,0 +1,4534 @@
+[
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "11/09/04",
+        "time": null,
+        "home_team": "Chievo",
+        "away_team": "Inter",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "11/09/04",
+        "time": null,
+        "home_team": "Milan",
+        "away_team": "Livorno",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "12/09/04",
+        "time": null,
+        "home_team": "Atalanta",
+        "away_team": "Lecce",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "12/09/04",
+        "time": null,
+        "home_team": "Brescia",
+        "away_team": "Juventus",
+        "home_score": "0",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "12/09/04",
+        "time": null,
+        "home_team": "Cagliari",
+        "away_team": "Bologna",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "12/09/04",
+        "time": null,
+        "home_team": "Palermo",
+        "away_team": "Siena",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "12/09/04",
+        "time": null,
+        "home_team": "Parma",
+        "away_team": "Messina",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "12/09/04",
+        "time": null,
+        "home_team": "Reggina",
+        "away_team": "Udinese",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "12/09/04",
+        "time": null,
+        "home_team": "Roma",
+        "away_team": "Fiorentina",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "12/09/04",
+        "time": null,
+        "home_team": "Sampdoria",
+        "away_team": "Lazio",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "18/09/04",
+        "time": null,
+        "home_team": "Inter",
+        "away_team": "Palermo",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "18/09/04",
+        "time": null,
+        "home_team": "Lecce",
+        "away_team": "Brescia",
+        "home_score": "4",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "19/09/04",
+        "time": null,
+        "home_team": "Bologna",
+        "away_team": "Milan",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "19/09/04",
+        "time": null,
+        "home_team": "Fiorentina",
+        "away_team": "Cagliari",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "19/09/04",
+        "time": null,
+        "home_team": "Juventus",
+        "away_team": "Atalanta",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "19/09/04",
+        "time": null,
+        "home_team": "Lazio",
+        "away_team": "Reggina",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "19/09/04",
+        "time": null,
+        "home_team": "Livorno",
+        "away_team": "Chievo",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "19/09/04",
+        "time": null,
+        "home_team": "Messina",
+        "away_team": "Roma",
+        "home_score": "4",
+        "away_score": "3",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "19/09/04",
+        "time": null,
+        "home_team": "Siena",
+        "away_team": "Sampdoria",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "19/09/04",
+        "time": null,
+        "home_team": "Udinese",
+        "away_team": "Parma",
+        "home_score": "4",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "22/09/04",
+        "time": null,
+        "home_team": "Atalanta",
+        "away_team": "Inter",
+        "home_score": "2",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "22/09/04",
+        "time": null,
+        "home_team": "Brescia",
+        "away_team": "Lazio",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "22/09/04",
+        "time": null,
+        "home_team": "Cagliari",
+        "away_team": "Siena",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "22/09/04",
+        "time": null,
+        "home_team": "Chievo",
+        "away_team": "Udinese",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "22/09/04",
+        "time": null,
+        "home_team": "Milan",
+        "away_team": "Messina",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "22/09/04",
+        "time": null,
+        "home_team": "Palermo",
+        "away_team": "Fiorentina",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "22/09/04",
+        "time": null,
+        "home_team": "Parma",
+        "away_team": "Bologna",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "22/09/04",
+        "time": null,
+        "home_team": "Reggina",
+        "away_team": "Livorno",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "22/09/04",
+        "time": null,
+        "home_team": "Roma",
+        "away_team": "Lecce",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "22/09/04",
+        "time": null,
+        "home_team": "Sampdoria",
+        "away_team": "Juventus",
+        "home_score": "0",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "25/09/04",
+        "time": null,
+        "home_team": "Bologna",
+        "away_team": "Roma",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "25/09/04",
+        "time": null,
+        "home_team": "Juventus",
+        "away_team": "Palermo",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "26/09/04",
+        "time": null,
+        "home_team": "Fiorentina",
+        "away_team": "Sampdoria",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "26/09/04",
+        "time": null,
+        "home_team": "Inter",
+        "away_team": "Parma",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "26/09/04",
+        "time": null,
+        "home_team": "Lazio",
+        "away_team": "Milan",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "26/09/04",
+        "time": null,
+        "home_team": "Lecce",
+        "away_team": "Cagliari",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "26/09/04",
+        "time": null,
+        "home_team": "Livorno",
+        "away_team": "Atalanta",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "26/09/04",
+        "time": null,
+        "home_team": "Messina",
+        "away_team": "Chievo",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "26/09/04",
+        "time": null,
+        "home_team": "Siena",
+        "away_team": "Reggina",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "26/09/04",
+        "time": null,
+        "home_team": "Udinese",
+        "away_team": "Brescia",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "02/10/04",
+        "time": null,
+        "home_team": "Cagliari",
+        "away_team": "Brescia",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "02/10/04",
+        "time": null,
+        "home_team": "Chievo",
+        "away_team": "Lecce",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "03/10/04",
+        "time": null,
+        "home_team": "Atalanta",
+        "away_team": "Lazio",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "03/10/04",
+        "time": null,
+        "home_team": "Messina",
+        "away_team": "Siena",
+        "home_score": "4",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "03/10/04",
+        "time": null,
+        "home_team": "Milan",
+        "away_team": "Reggina",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "03/10/04",
+        "time": null,
+        "home_team": "Palermo",
+        "away_team": "Bologna",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "03/10/04",
+        "time": null,
+        "home_team": "Parma",
+        "away_team": "Fiorentina",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "03/10/04",
+        "time": null,
+        "home_team": "Roma",
+        "away_team": "Inter",
+        "home_score": "3",
+        "away_score": "3",
+        "result": "D"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "03/10/04",
+        "time": null,
+        "home_team": "Sampdoria",
+        "away_team": "Livorno",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "03/10/04",
+        "time": null,
+        "home_team": "Udinese",
+        "away_team": "Juventus",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "16/10/04",
+        "time": null,
+        "home_team": "Juventus",
+        "away_team": "Messina",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "16/10/04",
+        "time": null,
+        "home_team": "Livorno",
+        "away_team": "Roma",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "17/10/04",
+        "time": null,
+        "home_team": "Bologna",
+        "away_team": "Atalanta",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "17/10/04",
+        "time": null,
+        "home_team": "Brescia",
+        "away_team": "Parma",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "17/10/04",
+        "time": null,
+        "home_team": "Cagliari",
+        "away_team": "Milan",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "17/10/04",
+        "time": null,
+        "home_team": "Fiorentina",
+        "away_team": "Siena",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "17/10/04",
+        "time": null,
+        "home_team": "Inter",
+        "away_team": "Udinese",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "17/10/04",
+        "time": null,
+        "home_team": "Lazio",
+        "away_team": "Chievo",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "17/10/04",
+        "time": null,
+        "home_team": "Lecce",
+        "away_team": "Palermo",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "17/10/04",
+        "time": null,
+        "home_team": "Reggina",
+        "away_team": "Sampdoria",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "23/10/04",
+        "time": null,
+        "home_team": "Atalanta",
+        "away_team": "Cagliari",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "23/10/04",
+        "time": null,
+        "home_team": "Siena",
+        "away_team": "Juventus",
+        "home_score": "0",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "24/10/04",
+        "time": null,
+        "home_team": "Chievo",
+        "away_team": "Reggina",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "24/10/04",
+        "time": null,
+        "home_team": "Livorno",
+        "away_team": "Bologna",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "24/10/04",
+        "time": null,
+        "home_team": "Messina",
+        "away_team": "Lecce",
+        "home_score": "1",
+        "away_score": "4",
+        "result": "A"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "24/10/04",
+        "time": null,
+        "home_team": "Milan",
+        "away_team": "Inter",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "24/10/04",
+        "time": null,
+        "home_team": "Parma",
+        "away_team": "Lazio",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "24/10/04",
+        "time": null,
+        "home_team": "Roma",
+        "away_team": "Palermo",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "24/10/04",
+        "time": null,
+        "home_team": "Sampdoria",
+        "away_team": "Brescia",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "24/10/04",
+        "time": null,
+        "home_team": "Udinese",
+        "away_team": "Fiorentina",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "27/10/04",
+        "time": null,
+        "home_team": "Bologna",
+        "away_team": "Udinese",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "27/10/04",
+        "time": null,
+        "home_team": "Brescia",
+        "away_team": "Siena",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "27/10/04",
+        "time": null,
+        "home_team": "Cagliari",
+        "away_team": "Parma",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "27/10/04",
+        "time": null,
+        "home_team": "Chievo",
+        "away_team": "Sampdoria",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "27/10/04",
+        "time": null,
+        "home_team": "Lazio",
+        "away_team": "Messina",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "27/10/04",
+        "time": null,
+        "home_team": "Lecce",
+        "away_team": "Inter",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "27/10/04",
+        "time": null,
+        "home_team": "Milan",
+        "away_team": "Atalanta",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "27/10/04",
+        "time": null,
+        "home_team": "Palermo",
+        "away_team": "Livorno",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "27/10/04",
+        "time": null,
+        "home_team": "Reggina",
+        "away_team": "Fiorentina",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "28/10/04",
+        "time": null,
+        "home_team": "Juventus",
+        "away_team": "Roma",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "30/10/04",
+        "time": null,
+        "home_team": "Inter",
+        "away_team": "Lazio",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "30/10/04",
+        "time": null,
+        "home_team": "Sampdoria",
+        "away_team": "Milan",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "31/10/04",
+        "time": null,
+        "home_team": "Fiorentina",
+        "away_team": "Lecce",
+        "home_score": "4",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "31/10/04",
+        "time": null,
+        "home_team": "Juventus",
+        "away_team": "Chievo",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "31/10/04",
+        "time": null,
+        "home_team": "Livorno",
+        "away_team": "Brescia",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "31/10/04",
+        "time": null,
+        "home_team": "Messina",
+        "away_team": "Reggina",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "31/10/04",
+        "time": null,
+        "home_team": "Parma",
+        "away_team": "Atalanta",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "31/10/04",
+        "time": null,
+        "home_team": "Roma",
+        "away_team": "Cagliari",
+        "home_score": "5",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "31/10/04",
+        "time": null,
+        "home_team": "Siena",
+        "away_team": "Bologna",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "31/10/04",
+        "time": null,
+        "home_team": "Udinese",
+        "away_team": "Palermo",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "06/11/04",
+        "time": null,
+        "home_team": "Brescia",
+        "away_team": "Chievo",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "06/11/04",
+        "time": null,
+        "home_team": "Reggina",
+        "away_team": "Juventus",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "07/11/04",
+        "time": null,
+        "home_team": "Atalanta",
+        "away_team": "Sampdoria",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "07/11/04",
+        "time": null,
+        "home_team": "Bologna",
+        "away_team": "Messina",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "07/11/04",
+        "time": null,
+        "home_team": "Cagliari",
+        "away_team": "Livorno",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "07/11/04",
+        "time": null,
+        "home_team": "Fiorentina",
+        "away_team": "Inter",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "07/11/04",
+        "time": null,
+        "home_team": "Lazio",
+        "away_team": "Siena",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "07/11/04",
+        "time": null,
+        "home_team": "Lecce",
+        "away_team": "Udinese",
+        "home_score": "3",
+        "away_score": "4",
+        "result": "A"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "07/11/04",
+        "time": null,
+        "home_team": "Milan",
+        "away_team": "Roma",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "07/11/04",
+        "time": null,
+        "home_team": "Palermo",
+        "away_team": "Parma",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "10/11/04",
+        "time": null,
+        "home_team": "Brescia",
+        "away_team": "Milan",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "10/11/04",
+        "time": null,
+        "home_team": "Chievo",
+        "away_team": "Atalanta",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "10/11/04",
+        "time": null,
+        "home_team": "Inter",
+        "away_team": "Bologna",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "10/11/04",
+        "time": null,
+        "home_team": "Juventus",
+        "away_team": "Fiorentina",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "10/11/04",
+        "time": null,
+        "home_team": "Livorno",
+        "away_team": "Lazio",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "10/11/04",
+        "time": null,
+        "home_team": "Parma",
+        "away_team": "Reggina",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "10/11/04",
+        "time": null,
+        "home_team": "Roma",
+        "away_team": "Udinese",
+        "home_score": "0",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "10/11/04",
+        "time": null,
+        "home_team": "Sampdoria",
+        "away_team": "Cagliari",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "10/11/04",
+        "time": null,
+        "home_team": "Siena",
+        "away_team": "Lecce",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "11/11/04",
+        "time": null,
+        "home_team": "Messina",
+        "away_team": "Palermo",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "14/11/04",
+        "time": null,
+        "home_team": "Atalanta",
+        "away_team": "Brescia",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "14/11/04",
+        "time": null,
+        "home_team": "Cagliari",
+        "away_team": "Inter",
+        "home_score": "3",
+        "away_score": "3",
+        "result": "D"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "14/11/04",
+        "time": null,
+        "home_team": "Fiorentina",
+        "away_team": "Livorno",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "14/11/04",
+        "time": null,
+        "home_team": "Lazio",
+        "away_team": "Bologna",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "14/11/04",
+        "time": null,
+        "home_team": "Lecce",
+        "away_team": "Juventus",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "14/11/04",
+        "time": null,
+        "home_team": "Milan",
+        "away_team": "Siena",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "14/11/04",
+        "time": null,
+        "home_team": "Palermo",
+        "away_team": "Sampdoria",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "14/11/04",
+        "time": null,
+        "home_team": "Parma",
+        "away_team": "Chievo",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "14/11/04",
+        "time": null,
+        "home_team": "Reggina",
+        "away_team": "Roma",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "14/11/04",
+        "time": null,
+        "home_team": "Udinese",
+        "away_team": "Messina",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "27/11/04",
+        "time": null,
+        "home_team": "Livorno",
+        "away_team": "Udinese",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "27/11/04",
+        "time": null,
+        "home_team": "Siena",
+        "away_team": "Roma",
+        "home_score": "0",
+        "away_score": "4",
+        "result": "A"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "28/11/04",
+        "time": null,
+        "home_team": "Atalanta",
+        "away_team": "Reggina",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "28/11/04",
+        "time": null,
+        "home_team": "Bologna",
+        "away_team": "Lecce",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "28/11/04",
+        "time": null,
+        "home_team": "Brescia",
+        "away_team": "Palermo",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "28/11/04",
+        "time": null,
+        "home_team": "Chievo",
+        "away_team": "Milan",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "28/11/04",
+        "time": null,
+        "home_team": "Inter",
+        "away_team": "Juventus",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "28/11/04",
+        "time": null,
+        "home_team": "Lazio",
+        "away_team": "Cagliari",
+        "home_score": "2",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "28/11/04",
+        "time": null,
+        "home_team": "Messina",
+        "away_team": "Fiorentina",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "28/11/04",
+        "time": null,
+        "home_team": "Sampdoria",
+        "away_team": "Parma",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "04/12/04",
+        "time": null,
+        "home_team": "Inter",
+        "away_team": "Messina",
+        "home_score": "5",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "04/12/04",
+        "time": null,
+        "home_team": "Parma",
+        "away_team": "Milan",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "05/12/04",
+        "time": null,
+        "home_team": "Cagliari",
+        "away_team": "Chievo",
+        "home_score": "4",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "05/12/04",
+        "time": null,
+        "home_team": "Fiorentina",
+        "away_team": "Bologna",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "05/12/04",
+        "time": null,
+        "home_team": "Juventus",
+        "away_team": "Lazio",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "05/12/04",
+        "time": null,
+        "home_team": "Lecce",
+        "away_team": "Livorno",
+        "home_score": "3",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "05/12/04",
+        "time": null,
+        "home_team": "Palermo",
+        "away_team": "Atalanta",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "05/12/04",
+        "time": null,
+        "home_team": "Reggina",
+        "away_team": "Brescia",
+        "home_score": "1",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "05/12/04",
+        "time": null,
+        "home_team": "Roma",
+        "away_team": "Sampdoria",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "05/12/04",
+        "time": null,
+        "home_team": "Udinese",
+        "away_team": "Siena",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "11/12/04",
+        "time": null,
+        "home_team": "Atalanta",
+        "away_team": "Udinese",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "11/12/04",
+        "time": null,
+        "home_team": "Lazio",
+        "away_team": "Lecce",
+        "home_score": "3",
+        "away_score": "3",
+        "result": "D"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "12/12/04",
+        "time": null,
+        "home_team": "Bologna",
+        "away_team": "Juventus",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "12/12/04",
+        "time": null,
+        "home_team": "Brescia",
+        "away_team": "Roma",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "12/12/04",
+        "time": null,
+        "home_team": "Chievo",
+        "away_team": "Palermo",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "12/12/04",
+        "time": null,
+        "home_team": "Livorno",
+        "away_team": "Parma",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "12/12/04",
+        "time": null,
+        "home_team": "Milan",
+        "away_team": "Fiorentina",
+        "home_score": "6",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "12/12/04",
+        "time": null,
+        "home_team": "Reggina",
+        "away_team": "Cagliari",
+        "home_score": "3",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "12/12/04",
+        "time": null,
+        "home_team": "Sampdoria",
+        "away_team": "Messina",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "12/12/04",
+        "time": null,
+        "home_team": "Siena",
+        "away_team": "Inter",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "18/12/04",
+        "time": null,
+        "home_team": "Juventus",
+        "away_team": "Milan",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "19/12/04",
+        "time": null,
+        "home_team": "Bologna",
+        "away_team": "Reggina",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "19/12/04",
+        "time": null,
+        "home_team": "Fiorentina",
+        "away_team": "Chievo",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "19/12/04",
+        "time": null,
+        "home_team": "Inter",
+        "away_team": "Brescia",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "19/12/04",
+        "time": null,
+        "home_team": "Lecce",
+        "away_team": "Sampdoria",
+        "home_score": "1",
+        "away_score": "4",
+        "result": "A"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "19/12/04",
+        "time": null,
+        "home_team": "Palermo",
+        "away_team": "Cagliari",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "19/12/04",
+        "time": null,
+        "home_team": "Roma",
+        "away_team": "Parma",
+        "home_score": "5",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "19/12/04",
+        "time": null,
+        "home_team": "Siena",
+        "away_team": "Livorno",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "19/12/04",
+        "time": null,
+        "home_team": "Udinese",
+        "away_team": "Lazio",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "06/01/05",
+        "time": null,
+        "home_team": "Atalanta",
+        "away_team": "Fiorentina",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "06/01/05",
+        "time": null,
+        "home_team": "Brescia",
+        "away_team": "Bologna",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "06/01/05",
+        "time": null,
+        "home_team": "Cagliari",
+        "away_team": "Messina",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "06/01/05",
+        "time": null,
+        "home_team": "Chievo",
+        "away_team": "Siena",
+        "home_score": "1",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "06/01/05",
+        "time": null,
+        "home_team": "Lazio",
+        "away_team": "Roma",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "06/01/05",
+        "time": null,
+        "home_team": "Livorno",
+        "away_team": "Inter",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "06/01/05",
+        "time": null,
+        "home_team": "Milan",
+        "away_team": "Lecce",
+        "home_score": "5",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "06/01/05",
+        "time": null,
+        "home_team": "Parma",
+        "away_team": "Juventus",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "06/01/05",
+        "time": null,
+        "home_team": "Reggina",
+        "away_team": "Palermo",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "06/01/05",
+        "time": null,
+        "home_team": "Sampdoria",
+        "away_team": "Udinese",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "09/01/05",
+        "time": null,
+        "home_team": "Bologna",
+        "away_team": "Chievo",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "09/01/05",
+        "time": null,
+        "home_team": "Fiorentina",
+        "away_team": "Lazio",
+        "home_score": "2",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "09/01/05",
+        "time": null,
+        "home_team": "Inter",
+        "away_team": "Sampdoria",
+        "home_score": "3",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "09/01/05",
+        "time": null,
+        "home_team": "Juventus",
+        "away_team": "Livorno",
+        "home_score": "4",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "09/01/05",
+        "time": null,
+        "home_team": "Lecce",
+        "away_team": "Reggina",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "09/01/05",
+        "time": null,
+        "home_team": "Messina",
+        "away_team": "Brescia",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "09/01/05",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Palermo",
+        "away_team": "Milan",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 135,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "09/01/05",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Roma",
+        "away_team": "Atalanta",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "09/01/05",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Siena",
+        "away_team": "Parma",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 135,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "09/01/05",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Udinese",
+        "away_team": "Cagliari",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "15/01/05",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Brescia",
+        "away_team": "Fiorentina",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 135,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "15/01/05",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Reggina",
+        "away_team": "Inter",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 135,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "16/01/05",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Atalanta",
+        "away_team": "Siena",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 135,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "16/01/05",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Cagliari",
+        "away_team": "Juventus",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 135,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "16/01/05",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Chievo",
+        "away_team": "Roma",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 135,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "16/01/05",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Lazio",
+        "away_team": "Palermo",
+        "home_score": "1",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 135,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "16/01/05",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Livorno",
+        "away_team": "Messina",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "16/01/05",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Milan",
+        "away_team": "Udinese",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "16/01/05",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Parma",
+        "away_team": "Lecce",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "16/01/05",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Sampdoria",
+        "away_team": "Bologna",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 135,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "19/01/05",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Messina",
+        "away_team": "Atalanta",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "22/01/05",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Bologna",
+        "away_team": "Cagliari",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": [
+            ""
+        ],
+        "date": "22/01/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Inter",
+        "away_team": "Chievo",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 135,
+        "season": [
+            ""
+        ],
+        "date": "23/01/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Fiorentina",
+        "away_team": "Roma",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 135,
+        "season": [
+            ""
+        ],
+        "date": "23/01/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Juventus",
+        "away_team": "Brescia",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": [
+            ""
+        ],
+        "date": "23/01/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Lazio",
+        "away_team": "Sampdoria",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 135,
+        "season": [
+            ""
+        ],
+        "date": "23/01/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Lecce",
+        "away_team": "Atalanta",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": [
+            ""
+        ],
+        "date": "23/01/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Livorno",
+        "away_team": "Milan",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": [
+            ""
+        ],
+        "date": "23/01/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Messina",
+        "away_team": "Parma",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": [
+            ""
+        ],
+        "date": "23/01/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Siena",
+        "away_team": "Palermo",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 135,
+        "season": [
+            ""
+        ],
+        "date": "23/01/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Udinese",
+        "away_team": "Reggina",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 135,
+        "season": [
+            ""
+        ],
+        "date": "29/01/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Chievo",
+        "away_team": "Livorno",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": [
+            ""
+        ],
+        "date": "29/01/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Parma",
+        "away_team": "Udinese",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": [
+            ""
+        ],
+        "date": "30/01/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Atalanta",
+        "away_team": "Juventus",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 135,
+        "season": [
+            ""
+        ],
+        "date": "30/01/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Brescia",
+        "away_team": "Lecce",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 135,
+        "season": [
+            ""
+        ],
+        "date": "30/01/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Cagliari",
+        "away_team": "Fiorentina",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": [
+            ""
+        ],
+        "date": "30/01/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Milan",
+        "away_team": "Bologna",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 135,
+        "season": [
+            ""
+        ],
+        "date": "30/01/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Palermo",
+        "away_team": "Inter",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "30/01/05",
+        "time": null,
+        "home_team": "Reggina",
+        "away_team": "Lazio",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "30/01/05",
+        "time": null,
+        "home_team": "Roma",
+        "away_team": "Messina",
+        "home_score": "3",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "30/01/05",
+        "time": null,
+        "home_team": "Sampdoria",
+        "away_team": "Siena",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "02/02/05",
+        "time": null,
+        "home_team": "Fiorentina",
+        "away_team": "Palermo",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "02/02/05",
+        "time": null,
+        "home_team": "Inter",
+        "away_team": "Atalanta",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "02/02/05",
+        "time": null,
+        "home_team": "Juventus",
+        "away_team": "Sampdoria",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "02/02/05",
+        "time": null,
+        "home_team": "Lazio",
+        "away_team": "Brescia",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "02/02/05",
+        "time": null,
+        "home_team": "Lecce",
+        "away_team": "Roma",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "02/02/05",
+        "time": null,
+        "home_team": "Livorno",
+        "away_team": "Reggina",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "02/02/05",
+        "time": null,
+        "home_team": "Messina",
+        "away_team": "Milan",
+        "home_score": "1",
+        "away_score": "4",
+        "result": "A"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "02/02/05",
+        "time": null,
+        "home_team": "Siena",
+        "away_team": "Cagliari",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "02/02/05",
+        "time": null,
+        "home_team": "Udinese",
+        "away_team": "Chievo",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "03/02/05",
+        "time": null,
+        "home_team": "Bologna",
+        "away_team": "Parma",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "05/02/05",
+        "time": null,
+        "home_team": "Palermo",
+        "away_team": "Juventus",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "05/02/05",
+        "time": null,
+        "home_team": "Sampdoria",
+        "away_team": "Fiorentina",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "06/02/05",
+        "time": null,
+        "home_team": "Atalanta",
+        "away_team": "Livorno",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": [
+            ""
+        ],
+        "date": "06/02/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Brescia",
+        "away_team": "Udinese",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 135,
+        "season": [
+            ""
+        ],
+        "date": "06/02/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Cagliari",
+        "away_team": "Lecce",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": [
+            ""
+        ],
+        "date": "06/02/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Chievo",
+        "away_team": "Messina",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": [
+            ""
+        ],
+        "date": "06/02/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Milan",
+        "away_team": "Lazio",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": [
+            ""
+        ],
+        "date": "06/02/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Parma",
+        "away_team": "Inter",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 135,
+        "season": [
+            ""
+        ],
+        "date": "06/02/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Reggina",
+        "away_team": "Siena",
+        "home_score": "3",
+        "away_score": "3",
+        "result": "D"
+    },
+    {
+        "league_id": 135,
+        "season": [
+            ""
+        ],
+        "date": "06/02/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Roma",
+        "away_team": "Bologna",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 135,
+        "season": [
+            ""
+        ],
+        "date": "12/02/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Inter",
+        "away_team": "Roma",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": [
+            ""
+        ],
+        "date": "12/02/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Lazio",
+        "away_team": "Atalanta",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": [
+            ""
+        ],
+        "date": "13/02/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Bologna",
+        "away_team": "Palermo",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 135,
+        "season": [
+            ""
+        ],
+        "date": "13/02/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Brescia",
+        "away_team": "Cagliari",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": [
+            ""
+        ],
+        "date": "13/02/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Fiorentina",
+        "away_team": "Parma",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": [
+            ""
+        ],
+        "date": "13/02/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Juventus",
+        "away_team": "Udinese",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": [
+            ""
+        ],
+        "date": "13/02/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Lecce",
+        "away_team": "Chievo",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": [
+            ""
+        ],
+        "date": "13/02/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Livorno",
+        "away_team": "Sampdoria",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": [
+            ""
+        ],
+        "date": "13/02/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Reggina",
+        "away_team": "Milan",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 135,
+        "season": [
+            ""
+        ],
+        "date": "13/02/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Siena",
+        "away_team": "Messina",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 135,
+        "season": [
+            ""
+        ],
+        "date": "19/02/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Messina",
+        "away_team": "Juventus",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 135,
+        "season": [
+            ""
+        ],
+        "date": "19/02/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Milan",
+        "away_team": "Cagliari",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": [
+            ""
+        ],
+        "date": "19/02/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Udinese",
+        "away_team": "Inter",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 135,
+        "season": [
+            ""
+        ],
+        "date": "20/02/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Atalanta",
+        "away_team": "Bologna",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": [
+            ""
+        ],
+        "date": "20/02/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Chievo",
+        "away_team": "Lazio",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 135,
+        "season": [
+            ""
+        ],
+        "date": "20/02/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Palermo",
+        "away_team": "Lecce",
+        "home_score": "3",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": [
+            ""
+        ],
+        "date": "20/02/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Parma",
+        "away_team": "Brescia",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": [
+            ""
+        ],
+        "date": "20/02/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Roma",
+        "away_team": "Livorno",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": [
+            ""
+        ],
+        "date": "20/02/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Sampdoria",
+        "away_team": "Reggina",
+        "home_score": "3",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": [
+            ""
+        ],
+        "date": "20/02/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Siena",
+        "away_team": "Fiorentina",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": [
+            ""
+        ],
+        "date": "26/02/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Brescia",
+        "away_team": "Sampdoria",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 135,
+        "season": [
+            ""
+        ],
+        "date": "26/02/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Fiorentina",
+        "away_team": "Udinese",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 135,
+        "season": [
+            ""
+        ],
+        "date": "27/02/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Bologna",
+        "away_team": "Livorno",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 135,
+        "season": [
+            ""
+        ],
+        "date": "27/02/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Cagliari",
+        "away_team": "Atalanta",
+        "home_score": "3",
+        "away_score": "3",
+        "result": "D"
+    },
+    {
+        "league_id": 135,
+        "season": [
+            ""
+        ],
+        "date": "27/02/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Inter",
+        "away_team": "Milan",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "27/02/05",
+        "time": null,
+        "home_team": "Juventus",
+        "away_team": "Siena",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "27/02/05",
+        "time": null,
+        "home_team": "Lazio",
+        "away_team": "Parma",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "27/02/05",
+        "time": null,
+        "home_team": "Lecce",
+        "away_team": "Messina",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "27/02/05",
+        "time": null,
+        "home_team": "Palermo",
+        "away_team": "Roma",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "27/02/05",
+        "time": null,
+        "home_team": "Reggina",
+        "away_team": "Chievo",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "05/03/05",
+        "time": null,
+        "home_team": "Atalanta",
+        "away_team": "Milan",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "05/03/05",
+        "time": null,
+        "home_team": "Roma",
+        "away_team": "Juventus",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "06/03/05",
+        "time": null,
+        "home_team": "Fiorentina",
+        "away_team": "Reggina",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "06/03/05",
+        "time": null,
+        "home_team": "Inter",
+        "away_team": "Lecce",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "06/03/05",
+        "time": null,
+        "home_team": "Livorno",
+        "away_team": "Palermo",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "06/03/05",
+        "time": null,
+        "home_team": "Messina",
+        "away_team": "Lazio",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "06/03/05",
+        "time": null,
+        "home_team": "Parma",
+        "away_team": "Cagliari",
+        "home_score": "3",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "06/03/05",
+        "time": null,
+        "home_team": "Sampdoria",
+        "away_team": "Chievo",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "06/03/05",
+        "time": null,
+        "home_team": "Siena",
+        "away_team": "Brescia",
+        "home_score": "2",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "06/03/05",
+        "time": null,
+        "home_team": "Udinese",
+        "away_team": "Bologna",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "12/03/05",
+        "time": null,
+        "home_team": "Lazio",
+        "away_team": "Inter",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "12/03/05",
+        "time": null,
+        "home_team": "Lecce",
+        "away_team": "Fiorentina",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "13/03/05",
+        "time": null,
+        "home_team": "Atalanta",
+        "away_team": "Parma",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "13/03/05",
+        "time": null,
+        "home_team": "Bologna",
+        "away_team": "Siena",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "13/03/05",
+        "time": null,
+        "home_team": "Brescia",
+        "away_team": "Livorno",
+        "home_score": "2",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "13/03/05",
+        "time": null,
+        "home_team": "Cagliari",
+        "away_team": "Roma",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "13/03/05",
+        "time": null,
+        "home_team": "Chievo",
+        "away_team": "Juventus",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "13/03/05",
+        "time": null,
+        "home_team": "Milan",
+        "away_team": "Sampdoria",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "13/03/05",
+        "time": null,
+        "home_team": "Palermo",
+        "away_team": "Udinese",
+        "home_score": "1",
+        "away_score": "5",
+        "result": "A"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "13/03/05",
+        "time": null,
+        "home_team": "Reggina",
+        "away_team": "Messina",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "19/03/05",
+        "time": null,
+        "home_team": "Juventus",
+        "away_team": "Reggina",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "19/03/05",
+        "time": null,
+        "home_team": "Siena",
+        "away_team": "Lazio",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "20/03/05",
+        "time": null,
+        "home_team": "Chievo",
+        "away_team": "Brescia",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "20/03/05",
+        "time": null,
+        "home_team": "Inter",
+        "away_team": "Fiorentina",
+        "home_score": "3",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "20/03/05",
+        "time": null,
+        "home_team": "Livorno",
+        "away_team": "Cagliari",
+        "home_score": "3",
+        "away_score": "3",
+        "result": "D"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "20/03/05",
+        "time": null,
+        "home_team": "Messina",
+        "away_team": "Bologna",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "20/03/05",
+        "time": null,
+        "home_team": "Parma",
+        "away_team": "Palermo",
+        "home_score": "3",
+        "away_score": "3",
+        "result": "D"
+    },
+    {
+        "league_id": 135,
+        "season": [
+            ""
+        ],
+        "date": "20/03/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Roma",
+        "away_team": "Milan",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 135,
+        "season": [
+            ""
+        ],
+        "date": "20/03/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Sampdoria",
+        "away_team": "Atalanta",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 135,
+        "season": [
+            ""
+        ],
+        "date": "20/03/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Udinese",
+        "away_team": "Lecce",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": [
+            ""
+        ],
+        "date": "09/04/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Bologna",
+        "away_team": "Inter",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 135,
+        "season": [
+            ""
+        ],
+        "date": "09/04/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Fiorentina",
+        "away_team": "Juventus",
+        "home_score": "3",
+        "away_score": "3",
+        "result": "D"
+    },
+    {
+        "league_id": 135,
+        "season": [
+            ""
+        ],
+        "date": "09/04/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Milan",
+        "away_team": "Brescia",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 135,
+        "season": [
+            ""
+        ],
+        "date": "10/04/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Atalanta",
+        "away_team": "Chievo",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": [
+            ""
+        ],
+        "date": "10/04/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Cagliari",
+        "away_team": "Sampdoria",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 135,
+        "season": [
+            ""
+        ],
+        "date": "10/04/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Lazio",
+        "away_team": "Livorno",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": [
+            ""
+        ],
+        "date": "10/04/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Lecce",
+        "away_team": "Siena",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 135,
+        "season": [
+            ""
+        ],
+        "date": "10/04/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Palermo",
+        "away_team": "Messina",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": [
+            ""
+        ],
+        "date": "10/04/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Reggina",
+        "away_team": "Parma",
+        "home_score": "1",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 135,
+        "season": [
+            ""
+        ],
+        "date": "10/04/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Udinese",
+        "away_team": "Roma",
+        "home_score": "3",
+        "away_score": "3",
+        "result": "D"
+    },
+    {
+        "league_id": 135,
+        "season": [
+            ""
+        ],
+        "date": "16/04/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Messina",
+        "away_team": "Udinese",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": [
+            ""
+        ],
+        "date": "16/04/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Roma",
+        "away_team": "Reggina",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 135,
+        "season": [
+            ""
+        ],
+        "date": "16/04/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Sampdoria",
+        "away_team": "Palermo",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "17/04/05",
+        "time": null,
+        "home_team": "Bologna",
+        "away_team": "Lazio",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "17/04/05",
+        "time": null,
+        "home_team": "Brescia",
+        "away_team": "Atalanta",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "17/04/05",
+        "time": null,
+        "home_team": "Chievo",
+        "away_team": "Parma",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "17/04/05",
+        "time": null,
+        "home_team": "Inter",
+        "away_team": "Cagliari",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "17/04/05",
+        "time": null,
+        "home_team": "Juventus",
+        "away_team": "Lecce",
+        "home_score": "5",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "17/04/05",
+        "time": null,
+        "home_team": "Livorno",
+        "away_team": "Fiorentina",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "17/04/05",
+        "time": null,
+        "home_team": "Siena",
+        "away_team": "Milan",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "20/04/05",
+        "time": null,
+        "home_team": "Cagliari",
+        "away_team": "Lazio",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "20/04/05",
+        "time": null,
+        "home_team": "Fiorentina",
+        "away_team": "Messina",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "20/04/05",
+        "time": null,
+        "home_team": "Juventus",
+        "away_team": "Inter",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "20/04/05",
+        "time": null,
+        "home_team": "Lecce",
+        "away_team": "Bologna",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "20/04/05",
+        "time": null,
+        "home_team": "Milan",
+        "away_team": "Chievo",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "20/04/05",
+        "time": null,
+        "home_team": "Palermo",
+        "away_team": "Brescia",
+        "home_score": "3",
+        "away_score": "3",
+        "result": "D"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "20/04/05",
+        "time": null,
+        "home_team": "Parma",
+        "away_team": "Sampdoria",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "20/04/05",
+        "time": null,
+        "home_team": "Reggina",
+        "away_team": "Atalanta",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "20/04/05",
+        "time": null,
+        "home_team": "Roma",
+        "away_team": "Siena",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "20/04/05",
+        "time": null,
+        "home_team": "Udinese",
+        "away_team": "Livorno",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "23/04/05",
+        "time": null,
+        "home_team": "Milan",
+        "away_team": "Parma",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "23/04/05",
+        "time": null,
+        "home_team": "Siena",
+        "away_team": "Udinese",
+        "home_score": "2",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "24/04/05",
+        "time": null,
+        "home_team": "Atalanta",
+        "away_team": "Palermo",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "24/04/05",
+        "time": null,
+        "home_team": "Bologna",
+        "away_team": "Fiorentina",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "24/04/05",
+        "time": null,
+        "home_team": "Brescia",
+        "away_team": "Reggina",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "24/04/05",
+        "time": null,
+        "home_team": "Chievo",
+        "away_team": "Cagliari",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "24/04/05",
+        "time": null,
+        "home_team": "Lazio",
+        "away_team": "Juventus",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "24/04/05",
+        "time": null,
+        "home_team": "Livorno",
+        "away_team": "Lecce",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "24/04/05",
+        "time": null,
+        "home_team": "Messina",
+        "away_team": "Inter",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "24/04/05",
+        "time": null,
+        "home_team": "Sampdoria",
+        "away_team": "Roma",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "30/04/05",
+        "time": null,
+        "home_team": "Cagliari",
+        "away_team": "Reggina",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "30/04/05",
+        "time": null,
+        "home_team": "Fiorentina",
+        "away_team": "Milan",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "01/05/05",
+        "time": null,
+        "home_team": "Inter",
+        "away_team": "Siena",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "01/05/05",
+        "time": null,
+        "home_team": "Juventus",
+        "away_team": "Bologna",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "01/05/05",
+        "time": null,
+        "home_team": "Lecce",
+        "away_team": "Lazio",
+        "home_score": "5",
+        "away_score": "3",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "01/05/05",
+        "time": null,
+        "home_team": "Messina",
+        "away_team": "Sampdoria",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "01/05/05",
+        "time": null,
+        "home_team": "Palermo",
+        "away_team": "Chievo",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "01/05/05",
+        "time": null,
+        "home_team": "Parma",
+        "away_team": "Livorno",
+        "home_score": "6",
+        "away_score": "4",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "01/05/05",
+        "time": null,
+        "home_team": "Roma",
+        "away_team": "Brescia",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "01/05/05",
+        "time": null,
+        "home_team": "Udinese",
+        "away_team": "Atalanta",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "08/05/05",
+        "time": null,
+        "home_team": "Atalanta",
+        "away_team": "Messina",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "08/05/05",
+        "time": null,
+        "home_team": "Brescia",
+        "away_team": "Inter",
+        "home_score": "0",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "08/05/05",
+        "time": null,
+        "home_team": "Cagliari",
+        "away_team": "Palermo",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "08/05/05",
+        "time": null,
+        "home_team": "Chievo",
+        "away_team": "Fiorentina",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "08/05/05",
+        "time": null,
+        "home_team": "Lazio",
+        "away_team": "Udinese",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "08/05/05",
+        "time": null,
+        "home_team": "Livorno",
+        "away_team": "Siena",
+        "home_score": "3",
+        "away_score": "6",
+        "result": "A"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "08/05/05",
+        "time": null,
+        "home_team": "Milan",
+        "away_team": "Juventus",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "08/05/05",
+        "time": null,
+        "home_team": "Parma",
+        "away_team": "Roma",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "08/05/05",
+        "time": null,
+        "home_team": "Reggina",
+        "away_team": "Bologna",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "08/05/05",
+        "time": null,
+        "home_team": "Sampdoria",
+        "away_team": "Lecce",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "15/05/05",
+        "time": null,
+        "home_team": "Bologna",
+        "away_team": "Brescia",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "15/05/05",
+        "time": null,
+        "home_team": "Fiorentina",
+        "away_team": "Atalanta",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "15/05/05",
+        "time": null,
+        "home_team": "Inter",
+        "away_team": "Livorno",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "15/05/05",
+        "time": null,
+        "home_team": "Juventus",
+        "away_team": "Parma",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "15/05/05",
+        "time": null,
+        "home_team": "Lecce",
+        "away_team": "Milan",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "15/05/05",
+        "time": null,
+        "home_team": "Messina",
+        "away_team": "Cagliari",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "15/05/05",
+        "time": null,
+        "home_team": "Palermo",
+        "away_team": "Reggina",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "15/05/05",
+        "time": null,
+        "home_team": "Roma",
+        "away_team": "Lazio",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "15/05/05",
+        "time": null,
+        "home_team": "Siena",
+        "away_team": "Chievo",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "15/05/05",
+        "time": null,
+        "home_team": "Udinese",
+        "away_team": "Sampdoria",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "20/05/05",
+        "time": null,
+        "home_team": "Milan",
+        "away_team": "Palermo",
+        "home_score": "3",
+        "away_score": "3",
+        "result": "D"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "22/05/05",
+        "time": null,
+        "home_team": "Atalanta",
+        "away_team": "Roma",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "22/05/05",
+        "time": null,
+        "home_team": "Brescia",
+        "away_team": "Messina",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "22/05/05",
+        "time": null,
+        "home_team": "Cagliari",
+        "away_team": "Udinese",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "22/05/05",
+        "time": null,
+        "home_team": "Chievo",
+        "away_team": "Bologna",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "22/05/05",
+        "time": null,
+        "home_team": "Lazio",
+        "away_team": "Fiorentina",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "22/05/05",
+        "time": null,
+        "home_team": "Livorno",
+        "away_team": "Juventus",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "22/05/05",
+        "time": null,
+        "home_team": "Parma",
+        "away_team": "Siena",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "22/05/05",
+        "time": null,
+        "home_team": "Reggina",
+        "away_team": "Lecce",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "22/05/05",
+        "time": null,
+        "home_team": "Sampdoria",
+        "away_team": "Inter",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "29/05/05",
+        "time": null,
+        "home_team": "Bologna",
+        "away_team": "Sampdoria",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "29/05/05",
+        "time": null,
+        "home_team": "Fiorentina",
+        "away_team": "Brescia",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "29/05/05",
+        "time": null,
+        "home_team": "Inter",
+        "away_team": "Reggina",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "29/05/05",
+        "time": null,
+        "home_team": "Juventus",
+        "away_team": "Cagliari",
+        "home_score": "4",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "29/05/05",
+        "time": null,
+        "home_team": "Lecce",
+        "away_team": "Parma",
+        "home_score": "3",
+        "away_score": "3",
+        "result": "D"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "29/05/05",
+        "time": null,
+        "home_team": "Messina",
+        "away_team": "Livorno",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "29/05/05",
+        "time": null,
+        "home_team": "Palermo",
+        "away_team": "Lazio",
+        "home_score": "3",
+        "away_score": "3",
+        "result": "D"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "29/05/05",
+        "time": null,
+        "home_team": "Roma",
+        "away_team": "Chievo",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "29/05/05",
+        "time": null,
+        "home_team": "Siena",
+        "away_team": "Atalanta",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 135,
+        "season": "2004",
+        "date": "29/05/05",
+        "time": null,
+        "home_team": "Udinese",
+        "away_team": "Milan",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    }
+]

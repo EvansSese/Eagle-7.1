@@ -1,0 +1,8112 @@
+[
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "10/08/02",
+        "time": null,
+        "home_team": "Boston",
+        "away_team": "Bournemouth",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "10/08/02",
+        "time": null,
+        "home_team": "Cambridge",
+        "away_team": "Darlington",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "10/08/02",
+        "time": null,
+        "home_team": "Carlisle",
+        "away_team": "Hartlepool",
+        "home_score": "1",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "10/08/02",
+        "time": null,
+        "home_team": "Hull",
+        "away_team": "Southend",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "10/08/02",
+        "time": null,
+        "home_team": "Kidderminster",
+        "away_team": "Lincoln",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "10/08/02",
+        "time": null,
+        "home_team": "Macclesfield",
+        "away_team": "York",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "10/08/02",
+        "time": null,
+        "home_team": "Oxford",
+        "away_team": "Bury",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "10/08/02",
+        "time": null,
+        "home_team": "Rochdale",
+        "away_team": "Leyton Orient",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "10/08/02",
+        "time": null,
+        "home_team": "Scunthorpe",
+        "away_team": "Wrexham",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "10/08/02",
+        "time": null,
+        "home_team": "Shrewsbury",
+        "away_team": "Exeter",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "10/08/02",
+        "time": null,
+        "home_team": "Swansea",
+        "away_team": "Rushden & D",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "10/08/02",
+        "time": null,
+        "home_team": "Torquay",
+        "away_team": "Bristol Rvs",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "13/08/02",
+        "time": null,
+        "home_team": "Bournemouth",
+        "away_team": "Kidderminster",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "13/08/02",
+        "time": null,
+        "home_team": "Bristol Rvs",
+        "away_team": "Hull",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "13/08/02",
+        "time": null,
+        "home_team": "Bury",
+        "away_team": "Cambridge",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "13/08/02",
+        "time": null,
+        "home_team": "Darlington",
+        "away_team": "Swansea",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "13/08/02",
+        "time": null,
+        "home_team": "Exeter",
+        "away_team": "Scunthorpe",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "13/08/02",
+        "time": null,
+        "home_team": "Hartlepool",
+        "away_team": "Boston",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "13/08/02",
+        "time": null,
+        "home_team": "Leyton Orient",
+        "away_team": "Macclesfield",
+        "home_score": "3",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "13/08/02",
+        "time": null,
+        "home_team": "Lincoln",
+        "away_team": "Rochdale",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "13/08/02",
+        "time": null,
+        "home_team": "Rushden & D",
+        "away_team": "Torquay",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "13/08/02",
+        "time": null,
+        "home_team": "Southend",
+        "away_team": "Carlisle",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "13/08/02",
+        "time": null,
+        "home_team": "Wrexham",
+        "away_team": "Oxford",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "13/08/02",
+        "time": null,
+        "home_team": "York",
+        "away_team": "Shrewsbury",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "17/08/02",
+        "time": null,
+        "home_team": "Bournemouth",
+        "away_team": "Cambridge",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "17/08/02",
+        "time": null,
+        "home_team": "Bristol Rvs",
+        "away_team": "Rochdale",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "17/08/02",
+        "time": null,
+        "home_team": "Bury",
+        "away_team": "Swansea",
+        "home_score": "3",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "17/08/02",
+        "time": null,
+        "home_team": "Darlington",
+        "away_team": "Oxford",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "17/08/02",
+        "time": null,
+        "home_team": "Exeter",
+        "away_team": "Hull",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "17/08/02",
+        "time": null,
+        "home_team": "Hartlepool",
+        "away_team": "Macclesfield",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "17/08/02",
+        "time": null,
+        "home_team": "Leyton Orient",
+        "away_team": "Scunthorpe",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "17/08/02",
+        "time": null,
+        "home_team": "Lincoln",
+        "away_team": "Carlisle",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "17/08/02",
+        "time": null,
+        "home_team": "Rushden & D",
+        "away_team": "Kidderminster",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "17/08/02",
+        "time": null,
+        "home_team": "Southend",
+        "away_team": "Shrewsbury",
+        "home_score": "2",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "17/08/02",
+        "time": null,
+        "home_team": "Wrexham",
+        "away_team": "Boston",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "17/08/02",
+        "time": null,
+        "home_team": "York",
+        "away_team": "Torquay",
+        "home_score": "4",
+        "away_score": "3",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "24/08/02",
+        "time": null,
+        "home_team": "Boston",
+        "away_team": "Lincoln",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "24/08/02",
+        "time": null,
+        "home_team": "Cambridge",
+        "away_team": "Leyton Orient",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "24/08/02",
+        "time": null,
+        "home_team": "Carlisle",
+        "away_team": "Bristol Rvs",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "24/08/02",
+        "time": null,
+        "home_team": "Hull",
+        "away_team": "Bury",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "24/08/02",
+        "time": null,
+        "home_team": "Kidderminster",
+        "away_team": "Exeter",
+        "home_score": "4",
+        "away_score": "3",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "24/08/02",
+        "time": null,
+        "home_team": "Macclesfield",
+        "away_team": "Wrexham",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "24/08/02",
+        "time": null,
+        "home_team": "Oxford",
+        "away_team": "Southend",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "24/08/02",
+        "time": null,
+        "home_team": "Rochdale",
+        "away_team": "Darlington",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "24/08/02",
+        "time": null,
+        "home_team": "Scunthorpe",
+        "away_team": "York",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "24/08/02",
+        "time": null,
+        "home_team": "Shrewsbury",
+        "away_team": "Rushden & D",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "24/08/02",
+        "time": null,
+        "home_team": "Swansea",
+        "away_team": "Bournemouth",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "24/08/02",
+        "time": null,
+        "home_team": "Torquay",
+        "away_team": "Hartlepool",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "26/08/02",
+        "time": null,
+        "home_team": "Bury",
+        "away_team": "Shrewsbury",
+        "home_score": "4",
+        "away_score": "3",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "26/08/02",
+        "time": null,
+        "home_team": "Exeter",
+        "away_team": "Torquay",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "26/08/02",
+        "time": null,
+        "home_team": "Hartlepool",
+        "away_team": "Hull",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "26/08/02",
+        "time": null,
+        "home_team": "Leyton Orient",
+        "away_team": "Kidderminster",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "26/08/02",
+        "time": null,
+        "home_team": "Lincoln",
+        "away_team": "Macclesfield",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "26/08/02",
+        "time": null,
+        "home_team": "Rushden & D",
+        "away_team": "Scunthorpe",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "26/08/02",
+        "time": null,
+        "home_team": "Southend",
+        "away_team": "Cambridge",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "26/08/02",
+        "time": null,
+        "home_team": "Wrexham",
+        "away_team": "Rochdale",
+        "home_score": "2",
+        "away_score": "5",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "26/08/02",
+        "time": null,
+        "home_team": "York",
+        "away_team": "Boston",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "27/08/02",
+        "time": null,
+        "home_team": "Bournemouth",
+        "away_team": "Oxford",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "27/08/02",
+        "time": null,
+        "home_team": "Bristol Rvs",
+        "away_team": "Swansea",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "27/08/02",
+        "time": null,
+        "home_team": "Darlington",
+        "away_team": "Carlisle",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "31/08/02",
+        "time": null,
+        "home_team": "Boston",
+        "away_team": "Bury",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "31/08/02",
+        "time": null,
+        "home_team": "Cambridge",
+        "away_team": "Rushden & D",
+        "home_score": "4",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "31/08/02",
+        "time": null,
+        "home_team": "Carlisle",
+        "away_team": "Exeter",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "31/08/02",
+        "time": null,
+        "home_team": "Hull",
+        "away_team": "Leyton Orient",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "31/08/02",
+        "time": null,
+        "home_team": "Kidderminster",
+        "away_team": "Darlington",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "31/08/02",
+        "time": null,
+        "home_team": "Macclesfield",
+        "away_team": "Bournemouth",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "31/08/02",
+        "time": null,
+        "home_team": "Oxford",
+        "away_team": "Hartlepool",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "31/08/02",
+        "time": null,
+        "home_team": "Rochdale",
+        "away_team": "Southend",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "31/08/02",
+        "time": null,
+        "home_team": "Scunthorpe",
+        "away_team": "Bristol Rvs",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "31/08/02",
+        "time": null,
+        "home_team": "Shrewsbury",
+        "away_team": "Lincoln",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "31/08/02",
+        "time": null,
+        "home_team": "Swansea",
+        "away_team": "York",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "31/08/02",
+        "time": null,
+        "home_team": "Torquay",
+        "away_team": "Wrexham",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "06/09/02",
+        "time": null,
+        "home_team": "Bury",
+        "away_team": "York",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "06/09/02",
+        "time": null,
+        "home_team": "Carlisle",
+        "away_team": "Rochdale",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "07/09/02",
+        "time": null,
+        "home_team": "Cambridge",
+        "away_team": "Hull",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "07/09/02",
+        "time": null,
+        "home_team": "Exeter",
+        "away_team": "Bournemouth",
+        "home_score": "1",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "07/09/02",
+        "time": null,
+        "home_team": "Kidderminster",
+        "away_team": "Boston",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "07/09/02",
+        "time": null,
+        "home_team": "Lincoln",
+        "away_team": "Scunthorpe",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "07/09/02",
+        "time": null,
+        "home_team": "Oxford",
+        "away_team": "Torquay",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "07/09/02",
+        "time": null,
+        "home_team": "Rushden & D",
+        "away_team": "Southend",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "07/09/02",
+        "time": null,
+        "home_team": "Shrewsbury",
+        "away_team": "Leyton Orient",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "07/09/02",
+        "time": null,
+        "home_team": "Swansea",
+        "away_team": "Hartlepool",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "08/09/02",
+        "time": null,
+        "home_team": "Macclesfield",
+        "away_team": "Bristol Rvs",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "14/09/02",
+        "time": null,
+        "home_team": "Boston",
+        "away_team": "Oxford",
+        "home_score": "1",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "14/09/02",
+        "time": null,
+        "home_team": "Bournemouth",
+        "away_team": "Bury",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "14/09/02",
+        "time": null,
+        "home_team": "Bristol Rvs",
+        "away_team": "Exeter",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "14/09/02",
+        "time": null,
+        "home_team": "Hartlepool",
+        "away_team": "Darlington",
+        "home_score": "4",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "14/09/02",
+        "time": null,
+        "home_team": "Hull",
+        "away_team": "Carlisle",
+        "home_score": "4",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "14/09/02",
+        "time": null,
+        "home_team": "Leyton Orient",
+        "away_team": "Lincoln",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "14/09/02",
+        "time": null,
+        "home_team": "Rochdale",
+        "away_team": "Shrewsbury",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "14/09/02",
+        "time": null,
+        "home_team": "Scunthorpe",
+        "away_team": "Kidderminster",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "14/09/02",
+        "time": null,
+        "home_team": "Southend",
+        "away_team": "Macclesfield",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "14/09/02",
+        "time": null,
+        "home_team": "Torquay",
+        "away_team": "Cambridge",
+        "home_score": "3",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "14/09/02",
+        "time": null,
+        "home_team": "Wrexham",
+        "away_team": "Swansea",
+        "home_score": "4",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "14/09/02",
+        "time": null,
+        "home_team": "York",
+        "away_team": "Rushden & D",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "17/09/02",
+        "time": null,
+        "home_team": "Bournemouth",
+        "away_team": "Rushden & D",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "17/09/02",
+        "time": null,
+        "home_team": "Bristol Rvs",
+        "away_team": "Bury",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "17/09/02",
+        "time": null,
+        "home_team": "Hartlepool",
+        "away_team": "Lincoln",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "17/09/02",
+        "time": null,
+        "home_team": "Hull",
+        "away_team": "Macclesfield",
+        "home_score": "1",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "17/09/02",
+        "time": null,
+        "home_team": "Leyton Orient",
+        "away_team": "Oxford",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "17/09/02",
+        "time": null,
+        "home_team": "Rochdale",
+        "away_team": "Cambridge",
+        "home_score": "4",
+        "away_score": "3",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "17/09/02",
+        "time": null,
+        "home_team": "Scunthorpe",
+        "away_team": "Carlisle",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "17/09/02",
+        "time": null,
+        "home_team": "Southend",
+        "away_team": "Kidderminster",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "17/09/02",
+        "time": null,
+        "home_team": "Torquay",
+        "away_team": "Shrewsbury",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "17/09/02",
+        "time": null,
+        "home_team": "Wrexham",
+        "away_team": "Exeter",
+        "home_score": "4",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "17/09/02",
+        "time": null,
+        "home_team": "York",
+        "away_team": "Darlington",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "18/09/02",
+        "time": null,
+        "home_team": "Boston",
+        "away_team": "Swansea",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "21/09/02",
+        "time": null,
+        "home_team": "Bury",
+        "away_team": "Hartlepool",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "21/09/02",
+        "time": null,
+        "home_team": "Cambridge",
+        "away_team": "York",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "21/09/02",
+        "time": null,
+        "home_team": "Carlisle",
+        "away_team": "Boston",
+        "home_score": "4",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "21/09/02",
+        "time": null,
+        "home_team": "Darlington",
+        "away_team": "Bournemouth",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "21/09/02",
+        "time": null,
+        "home_team": "Exeter",
+        "away_team": "Leyton Orient",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "21/09/02",
+        "time": null,
+        "home_team": "Kidderminster",
+        "away_team": "Rochdale",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "21/09/02",
+        "time": null,
+        "home_team": "Lincoln",
+        "away_team": "Southend",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "21/09/02",
+        "time": null,
+        "home_team": "Macclesfield",
+        "away_team": "Scunthorpe",
+        "home_score": "2",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "21/09/02",
+        "time": null,
+        "home_team": "Oxford",
+        "away_team": "Hull",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "21/09/02",
+        "time": null,
+        "home_team": "Rushden & D",
+        "away_team": "Wrexham",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "21/09/02",
+        "time": null,
+        "home_team": "Shrewsbury",
+        "away_team": "Bristol Rvs",
+        "home_score": "2",
+        "away_score": "5",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "21/09/02",
+        "time": null,
+        "home_team": "Swansea",
+        "away_team": "Torquay",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "24/09/02",
+        "time": null,
+        "home_team": "Darlington",
+        "away_team": "Wrexham",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "28/09/02",
+        "time": null,
+        "home_team": "Boston",
+        "away_team": "Cambridge",
+        "home_score": "1",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "28/09/02",
+        "time": null,
+        "home_team": "Bournemouth",
+        "away_team": "Carlisle",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "28/09/02",
+        "time": null,
+        "home_team": "Bristol Rvs",
+        "away_team": "Kidderminster",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "28/09/02",
+        "time": null,
+        "home_team": "Hartlepool",
+        "away_team": "Rushden & D",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "28/09/02",
+        "time": null,
+        "home_team": "Hull",
+        "away_team": "Swansea",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "28/09/02",
+        "time": null,
+        "home_team": "Leyton Orient",
+        "away_team": "Darlington",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "28/09/02",
+        "time": null,
+        "home_team": "Rochdale",
+        "away_team": "Macclesfield",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "28/09/02",
+        "time": null,
+        "home_team": "Scunthorpe",
+        "away_team": "Shrewsbury",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "28/09/02",
+        "time": null,
+        "home_team": "Southend",
+        "away_team": "Exeter",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "28/09/02",
+        "time": null,
+        "home_team": "Torquay",
+        "away_team": "Lincoln",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "28/09/02",
+        "time": null,
+        "home_team": "Wrexham",
+        "away_team": "Bury",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "28/09/02",
+        "time": null,
+        "home_team": "York",
+        "away_team": "Oxford",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "05/10/02",
+        "time": null,
+        "home_team": "Bury",
+        "away_team": "Southend",
+        "home_score": "1",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "05/10/02",
+        "time": null,
+        "home_team": "Cambridge",
+        "away_team": "Wrexham",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "05/10/02",
+        "time": null,
+        "home_team": "Carlisle",
+        "away_team": "Torquay",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "05/10/02",
+        "time": null,
+        "home_team": "Darlington",
+        "away_team": "Bristol Rvs",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "05/10/02",
+        "time": null,
+        "home_team": "Exeter",
+        "away_team": "York",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "05/10/02",
+        "time": null,
+        "home_team": "Kidderminster",
+        "away_team": "Hull",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "05/10/02",
+        "time": null,
+        "home_team": "Lincoln",
+        "away_team": "Bournemouth",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "05/10/02",
+        "time": null,
+        "home_team": "Macclesfield",
+        "away_team": "Boston",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "05/10/02",
+        "time": null,
+        "home_team": "Oxford",
+        "away_team": "Scunthorpe",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "05/10/02",
+        "time": null,
+        "home_team": "Rushden & D",
+        "away_team": "Leyton Orient",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "05/10/02",
+        "time": null,
+        "home_team": "Shrewsbury",
+        "away_team": "Hartlepool",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "05/10/02",
+        "time": null,
+        "home_team": "Swansea",
+        "away_team": "Rochdale",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "12/10/02",
+        "time": null,
+        "home_team": "Boston",
+        "away_team": "Torquay",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "12/10/02",
+        "time": null,
+        "home_team": "Bristol Rvs",
+        "away_team": "Lincoln",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "12/10/02",
+        "time": null,
+        "home_team": "Bury",
+        "away_team": "Darlington",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "12/10/02",
+        "time": null,
+        "home_team": "Carlisle",
+        "away_team": "Shrewsbury",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "12/10/02",
+        "time": null,
+        "home_team": "Exeter",
+        "away_team": "Rushden & D",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "12/10/02",
+        "time": null,
+        "home_team": "Hull",
+        "away_team": "Rochdale",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "12/10/02",
+        "time": null,
+        "home_team": "Kidderminster",
+        "away_team": "Macclesfield",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "12/10/02",
+        "time": null,
+        "home_team": "Oxford",
+        "away_team": "Swansea",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "12/10/02",
+        "time": null,
+        "home_team": "Scunthorpe",
+        "away_team": "Cambridge",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "12/10/02",
+        "time": null,
+        "home_team": "Southend",
+        "away_team": "York",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "12/10/02",
+        "time": null,
+        "home_team": "Wrexham",
+        "away_team": "Leyton Orient",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "13/10/02",
+        "time": null,
+        "home_team": "Bournemouth",
+        "away_team": "Hartlepool",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "19/10/02",
+        "time": null,
+        "home_team": "Cambridge",
+        "away_team": "Oxford",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "19/10/02",
+        "time": null,
+        "home_team": "Darlington",
+        "away_team": "Boston",
+        "home_score": "2",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "19/10/02",
+        "time": null,
+        "home_team": "Hartlepool",
+        "away_team": "Wrexham",
+        "home_score": "4",
+        "away_score": "3",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "19/10/02",
+        "time": null,
+        "home_team": "Leyton Orient",
+        "away_team": "Bournemouth",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "19/10/02",
+        "time": null,
+        "home_team": "Lincoln",
+        "away_team": "Exeter",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "19/10/02",
+        "time": null,
+        "home_team": "Macclesfield",
+        "away_team": "Carlisle",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "19/10/02",
+        "time": null,
+        "home_team": "Rochdale",
+        "away_team": "Scunthorpe",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "19/10/02",
+        "time": null,
+        "home_team": "Rushden & D",
+        "away_team": "Bury",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "19/10/02",
+        "time": null,
+        "home_team": "Shrewsbury",
+        "away_team": "Kidderminster",
+        "home_score": "2",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "19/10/02",
+        "time": null,
+        "home_team": "Swansea",
+        "away_team": "Southend",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "19/10/02",
+        "time": null,
+        "home_team": "Torquay",
+        "away_team": "Hull",
+        "home_score": "1",
+        "away_score": "4",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "19/10/02",
+        "time": null,
+        "home_team": "York",
+        "away_team": "Bristol Rvs",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "25/10/02",
+        "time": null,
+        "home_team": "Southend",
+        "away_team": "Hartlepool",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "26/10/02",
+        "time": null,
+        "home_team": "Boston",
+        "away_team": "Rochdale",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "26/10/02",
+        "time": null,
+        "home_team": "Bournemouth",
+        "away_team": "York",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "26/10/02",
+        "time": null,
+        "home_team": "Bristol Rvs",
+        "away_team": "Leyton Orient",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "26/10/02",
+        "time": null,
+        "home_team": "Bury",
+        "away_team": "Macclesfield",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "26/10/02",
+        "time": null,
+        "home_team": "Carlisle",
+        "away_team": "Swansea",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "26/10/02",
+        "time": null,
+        "home_team": "Exeter",
+        "away_team": "Darlington",
+        "home_score": "0",
+        "away_score": "4",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "26/10/02",
+        "time": null,
+        "home_team": "Hull",
+        "away_team": "Rushden & D",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "26/10/02",
+        "time": null,
+        "home_team": "Kidderminster",
+        "away_team": "Cambridge",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "26/10/02",
+        "time": null,
+        "home_team": "Oxford",
+        "away_team": "Shrewsbury",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "26/10/02",
+        "time": null,
+        "home_team": "Scunthorpe",
+        "away_team": "Torquay",
+        "home_score": "5",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "26/10/02",
+        "time": null,
+        "home_team": "Wrexham",
+        "away_team": "Lincoln",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "29/10/02",
+        "time": null,
+        "home_team": "Cambridge",
+        "away_team": "Carlisle",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "29/10/02",
+        "time": null,
+        "home_team": "Darlington",
+        "away_team": "Scunthorpe",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "29/10/02",
+        "time": null,
+        "home_team": "Hartlepool",
+        "away_team": "Bristol Rvs",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "29/10/02",
+        "time": null,
+        "home_team": "Leyton Orient",
+        "away_team": "Southend",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "29/10/02",
+        "time": null,
+        "home_team": "Lincoln",
+        "away_team": "Bury",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "29/10/02",
+        "time": null,
+        "home_team": "Macclesfield",
+        "away_team": "Oxford",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "29/10/02",
+        "time": null,
+        "home_team": "Rochdale",
+        "away_team": "Exeter",
+        "home_score": "3",
+        "away_score": "3",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "29/10/02",
+        "time": null,
+        "home_team": "Rushden & D",
+        "away_team": "Boston",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "29/10/02",
+        "time": null,
+        "home_team": "Shrewsbury",
+        "away_team": "Hull",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "29/10/02",
+        "time": null,
+        "home_team": "Swansea",
+        "away_team": "Kidderminster",
+        "home_score": "0",
+        "away_score": "4",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "29/10/02",
+        "time": null,
+        "home_team": "Torquay",
+        "away_team": "Bournemouth",
+        "home_score": "4",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "29/10/02",
+        "time": null,
+        "home_team": "York",
+        "away_team": "Wrexham",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "01/11/02",
+        "time": null,
+        "home_team": "Hartlepool",
+        "away_team": "York",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "02/11/02",
+        "time": null,
+        "home_team": "Boston",
+        "away_team": "Exeter",
+        "home_score": "0",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "02/11/02",
+        "time": null,
+        "home_team": "Bournemouth",
+        "away_team": "Bristol Rvs",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "02/11/02",
+        "time": null,
+        "home_team": "Cambridge",
+        "away_team": "Swansea",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "02/11/02",
+        "time": null,
+        "home_team": "Carlisle",
+        "away_team": "Oxford",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "02/11/02",
+        "time": null,
+        "home_team": "Darlington",
+        "away_team": "Lincoln",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "02/11/02",
+        "time": null,
+        "home_team": "Hull",
+        "away_team": "Scunthorpe",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "02/11/02",
+        "time": null,
+        "home_team": "Leyton Orient",
+        "away_team": "Bury",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "02/11/02",
+        "time": null,
+        "home_team": "Macclesfield",
+        "away_team": "Shrewsbury",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "02/11/02",
+        "time": null,
+        "home_team": "Rochdale",
+        "away_team": "Rushden & D",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "02/11/02",
+        "time": null,
+        "home_team": "Southend",
+        "away_team": "Wrexham",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "09/11/02",
+        "time": null,
+        "home_team": "Bristol Rvs",
+        "away_team": "Southend",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "09/11/02",
+        "time": null,
+        "home_team": "Bury",
+        "away_team": "Torquay",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "09/11/02",
+        "time": null,
+        "home_team": "Exeter",
+        "away_team": "Hartlepool",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "09/11/02",
+        "time": null,
+        "home_team": "Kidderminster",
+        "away_team": "Carlisle",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "09/11/02",
+        "time": null,
+        "home_team": "Lincoln",
+        "away_team": "Hull",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "09/11/02",
+        "time": null,
+        "home_team": "Oxford",
+        "away_team": "Rochdale",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "09/11/02",
+        "time": null,
+        "home_team": "Rushden & D",
+        "away_team": "Darlington",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "09/11/02",
+        "time": null,
+        "home_team": "Scunthorpe",
+        "away_team": "Boston",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "09/11/02",
+        "time": null,
+        "home_team": "Shrewsbury",
+        "away_team": "Cambridge",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "09/11/02",
+        "time": null,
+        "home_team": "Swansea",
+        "away_team": "Macclesfield",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "09/11/02",
+        "time": null,
+        "home_team": "Wrexham",
+        "away_team": "Bournemouth",
+        "home_score": "3",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "09/11/02",
+        "time": null,
+        "home_team": "York",
+        "away_team": "Leyton Orient",
+        "home_score": "3",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "19/11/02",
+        "time": null,
+        "home_team": "Torquay",
+        "away_team": "Kidderminster",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "23/11/02",
+        "time": null,
+        "home_team": "Bristol Rvs",
+        "away_team": "Wrexham",
+        "home_score": "0",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "23/11/02",
+        "time": null,
+        "home_team": "Carlisle",
+        "away_team": "Bury",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "23/11/02",
+        "time": null,
+        "home_team": "Exeter",
+        "away_team": "Cambridge",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "23/11/02",
+        "time": null,
+        "home_team": "Hull",
+        "away_team": "Boston",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "23/11/02",
+        "time": null,
+        "home_team": "Leyton Orient",
+        "away_team": "Hartlepool",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "23/11/02",
+        "time": null,
+        "home_team": "Lincoln",
+        "away_team": "Rushden & D",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "23/11/02",
+        "time": null,
+        "home_team": "Macclesfield",
+        "away_team": "Torquay",
+        "home_score": "3",
+        "away_score": "3",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "23/11/02",
+        "time": null,
+        "home_team": "Rochdale",
+        "away_team": "York",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "23/11/02",
+        "time": null,
+        "home_team": "Scunthorpe",
+        "away_team": "Swansea",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "23/11/02",
+        "time": null,
+        "home_team": "Shrewsbury",
+        "away_team": "Darlington",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "23/11/02",
+        "time": null,
+        "home_team": "Southend",
+        "away_team": "Bournemouth",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "30/11/02",
+        "time": null,
+        "home_team": "Boston",
+        "away_team": "Leyton Orient",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "30/11/02",
+        "time": null,
+        "home_team": "Bournemouth",
+        "away_team": "Scunthorpe",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "30/11/02",
+        "time": null,
+        "home_team": "Bury",
+        "away_team": "Exeter",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "30/11/02",
+        "time": null,
+        "home_team": "Cambridge",
+        "away_team": "Macclesfield",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "30/11/02",
+        "time": null,
+        "home_team": "Darlington",
+        "away_team": "Southend",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "30/11/02",
+        "time": null,
+        "home_team": "Hartlepool",
+        "away_team": "Kidderminster",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "30/11/02",
+        "time": null,
+        "home_team": "Oxford",
+        "away_team": "Lincoln",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "30/11/02",
+        "time": null,
+        "home_team": "Rushden & D",
+        "away_team": "Bristol Rvs",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "30/11/02",
+        "time": null,
+        "home_team": "Swansea",
+        "away_team": "Shrewsbury",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "30/11/02",
+        "time": null,
+        "home_team": "Torquay",
+        "away_team": "Rochdale",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "30/11/02",
+        "time": null,
+        "home_team": "Wrexham",
+        "away_team": "Hull",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "30/11/02",
+        "time": null,
+        "home_team": "York",
+        "away_team": "Carlisle",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "14/12/02",
+        "time": null,
+        "home_team": "Bristol Rvs",
+        "away_team": "Oxford",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "14/12/02",
+        "time": null,
+        "home_team": "Carlisle",
+        "away_team": "Wrexham",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "14/12/02",
+        "time": null,
+        "home_team": "Exeter",
+        "away_team": "Swansea",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "14/12/02",
+        "time": null,
+        "home_team": "Hull",
+        "away_team": "Darlington",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "14/12/02",
+        "time": null,
+        "home_team": "Kidderminster",
+        "away_team": "York",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "14/12/02",
+        "time": null,
+        "home_team": "Leyton Orient",
+        "away_team": "Torquay",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "14/12/02",
+        "time": null,
+        "home_team": "Lincoln",
+        "away_team": "Cambridge",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "14/12/02",
+        "time": null,
+        "home_team": "Macclesfield",
+        "away_team": "Rushden & D",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "14/12/02",
+        "time": null,
+        "home_team": "Rochdale",
+        "away_team": "Hartlepool",
+        "home_score": "4",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "14/12/02",
+        "time": null,
+        "home_team": "Scunthorpe",
+        "away_team": "Bury",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "14/12/02",
+        "time": null,
+        "home_team": "Shrewsbury",
+        "away_team": "Bournemouth",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "14/12/02",
+        "time": null,
+        "home_team": "Southend",
+        "away_team": "Boston",
+        "home_score": "4",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "20/12/02",
+        "time": null,
+        "home_team": "York",
+        "away_team": "Lincoln",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "21/12/02",
+        "time": null,
+        "home_team": "Boston",
+        "away_team": "Shrewsbury",
+        "home_score": "6",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "21/12/02",
+        "time": null,
+        "home_team": "Bournemouth",
+        "away_team": "Hull",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "21/12/02",
+        "time": null,
+        "home_team": "Bury",
+        "away_team": "Rochdale",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "21/12/02",
+        "time": null,
+        "home_team": "Cambridge",
+        "away_team": "Bristol Rvs",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "21/12/02",
+        "time": null,
+        "home_team": "Darlington",
+        "away_team": "Macclesfield",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "21/12/02",
+        "time": null,
+        "home_team": "Hartlepool",
+        "away_team": "Scunthorpe",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "21/12/02",
+        "time": null,
+        "home_team": "Oxford",
+        "away_team": "Exeter",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "21/12/02",
+        "time": null,
+        "home_team": "Rushden & D",
+        "away_team": "Carlisle",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "21/12/02",
+        "time": null,
+        "home_team": "Swansea",
+        "away_team": "Leyton Orient",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "21/12/02",
+        "time": null,
+        "home_team": "Torquay",
+        "away_team": "Southend",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "21/12/02",
+        "time": null,
+        "home_team": "Wrexham",
+        "away_team": "Kidderminster",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "26/12/02",
+        "time": null,
+        "home_team": "Boston",
+        "away_team": "York",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "26/12/02",
+        "time": null,
+        "home_team": "Cambridge",
+        "away_team": "Southend",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "26/12/02",
+        "time": null,
+        "home_team": "Carlisle",
+        "away_team": "Darlington",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "26/12/02",
+        "time": null,
+        "home_team": "Hull",
+        "away_team": "Hartlepool",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "26/12/02",
+        "time": null,
+        "home_team": "Kidderminster",
+        "away_team": "Leyton Orient",
+        "home_score": "3",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "26/12/02",
+        "time": null,
+        "home_team": "Macclesfield",
+        "away_team": "Lincoln",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "26/12/02",
+        "time": null,
+        "home_team": "Oxford",
+        "away_team": "Bournemouth",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "26/12/02",
+        "time": null,
+        "home_team": "Rochdale",
+        "away_team": "Wrexham",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "26/12/02",
+        "time": null,
+        "home_team": "Scunthorpe",
+        "away_team": "Rushden & D",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "26/12/02",
+        "time": null,
+        "home_team": "Shrewsbury",
+        "away_team": "Bury",
+        "home_score": "4",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "26/12/02",
+        "time": null,
+        "home_team": "Swansea",
+        "away_team": "Bristol Rvs",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "28/12/02",
+        "time": null,
+        "home_team": "Bournemouth",
+        "away_team": "Rochdale",
+        "home_score": "3",
+        "away_score": "3",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "28/12/02",
+        "time": null,
+        "home_team": "Bristol Rvs",
+        "away_team": "Boston",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "28/12/02",
+        "time": null,
+        "home_team": "Darlington",
+        "away_team": "Torquay",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "28/12/02",
+        "time": null,
+        "home_team": "Exeter",
+        "away_team": "Macclesfield",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "28/12/02",
+        "time": null,
+        "home_team": "Hartlepool",
+        "away_team": "Cambridge",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "28/12/02",
+        "time": null,
+        "home_team": "Leyton Orient",
+        "away_team": "Carlisle",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "28/12/02",
+        "time": null,
+        "home_team": "Lincoln",
+        "away_team": "Swansea",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "28/12/02",
+        "time": null,
+        "home_team": "Rushden & D",
+        "away_team": "Oxford",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "28/12/02",
+        "time": null,
+        "home_team": "York",
+        "away_team": "Hull",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "29/12/02",
+        "time": null,
+        "home_team": "Bury",
+        "away_team": "Kidderminster",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "29/12/02",
+        "time": null,
+        "home_team": "Southend",
+        "away_team": "Scunthorpe",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "01/01/03",
+        "time": null,
+        "home_team": "Bury",
+        "away_team": "Hull",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "01/01/03",
+        "time": null,
+        "home_team": "Hartlepool",
+        "away_team": "Carlisle",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "01/01/03",
+        "time": null,
+        "home_team": "Lincoln",
+        "away_team": "Boston",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "01/01/03",
+        "time": null,
+        "home_team": "Rushden & D",
+        "away_team": "Shrewsbury",
+        "home_score": "5",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "01/01/03",
+        "time": null,
+        "home_team": "Wrexham",
+        "away_team": "Macclesfield",
+        "home_score": "1",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "01/01/03",
+        "time": null,
+        "home_team": "York",
+        "away_team": "Scunthorpe",
+        "home_score": "1",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "04/01/03",
+        "time": null,
+        "home_team": "Boston",
+        "away_team": "Hartlepool",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "04/01/03",
+        "time": null,
+        "home_team": "Carlisle",
+        "away_team": "Southend",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "04/01/03",
+        "time": null,
+        "home_team": "Hull",
+        "away_team": "Bristol Rvs",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "04/01/03",
+        "time": null,
+        "home_team": "Torquay",
+        "away_team": "Rushden & D",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "11/01/03",
+        "time": null,
+        "home_team": "Hull",
+        "away_team": "Exeter",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "11/01/03",
+        "time": null,
+        "home_team": "Kidderminster",
+        "away_team": "Rushden & D",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "11/01/03",
+        "time": null,
+        "home_team": "Scunthorpe",
+        "away_team": "Leyton Orient",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "11/01/03",
+        "time": null,
+        "home_team": "Torquay",
+        "away_team": "York",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "14/01/03",
+        "time": null,
+        "home_team": "Bristol Rvs",
+        "away_team": "Torquay",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "14/01/03",
+        "time": null,
+        "home_team": "Oxford",
+        "away_team": "Darlington",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "14/01/03",
+        "time": null,
+        "home_team": "Shrewsbury",
+        "away_team": "Southend",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "14/01/03",
+        "time": null,
+        "home_team": "Swansea",
+        "away_team": "Bury",
+        "home_score": "2",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "18/01/03",
+        "time": null,
+        "home_team": "Bournemouth",
+        "away_team": "Macclesfield",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "18/01/03",
+        "time": null,
+        "home_team": "Bristol Rvs",
+        "away_team": "Scunthorpe",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "18/01/03",
+        "time": null,
+        "home_team": "Bury",
+        "away_team": "Boston",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "18/01/03",
+        "time": null,
+        "home_team": "Darlington",
+        "away_team": "Kidderminster",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "18/01/03",
+        "time": null,
+        "home_team": "Exeter",
+        "away_team": "Carlisle",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "18/01/03",
+        "time": null,
+        "home_team": "Hartlepool",
+        "away_team": "Oxford",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "18/01/03",
+        "time": null,
+        "home_team": "Leyton Orient",
+        "away_team": "Hull",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "18/01/03",
+        "time": null,
+        "home_team": "Lincoln",
+        "away_team": "Shrewsbury",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "18/01/03",
+        "time": null,
+        "home_team": "Rushden & D",
+        "away_team": "Cambridge",
+        "home_score": "4",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "18/01/03",
+        "time": null,
+        "home_team": "Southend",
+        "away_team": "Rochdale",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "18/01/03",
+        "time": null,
+        "home_team": "Wrexham",
+        "away_team": "Torquay",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "18/01/03",
+        "time": null,
+        "home_team": "York",
+        "away_team": "Swansea",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "21/01/03",
+        "time": null,
+        "home_team": "Macclesfield",
+        "away_team": "Hartlepool",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "21/01/03",
+        "time": null,
+        "home_team": "Rochdale",
+        "away_team": "Lincoln",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "21/01/03",
+        "time": null,
+        "home_team": "Scunthorpe",
+        "away_team": "Exeter",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "21/01/03",
+        "time": null,
+        "home_team": "Southend",
+        "away_team": "Oxford",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "25/01/03",
+        "time": null,
+        "home_team": "Boston",
+        "away_team": "Bristol Rvs",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "25/01/03",
+        "time": null,
+        "home_team": "Cambridge",
+        "away_team": "Hartlepool",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "25/01/03",
+        "time": null,
+        "home_team": "Carlisle",
+        "away_team": "Leyton Orient",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "25/01/03",
+        "time": null,
+        "home_team": "Hull",
+        "away_team": "York",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "25/01/03",
+        "time": null,
+        "home_team": "Kidderminster",
+        "away_team": "Bury",
+        "home_score": "3",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "25/01/03",
+        "time": null,
+        "home_team": "Macclesfield",
+        "away_team": "Exeter",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "25/01/03",
+        "time": null,
+        "home_team": "Oxford",
+        "away_team": "Rushden & D",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "25/01/03",
+        "time": null,
+        "home_team": "Scunthorpe",
+        "away_team": "Southend",
+        "home_score": "4",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "25/01/03",
+        "time": null,
+        "home_team": "Swansea",
+        "away_team": "Lincoln",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "25/01/03",
+        "time": null,
+        "home_team": "Torquay",
+        "away_team": "Darlington",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "28/01/03",
+        "time": null,
+        "home_team": "Kidderminster",
+        "away_team": "Oxford",
+        "home_score": "1",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "28/01/03",
+        "time": null,
+        "home_team": "Leyton Orient",
+        "away_team": "Cambridge",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "01/02/03",
+        "time": null,
+        "home_team": "Bournemouth",
+        "away_team": "Boston",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "01/02/03",
+        "time": null,
+        "home_team": "Bristol Rvs",
+        "away_team": "Carlisle",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "01/02/03",
+        "time": null,
+        "home_team": "Exeter",
+        "away_team": "Shrewsbury",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": "2002",
+        "date": "01/02/03",
+        "time": null,
+        "home_team": "Hartlepool",
+        "away_team": "Torquay",
+        "home_score": "3",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "01/02/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Rushden & D",
+        "away_team": "Swansea",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "01/02/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Southend",
+        "away_team": "Hull",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "01/02/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Wrexham",
+        "away_team": "Scunthorpe",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "02/02/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "York",
+        "away_team": "Macclesfield",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "04/02/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Cambridge",
+        "away_team": "Bury",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "04/02/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Carlisle",
+        "away_team": "Lincoln",
+        "home_score": "1",
+        "away_score": "4",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "04/02/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Kidderminster",
+        "away_team": "Bournemouth",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "04/02/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Oxford",
+        "away_team": "Wrexham",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "04/02/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Swansea",
+        "away_team": "Darlington",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "08/02/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Boston",
+        "away_team": "Scunthorpe",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "08/02/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Bournemouth",
+        "away_team": "Wrexham",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "08/02/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Cambridge",
+        "away_team": "Shrewsbury",
+        "home_score": "5",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "08/02/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Carlisle",
+        "away_team": "Kidderminster",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "08/02/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Darlington",
+        "away_team": "Rushden & D",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "08/02/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Hartlepool",
+        "away_team": "Exeter",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "08/02/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Hull",
+        "away_team": "Lincoln",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "08/02/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Leyton Orient",
+        "away_team": "York",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "08/02/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Macclesfield",
+        "away_team": "Swansea",
+        "home_score": "1",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "08/02/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Rochdale",
+        "away_team": "Oxford",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "08/02/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Southend",
+        "away_team": "Bristol Rvs",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "08/02/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Torquay",
+        "away_team": "Bury",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "11/02/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Bournemouth",
+        "away_team": "Swansea",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "11/02/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Darlington",
+        "away_team": "Rochdale",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "11/02/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Shrewsbury",
+        "away_team": "York",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "11/02/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Torquay",
+        "away_team": "Exeter",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "15/02/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Bristol Rvs",
+        "away_team": "Bournemouth",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "15/02/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Bury",
+        "away_team": "Leyton Orient",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "15/02/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Exeter",
+        "away_team": "Boston",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "15/02/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Kidderminster",
+        "away_team": "Torquay",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "15/02/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Lincoln",
+        "away_team": "Darlington",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "15/02/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Scunthorpe",
+        "away_team": "Hull",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "15/02/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Swansea",
+        "away_team": "Cambridge",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "15/02/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Wrexham",
+        "away_team": "Southend",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "15/02/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "York",
+        "away_team": "Hartlepool",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "18/02/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Exeter",
+        "away_team": "Kidderminster",
+        "home_score": "2",
+        "away_score": "5",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "22/02/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Boston",
+        "away_team": "Kidderminster",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "22/02/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Bournemouth",
+        "away_team": "Exeter",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "22/02/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Bristol Rvs",
+        "away_team": "Macclesfield",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "22/02/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Hartlepool",
+        "away_team": "Swansea",
+        "home_score": "4",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "22/02/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Hull",
+        "away_team": "Cambridge",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "22/02/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Leyton Orient",
+        "away_team": "Shrewsbury",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "22/02/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Rochdale",
+        "away_team": "Carlisle",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "22/02/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Scunthorpe",
+        "away_team": "Lincoln",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "22/02/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Southend",
+        "away_team": "Rushden & D",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "22/02/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Torquay",
+        "away_team": "Oxford",
+        "home_score": "2",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "22/02/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "York",
+        "away_team": "Bury",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "23/02/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Wrexham",
+        "away_team": "Darlington",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "25/02/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Leyton Orient",
+        "away_team": "Rochdale",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "01/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Bury",
+        "away_team": "Bournemouth",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "01/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Cambridge",
+        "away_team": "Torquay",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "01/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Carlisle",
+        "away_team": "Hull",
+        "home_score": "1",
+        "away_score": "5",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "01/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Darlington",
+        "away_team": "Hartlepool",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "01/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Exeter",
+        "away_team": "Bristol Rvs",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "01/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Kidderminster",
+        "away_team": "Scunthorpe",
+        "home_score": "1",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "01/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Lincoln",
+        "away_team": "Leyton Orient",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "01/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Macclesfield",
+        "away_team": "Southend",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "01/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Oxford",
+        "away_team": "Boston",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "01/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Rushden & D",
+        "away_team": "York",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "01/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Shrewsbury",
+        "away_team": "Rochdale",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "01/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Swansea",
+        "away_team": "Wrexham",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "04/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Bury",
+        "away_team": "Bristol Rvs",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "04/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Cambridge",
+        "away_team": "Rochdale",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "04/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Darlington",
+        "away_team": "York",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "04/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Exeter",
+        "away_team": "Wrexham",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "04/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Kidderminster",
+        "away_team": "Southend",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "04/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Lincoln",
+        "away_team": "Hartlepool",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "04/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Macclesfield",
+        "away_team": "Hull",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "04/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Oxford",
+        "away_team": "Leyton Orient",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "04/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Rushden & D",
+        "away_team": "Bournemouth",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "04/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Swansea",
+        "away_team": "Boston",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "07/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Hartlepool",
+        "away_team": "Bury",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "08/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Boston",
+        "away_team": "Carlisle",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "08/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Bournemouth",
+        "away_team": "Darlington",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "08/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Bristol Rvs",
+        "away_team": "Shrewsbury",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "08/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Hull",
+        "away_team": "Oxford",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "08/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Leyton Orient",
+        "away_team": "Exeter",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "08/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Scunthorpe",
+        "away_team": "Macclesfield",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "08/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Southend",
+        "away_team": "Lincoln",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "08/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Torquay",
+        "away_team": "Swansea",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "08/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Wrexham",
+        "away_team": "Rushden & D",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "08/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "York",
+        "away_team": "Cambridge",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "11/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Carlisle",
+        "away_team": "Scunthorpe",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "11/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Darlington",
+        "away_team": "Cambridge",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "11/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Macclesfield",
+        "away_team": "Leyton Orient",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "11/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Rochdale",
+        "away_team": "Bournemouth",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "11/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Wrexham",
+        "away_team": "Shrewsbury",
+        "home_score": "3",
+        "away_score": "3",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "15/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Cambridge",
+        "away_team": "Kidderminster",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "15/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Darlington",
+        "away_team": "Exeter",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "15/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Hartlepool",
+        "away_team": "Southend",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "15/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Leyton Orient",
+        "away_team": "Bristol Rvs",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "15/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Lincoln",
+        "away_team": "Wrexham",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "15/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Macclesfield",
+        "away_team": "Bury",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "15/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Rochdale",
+        "away_team": "Boston",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "15/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Rushden & D",
+        "away_team": "Hull",
+        "home_score": "4",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "15/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Shrewsbury",
+        "away_team": "Oxford",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "15/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Swansea",
+        "away_team": "Carlisle",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "15/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Torquay",
+        "away_team": "Scunthorpe",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "15/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "York",
+        "away_team": "Bournemouth",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "18/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Bournemouth",
+        "away_team": "Leyton Orient",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "18/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Bristol Rvs",
+        "away_team": "York",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "18/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Bury",
+        "away_team": "Rushden & D",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "18/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Carlisle",
+        "away_team": "Macclesfield",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "18/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Exeter",
+        "away_team": "Lincoln",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "18/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Hull",
+        "away_team": "Torquay",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "18/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Kidderminster",
+        "away_team": "Shrewsbury",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "18/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Oxford",
+        "away_team": "Cambridge",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "18/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Scunthorpe",
+        "away_team": "Rochdale",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "18/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Southend",
+        "away_team": "Swansea",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "18/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Wrexham",
+        "away_team": "Hartlepool",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "19/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Boston",
+        "away_team": "Darlington",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "22/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Boston",
+        "away_team": "Rushden & D",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "22/03/03",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Bournemouth",
+        "away_team": "Torquay",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "22/03/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Bristol Rvs",
+        "away_team": "Hartlepool",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "22/03/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Bury",
+        "away_team": "Lincoln",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "22/03/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Carlisle",
+        "away_team": "Cambridge",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "22/03/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Exeter",
+        "away_team": "Rochdale",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "22/03/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Hull",
+        "away_team": "Shrewsbury",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "22/03/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Kidderminster",
+        "away_team": "Swansea",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "22/03/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Oxford",
+        "away_team": "Macclesfield",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "22/03/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Scunthorpe",
+        "away_team": "Darlington",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "22/03/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Southend",
+        "away_team": "Leyton Orient",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "22/03/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Wrexham",
+        "away_team": "York",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "24/03/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Rushden & D",
+        "away_team": "Rochdale",
+        "home_score": "3",
+        "away_score": "3",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "25/03/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Bury",
+        "away_team": "Oxford",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "25/03/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Cambridge",
+        "away_team": "Bournemouth",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "25/03/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Lincoln",
+        "away_team": "Kidderminster",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "25/03/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Shrewsbury",
+        "away_team": "Torquay",
+        "home_score": "2",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "29/03/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Cambridge",
+        "away_team": "Scunthorpe",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "29/03/03",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Darlington",
+        "away_team": "Bury",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "29/03/03",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Hartlepool",
+        "away_team": "Bournemouth",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "29/03/03",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Lincoln",
+        "away_team": "Bristol Rvs",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "29/03/03",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Macclesfield",
+        "away_team": "Kidderminster",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "29/03/03",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Rushden & D",
+        "away_team": "Exeter",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "29/03/03",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Torquay",
+        "away_team": "Boston",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "29/03/03",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "York",
+        "away_team": "Southend",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "28/03/03",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Swansea",
+        "away_team": "Oxford",
+        "home_score": "3",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "01/04/03",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Oxford",
+        "away_team": "Carlisle",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "02/04/03",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Boston",
+        "away_team": "Wrexham",
+        "home_score": "3",
+        "away_score": "3",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "05/04/03",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Bristol Rvs",
+        "away_team": "Rushden & D",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "05/04/03",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Exeter",
+        "away_team": "Bury",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "05/04/03",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Hull",
+        "away_team": "Wrexham",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "05/04/03",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Kidderminster",
+        "away_team": "Hartlepool",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "05/04/03",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Leyton Orient",
+        "away_team": "Boston",
+        "home_score": "3",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "05/04/03",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Lincoln",
+        "away_team": "Oxford",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "05/04/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Macclesfield",
+        "away_team": "Cambridge",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "05/04/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Rochdale",
+        "away_team": "Torquay",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "05/04/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Scunthorpe",
+        "away_team": "Bournemouth",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "05/04/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Shrewsbury",
+        "away_team": "Swansea",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "05/04/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Southend",
+        "away_team": "Darlington",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "08/04/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Rochdale",
+        "away_team": "Bristol Rvs",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "09/04/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Shrewsbury",
+        "away_team": "Wrexham",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "12/04/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Boston",
+        "away_team": "Hull",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "12/04/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Bournemouth",
+        "away_team": "Southend",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "12/04/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Bury",
+        "away_team": "Carlisle",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "12/04/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Cambridge",
+        "away_team": "Exeter",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "12/04/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Darlington",
+        "away_team": "Shrewsbury",
+        "home_score": "5",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "12/04/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Hartlepool",
+        "away_team": "Leyton Orient",
+        "home_score": "4",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "12/04/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Oxford",
+        "away_team": "Kidderminster",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "12/04/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Rushden & D",
+        "away_team": "Lincoln",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "12/04/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Swansea",
+        "away_team": "Scunthorpe",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "12/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Torquay",
+        "away_team": "Macclesfield",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "12/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Wrexham",
+        "away_team": "Bristol Rvs",
+        "home_score": "3",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "12/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "York",
+        "away_team": "Rochdale",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "15/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Carlisle",
+        "away_team": "York",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "15/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Rochdale",
+        "away_team": "Kidderminster",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "15/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Shrewsbury",
+        "away_team": "Macclesfield",
+        "home_score": "2",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "18/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Rochdale",
+        "away_team": "Bury",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "19/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Bristol Rvs",
+        "away_team": "Cambridge",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "19/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Carlisle",
+        "away_team": "Rushden & D",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "19/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Exeter",
+        "away_team": "Oxford",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "19/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Hull",
+        "away_team": "Bournemouth",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "19/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Kidderminster",
+        "away_team": "Wrexham",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "19/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Leyton Orient",
+        "away_team": "Swansea",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "19/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Lincoln",
+        "away_team": "York",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "19/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Macclesfield",
+        "away_team": "Darlington",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "19/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Scunthorpe",
+        "away_team": "Hartlepool",
+        "home_score": "4",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "19/04/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Shrewsbury",
+        "away_team": "Boston",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "19/04/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Southend",
+        "away_team": "Torquay",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "21/04/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Boston",
+        "away_team": "Southend",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "21/04/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Bournemouth",
+        "away_team": "Shrewsbury",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "21/04/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Bury",
+        "away_team": "Scunthorpe",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "21/04/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Darlington",
+        "away_team": "Hull",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "21/04/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Hartlepool",
+        "away_team": "Rochdale",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "21/04/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Oxford",
+        "away_team": "Bristol Rvs",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "21/04/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Rushden & D",
+        "away_team": "Macclesfield",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "21/04/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Swansea",
+        "away_team": "Exeter",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "21/04/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Torquay",
+        "away_team": "Leyton Orient",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "21/04/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Wrexham",
+        "away_team": "Carlisle",
+        "home_score": "6",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "21/04/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "York",
+        "away_team": "Kidderminster",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "22/04/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Cambridge",
+        "away_team": "Lincoln",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "26/04/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Boston",
+        "away_team": "Macclesfield",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "26/04/03",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Bournemouth",
+        "away_team": "Lincoln",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "26/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Bristol Rvs",
+        "away_team": "Darlington",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "26/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Hartlepool",
+        "away_team": "Shrewsbury",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "26/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Hull",
+        "away_team": "Kidderminster",
+        "home_score": "4",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "26/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Leyton Orient",
+        "away_team": "Rushden & D",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "26/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Rochdale",
+        "away_team": "Swansea",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "26/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Scunthorpe",
+        "away_team": "Oxford",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "26/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Southend",
+        "away_team": "Bury",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "26/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Torquay",
+        "away_team": "Carlisle",
+        "home_score": "2",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "26/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Wrexham",
+        "away_team": "Cambridge",
+        "home_score": "5",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "26/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "York",
+        "away_team": "Exeter",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "29/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Leyton Orient",
+        "away_team": "Wrexham",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "29/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Rochdale",
+        "away_team": "Hull",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "29/04/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Shrewsbury",
+        "away_team": "Carlisle",
+        "home_score": "2",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "03/05/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Bury",
+        "away_team": "Wrexham",
+        "home_score": "0",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "03/05/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Cambridge",
+        "away_team": "Boston",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "03/05/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Carlisle",
+        "away_team": "Bournemouth",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "03/05/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Darlington",
+        "away_team": "Leyton Orient",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "03/05/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Exeter",
+        "away_team": "Southend",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "03/05/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Kidderminster",
+        "away_team": "Bristol Rvs",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "03/05/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Lincoln",
+        "away_team": "Torquay",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "03/05/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Macclesfield",
+        "away_team": "Rochdale",
+        "home_score": "3",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "03/05/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Oxford",
+        "away_team": "York",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "03/05/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Rushden & D",
+        "away_team": "Hartlepool",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "03/05/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Shrewsbury",
+        "away_team": "Scunthorpe",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 42,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "03/05/03",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Swansea",
+        "away_team": "Hull",
+        "home_score": "4",
+        "away_score": "2",
+        "result": "H"
+    }
+]

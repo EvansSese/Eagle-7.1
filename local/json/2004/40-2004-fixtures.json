@@ -1,0 +1,7642 @@
+[
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "07/08/04",
+        "time": null,
+        "home_team": "Burnley",
+        "away_team": "Sheffield United",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "07/08/04",
+        "time": null,
+        "home_team": "Coventry",
+        "away_team": "Sunderland",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "07/08/04",
+        "time": null,
+        "home_team": "Crewe",
+        "away_team": "Cardiff",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "07/08/04",
+        "time": null,
+        "home_team": "Ipswich",
+        "away_team": "Gillingham",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "07/08/04",
+        "time": null,
+        "home_team": "Leeds",
+        "away_team": "Derby",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "07/08/04",
+        "time": null,
+        "home_team": "Leicester",
+        "away_team": "West Ham",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "07/08/04",
+        "time": null,
+        "home_team": "Plymouth",
+        "away_team": "Millwall",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "07/08/04",
+        "time": null,
+        "home_team": "Preston",
+        "away_team": "Watford",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "07/08/04",
+        "time": null,
+        "home_team": "QPR",
+        "away_team": "Rotherham",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "07/08/04",
+        "time": null,
+        "home_team": "Reading",
+        "away_team": "Brighton",
+        "home_score": "3",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "07/08/04",
+        "time": null,
+        "home_team": "Wigan",
+        "away_team": "Nott'm Forest",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "08/08/04",
+        "time": null,
+        "home_team": "Stoke",
+        "away_team": "Wolves",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "09/08/04",
+        "time": null,
+        "home_team": "Watford",
+        "away_team": "QPR",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "10/08/04",
+        "time": null,
+        "home_team": "Brighton",
+        "away_team": "Plymouth",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "10/08/04",
+        "time": null,
+        "home_team": "Cardiff",
+        "away_team": "Coventry",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "10/08/04",
+        "time": null,
+        "home_team": "Gillingham",
+        "away_team": "Leeds",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "10/08/04",
+        "time": null,
+        "home_team": "Millwall",
+        "away_team": "Wigan",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "10/08/04",
+        "time": null,
+        "home_team": "Rotherham",
+        "away_team": "Burnley",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "10/08/04",
+        "time": null,
+        "home_team": "Sheffield United",
+        "away_team": "Stoke",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "10/08/04",
+        "time": null,
+        "home_team": "Sunderland",
+        "away_team": "Crewe",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "10/08/04",
+        "time": null,
+        "home_team": "West Ham",
+        "away_team": "Reading",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "11/08/04",
+        "time": null,
+        "home_team": "Derby",
+        "away_team": "Leicester",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "11/08/04",
+        "time": null,
+        "home_team": "Nott'm Forest",
+        "away_team": "Ipswich",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "11/08/04",
+        "time": null,
+        "home_team": "Wolves",
+        "away_team": "Preston",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "13/08/04",
+        "time": null,
+        "home_team": "Cardiff",
+        "away_team": "Plymouth",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "14/08/04",
+        "time": null,
+        "home_team": "Brighton",
+        "away_team": "Coventry",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "14/08/04",
+        "time": null,
+        "home_team": "Derby",
+        "away_team": "Ipswich",
+        "home_score": "3",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "14/08/04",
+        "time": null,
+        "home_team": "Gillingham",
+        "away_team": "Preston",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "14/08/04",
+        "time": null,
+        "home_team": "Millwall",
+        "away_team": "Leicester",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "14/08/04",
+        "time": null,
+        "home_team": "Nott'm Forest",
+        "away_team": "Crewe",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "14/08/04",
+        "time": null,
+        "home_team": "Rotherham",
+        "away_team": "Stoke",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "14/08/04",
+        "time": null,
+        "home_team": "Sheffield United",
+        "away_team": "Reading",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "14/08/04",
+        "time": null,
+        "home_team": "Sunderland",
+        "away_team": "QPR",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "14/08/04",
+        "time": null,
+        "home_team": "Watford",
+        "away_team": "Burnley",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "14/08/04",
+        "time": null,
+        "home_team": "Wolves",
+        "away_team": "Leeds",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "15/08/04",
+        "time": null,
+        "home_team": "West Ham",
+        "away_team": "Wigan",
+        "home_score": "1",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "20/08/04",
+        "time": null,
+        "home_team": "Preston",
+        "away_team": "Sheffield United",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "21/08/04",
+        "time": null,
+        "home_team": "Burnley",
+        "away_team": "Wolves",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "21/08/04",
+        "time": null,
+        "home_team": "Coventry",
+        "away_team": "Millwall",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "21/08/04",
+        "time": null,
+        "home_team": "Crewe",
+        "away_team": "West Ham",
+        "home_score": "2",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "21/08/04",
+        "time": null,
+        "home_team": "Ipswich",
+        "away_team": "Cardiff",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "21/08/04",
+        "time": null,
+        "home_team": "Leeds",
+        "away_team": "Nott'm Forest",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "21/08/04",
+        "time": null,
+        "home_team": "Leicester",
+        "away_team": "Watford",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "21/08/04",
+        "time": null,
+        "home_team": "Plymouth",
+        "away_team": "Sunderland",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "21/08/04",
+        "time": null,
+        "home_team": "QPR",
+        "away_team": "Derby",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "21/08/04",
+        "time": null,
+        "home_team": "Reading",
+        "away_team": "Rotherham",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "21/08/04",
+        "time": null,
+        "home_team": "Stoke",
+        "away_team": "Gillingham",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "21/08/04",
+        "time": null,
+        "home_team": "Wigan",
+        "away_team": "Brighton",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "27/08/04",
+        "time": null,
+        "home_team": "Gillingham",
+        "away_team": "QPR",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "28/08/04",
+        "time": null,
+        "home_team": "Brighton",
+        "away_team": "Preston",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "28/08/04",
+        "time": null,
+        "home_team": "Cardiff",
+        "away_team": "Stoke",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "28/08/04",
+        "time": null,
+        "home_team": "Derby",
+        "away_team": "Crewe",
+        "home_score": "2",
+        "away_score": "4",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "28/08/04",
+        "time": null,
+        "home_team": "Millwall",
+        "away_team": "Reading",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "28/08/04",
+        "time": null,
+        "home_team": "Nott'm Forest",
+        "away_team": "Coventry",
+        "home_score": "1",
+        "away_score": "4",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "28/08/04",
+        "time": null,
+        "home_team": "Rotherham",
+        "away_team": "Ipswich",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "28/08/04",
+        "time": null,
+        "home_team": "Sunderland",
+        "away_team": "Wigan",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "28/08/04",
+        "time": null,
+        "home_team": "Watford",
+        "away_team": "Plymouth",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "28/08/04",
+        "time": null,
+        "home_team": "West Ham",
+        "away_team": "Burnley",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "28/08/04",
+        "time": null,
+        "home_team": "Wolves",
+        "away_team": "Leicester",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "29/08/04",
+        "time": null,
+        "home_team": "Sheffield United",
+        "away_team": "Leeds",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "30/08/04",
+        "time": null,
+        "home_team": "Burnley",
+        "away_team": "Gillingham",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "30/08/04",
+        "time": null,
+        "home_team": "Coventry",
+        "away_team": "West Ham",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "30/08/04",
+        "time": null,
+        "home_team": "Ipswich",
+        "away_team": "Wolves",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "30/08/04",
+        "time": null,
+        "home_team": "Leicester",
+        "away_team": "Brighton",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "30/08/04",
+        "time": null,
+        "home_team": "Plymouth",
+        "away_team": "Nott'm Forest",
+        "home_score": "3",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "30/08/04",
+        "time": null,
+        "home_team": "Preston",
+        "away_team": "Rotherham",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "30/08/04",
+        "time": null,
+        "home_team": "Stoke",
+        "away_team": "Derby",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "30/08/04",
+        "time": null,
+        "home_team": "Wigan",
+        "away_team": "Cardiff",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "31/08/04",
+        "time": null,
+        "home_team": "QPR",
+        "away_team": "Sheffield United",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "31/08/04",
+        "time": null,
+        "home_team": "Reading",
+        "away_team": "Sunderland",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "11/09/04",
+        "time": null,
+        "home_team": "Burnley",
+        "away_team": "Crewe",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "11/09/04",
+        "time": null,
+        "home_team": "Derby",
+        "away_team": "Reading",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "11/09/04",
+        "time": null,
+        "home_team": "Gillingham",
+        "away_team": "Sunderland",
+        "home_score": "0",
+        "away_score": "4",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "11/09/04",
+        "time": null,
+        "home_team": "Leeds",
+        "away_team": "Coventry",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "11/09/04",
+        "time": null,
+        "home_team": "Nott'm Forest",
+        "away_team": "Cardiff",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "11/09/04",
+        "time": null,
+        "home_team": "Preston",
+        "away_team": "Stoke",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "11/09/04",
+        "time": null,
+        "home_team": "QPR",
+        "away_team": "Plymouth",
+        "home_score": "3",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "11/09/04",
+        "time": null,
+        "home_team": "Rotherham",
+        "away_team": "Leicester",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "11/09/04",
+        "time": null,
+        "home_team": "Sheffield United",
+        "away_team": "West Ham",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "11/09/04",
+        "time": null,
+        "home_team": "Watford",
+        "away_team": "Brighton",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "11/09/04",
+        "time": null,
+        "home_team": "Wolves",
+        "away_team": "Wigan",
+        "home_score": "3",
+        "away_score": "3",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "12/09/04",
+        "time": null,
+        "home_team": "Ipswich",
+        "away_team": "Millwall",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "14/09/04",
+        "time": null,
+        "home_team": "Brighton",
+        "away_team": "Wolves",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "14/09/04",
+        "time": null,
+        "home_team": "Cardiff",
+        "away_team": "Watford",
+        "home_score": "0",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "14/09/04",
+        "time": null,
+        "home_team": "Crewe",
+        "away_team": "QPR",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "14/09/04",
+        "time": null,
+        "home_team": "Leicester",
+        "away_team": "Sheffield United",
+        "home_score": "3",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "14/09/04",
+        "time": null,
+        "home_team": "Plymouth",
+        "away_team": "Leeds",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "14/09/04",
+        "time": null,
+        "home_team": "Reading",
+        "away_team": "Preston",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "14/09/04",
+        "time": null,
+        "home_team": "Stoke",
+        "away_team": "Ipswich",
+        "home_score": "3",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "14/09/04",
+        "time": null,
+        "home_team": "Sunderland",
+        "away_team": "Nott'm Forest",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "14/09/04",
+        "time": null,
+        "home_team": "West Ham",
+        "away_team": "Rotherham",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "14/09/04",
+        "time": null,
+        "home_team": "Wigan",
+        "away_team": "Burnley",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "15/09/04",
+        "time": null,
+        "home_team": "Coventry",
+        "away_team": "Gillingham",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "18/09/04",
+        "time": null,
+        "home_team": "Brighton",
+        "away_team": "QPR",
+        "home_score": "2",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "18/09/04",
+        "time": null,
+        "home_team": "Cardiff",
+        "away_team": "Derby",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "18/09/04",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Coventry",
+        "away_team": "Rotherham",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "18/09/04",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Crewe",
+        "away_team": "Leeds",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "18/09/04",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Leicester",
+        "away_team": "Burnley",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "18/09/04",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Plymouth",
+        "away_team": "Wolves",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "18/09/04",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Reading",
+        "away_team": "Gillingham",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "18/09/04",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Stoke",
+        "away_team": "Nott'm Forest",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "18/09/04",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Sunderland",
+        "away_team": "Preston",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "18/09/04",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "West Ham",
+        "away_team": "Ipswich",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "18/09/04",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Wigan",
+        "away_team": "Sheffield United",
+        "home_score": "4",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "19/09/04",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Millwall",
+        "away_team": "Watford",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "22/09/04",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Millwall",
+        "away_team": "Derby",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "24/09/04",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Leeds",
+        "away_team": "Sunderland",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "25/09/04",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Burnley",
+        "away_team": "Stoke",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "25/09/04",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Derby",
+        "away_team": "Wigan",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "25/09/04",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Gillingham",
+        "away_team": "Brighton",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "25/09/04",
+        "time": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Ipswich",
+        "away_team": "Plymouth",
+        "home_score": "3",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "25/09/04",
+        "time": null,
+        "home_team": "Preston",
+        "away_team": "Crewe",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "25/09/04",
+        "time": null,
+        "home_team": "QPR",
+        "away_team": "Leicester",
+        "home_score": "3",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "25/09/04",
+        "time": null,
+        "home_team": "Rotherham",
+        "away_team": "Millwall",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "25/09/04",
+        "time": null,
+        "home_team": "Sheffield United",
+        "away_team": "Coventry",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "25/09/04",
+        "time": null,
+        "home_team": "Watford",
+        "away_team": "Reading",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "25/09/04",
+        "time": null,
+        "home_team": "Wolves",
+        "away_team": "Cardiff",
+        "home_score": "2",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "26/09/04",
+        "time": null,
+        "home_team": "Nott'm Forest",
+        "away_team": "West Ham",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "28/09/04",
+        "time": null,
+        "home_team": "Burnley",
+        "away_team": "Cardiff",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "28/09/04",
+        "time": null,
+        "home_team": "Gillingham",
+        "away_team": "Leicester",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "28/09/04",
+        "time": null,
+        "home_team": "Ipswich",
+        "away_team": "Reading",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "28/09/04",
+        "time": null,
+        "home_team": "Leeds",
+        "away_team": "Stoke",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "28/09/04",
+        "time": null,
+        "home_team": "Preston",
+        "away_team": "Plymouth",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "28/09/04",
+        "time": null,
+        "home_team": "QPR",
+        "away_team": "Coventry",
+        "home_score": "4",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "28/09/04",
+        "time": null,
+        "home_team": "Rotherham",
+        "away_team": "Crewe",
+        "home_score": "2",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "28/09/04",
+        "time": null,
+        "home_team": "Sheffield United",
+        "away_team": "Sunderland",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "28/09/04",
+        "time": null,
+        "home_team": "Watford",
+        "away_team": "Wigan",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "29/09/04",
+        "time": null,
+        "home_team": "Derby",
+        "away_team": "West Ham",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "29/09/04",
+        "time": null,
+        "home_team": "Nott'm Forest",
+        "away_team": "Brighton",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "02/10/04",
+        "time": null,
+        "home_team": "Brighton",
+        "away_team": "Sheffield United",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "02/10/04",
+        "time": null,
+        "home_team": "Cardiff",
+        "away_team": "Leeds",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "02/10/04",
+        "time": null,
+        "home_team": "Crewe",
+        "away_team": "Watford",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "02/10/04",
+        "time": null,
+        "home_team": "Leicester",
+        "away_team": "Preston",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "02/10/04",
+        "time": null,
+        "home_team": "Plymouth",
+        "away_team": "Gillingham",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "02/10/04",
+        "time": null,
+        "home_team": "Reading",
+        "away_team": "Burnley",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "02/10/04",
+        "time": null,
+        "home_team": "Stoke",
+        "away_team": "QPR",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "02/10/04",
+        "time": null,
+        "home_team": "Sunderland",
+        "away_team": "Derby",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "02/10/04",
+        "time": null,
+        "home_team": "West Ham",
+        "away_team": "Wolves",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "02/10/04",
+        "time": null,
+        "home_team": "Wigan",
+        "away_team": "Rotherham",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "03/10/04",
+        "time": null,
+        "home_team": "Coventry",
+        "away_team": "Ipswich",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "03/10/04",
+        "time": null,
+        "home_team": "Millwall",
+        "away_team": "Nott'm Forest",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "15/10/04",
+        "time": null,
+        "home_team": "Nott'm Forest",
+        "away_team": "Wolves",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "16/10/04",
+        "time": null,
+        "home_team": "Cardiff",
+        "away_team": "Rotherham",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "16/10/04",
+        "time": null,
+        "home_team": "Coventry",
+        "away_team": "Leicester",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "16/10/04",
+        "time": null,
+        "home_team": "Crewe",
+        "away_team": "Brighton",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "16/10/04",
+        "time": null,
+        "home_team": "Derby",
+        "away_team": "Watford",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "16/10/04",
+        "time": null,
+        "home_team": "Ipswich",
+        "away_team": "Burnley",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "16/10/04",
+        "time": null,
+        "home_team": "Leeds",
+        "away_team": "Preston",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "16/10/04",
+        "time": null,
+        "home_team": "Plymouth",
+        "away_team": "Wigan",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "16/10/04",
+        "time": null,
+        "home_team": "QPR",
+        "away_team": "West Ham",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "16/10/04",
+        "time": null,
+        "home_team": "Stoke",
+        "away_team": "Reading",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "16/10/04",
+        "time": null,
+        "home_team": "Sunderland",
+        "away_team": "Millwall",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "17/10/04",
+        "time": null,
+        "home_team": "Gillingham",
+        "away_team": "Sheffield United",
+        "home_score": "1",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "19/10/04",
+        "time": null,
+        "home_team": "Brighton",
+        "away_team": "Cardiff",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "19/10/04",
+        "time": null,
+        "home_team": "Burnley",
+        "away_team": "Coventry",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "19/10/04",
+        "time": null,
+        "home_team": "Leicester",
+        "away_team": "Ipswich",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "19/10/04",
+        "time": null,
+        "home_team": "Millwall",
+        "away_team": "Gillingham",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "19/10/04",
+        "time": null,
+        "home_team": "Preston",
+        "away_team": "QPR",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "19/10/04",
+        "time": null,
+        "home_team": "Reading",
+        "away_team": "Leeds",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "19/10/04",
+        "time": null,
+        "home_team": "Rotherham",
+        "away_team": "Plymouth",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "19/10/04",
+        "time": null,
+        "home_team": "Sheffield United",
+        "away_team": "Nott'm Forest",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "19/10/04",
+        "time": null,
+        "home_team": "Watford",
+        "away_team": "Sunderland",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "19/10/04",
+        "time": null,
+        "home_team": "West Ham",
+        "away_team": "Stoke",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "19/10/04",
+        "time": null,
+        "home_team": "Wigan",
+        "away_team": "Crewe",
+        "home_score": "4",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "19/10/04",
+        "time": null,
+        "home_team": "Wolves",
+        "away_team": "Derby",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "22/10/04",
+        "time": null,
+        "home_team": "Burnley",
+        "away_team": "Derby",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "23/10/04",
+        "time": null,
+        "home_team": "Brighton",
+        "away_team": "Leeds",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "23/10/04",
+        "time": null,
+        "home_team": "Leicester",
+        "away_team": "Stoke",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "23/10/04",
+        "time": null,
+        "home_team": "Millwall",
+        "away_team": "Cardiff",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "23/10/04",
+        "time": null,
+        "home_team": "Preston",
+        "away_team": "Nott'm Forest",
+        "home_score": "3",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "23/10/04",
+        "time": null,
+        "home_team": "Reading",
+        "away_team": "Crewe",
+        "home_score": "4",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "23/10/04",
+        "time": null,
+        "home_team": "Sheffield United",
+        "away_team": "Plymouth",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "23/10/04",
+        "time": null,
+        "home_team": "Watford",
+        "away_team": "Ipswich",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "23/10/04",
+        "time": null,
+        "home_team": "West Ham",
+        "away_team": "Gillingham",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "23/10/04",
+        "time": null,
+        "home_team": "Wigan",
+        "away_team": "Coventry",
+        "home_score": "4",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "23/10/04",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Wolves",
+        "away_team": "QPR",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "25/10/04",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Rotherham",
+        "away_team": "Sunderland",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "29/10/04",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Crewe",
+        "away_team": "Sheffield United",
+        "home_score": "2",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "30/10/04",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Cardiff",
+        "away_team": "Leicester",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "30/10/04",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Coventry",
+        "away_team": "Reading",
+        "home_score": "3",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "30/10/04",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Derby",
+        "away_team": "Rotherham",
+        "home_score": "3",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "30/10/04",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Gillingham",
+        "away_team": "Wolves",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "30/10/04",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Ipswich",
+        "away_team": "Preston",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "30/10/04",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Nott'm Forest",
+        "away_team": "Watford",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "30/10/04",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Plymouth",
+        "away_team": "West Ham",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "30/10/04",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "QPR",
+        "away_team": "Burnley",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "30/10/04",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Stoke",
+        "away_team": "Millwall",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "30/10/04",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Sunderland",
+        "away_team": "Brighton",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "31/10/04",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Leeds",
+        "away_team": "Wigan",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "02/11/04",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Cardiff",
+        "away_team": "West Ham",
+        "home_score": "4",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "02/11/04",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Crewe",
+        "away_team": "Leicester",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "02/11/04",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Gillingham",
+        "away_team": "Watford",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "02/11/04",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Ipswich",
+        "away_team": "Sheffield United",
+        "home_score": "5",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "02/11/04",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Plymouth",
+        "away_team": "Reading",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "02/11/04",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "QPR",
+        "away_team": "Millwall",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "02/11/04",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Stoke",
+        "away_team": "Wigan",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "02/11/04",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Sunderland",
+        "away_team": "Wolves",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "03/11/04",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Coventry",
+        "away_team": "Preston",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "03/11/04",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Derby",
+        "away_team": "Brighton",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "03/11/04",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Leeds",
+        "away_team": "Burnley",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "03/11/04",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Nott'm Forest",
+        "away_team": "Rotherham",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "05/11/04",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Millwall",
+        "away_team": "Sunderland",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "06/11/04",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Brighton",
+        "away_team": "Crewe",
+        "home_score": "1",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "06/11/04",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Burnley",
+        "away_team": "Ipswich",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "06/11/04",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Preston",
+        "away_team": "Leeds",
+        "home_score": "2",
+        "away_score": "4",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "06/11/04",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Reading",
+        "away_team": "Stoke",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            "",
+            "",
+            ""
+        ],
+        "date": "06/11/04",
+        "time": [
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Rotherham",
+        "away_team": "Cardiff",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "06/11/04",
+        "time": null,
+        "home_team": "Sheffield United",
+        "away_team": "Gillingham",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "06/11/04",
+        "time": null,
+        "home_team": "Watford",
+        "away_team": "Derby",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "06/11/04",
+        "time": null,
+        "home_team": "West Ham",
+        "away_team": "QPR",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "06/11/04",
+        "time": null,
+        "home_team": "Wigan",
+        "away_team": "Plymouth",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "06/11/04",
+        "time": null,
+        "home_team": "Wolves",
+        "away_team": "Nott'm Forest",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "08/11/04",
+        "time": null,
+        "home_team": "Leicester",
+        "away_team": "Coventry",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "13/11/04",
+        "time": null,
+        "home_team": "Burnley",
+        "away_team": "Nott'm Forest",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "13/11/04",
+        "time": null,
+        "home_team": "Coventry",
+        "away_team": "Plymouth",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "13/11/04",
+        "time": null,
+        "home_team": "Gillingham",
+        "away_team": "Derby",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "13/11/04",
+        "time": null,
+        "home_team": "Ipswich",
+        "away_team": "Leeds",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "13/11/04",
+        "time": null,
+        "home_team": "Leicester",
+        "away_team": "Sunderland",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "13/11/04",
+        "time": null,
+        "home_team": "Preston",
+        "away_team": "Millwall",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "13/11/04",
+        "time": null,
+        "home_team": "QPR",
+        "away_team": "Wigan",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "13/11/04",
+        "time": null,
+        "home_team": "Reading",
+        "away_team": "Cardiff",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "13/11/04",
+        "time": null,
+        "home_team": "Rotherham",
+        "away_team": "Wolves",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "13/11/04",
+        "time": null,
+        "home_team": "Sheffield United",
+        "away_team": "Watford",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "13/11/04",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Stoke",
+        "away_team": "Crewe",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "13/11/04",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "West Ham",
+        "away_team": "Brighton",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "19/11/04",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Cardiff",
+        "away_team": "Preston",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "20/11/04",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Brighton",
+        "away_team": "Burnley",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "20/11/04",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Crewe",
+        "away_team": "Gillingham",
+        "home_score": "4",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "20/11/04",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Derby",
+        "away_team": "Sheffield United",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "20/11/04",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Leeds",
+        "away_team": "QPR",
+        "home_score": "6",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "20/11/04",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Nott'm Forest",
+        "away_team": "Reading",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "20/11/04",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Plymouth",
+        "away_team": "Stoke",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "20/11/04",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Watford",
+        "away_team": "Rotherham",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "20/11/04",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Wigan",
+        "away_team": "Leicester",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "20/11/04",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Wolves",
+        "away_team": "Coventry",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "21/11/04",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Millwall",
+        "away_team": "West Ham",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "21/11/04",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Sunderland",
+        "away_team": "Ipswich",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "24/11/04",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Leeds",
+        "away_team": "Watford",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            "",
+            ""
+        ],
+        "date": "27/11/04",
+        "time": [
+            "",
+            ""
+        ],
+        "home_team": "Burnley",
+        "away_team": "Millwall",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "27/11/04",
+        "time": null,
+        "home_team": "Coventry",
+        "away_team": "Crewe",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "27/11/04",
+        "time": null,
+        "home_team": "Gillingham",
+        "away_team": "Nott'm Forest",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "27/11/04",
+        "time": null,
+        "home_team": "Ipswich",
+        "away_team": "Brighton",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "27/11/04",
+        "time": null,
+        "home_team": "Leicester",
+        "away_team": "Plymouth",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "27/11/04",
+        "time": null,
+        "home_team": "Preston",
+        "away_team": "Derby",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "27/11/04",
+        "time": null,
+        "home_team": "QPR",
+        "away_team": "Cardiff",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "27/11/04",
+        "time": null,
+        "home_team": "Reading",
+        "away_team": "Wigan",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "27/11/04",
+        "time": null,
+        "home_team": "Sheffield United",
+        "away_team": "Wolves",
+        "home_score": "3",
+        "away_score": "3",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "27/11/04",
+        "time": null,
+        "home_team": "Stoke",
+        "away_team": "Sunderland",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "27/11/04",
+        "time": null,
+        "home_team": "West Ham",
+        "away_team": "Watford",
+        "home_score": "3",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "29/11/04",
+        "time": null,
+        "home_team": "Rotherham",
+        "away_team": "Leeds",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "30/11/04",
+        "time": null,
+        "home_team": "Crewe",
+        "away_team": "Millwall",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "04/12/04",
+        "time": null,
+        "home_team": "Brighton",
+        "away_team": "Rotherham",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "04/12/04",
+        "time": null,
+        "home_team": "Cardiff",
+        "away_team": "Gillingham",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "04/12/04",
+        "time": null,
+        "home_team": "Crewe",
+        "away_team": "Ipswich",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "04/12/04",
+        "time": null,
+        "home_team": "Derby",
+        "away_team": "Coventry",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "04/12/04",
+        "time": null,
+        "home_team": "Leeds",
+        "away_team": "Leicester",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "04/12/04",
+        "time": null,
+        "home_team": "Millwall",
+        "away_team": "Sheffield United",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "04/12/04",
+        "time": null,
+        "home_team": "Nott'm Forest",
+        "away_team": "QPR",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "04/12/04",
+        "time": null,
+        "home_team": "Plymouth",
+        "away_team": "Burnley",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "04/12/04",
+        "time": null,
+        "home_team": "Sunderland",
+        "away_team": "West Ham",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "04/12/04",
+        "time": null,
+        "home_team": "Watford",
+        "away_team": "Stoke",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "04/12/04",
+        "time": null,
+        "home_team": "Wolves",
+        "away_team": "Reading",
+        "home_score": "4",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "05/12/04",
+        "time": null,
+        "home_team": "Wigan",
+        "away_team": "Preston",
+        "home_score": "5",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "07/12/04",
+        "time": null,
+        "home_team": "Wolves",
+        "away_team": "Millwall",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "10/12/04",
+        "time": null,
+        "home_team": "West Ham",
+        "away_team": "Leeds",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "11/12/04",
+        "time": null,
+        "home_team": "Burnley",
+        "away_team": "Preston",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "11/12/04",
+        "time": null,
+        "home_team": "Cardiff",
+        "away_team": "Sunderland",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "11/12/04",
+        "time": null,
+        "home_team": "Crewe",
+        "away_team": "Plymouth",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "11/12/04",
+        "time": null,
+        "home_team": "Derby",
+        "away_team": "Nott'm Forest",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "11/12/04",
+        "time": null,
+        "home_team": "Leicester",
+        "away_team": "Reading",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "11/12/04",
+        "time": null,
+        "home_team": "Millwall",
+        "away_team": "Brighton",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "11/12/04",
+        "time": null,
+        "home_team": "QPR",
+        "away_team": "Ipswich",
+        "home_score": "2",
+        "away_score": "4",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "11/12/04",
+        "time": null,
+        "home_team": "Rotherham",
+        "away_team": "Sheffield United",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "11/12/04",
+        "time": null,
+        "home_team": "Stoke",
+        "away_team": "Coventry",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "11/12/04",
+        "time": null,
+        "home_team": "Watford",
+        "away_team": "Wolves",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "11/12/04",
+        "time": null,
+        "home_team": "Wigan",
+        "away_team": "Gillingham",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "17/12/04",
+        "time": null,
+        "home_team": "Brighton",
+        "away_team": "Stoke",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "17/12/04",
+        "time": null,
+        "home_team": "Nott'm Forest",
+        "away_team": "Leicester",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "18/12/04",
+        "time": null,
+        "home_team": "Coventry",
+        "away_team": "Watford",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "18/12/04",
+        "time": null,
+        "home_team": "Gillingham",
+        "away_team": "Rotherham",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "18/12/04",
+        "time": null,
+        "home_team": "Plymouth",
+        "away_team": "Derby",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "18/12/04",
+        "time": null,
+        "home_team": "Preston",
+        "away_team": "West Ham",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "18/12/04",
+        "time": null,
+        "home_team": "Reading",
+        "away_team": "QPR",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "18/12/04",
+        "time": null,
+        "home_team": "Sheffield United",
+        "away_team": "Cardiff",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "18/12/04",
+        "time": null,
+        "home_team": "Sunderland",
+        "away_team": "Burnley",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "18/12/04",
+        "time": null,
+        "home_team": "Wolves",
+        "away_team": "Crewe",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "19/12/04",
+        "time": null,
+        "home_team": "Leeds",
+        "away_team": "Millwall",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "21/12/04",
+        "time": null,
+        "home_team": "Ipswich",
+        "away_team": "Wigan",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "26/12/04",
+        "time": null,
+        "home_team": "Brighton",
+        "away_team": "Gillingham",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "26/12/04",
+        "time": null,
+        "home_team": "Cardiff",
+        "away_team": "Wolves",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "26/12/04",
+        "time": null,
+        "home_team": "Coventry",
+        "away_team": "Sheffield United",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "26/12/04",
+        "time": null,
+        "home_team": "Leicester",
+        "away_team": "Rotherham",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "26/12/04",
+        "time": null,
+        "home_team": "Millwall",
+        "away_team": "Ipswich",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "26/12/04",
+        "time": null,
+        "home_team": "Plymouth",
+        "away_team": "QPR",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "26/12/04",
+        "time": null,
+        "home_team": "Reading",
+        "away_team": "Watford",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "26/12/04",
+        "time": null,
+        "home_team": "Stoke",
+        "away_team": "Preston",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "26/12/04",
+        "time": null,
+        "home_team": "Sunderland",
+        "away_team": "Leeds",
+        "home_score": "2",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "26/12/04",
+        "time": null,
+        "home_team": "West Ham",
+        "away_team": "Nott'm Forest",
+        "home_score": "3",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "26/12/04",
+        "time": null,
+        "home_team": "Wigan",
+        "away_team": "Derby",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "28/12/04",
+        "time": null,
+        "home_team": "Burnley",
+        "away_team": "Wigan",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "28/12/04",
+        "time": null,
+        "home_team": "Derby",
+        "away_team": "Millwall",
+        "home_score": "0",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "28/12/04",
+        "time": null,
+        "home_team": "Gillingham",
+        "away_team": "Coventry",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "28/12/04",
+        "time": null,
+        "home_team": "Ipswich",
+        "away_team": "Stoke",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "28/12/04",
+        "time": null,
+        "home_team": "Leeds",
+        "away_team": "Plymouth",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "28/12/04",
+        "time": null,
+        "home_team": "Nott'm Forest",
+        "away_team": "Sunderland",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "28/12/04",
+        "time": null,
+        "home_team": "Preston",
+        "away_team": "Reading",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "28/12/04",
+        "time": null,
+        "home_team": "QPR",
+        "away_team": "Crewe",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "28/12/04",
+        "time": null,
+        "home_team": "Rotherham",
+        "away_team": "West Ham",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "28/12/04",
+        "time": null,
+        "home_team": "Sheffield United",
+        "away_team": "Leicester",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "28/12/04",
+        "time": null,
+        "home_team": "Watford",
+        "away_team": "Cardiff",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "28/12/04",
+        "time": null,
+        "home_team": "Wolves",
+        "away_team": "Brighton",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "01/01/05",
+        "time": null,
+        "home_team": "Derby",
+        "away_team": "Cardiff",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "01/01/05",
+        "time": null,
+        "home_team": "Gillingham",
+        "away_team": "Reading",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "01/01/05",
+        "time": null,
+        "home_team": "Ipswich",
+        "away_team": "West Ham",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "01/01/05",
+        "time": null,
+        "home_team": "Leeds",
+        "away_team": "Crewe",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "01/01/05",
+        "time": null,
+        "home_team": "Nott'm Forest",
+        "away_team": "Stoke",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "01/01/05",
+        "time": null,
+        "home_team": "Preston",
+        "away_team": "Sunderland",
+        "home_score": "3",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "01/01/05",
+        "time": null,
+        "home_team": "QPR",
+        "away_team": "Brighton",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "01/01/05",
+        "time": null,
+        "home_team": "Rotherham",
+        "away_team": "Coventry",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "01/01/05",
+        "time": null,
+        "home_team": "Sheffield United",
+        "away_team": "Wigan",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "01/01/05",
+        "time": null,
+        "home_team": "Watford",
+        "away_team": "Millwall",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "01/01/05",
+        "time": null,
+        "home_team": "Wolves",
+        "away_team": "Plymouth",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "03/01/05",
+        "time": null,
+        "home_team": "Brighton",
+        "away_team": "Watford",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "03/01/05",
+        "time": null,
+        "home_team": "Cardiff",
+        "away_team": "Nott'm Forest",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "03/01/05",
+        "time": null,
+        "home_team": "Coventry",
+        "away_team": "Leeds",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "03/01/05",
+        "time": null,
+        "home_team": "Crewe",
+        "away_team": "Preston",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "03/01/05",
+        "time": null,
+        "home_team": "Leicester",
+        "away_team": "QPR",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "03/01/05",
+        "time": null,
+        "home_team": "Millwall",
+        "away_team": "Rotherham",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "03/01/05",
+        "time": null,
+        "home_team": "Plymouth",
+        "away_team": "Ipswich",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "03/01/05",
+        "time": null,
+        "home_team": "Reading",
+        "away_team": "Derby",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "03/01/05",
+        "time": null,
+        "home_team": "Stoke",
+        "away_team": "Burnley",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "03/01/05",
+        "time": null,
+        "home_team": "Sunderland",
+        "away_team": "Gillingham",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "03/01/05",
+        "time": null,
+        "home_team": "West Ham",
+        "away_team": "Sheffield United",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "04/01/05",
+        "time": null,
+        "home_team": "Wigan",
+        "away_team": "Wolves",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "14/01/05",
+        "time": null,
+        "home_team": "QPR",
+        "away_team": "Stoke",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "15/01/05",
+        "time": null,
+        "home_team": "Burnley",
+        "away_team": "Reading",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "15/01/05",
+        "time": null,
+        "home_team": "Gillingham",
+        "away_team": "Plymouth",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "15/01/05",
+        "time": null,
+        "home_team": "Ipswich",
+        "away_team": "Coventry",
+        "home_score": "3",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "15/01/05",
+        "time": null,
+        "home_team": "Leeds",
+        "away_team": "Cardiff",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "15/01/05",
+        "time": null,
+        "home_team": "Nott'm Forest",
+        "away_team": "Millwall",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "15/01/05",
+        "time": null,
+        "home_team": "Preston",
+        "away_team": "Leicester",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "15/01/05",
+        "time": null,
+        "home_team": "Rotherham",
+        "away_team": "Wigan",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "15/01/05",
+        "time": null,
+        "home_team": "Sheffield United",
+        "away_team": "Brighton",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "15/01/05",
+        "time": null,
+        "home_team": "Watford",
+        "away_team": "Crewe",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "15/01/05",
+        "time": null,
+        "home_team": "Wolves",
+        "away_team": "West Ham",
+        "home_score": "4",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "16/01/05",
+        "time": null,
+        "home_team": "Derby",
+        "away_team": "Sunderland",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "22/01/05",
+        "time": null,
+        "home_team": "Brighton",
+        "away_team": "Nott'm Forest",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "22/01/05",
+        "time": null,
+        "home_team": "Cardiff",
+        "away_team": "Burnley",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "22/01/05",
+        "time": null,
+        "home_team": "Coventry",
+        "away_team": "QPR",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "22/01/05",
+        "time": null,
+        "home_team": "Crewe",
+        "away_team": "Rotherham",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "22/01/05",
+        "time": null,
+        "home_team": "Leicester",
+        "away_team": "Gillingham",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "22/01/05",
+        "time": null,
+        "home_team": "Millwall",
+        "away_team": "Wolves",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "22/01/05",
+        "time": null,
+        "home_team": "Plymouth",
+        "away_team": "Preston",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "22/01/05",
+        "time": null,
+        "home_team": "Reading",
+        "away_team": "Ipswich",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "22/01/05",
+        "time": null,
+        "home_team": "Stoke",
+        "away_team": "Leeds",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "22/01/05",
+        "time": null,
+        "home_team": "Sunderland",
+        "away_team": "Sheffield United",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "22/01/05",
+        "time": null,
+        "home_team": "Wigan",
+        "away_team": "Watford",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "23/01/05",
+        "time": null,
+        "home_team": "West Ham",
+        "away_team": "Derby",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "26/01/05",
+        "time": null,
+        "home_team": "Derby",
+        "away_team": "Leeds",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "29/01/05",
+        "time": null,
+        "home_team": "Leeds",
+        "away_team": "Brighton",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "04/02/05",
+        "time": null,
+        "home_team": "Wolves",
+        "away_team": "Sunderland",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "05/02/05",
+        "time": null,
+        "home_team": "Brighton",
+        "away_team": "Derby",
+        "home_score": "2",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "05/02/05",
+        "time": null,
+        "home_team": "Burnley",
+        "away_team": "Leeds",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "05/02/05",
+        "time": null,
+        "home_team": "Leicester",
+        "away_team": "Crewe",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "05/02/05",
+        "time": null,
+        "home_team": "Millwall",
+        "away_team": "QPR",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "05/02/05",
+        "time": null,
+        "home_team": "Preston",
+        "away_team": "Coventry",
+        "home_score": "3",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "05/02/05",
+        "time": null,
+        "home_team": "Reading",
+        "away_team": "Plymouth",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            ""
+        ],
+        "date": "05/02/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Rotherham",
+        "away_team": "Nott'm Forest",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            ""
+        ],
+        "date": "05/02/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Sheffield United",
+        "away_team": "Ipswich",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            ""
+        ],
+        "date": "05/02/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Watford",
+        "away_team": "Gillingham",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            ""
+        ],
+        "date": "05/02/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Wigan",
+        "away_team": "Stoke",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            ""
+        ],
+        "date": "06/02/05",
+        "time": [
+            ""
+        ],
+        "home_team": "West Ham",
+        "away_team": "Cardiff",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            ""
+        ],
+        "date": "12/02/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Cardiff",
+        "away_team": "Brighton",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            ""
+        ],
+        "date": "12/02/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Coventry",
+        "away_team": "Burnley",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            ""
+        ],
+        "date": "12/02/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Crewe",
+        "away_team": "Wigan",
+        "home_score": "1",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            ""
+        ],
+        "date": "12/02/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Gillingham",
+        "away_team": "Millwall",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            ""
+        ],
+        "date": "12/02/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Ipswich",
+        "away_team": "Leicester",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            ""
+        ],
+        "date": "12/02/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Leeds",
+        "away_team": "Reading",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            ""
+        ],
+        "date": "12/02/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Plymouth",
+        "away_team": "Rotherham",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            ""
+        ],
+        "date": "12/02/05",
+        "time": [
+            ""
+        ],
+        "home_team": "QPR",
+        "away_team": "Preston",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            ""
+        ],
+        "date": "12/02/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Sunderland",
+        "away_team": "Watford",
+        "home_score": "4",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            ""
+        ],
+        "date": "15/02/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Crewe",
+        "away_team": "Burnley",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            ""
+        ],
+        "date": "18/02/05",
+        "time": [
+            ""
+        ],
+        "home_team": "Preston",
+        "away_team": "Ipswich",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "19/02/05",
+        "time": null,
+        "home_team": "Brighton",
+        "away_team": "Sunderland",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "19/02/05",
+        "time": null,
+        "home_team": "Millwall",
+        "away_team": "Stoke",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "19/02/05",
+        "time": null,
+        "home_team": "Reading",
+        "away_team": "Coventry",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "19/02/05",
+        "time": null,
+        "home_team": "Rotherham",
+        "away_team": "Derby",
+        "home_score": "1",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "19/02/05",
+        "time": null,
+        "home_team": "West Ham",
+        "away_team": "Plymouth",
+        "home_score": "5",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "19/02/05",
+        "time": null,
+        "home_team": "Wigan",
+        "away_team": "Leeds",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "19/02/05",
+        "time": null,
+        "home_team": "Wolves",
+        "away_team": "Gillingham",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "22/02/05",
+        "time": null,
+        "home_team": "Cardiff",
+        "away_team": "Millwall",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "22/02/05",
+        "time": null,
+        "home_team": "Crewe",
+        "away_team": "Reading",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "22/02/05",
+        "time": null,
+        "home_team": "Gillingham",
+        "away_team": "West Ham",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "22/02/05",
+        "time": null,
+        "home_team": "Ipswich",
+        "away_team": "Watford",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "22/02/05",
+        "time": null,
+        "home_team": "Plymouth",
+        "away_team": "Sheffield United",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "22/02/05",
+        "time": null,
+        "home_team": "QPR",
+        "away_team": "Wolves",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "22/02/05",
+        "time": null,
+        "home_team": "Stoke",
+        "away_team": "Leicester",
+        "home_score": "3",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "22/02/05",
+        "time": null,
+        "home_team": "Sunderland",
+        "away_team": "Rotherham",
+        "home_score": "4",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "23/02/05",
+        "time": null,
+        "home_team": "Coventry",
+        "away_team": "Wigan",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "23/02/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Derby",
+        "away_team": "Burnley",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "23/02/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Nott'm Forest",
+        "away_team": "Preston",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "26/02/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Brighton",
+        "away_team": "Millwall",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "26/02/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Coventry",
+        "away_team": "Stoke",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "26/02/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Gillingham",
+        "away_team": "Wigan",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "26/02/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Ipswich",
+        "away_team": "QPR",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "26/02/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Leeds",
+        "away_team": "West Ham",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "26/02/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Nott'm Forest",
+        "away_team": "Derby",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "26/02/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Plymouth",
+        "away_team": "Crewe",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "26/02/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Preston",
+        "away_team": "Burnley",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "26/02/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Reading",
+        "away_team": "Leicester",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "26/02/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Sheffield United",
+        "away_team": "Rotherham",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "26/02/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Sunderland",
+        "away_team": "Cardiff",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "26/02/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Wolves",
+        "away_team": "Watford",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "02/03/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Derby",
+        "away_team": "Wolves",
+        "home_score": "3",
+        "away_score": "3",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "04/03/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Burnley",
+        "away_team": "Sunderland",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "05/03/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Cardiff",
+        "away_team": "Sheffield United",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "05/03/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Crewe",
+        "away_team": "Wolves",
+        "home_score": "1",
+        "away_score": "4",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "05/03/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Derby",
+        "away_team": "Plymouth",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "05/03/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Leicester",
+        "away_team": "Nott'm Forest",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "05/03/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "QPR",
+        "away_team": "Reading",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "05/03/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Rotherham",
+        "away_team": "Gillingham",
+        "home_score": "1",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "05/03/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Stoke",
+        "away_team": "Brighton",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "05/03/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Watford",
+        "away_team": "Coventry",
+        "home_score": "2",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "05/03/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "West Ham",
+        "away_team": "Preston",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "05/03/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Wigan",
+        "away_team": "Ipswich",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "06/03/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Millwall",
+        "away_team": "Leeds",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "08/03/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Burnley",
+        "away_team": "Leicester",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "08/03/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Sheffield United",
+        "away_team": "Crewe",
+        "home_score": "4",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "08/03/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Watford",
+        "away_team": "Nott'm Forest",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "12/03/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Burnley",
+        "away_team": "Rotherham",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "12/03/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Coventry",
+        "away_team": "Cardiff",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "12/03/05",
+        "time": null,
+        "home_team": "Crewe",
+        "away_team": "Sunderland",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "12/03/05",
+        "time": null,
+        "home_team": "Ipswich",
+        "away_team": "Nott'm Forest",
+        "home_score": "6",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "12/03/05",
+        "time": null,
+        "home_team": "Leeds",
+        "away_team": "Gillingham",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "12/03/05",
+        "time": null,
+        "home_team": "Plymouth",
+        "away_team": "Brighton",
+        "home_score": "5",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "12/03/05",
+        "time": null,
+        "home_team": "Preston",
+        "away_team": "Wolves",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "12/03/05",
+        "time": null,
+        "home_team": "QPR",
+        "away_team": "Watford",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "12/03/05",
+        "time": null,
+        "home_team": "Reading",
+        "away_team": "West Ham",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "12/03/05",
+        "time": null,
+        "home_team": "Stoke",
+        "away_team": "Sheffield United",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "12/03/05",
+        "time": null,
+        "home_team": "Wigan",
+        "away_team": "Millwall",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "15/03/05",
+        "time": null,
+        "home_team": "Brighton",
+        "away_team": "Wigan",
+        "home_score": "2",
+        "away_score": "4",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "15/03/05",
+        "time": null,
+        "home_team": "Cardiff",
+        "away_team": "Ipswich",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "15/03/05",
+        "time": null,
+        "home_team": "Gillingham",
+        "away_team": "Stoke",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "15/03/05",
+        "time": null,
+        "home_team": "Millwall",
+        "away_team": "Coventry",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "15/03/05",
+        "time": null,
+        "home_team": "Rotherham",
+        "away_team": "Reading",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "15/03/05",
+        "time": null,
+        "home_team": "Sheffield United",
+        "away_team": "Preston",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "15/03/05",
+        "time": null,
+        "home_team": "Sunderland",
+        "away_team": "Plymouth",
+        "home_score": "5",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "15/03/05",
+        "time": null,
+        "home_team": "Watford",
+        "away_team": "Leicester",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "15/03/05",
+        "time": null,
+        "home_team": "West Ham",
+        "away_team": "Crewe",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "15/03/05",
+        "time": null,
+        "home_team": "Wolves",
+        "away_team": "Burnley",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "16/03/05",
+        "time": null,
+        "home_team": "Derby",
+        "away_team": "QPR",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "16/03/05",
+        "time": null,
+        "home_team": "Nott'm Forest",
+        "away_team": "Leeds",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "18/03/05",
+        "time": null,
+        "home_team": "West Ham",
+        "away_team": "Leicester",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "19/03/05",
+        "time": null,
+        "home_team": "Cardiff",
+        "away_team": "Crewe",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "19/03/05",
+        "time": null,
+        "home_team": "Gillingham",
+        "away_team": "Ipswich",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "19/03/05",
+        "time": null,
+        "home_team": "Nott'm Forest",
+        "away_team": "Wigan",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "19/03/05",
+        "time": null,
+        "home_team": "Rotherham",
+        "away_team": "QPR",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "19/03/05",
+        "time": null,
+        "home_team": "Sheffield United",
+        "away_team": "Burnley",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "19/03/05",
+        "time": null,
+        "home_team": "Sunderland",
+        "away_team": "Coventry",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "19/03/05",
+        "time": null,
+        "home_team": "Watford",
+        "away_team": "Preston",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "19/03/05",
+        "time": null,
+        "home_team": "Wolves",
+        "away_team": "Stoke",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "20/03/05",
+        "time": null,
+        "home_team": "Millwall",
+        "away_team": "Plymouth",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "21/03/05",
+        "time": null,
+        "home_team": "Brighton",
+        "away_team": "Reading",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "02/04/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Burnley",
+        "away_team": "Watford",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "02/04/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Coventry",
+        "away_team": "Brighton",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "02/04/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Crewe",
+        "away_team": "Nott'm Forest",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "02/04/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Ipswich",
+        "away_team": "Derby",
+        "home_score": "3",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "02/04/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Leeds",
+        "away_team": "Wolves",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "02/04/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Leicester",
+        "away_team": "Millwall",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "02/04/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Plymouth",
+        "away_team": "Cardiff",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "02/04/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Preston",
+        "away_team": "Gillingham",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "02/04/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "QPR",
+        "away_team": "Sunderland",
+        "home_score": "1",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "02/04/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Reading",
+        "away_team": "Sheffield United",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "02/04/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Stoke",
+        "away_team": "Rotherham",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "02/04/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Wigan",
+        "away_team": "West Ham",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "05/04/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Burnley",
+        "away_team": "West Ham",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "05/04/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Crewe",
+        "away_team": "Derby",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "05/04/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Ipswich",
+        "away_team": "Rotherham",
+        "home_score": "4",
+        "away_score": "3",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "05/04/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Leeds",
+        "away_team": "Sheffield United",
+        "home_score": "0",
+        "away_score": "4",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "05/04/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Leicester",
+        "away_team": "Wolves",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "05/04/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Plymouth",
+        "away_team": "Watford",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "05/04/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Preston",
+        "away_team": "Brighton",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "05/04/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "QPR",
+        "away_team": "Gillingham",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "05/04/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Reading",
+        "away_team": "Millwall",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "05/04/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Stoke",
+        "away_team": "Cardiff",
+        "home_score": "1",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "05/04/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Wigan",
+        "away_team": "Sunderland",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "06/04/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Coventry",
+        "away_team": "Nott'm Forest",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "09/04/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Brighton",
+        "away_team": "Leicester",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "09/04/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Cardiff",
+        "away_team": "Wigan",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "09/04/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Derby",
+        "away_team": "Stoke",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "09/04/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Gillingham",
+        "away_team": "Burnley",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "09/04/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Millwall",
+        "away_team": "Crewe",
+        "home_score": "4",
+        "away_score": "3",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "09/04/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Nott'm Forest",
+        "away_team": "Plymouth",
+        "home_score": "0",
+        "away_score": "3",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "09/04/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Rotherham",
+        "away_team": "Preston",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "09/04/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Sheffield United",
+        "away_team": "QPR",
+        "home_score": "3",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "09/04/05",
+        "time": null,
+        "home_team": "Sunderland",
+        "away_team": "Reading",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "09/04/05",
+        "time": null,
+        "home_team": "Watford",
+        "away_team": "Leeds",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "09/04/05",
+        "time": null,
+        "home_team": "West Ham",
+        "away_team": "Coventry",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "11/04/05",
+        "time": null,
+        "home_team": "Wolves",
+        "away_team": "Ipswich",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "12/04/05",
+        "time": null,
+        "home_team": "Nott'm Forest",
+        "away_team": "Sheffield United",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "15/04/05",
+        "time": null,
+        "home_team": "Sheffield United",
+        "away_team": "Derby",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "16/04/05",
+        "time": null,
+        "home_team": "Burnley",
+        "away_team": "Brighton",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "16/04/05",
+        "time": null,
+        "home_team": "Coventry",
+        "away_team": "Wolves",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "16/04/05",
+        "time": null,
+        "home_team": "Gillingham",
+        "away_team": "Crewe",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "16/04/05",
+        "time": null,
+        "home_team": "Leicester",
+        "away_team": "Wigan",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "16/04/05",
+        "time": null,
+        "home_team": "Preston",
+        "away_team": "Cardiff",
+        "home_score": "3",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "16/04/05",
+        "time": null,
+        "home_team": "QPR",
+        "away_team": "Leeds",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "16/04/05",
+        "time": null,
+        "home_team": "Reading",
+        "away_team": "Nott'm Forest",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "16/04/05",
+        "time": null,
+        "home_team": "Rotherham",
+        "away_team": "Watford",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "16/04/05",
+        "time": null,
+        "home_team": "Stoke",
+        "away_team": "Plymouth",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "16/04/05",
+        "time": null,
+        "home_team": "West Ham",
+        "away_team": "Millwall",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "17/04/05",
+        "time": null,
+        "home_team": "Ipswich",
+        "away_team": "Sunderland",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "19/04/05",
+        "time": null,
+        "home_team": "Burnley",
+        "away_team": "QPR",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "19/04/05",
+        "time": null,
+        "home_team": "Leicester",
+        "away_team": "Cardiff",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "19/04/05",
+        "time": null,
+        "home_team": "Stoke",
+        "away_team": "West Ham",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "23/04/05",
+        "time": null,
+        "home_team": "Brighton",
+        "away_team": "West Ham",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "23/04/05",
+        "time": null,
+        "home_team": "Cardiff",
+        "away_team": "Reading",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "23/04/05",
+        "time": null,
+        "home_team": "Crewe",
+        "away_team": "Stoke",
+        "home_score": "0",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "23/04/05",
+        "time": null,
+        "home_team": "Derby",
+        "away_team": "Gillingham",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "23/04/05",
+        "time": null,
+        "home_team": "Leeds",
+        "away_team": "Ipswich",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "23/04/05",
+        "time": null,
+        "home_team": "Nott'm Forest",
+        "away_team": "Burnley",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "23/04/05",
+        "time": null,
+        "home_team": "Plymouth",
+        "away_team": "Coventry",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "23/04/05",
+        "time": null,
+        "home_team": "Sunderland",
+        "away_team": "Leicester",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "23/04/05",
+        "time": null,
+        "home_team": "Watford",
+        "away_team": "Sheffield United",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "23/04/05",
+        "time": null,
+        "home_team": "Wigan",
+        "away_team": "QPR",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "23/04/05",
+        "time": null,
+        "home_team": "Wolves",
+        "away_team": "Rotherham",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "24/04/05",
+        "time": null,
+        "home_team": "Millwall",
+        "away_team": "Preston",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "26/04/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Leicester",
+        "away_team": "Derby",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "29/04/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "West Ham",
+        "away_team": "Sunderland",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "30/04/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Burnley",
+        "away_team": "Plymouth",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "30/04/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Coventry",
+        "away_team": "Derby",
+        "home_score": "6",
+        "away_score": "2",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "30/04/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Gillingham",
+        "away_team": "Cardiff",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "30/04/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Ipswich",
+        "away_team": "Crewe",
+        "home_score": "5",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "30/04/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Preston",
+        "away_team": "Wigan",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "30/04/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "QPR",
+        "away_team": "Nott'm Forest",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "30/04/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Reading",
+        "away_team": "Wolves",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "30/04/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Rotherham",
+        "away_team": "Brighton",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "30/04/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Sheffield United",
+        "away_team": "Millwall",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "30/04/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Stoke",
+        "away_team": "Watford",
+        "home_score": "0",
+        "away_score": "1",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "01/05/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Leicester",
+        "away_team": "Leeds",
+        "home_score": "2",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "08/05/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Brighton",
+        "away_team": "Ipswich",
+        "home_score": "1",
+        "away_score": "1",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "08/05/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Cardiff",
+        "away_team": "QPR",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "date": "08/05/05",
+        "time": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "home_team": "Crewe",
+        "away_team": "Coventry",
+        "home_score": "2",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "08/05/05",
+        "time": null,
+        "home_team": "Derby",
+        "away_team": "Preston",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "08/05/05",
+        "time": null,
+        "home_team": "Leeds",
+        "away_team": "Rotherham",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "08/05/05",
+        "time": null,
+        "home_team": "Millwall",
+        "away_team": "Burnley",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "08/05/05",
+        "time": null,
+        "home_team": "Nott'm Forest",
+        "away_team": "Gillingham",
+        "home_score": "2",
+        "away_score": "2",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "08/05/05",
+        "time": null,
+        "home_team": "Plymouth",
+        "away_team": "Leicester",
+        "home_score": "0",
+        "away_score": "0",
+        "result": "D"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "08/05/05",
+        "time": null,
+        "home_team": "Sunderland",
+        "away_team": "Stoke",
+        "home_score": "1",
+        "away_score": "0",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "08/05/05",
+        "time": null,
+        "home_team": "Watford",
+        "away_team": "West Ham",
+        "home_score": "1",
+        "away_score": "2",
+        "result": "A"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "08/05/05",
+        "time": null,
+        "home_team": "Wigan",
+        "away_team": "Reading",
+        "home_score": "3",
+        "away_score": "1",
+        "result": "H"
+    },
+    {
+        "league_id": 40,
+        "season": "2004",
+        "date": "08/05/05",
+        "time": null,
+        "home_team": "Wolves",
+        "away_team": "Sheffield United",
+        "home_score": "4",
+        "away_score": "2",
+        "result": "H"
+    }
+]

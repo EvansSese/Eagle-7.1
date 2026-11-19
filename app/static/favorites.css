@@ -1,0 +1,24 @@
+.favorite-toggle { display: inline-grid; width: 30px; height: 30px; flex: 0 0 auto; place-items: center; border: 1px solid #e5ebe6; border-radius: 50%; background: #fff; color: #87948a; cursor: pointer; font-size: 17px; }
+.favorite-toggle:hover, .favorite-toggle.active { border-color: #e7b6b6; color: #d44c59; }
+.favorite-list-form { display: flex; flex: 0 0 auto; gap: 6px; padding: 9px; border-bottom: 1px solid #edf0ed; }
+.favorite-list-form input { width: 100%; min-width: 0; padding: 7px 8px; border: 1px solid #e6ebe6; border-radius: 5px; background: var(--surface); color: var(--ink); font-size: 10px; }
+.favorite-list-form button, .favorite-list-control { padding: 6px 8px; border: 1px solid #e6ebe6; border-radius: 5px; background: var(--surface); color: #657369; cursor: pointer; font-size: 9px; }
+.favorite-list-form button { color: #408254; font-weight: 700; }
+.favorite-list-group { margin: 0 0 9px; padding: 7px; border: 1px solid #e9eee9; border-radius: 7px; }
+.favorite-list-heading { display: flex; align-items: center; justify-content: space-between; gap: 5px; padding-bottom: 7px; border-bottom: 1px solid #edf0ed; }
+.favorite-list-activate { display: flex; min-width: 0; align-items: center; gap: 6px; color: #445047; font-size: 10px; }
+.favorite-list-activate input { accent-color: #43865a; }
+.favorite-list-activate strong { overflow: hidden; text-overflow: ellipsis; }
+.favorite-list-controls { display: flex; flex: 0 0 auto; gap: 4px; }
+.favorite-list-control.danger, .favorite-fixture-remove { color: #b94c55; }
+.favorite-list-empty { padding: 10px 4px 3px; color: #8b968d; font-size: 9px; }
+.favorite-group { margin: 0 0 12px; }
+.favorite-group-title { margin: 4px 5px 5px; color: #79857c; font-size: 9px; font-weight: 700; text-transform: uppercase; }
+.favorite-fixture-row { display: flex; align-items: center; gap: 2px; margin-bottom: 4px; }
+.favorite-fixture-button { display: grid; min-width: 0; flex: 1 1 auto; gap: 3px; padding: 8px; border: 0; border-radius: 5px; background: transparent; text-align: left; cursor: pointer; }
+.favorite-fixture-button:disabled { cursor: default; }
+.favorite-fixture-button:hover, .favorite-fixture-button.selected { background: #edf6ef; }
+.favorite-fixture-remove { width: 25px; height: 25px; flex: 0 0 auto; border: 0; border-radius: 5px; background: transparent; cursor: pointer; font-size: 17px; }
+.favorite-fixture-remove:hover { background: #fff0f0; }
+.favorite-fixture-teams { color: #445047; font-size: 10px; font-weight: 600; line-height: 1.4; }
+.favorite-fixture-meta { color: #8b968d; font-size: 9px; }
