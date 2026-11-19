@@ -249,7 +249,7 @@ class ModelLabWorkflowTests(unittest.TestCase):
                 stack.enter_context(patch.object(processing_workflow, "process_goals_data", side_effect=wait_in_processing))
                 for name in (
                     "process_points_data", "process_xg_data", "process_rho_data", "process_fair_odds_data",
-                    "process_outcome_probability_data", "process_recent_goals_data",
+                    "process_outcome_probability_data", "process_power_ratings_data", "process_recent_goals_data",
                     "process_recent_points_data", "process_recent_xg_data",
                     "process_recent_fair_odds_data", "process_head_to_head_data",
                 ):

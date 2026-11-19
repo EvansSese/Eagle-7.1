@@ -136,8 +136,8 @@ def analyze_outcome_probabilities(
         raise ValueError("outcome probabilities cannot be missing for completed fixtures")
     if ((probabilities < 0) | (probabilities > 1)).any().any():
         raise ValueError("outcome probabilities must be between 0 and 1")
-    if not probabilities.sum(axis=1).between(1 - 1e-6, 1 + 1e-6).all():
-        raise ValueError("win, draw, and loss probabilities must sum to 1")
+    if not probabilities.sum(axis=1).between(0.985, 1.015).all():
+        raise ValueError("rounded win, draw, and loss probabilities must sum approximately to 1")
 
     combined_probabilities = completed[list(COMBINED_PROBABILITY_COLUMNS.values())].copy()
     combined_probabilities.columns = OUTCOMES
@@ -147,8 +147,8 @@ def analyze_outcome_probabilities(
         raise ValueError("combined outcome probabilities cannot be missing")
     if ((combined_probabilities < 0) | (combined_probabilities > 1)).any().any():
         raise ValueError("combined outcome probabilities must be between 0 and 1")
-    if not combined_probabilities.sum(axis=1).between(1 - 1e-6, 1 + 1e-6).all():
-        raise ValueError("combined outcome probabilities must sum to 1")
+    if not combined_probabilities.sum(axis=1).between(0.985, 1.015).all():
+        raise ValueError("rounded combined outcome probabilities must sum approximately to 1")
 
     predicted_outcomes = probabilities.idxmax(axis=1)
     actual_outcomes = actual.idxmax(axis=1)

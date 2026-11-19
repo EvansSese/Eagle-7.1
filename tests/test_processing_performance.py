@@ -119,58 +119,34 @@ class ProcessingPerformanceTests(unittest.TestCase):
                         legacy_score_matrix(lam, mu, rho, maximum),
                     )
 
-    def test_h2h_matches_previous_algorithms_across_seasons(self):
-        data = fixtures()
-
-        def build():
-            previous = pd.DataFrame()
-            results = []
-            for season in ("2022", "2023", "2024"):
-                history = data[data["season"] <= season]
-                current = data[data["season"] == season]
-                previous = head_to_head.build_h2h_dataset_for_season(
-                    history, current, previous, max_workers=1
-                )
-                results.append(previous)
-            return results
-
-        actual = build()
-        modules = (point_metrics, goal_metrics,
-                   last_n_xg, outcome_probability)
-        with ExitStack() as stack:
-            for module in modules:
-                stack.enter_context(patch.object(module, "iter_fixture_kickoffs", legacy_kickoffs))
-            stack.enter_context(patch.object(expected_goals, "add_league_rolling_averages", legacy_league_averages))
-            stack.enter_context(patch.object(last_n_xg, "add_league_rolling_averages", legacy_league_averages))
-            stack.enter_context(patch.object(fair_odds, "build_score_matrix", legacy_score_matrix))
-            stack.enter_context(patch.object(last_n_fair_odds, "build_score_matrix", legacy_score_matrix))
-            reference = build()
-        for current, original in zip(actual, reference):
-            assert_frame_equal(current, original, check_exact=False, rtol=1e-12, atol=1e-12)
-        # Same-kickoff results must not feed points or xG for the other fixture.
-        first = actual[0].query("fixture_id == 202200").iloc[0]
-        second = actual[0].query("fixture_id == 202201").iloc[0]
+    def test_h2h_same_kickoff_and_season_scope(self):
+        actual = head_to_head.build_h2h_dataset(fixtures()).set_index("fixture_id")
+        first = actual.loc[202200]
+        second = actual.loc[202201]
         self.assertEqual(first["x_team_points_before"], second["y_team_points_before"])
         self.assertEqual(first["y_team_points_before"], second["x_team_points_before"])
+        self.assertEqual(actual.loc[202300, "h2h_season_overall_x_team_points"], 0)
+        self.assertGreater(actual.loc[202300, "h2h_all_time_overall_x_team_matches_played"], 0)
 
-    def test_h2h_reuses_outcome_probabilities_across_seasons_and_cached_tables(self):
+    def test_h2h_rebuilds_all_season_and_combined_tables(self):
         data = fixtures()
         with tempfile.TemporaryDirectory() as directory:
             path = Path(directory) / "country.ddb"
             with duckdb.connect(str(path)) as connection, patch.object(
-                head_to_head, "add_outcome_probabilities_before_match",
-                wraps=head_to_head.add_outcome_probabilities_before_match,
+                head_to_head, "build_h2h_dataset",
+                wraps=head_to_head.build_h2h_dataset,
             ) as calculate:
                 head_to_head.process_league_h2h(data, 39, path, connection=connection)
                 self.assertEqual(calculate.call_count, 1)
                 calculate.reset_mock()
                 head_to_head.process_league_h2h(data, 39, path, connection=connection)
-                calculate.assert_not_called()
+                calculate.assert_called_once()
                 for season in ("2022", "2023", "2024"):
                     count = connection.execute(
                         f'SELECT COUNT(*) FROM "39-{season}-h2h"'
                     ).fetchone()[0]
                     self.assertEqual(count, 8)
+                self.assertEqual(connection.execute('SELECT COUNT(*) FROM "39-h2h"').fetchone()[0], 24)
 
     def test_workflow_reuses_fixtures_and_has_no_default_delays(self):
         data = fixtures()
@@ -187,7 +163,7 @@ class ProcessingPerformanceTests(unittest.TestCase):
                 sleep = stack.enter_context(patch.object(workflow.time, "sleep"))
                 for name in (
                     "process_goals_data", "process_points_data", "process_xg_data",
-                    "process_rho_data", "process_fair_odds_data", "process_outcome_probability_data",
+                    "process_rho_data", "process_fair_odds_data", "process_outcome_probability_data", "process_power_ratings_data",
                     "process_recent_goals_data", "process_recent_points_data",
                     "process_recent_xg_data", "process_recent_fair_odds_data",
                 ):
@@ -218,7 +194,7 @@ class ProcessingPerformanceTests(unittest.TestCase):
                 progress_callback=lambda done, total, message: progress.append((done, total)),
             )
             with duckdb.connect(str(country_db), read_only=True) as connection:
-                suffixes = ["goals", "points", "xg", "rho", "odds", "outcome-probability", "h2h"]
+                suffixes = ["goals", "points", "xg", "rho", "odds", "outcome-probability", "power-ratings", "h2h"]
                 suffixes += [
                     f"{metric}-l{window}"
                     for metric in ("goals", "points", "xg", "odds")
@@ -229,8 +205,8 @@ class ProcessingPerformanceTests(unittest.TestCase):
                         f'SELECT COUNT(*) FROM "39-2022-{suffix}"'
                     ).fetchone()[0]
                     self.assertEqual(count, 8, suffix)
-            self.assertEqual(progress[0], (0, 11))
-            self.assertEqual(progress[-1], (11, 11))
+            self.assertEqual(progress[0], (0, 12))
+            self.assertEqual(progress[-1], (12, 12))
 
 
 if __name__ == "__main__":

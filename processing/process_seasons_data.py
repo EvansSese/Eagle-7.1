@@ -11,6 +11,7 @@ try:
     from .xG import expected_goals
     from .fair_odds import fair_odds, rho_estimation
     from .outcome_probability import outcome_probability
+    from .power_ratings import power_ratings
     from .recent_goals import last_n_goals
     from .recent_points import last_n_points
     from .recent_xg import last_n_xg
@@ -22,6 +23,7 @@ except ImportError:
     from xG import expected_goals
     from fair_odds import fair_odds, rho_estimation
     from outcome_probability import outcome_probability
+    from power_ratings import power_ratings
     from recent_goals import last_n_goals
     from recent_points import last_n_points
     from recent_xg import last_n_xg
@@ -51,7 +53,7 @@ def process_seasons_data(
     print(f"Processing seasons data for {country_name} - {league_name} for seasons {available_seasons}")
 
     seasons = seasons_to_process if seasons_to_process else available_seasons
-    total_steps = len(seasons) * 10 + 1
+    total_steps = len(seasons) * 11 + 1
     completed_steps = 0
 
     def report_progress(message: str) -> None:
@@ -131,6 +133,13 @@ def process_seasons_data(
                 fixtures=history, database_path=database_path, connection=connection,
             )
             report_progress(f"Processed outcome probabilities for season {season}")
+            pause()
+
+            process_power_ratings_data(
+                league_id=league_id, season=season, country_name=country_name,
+                fixtures=all_fixtures, database_path=database_path, connection=connection,
+            )
+            report_progress(f"Processed power ratings for season {season}")
             pause()
 
             # Process recent goals data
@@ -253,6 +262,30 @@ def process_outcome_probability_data(
         columns=["season", "source_table"], errors="ignore"
     )
     outcome_probability.write_output(outcome_probability_df, db_path=database_path, table_name=output_table, connection=connection)
+
+def process_power_ratings_data(
+    league_id: int, season: int, country_name: str,
+    fixtures: pd.DataFrame = None,
+    database_path=None,
+    connection=None,
+) -> None:
+    database_path = database_path or PROJECT_ROOT / "storage" / "database" / "leagues" / f"{country_name}.ddb"
+    input_table = f"{league_id}-{season}-fixtures"
+    output_table = f"{league_id}-{season}-power-ratings"
+
+    fixtures = fixtures if fixtures is not None else power_ratings.load_fixtures(
+        db_path=database_path, table_name=input_table, connection=connection
+    )
+    if "league_id" in fixtures:
+        fixtures = fixtures[fixtures["league_id"].astype(str) == str(league_id)].copy()
+    if "season" in fixtures:
+        fixtures = fixtures[pd.to_numeric(fixtures["season"], errors="coerce") == int(season)].copy()
+    if fixtures.empty:
+        raise ValueError(f"No fixtures found for league {league_id}, season {season}")
+    ratings = power_ratings.add_power_ratings_before_match(fixtures)
+    ratings = ratings.drop(columns=["season", "source_table"], errors="ignore")
+    power_ratings.write_output(ratings, db_path=database_path, table_name=output_table, connection=connection)
+
 
 def process_recent_goals_data(
     league_id: int, season: int, country_name: str,

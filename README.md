@@ -1,4 +1,4 @@
-# Eagle-7.0
+# Eagle-7.1
 Football outcome prediction using Machine Learning Algorithms.
 
 ## Local dashboard
