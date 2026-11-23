@@ -13,6 +13,7 @@ import joblib
 import numpy as np
 import pandas as pd
 from core.database import connect_existing_database
+from core.fixture_dates import fixture_dates_utc, fixture_time_utc
 from sklearn.metrics import accuracy_score, log_loss
 from scipy.stats import poisson
 
@@ -715,13 +716,11 @@ def run_experiment(
     upcoming = _read_table(dataset_database, f"{league_id}-prediction-dataset")
     if "fixture_id" not in upcoming:
         raise ValueError("Prepared prediction table has no fixture_id")
+    upcoming["date"] = fixture_dates_utc(upcoming["date"], errors="coerce")
     upcoming = upcoming.loc[
         upcoming["status"].isin({"NS", "TBD"})
-        & pd.to_datetime(upcoming["date"], errors="coerce").notna()
-        & (
-            pd.to_datetime(upcoming["date"], errors="coerce")
-            >= pd.Timestamp.now()
-        )
+        & upcoming["date"].notna()
+        & (upcoming["date"] >= fixture_time_utc())
     ].copy()
     if upcoming.empty:
         raise ValueError("No future unplayed fixtures are available for this league")

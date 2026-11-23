@@ -63,6 +63,36 @@ class ExpectedGoalsTests(unittest.TestCase):
     def test_unique_fixture_ids(self):
         self.assertTrue(self.out.index.is_unique)
 
+    def test_postponed_previous_round_is_not_seen_early(self):
+        df = fixtures()
+        df["date"] = pd.to_datetime(df["date"])
+        df.loc[df["fixture_id"] == 2, "date"] = pd.Timestamp("2025-08-10")
+        out = build_expected_goals_table(df).set_index("fixture_id")
+        self.assertEqual(out.loc[3, "home_league_avg_goals"], 2.0)
+        self.assertEqual(out.loc[3, "away_league_avg_goals"], 0.0)
+        df.loc[df["fixture_id"] == 2, "home_goals"] = 20
+        changed = build_expected_goals_table(df).set_index("fixture_id")
+        self.assertEqual(out.loc[3, "x_team_home_expected_goals"],
+                         changed.loc[3, "x_team_home_expected_goals"])
+
+    def test_previous_round_at_same_kickoff_is_not_seen(self):
+        df = fixtures()
+        df["date"] = pd.to_datetime(df["date"])
+        df.loc[df["fixture_id"] == 2, "date"] = pd.Timestamp("2025-08-08")
+        out = build_expected_goals_table(df).set_index("fixture_id")
+        self.assertEqual(out.loc[3, "home_league_avg_goals"], 2.0)
+        self.assertEqual(out.loc[3, "away_league_avg_goals"], 0.0)
+
+    def test_postponed_result_is_included_for_later_kickoffs(self):
+        df = fixtures()
+        df["date"] = pd.to_datetime(df["date"])
+        df.loc[df["fixture_id"] == 2, "date"] = pd.Timestamp("2025-08-10")
+        df.loc[df["fixture_id"] == 4, "date"] = pd.Timestamp("2025-08-15")
+        out = build_expected_goals_table(df).set_index("fixture_id")
+        self.assertEqual(out.loc[3, "home_league_avg_goals"], 2.0)
+        self.assertEqual(out.loc[4, "home_league_avg_goals"], 1.5)
+        self.assertEqual(out.loc[4, "away_league_avg_goals"], 0.5)
+
 
 if __name__ == "__main__":
     unittest.main()

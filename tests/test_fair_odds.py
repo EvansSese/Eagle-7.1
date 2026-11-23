@@ -112,5 +112,14 @@ class RhoEstimationTests(unittest.TestCase):
         self.assertIn("rho", with_rho.columns)
         self.assertFalse(np.allclose(base["draw_probability"], with_rho["draw_probability"]))
 
+    def test_postponed_results_do_not_enter_rho_early(self):
+        from processing.fair_odds import rho_estimation
+        frame = self.frame([(1, 0, 0), (1, 1, 0), (2, 1, 1), (2, 1, 1)])
+        frame.loc[frame["fixture_id"] == 2, "date"] = pd.Timestamp("2025-08-20")
+        frame.loc[frame["fixture_id"] == 4, "date"] = pd.Timestamp("2025-08-20")
+        out = rho_estimation.build_rho_table(frame).set_index("fixture_id")
+        self.assertEqual(out.loc[3, "rho_matches_used"], 1)
+        self.assertEqual(out.loc[4, "rho_matches_used"], 1)
+
 if __name__ == "__main__":
     unittest.main()

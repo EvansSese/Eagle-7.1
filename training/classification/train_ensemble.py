@@ -36,6 +36,7 @@ from sklearn.pipeline import Pipeline
 from sklearn.preprocessing import StandardScaler
 from sklearn.svm import SVC
 from sklearn.tree import DecisionTreeClassifier
+from core.fixture_dates import fixture_dates_utc, fixture_time_utc
 
 from training.classification.preprocess_dataset import (
     LABEL_MAP,
@@ -426,12 +427,12 @@ def predict_upcoming_fixtures(
     if not include_all:
         raw = raw.loc[raw["status"].isin({"NS", "TBD"})].copy()
     original_dates = raw["date"]
-    raw["date"] = pd.to_datetime(original_dates, errors="coerce")
+    raw["date"] = fixture_dates_utc(original_dates, errors="coerce")
     if (raw["date"].isna() & original_dates.notna()).any():
         raise ValueError(f"{prediction_table!r} contains invalid fixture dates")
     if not include_all:
         raw = raw.loc[raw["date"].notna()].copy()
-        current_time = pd.Timestamp.now() if now is None else pd.Timestamp(now)
+        current_time = fixture_time_utc(now)
         if not include_past:
             raw = raw.loc[raw["date"] >= current_time].copy()
     if raw.empty:

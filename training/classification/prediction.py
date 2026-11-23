@@ -28,6 +28,7 @@ from classification.preprocess_dataset import (
     persist_dataframe,
 )
 from core.get_league_details import get_league_details
+from core.fixture_dates import fixture_dates_utc, fixture_time_utc
 
 logger = logging.getLogger(__name__)
 
@@ -113,9 +114,10 @@ def run_prediction(config: PredictionConfig) -> pd.DataFrame:
         logger.warning("No records found in table '%s'.", config.prediction_table)
         return pd.DataFrame()
     upcoming_statuses = {"NS", "TBD"}
+    raw_df["date"] = fixture_dates_utc(raw_df["date"], errors="coerce")
     raw_df = raw_df[
         raw_df["status"].isin(upcoming_statuses)
-        & (raw_df["date"] >= pd.Timestamp.now())
+        & (raw_df["date"] >= fixture_time_utc())
     ].copy()
     if raw_df.empty:
         logger.info("No upcoming fixtures found in '%s'.", config.prediction_table)

@@ -27,7 +27,7 @@ from processing.xG.xg_metrics import (  # noqa: F401  (re-exported for other mod
     determine_round_order,
 )
 
-# League averages come from the single previous round only.
+# League averages come from earlier kickoffs in the previous round only.
 PREVIOUS_ROUNDS = 1
 
 OUTPUT_COLUMNS = [

@@ -9,6 +9,8 @@ Model (home scope for the fixture's home team x, away scope for its away
 team y - there is no overall scope):
   home_league_avg = goals scored by home teams in the previous round / matches in that round
   away_league_avg = goals scored by away teams in the previous round / matches in that round
+Only results from earlier kickoffs contribute, even if a previous-round
+fixture is postponed or played at the same time.
 
   x_team_home_attacking_strength = x home goals scored per match   / home_league_avg
   x_team_home_defense_strength   = x home goals conceded per match / away_league_avg
@@ -22,13 +24,13 @@ A division whose denominator is 0 (e.g. round 1, nothing played yet) yields
 0. Intermediate values keep full precision; every stored value is rounded to
 2 decimals.
 
-Efficiency: everything is vectorised (group cumulative sums), so the cost is
-O(n log n) for the sort and O(n) for the rest, with no per-fixture Python
-loop and no per-team history stored.
+Efficiency: team totals are vectorised, and league averages are maintained
+per round while traversing kickoffs chronologically.
 """
 
 import numpy as np
 import pandas as pd
+from itertools import groupby
 
 from processing.core import COMPLETED_STATUSES
 
@@ -56,7 +58,7 @@ def add_league_rolling_averages(df: pd.DataFrame, window: int = None) -> pd.Data
     """
     Add x_league_avg_goals / y_league_avg_goals: for each fixture, the average
     goals scored by home (x) and away (y) teams across all finished matches in
-    EARLIER rounds. All fixtures of a round share the value. With `window`,
+    EARLIER rounds that kicked off before this fixture. With `window`,
     only that many earlier rounds contribute (window=1: previous round only,
     as used by the xG model). Returns rows sorted by
     round_number, date, fixture_id (round_number is added as a column).
@@ -64,23 +66,34 @@ def add_league_rolling_averages(df: pd.DataFrame, window: int = None) -> pd.Data
     if window is not None and window <= 0:
         raise ValueError("window must be a positive integer")
     df = df.copy()
+    df["date"] = pd.to_datetime(df["date"])
+    if df["date"].isna().any():
+        raise ValueError("fixture dates cannot be missing")
     df["round_number"] = df["round"].map(determine_round_order(df))
-    df = df.sort_values(["round_number", "date", "fixture_id"]).reset_index(drop=True)
-
-    finished = df["status"].isin(COMPLETED_STATUSES)
-    totals = pd.DataFrame({
-        "home": df["home_goals"].where(finished, 0),
-        "away": df["away_goals"].where(finished, 0),
-        "matches": finished.astype(int),
-    }).groupby(df["round_number"], sort=True).sum()
-    if window is None:
-        previous = totals.cumsum().shift(1, fill_value=0)
-    else:
-        previous = totals.rolling(window, min_periods=1).sum().shift(1, fill_value=0)
-    counts = previous["matches"].replace(0, np.nan)
-    df["x_league_avg_goals"] = df["round_number"].map((previous["home"] / counts).fillna(0.0)).fillna(0.0)
-    df["y_league_avg_goals"] = df["round_number"].map((previous["away"] / counts).fillna(0.0)).fillna(0.0)
-    return df
+    df = df.sort_values(["date", "fixture_id"], kind="stable").reset_index(drop=True)
+    maximum_rank = df["round_number"].max()
+    totals = np.zeros((int(maximum_rank) + 1 if pd.notna(maximum_rank) else 1, 3), dtype=float)
+    home_averages, away_averages = [], []
+    for _, rows in groupby(df.itertuples(index=False), key=lambda row: row.date):
+        kickoff = list(rows)
+        for row in kickoff:
+            if pd.isna(row.round_number):
+                home_averages.append(0.0)
+                away_averages.append(0.0)
+                continue
+            rank = int(row.round_number)
+            start = max(1, rank - window) if window is not None else 1
+            home, away, count = totals[start:rank].sum(axis=0)
+            home_averages.append(home / count if count else 0.0)
+            away_averages.append(away / count if count else 0.0)
+        for row in kickoff:
+            if row.status in COMPLETED_STATUSES and pd.notna(row.round_number):
+                if pd.isna(row.home_goals) or pd.isna(row.away_goals):
+                    raise ValueError("completed fixtures must include both teams' goals")
+                totals[int(row.round_number)] += (row.home_goals, row.away_goals, 1)
+    df["x_league_avg_goals"] = home_averages
+    df["y_league_avg_goals"] = away_averages
+    return df.sort_values(["round_number", "date", "fixture_id"], kind="stable").reset_index(drop=True)
 
 
 def prior_venue_totals(team: pd.Series, scored: pd.Series, conceded: pd.Series, finished: pd.Series) -> tuple:

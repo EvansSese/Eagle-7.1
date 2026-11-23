@@ -15,6 +15,7 @@ from sklearn.metrics import log_loss
 from sklearn.neural_network import MLPClassifier, MLPRegressor
 from sklearn.pipeline import Pipeline
 from core.database import connect_existing_database
+from core.fixture_dates import fixture_dates_utc, fixture_time_utc
 
 from training.classification.preprocess_dataset import build_feature_preprocessor, engineer_features
 
@@ -196,11 +197,11 @@ def run_experiment(
     missing = required.difference(upcoming.columns)
     if missing:
         raise ValueError(f"{prediction_table!r} is missing columns: {sorted(missing)}")
-    upcoming["date"] = pd.to_datetime(upcoming["date"], errors="coerce")
+    upcoming["date"] = fixture_dates_utc(upcoming["date"], errors="coerce")
     upcoming = upcoming.loc[
         upcoming["status"].isin({"NS", "TBD"})
         & upcoming["date"].notna()
-        & (upcoming["date"] >= pd.Timestamp.now())
+        & (upcoming["date"] >= fixture_time_utc())
     ].copy()
 
     train, test = _chronological_split(matches, test_size)

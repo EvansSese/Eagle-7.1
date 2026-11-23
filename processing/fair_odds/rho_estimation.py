@@ -14,17 +14,17 @@ fixed rho grid (cheap and robust; invalid rho with tau <= 0 gets -inf) and
 add a weak Gaussian prior centred on the default RHO with std PRIOR_SD, so
 with little data rho stays near the default instead of swinging.
 
-No lookahead: the rho used for a fixture's round is estimated ONLY from
-matches in strictly earlier rounds, via one cumulative sum over rounds
-(O(low-score matches x grid size) time, small memory). The first round
-therefore gets the default RHO. Means are the pre-match expected goals from
-the xG table; matches whose xG is 0 (no model expectation) are skipped.
+The rho used for a fixture is estimated from earlier kickoffs in strictly
+earlier rounds. It may therefore vary within a round when fixtures overlap.
+The first round gets the default RHO. Means are pre-match expected goals;
+matches whose xG is 0 (no model expectation) are skipped.
 
 Output table "<league>-<season>-rho" is keyed by fixture_id.
 """
 
 import numpy as np
 import pandas as pd
+from itertools import groupby
 
 from processing.core import COMPLETED_STATUSES, database_connection, write_fixture_table
 from processing.fair_odds.dixon_coles import RHO
@@ -57,57 +57,64 @@ def low_score_log_tau(home_goals, away_goals, lam, mu, grid: np.ndarray = RHO_GR
 def estimate_rho_by_round(df: pd.DataFrame, grid: np.ndarray = RHO_GRID,
                           prior_rho: float = RHO, prior_sd: float = PRIOR_SD) -> pd.DataFrame:
     """
-    Per round, the MAP rho estimated from earlier rounds only.
+    Per round, the MAP rho at the round's first kickoff.
     Returns one row per round: round, round_number, rho, rho_matches_used.
     `df` needs round, date, status, home_goals, away_goals and the
     x_team_home_expected_goals / y_team_away_expected_goals columns.
     """
+    df = df.copy()
+    if "league_id" not in df:
+        df["league_id"] = 0
+    if "fixture_id" not in df:
+        df["fixture_id"] = np.arange(len(df))
+    df["date"] = pd.to_datetime(df["date"])
     order = determine_round_order(df)
-    rounds = sorted(order, key=order.get)
-    round_pos = {label: i for i, label in enumerate(rounds)}
-    n_rounds = len(rounds)
+    estimates = _rho_per_fixture(df, grid, prior_rho, prior_sd)
+    estimates["round_number"] = estimates["round"].map(order)
+    return estimates.drop_duplicates("round")[["round", "round_number", "rho", "rho_matches_used"]].sort_values("round_number").reset_index(drop=True)
 
-    usable = (
-        df["status"].isin(COMPLETED_STATUSES)
-        & df["home_goals"].notna() & df["away_goals"].notna()
-        & (df["x_team_home_expected_goals"] > 0) & (df["y_team_away_expected_goals"] > 0)
-    )
-    used = df[usable]
-    positions = used["round"].map(round_pos).to_numpy(dtype=int)
-    matches_per_round = np.bincount(positions, minlength=n_rounds)
 
-    low = ((used["home_goals"] <= 1) & (used["away_goals"] <= 1)).to_numpy()
-    low_rows = used[low]
-    log_lik_per_round = np.zeros((n_rounds, len(grid)))
-    if len(low_rows):
-        contributions = low_score_log_tau(
-            low_rows["home_goals"].to_numpy(), low_rows["away_goals"].to_numpy(),
-            low_rows["x_team_home_expected_goals"].to_numpy(), low_rows["y_team_away_expected_goals"].to_numpy(),
-            grid,
-        )
-        np.add.at(log_lik_per_round, positions[low], contributions)
-
-    # Exclusive cumulative sums: round i sees rounds 0..i-1 only
-    before_ll = np.vstack([np.zeros(len(grid)), np.cumsum(log_lik_per_round, axis=0)[:-1]])
-    matches_before = np.concatenate([[0], np.cumsum(matches_per_round)[:-1]])
-
+def _rho_per_fixture(df, grid, prior_rho, prior_sd):
+    df = df.copy()
+    df["date"] = pd.to_datetime(df["date"])
+    if df["date"].isna().any() or df["round"].isna().any():
+        raise ValueError("fixture dates and rounds cannot be missing")
+    order = determine_round_order(df)
+    df = df.sort_values(["date", "fixture_id"], kind="stable")
+    log_likelihood = np.zeros((len(order) + 1, len(grid)))
+    counts = np.zeros(len(order) + 1, dtype=int)
     log_prior = -0.5 * ((grid - prior_rho) / prior_sd) ** 2
-    best = np.argmax(before_ll + log_prior[None, :], axis=1)
-    return pd.DataFrame({
-        "round": rounds,
-        "round_number": range(1, n_rounds + 1),
-        "rho": np.round(grid[best], RHO_DECIMALS),
-        "rho_matches_used": matches_before,
-    })
+    records = []
+    for _, rows in groupby(df.itertuples(index=False), key=lambda row: row.date):
+        kickoff = list(rows)
+        for row in kickoff:
+            rank = order[row.round]
+            likelihood = log_likelihood[:rank].sum(axis=0)
+            best = np.argmax(likelihood + log_prior)
+            records.append({
+                "league_id": row.league_id, "fixture_id": row.fixture_id,
+                "round": row.round, "rho": round(float(grid[best]), RHO_DECIMALS),
+                "rho_matches_used": int(counts[:rank].sum()),
+            })
+        for row in kickoff:
+            if (row.status not in COMPLETED_STATUSES or pd.isna(row.home_goals)
+                    or pd.isna(row.away_goals)
+                    or not row.x_team_home_expected_goals > 0
+                    or not row.y_team_away_expected_goals > 0):
+                continue
+            rank = order[row.round]
+            counts[rank] += 1
+            if row.home_goals <= 1 and row.away_goals <= 1:
+                log_likelihood[rank] += low_score_log_tau(
+                    [row.home_goals], [row.away_goals],
+                    [row.x_team_home_expected_goals], [row.y_team_away_expected_goals], grid,
+                )[0]
+    return pd.DataFrame(records, columns=OUTPUT_COLUMNS)
 
 
 def build_rho_table(df: pd.DataFrame) -> pd.DataFrame:
-    """Per-fixture rho table (OUTPUT_COLUMNS), keyed by fixture_id."""
-    by_round = estimate_rho_by_round(df)
-    merged = df[["league_id", "fixture_id", "round"]].merge(
-        by_round[["round", "rho", "rho_matches_used"]], on="round", how="left"
-    )
-    return merged[OUTPUT_COLUMNS].sort_values("fixture_id").reset_index(drop=True)
+    """Estimate rho from earlier-round results available before each kickoff."""
+    return _rho_per_fixture(df, RHO_GRID, RHO, PRIOR_SD).sort_values("fixture_id").reset_index(drop=True)
 
 
 def load_rho_table(db_path: str, table_name: str, connection=None) -> pd.DataFrame:

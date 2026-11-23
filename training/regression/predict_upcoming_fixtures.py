@@ -11,6 +11,7 @@ import duckdb
 import joblib
 import pandas as pd
 from core.database import connect_existing_database
+from core.fixture_dates import fixture_dates_utc, fixture_time_utc
 
 from training.regression.train_goal_models import (
     ROOT,
@@ -121,7 +122,7 @@ def predict_upcoming_fixtures(
         raise ValueError(
             f"{fixtures_table!r} is missing columns: {sorted(missing)}"
         )
-    fixture_records["date"] = pd.to_datetime(
+    fixture_records["date"] = fixture_dates_utc(
         fixture_records["date"], errors="coerce"
     )
     if fixture_records["date"].isna().any():
@@ -129,7 +130,7 @@ def predict_upcoming_fixtures(
     if fixture_records["fixture_id"].duplicated().any():
         raise ValueError(f"{fixtures_table!r} contains duplicate fixture IDs")
 
-    current_time = pd.Timestamp.now() if now is None else pd.Timestamp(now)
+    current_time = fixture_time_utc(now)
     upcoming = fixture_records.loc[
         fixture_records["status"].eq("NS")
         & (fixture_records["date"] >= current_time)

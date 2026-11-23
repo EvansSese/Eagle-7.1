@@ -144,7 +144,7 @@
             <div>
               <p class="eyebrow">MODEL-POWERED MATCH OUTLOOK</p>
               <h1>Predictions<span class="heading-period">.</span></h1>
-              <p class="subtitle">Explore fixture predictions from classifier and goal-regression models.</p>
+              <p class="subtitle">Explore saved market predictions and legacy model forecasts.</p>
             </div>
             <div class="database-chip"><span class="database-icon" aria-hidden="true">♥</span> Saved fixtures stay local</div>
           </section>
@@ -178,6 +178,7 @@
                   <option value="all">All fixtures</option>
                 </select>
               </label>
+              <button id="prediction-refresh" class="prediction-refresh" type="button" disabled>Refresh predictions</button>
               <div id="prediction-fixture-list" class="prediction-fixture-list">
                 <div class="pane-placeholder"><span class="placeholder-icon" aria-hidden="true">◷</span>Choose a league and season to load predictions.</div>
               </div>
@@ -226,7 +227,7 @@
           <div class="model-lab-layout">
             <aside class="model-league-panel" aria-labelledby="model-leagues-title">
               <header class="pane-heading">
-                <div><h2 id="model-leagues-title">Choose a league</h2><p id="model-league-count">Loading countries…</p></div>
+                <div><h2 id="model-leagues-title">Choose leagues</h2><p id="model-league-count">Loading countries…</p></div>
                 <span class="pane-heading-icon" aria-hidden="true">☷</span>
               </header>
               <label class="pane-search">
@@ -290,7 +291,7 @@
                     <button class="primary-button model-action" data-action="prepare" type="button" disabled>Prepare dataset</button>
                   </div>
                 </section>
-                <section class="model-card">
+                <section class="model-card" hidden>
                   <label class="model-workflow-select"><input type="checkbox" class="model-select" data-action="train-classifier" aria-label="Select train classification models"></label>
                   <div class="model-card-copy">
                     <span class="model-step">04</span>
@@ -302,7 +303,7 @@
                     <button class="primary-button model-action" data-action="train-classifier" type="button" disabled>Train classifiers</button>
                   </div>
                 </section>
-                <section class="model-card">
+                <section class="model-card" hidden>
                   <label class="model-workflow-select"><input type="checkbox" class="model-select" data-action="train-regressor" aria-label="Select train regression models"></label>
                   <div class="model-card-copy">
                     <span class="model-step">05</span>
@@ -314,7 +315,7 @@
                     <button class="primary-button model-action" data-action="train-regressor" type="button" disabled>Train regressors</button>
                   </div>
                 </section>
-                <section class="model-card">
+                <section class="model-card" hidden>
                   <label class="model-workflow-select"><input type="checkbox" class="model-select" data-action="train-neural" aria-label="Select train neural networks"></label>
                   <div class="model-card-copy">
                     <span class="model-step">06</span>
@@ -326,8 +327,39 @@
                     <button class="primary-button model-action" data-action="train-neural" type="button" disabled>Train neural networks</button>
                   </div>
                 </section>
+                <section class="model-card">
+                  <label class="model-workflow-select"><input type="checkbox" class="model-select" data-action="train-market-models" aria-label="Select train market models"></label>
+                  <div class="model-card-copy">
+                    <span class="model-step">04</span>
+                    <span class="model-card-status" aria-live="polite"></span>
+                    <h2>Train market models</h2>
+                    <p>Compare traditional, match-level neural and sequential models using chronological training and validation datasets.</p>
+                    <fieldset class="market-targets">
+                      <legend>Markets to train for every selected league</legend>
+                      <label><input type="checkbox" class="market-target" value="result" checked> 3-way result (includes double chance)</label>
+                      <label><input type="checkbox" class="market-target" value="btts" checked> Both teams to score</label>
+                      <label><input type="checkbox" class="market-target" value="over_0_5" checked> Over / under 0.5</label>
+                      <label><input type="checkbox" class="market-target" value="over_1_5" checked> Over / under 1.5</label>
+                      <label><input type="checkbox" class="market-target" value="over_2_5" checked> Over / under 2.5</label>
+                      <label><input type="checkbox" class="market-target" value="over_3_5" checked> Over / under 3.5</label>
+                      <label><input type="checkbox" class="market-target" value="correct_score" checked> Correct score</label>
+                      <label><input type="checkbox" class="market-target" value="home_goals" checked> Home goals</label>
+                      <label><input type="checkbox" class="market-target" value="away_goals" checked> Away goals</label>
+                      <label><input type="checkbox" class="market-target" value="total_goals" checked> Total goals</label>
+                    </fieldset>
+                  </div>
+                  <div class="model-card-actions">
+                    <button class="primary-button model-action" data-action="train-market-models" type="button" disabled>Train market models</button>
+                  </div>
+                </section>
               </div>
               <div id="model-results" class="model-results" hidden></div>
+              <section class="model-results" aria-labelledby="market-predictions-title">
+                <h2 id="market-predictions-title">Current-season market predictions</h2>
+                <p>Predictions appear as each market finishes. The current-season dataset includes played and upcoming fixtures.</p>
+                <button id="market-predictions-refresh" class="primary-button" type="button">Refresh predictions</button>
+                <div id="market-predictions">Select a league to view predictions.</div>
+              </section>
             </div>
             <aside class="model-lab-sidebar" aria-label="Workflow progress, data readiness and model scores">
               <section class="model-job-panel" aria-live="polite">

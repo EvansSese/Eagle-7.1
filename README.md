@@ -52,8 +52,8 @@ probabilities and processed feature stats. Create named favorite lists and
 activate any number of them to save a selected fixture to every active list.
 Lists and their fixtures are stored in the league catalog database and remain
 available across dashboard sessions; lists start inactive each time the
-dashboard loads. Prepare the league's all-season dataset in Model Lab after
-fixture or feature updates and train all models before requesting predictions.
+dashboard loads. This screen currently uses the legacy model artifacts; it
+does not yet use the models trained on the new chronological datasets.
 Fixtures without a known kickoff use empty sequence histories.
 Predictions for played fixtures are retrospective:
 models may have been exposed to related data, so these predictions are not an
@@ -74,24 +74,34 @@ address.
 The dashboard's **Model lab** presents a country/league browser beside the
 processing and training workflow. After selecting a league, you can
 fetch and import fixtures, process feature tables, and prepare training and
-prediction datasets for all available seasons, then independently train/evaluate the
-classification ensemble and goal-regression models. Operations run as
+prediction datasets for all available seasons, then train market models.
+Operations run as
 background jobs with explicit status and chronological holdout metrics.
 The readiness table reports feature tables, datasets, and saved model artifacts
 for the league.
-Select workflow cards and use **Run selected**, or use **Run all** to run all
-six steps in the displayed order. The queue stops on the first failure; later steps
+Use the league checkboxes to select one or more leagues. Select workflow cards
+and use **Run selected**, or use **Run all** to run the displayed steps. When
+fetch and processing are selected together, fetching finishes for all selected
+leagues before processing begins. The queue stops on the first failure; later steps
 are not run. Successful steps show a green check and can be re-run individually.
 Progress shows the active step and its known progress. Completion history is
 scoped to the league and retained while the server is running; it is
 cleared on server restart.
-The **Train neural networks** step trains the MLP on the prepared dataset and
-the CNN, RNN, LSTM and autoencoder on raw team fixture histories, saving their
-holdout metrics and upcoming predictions alongside their model artifacts.
-After the classifier, regressor and neural artifacts are trained, choose
-a season in the Predictions screen to generate 3-way, double-chance, and score
-predictions for its fixtures.
-Classifier artifacts are saved under
+The **Train market models** step compares traditional, match-level neural and
+team-history models on the prepared chronological splits. Markets are published
+incrementally, beginning with result and BTTS, and their current-season
+predictions appear in Model Lab while training continues. Selected models
+replace the corresponding files under `storage\trained_market_models\v4\<league_id>`;
+their feature lists, parameters and evaluation metrics are recorded by run; see
+`training/MARKET_MODELS.md`. Legacy prediction actions do not yet use these
+new artifacts.
+Choose markets in the **Train market models** card before starting a training
+step; the same selection applies to every league in the batch. On the
+**Predictions** screen, select the league, current season and a fixture to see
+available saved market predictions and probabilities. They refresh while the
+screen is open and can also be refreshed manually. Historic seasons do not
+have saved predictions from the current-season market models.
+Legacy classifier artifacts are saved under
 `storage/trained_classifier_models/v3/<league_id>` and regression artifacts
 under `storage/trained_regressor_models/v3/<league_id>`. Fetching requires the API
 credentials described above. Dataset tables are written to

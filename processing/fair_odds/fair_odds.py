@@ -16,7 +16,7 @@ Steps per match:
      goal distributions and apply the Dixon-Coles low-score correction
      (dixon_coles.py) to get the score grid. rho is league/season specific:
      it is read from the "<league>-<season>-rho" table (rho_estimation.py,
-     estimated from earlier rounds only) when available.
+     estimated from earlier kickoffs in earlier rounds) when available.
   4. Derive win / draw / win probabilities, the most likely correct score and
      decimal odds (1 / probability, 2 dp).
 

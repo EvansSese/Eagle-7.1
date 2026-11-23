@@ -33,7 +33,7 @@ MODEL_LOCK = FETCH_LOCK
 MODEL_JOBS_LOCK = threading.Lock()
 MODEL_WORKFLOW_ACTIONS = (
     "fetch", "process", "prepare", "train-classifier", "train-regressor",
-    "train-neural",
+    "train-neural", "train-market-models",
 )
 PREDICTION_CACHE: dict[tuple[int, int], tuple[tuple, dict[int, dict]]] = {}
 FAVORITES_TABLE = "eagle_favorite_fixtures"
@@ -703,7 +703,7 @@ def get_upcoming_predictions(
         raise ValueError("League not found")
     if season not in league["seasons"]:
         raise ValueError("Season is not available for this league")
-    predictions = _predict_fixture_rows(league_id, season, database_path)
+    chronological, predictions, markets = _prediction_sources(league_id, season, database_path)
     country_database = get_country_database_path(league["country_name"], database_path)
     with connect_existing_database(country_database) as connection:
         fixture_table = f"{league_id}-{season}-fixtures"
@@ -725,11 +725,12 @@ def get_upcoming_predictions(
     for values in rows:
         fixture = dict(zip(columns, values))
         prediction = predictions.get(int(fixture["fixture_id"]))
-        if prediction is None:
+        if prediction is None and not chronological:
             raise ValueError(
                 "Prediction data is missing season fixtures; reprepare the dataset in Model lab"
             )
         fixture["prediction"] = prediction
+        fixture["market_predictions"] = markets.get(int(fixture["fixture_id"]), [])
         fixtures.append(fixture)
     if any(not fixture["home_logo"] or not fixture["away_logo"] for fixture in fixtures):
         fixture_file = FIXTURE_FILES / str(league_id) / f"{league_id}-{season}-fixtures.json"
@@ -763,13 +764,37 @@ def get_prediction_fixture_details(
     database_path: Path = DEFAULT_DATABASE,
 ) -> dict:
     details = get_fixture_details(league_id, season, fixture_id, database_path)
-    prediction_rows = _predict_fixture_rows(league_id, season, database_path)
+    _, prediction_rows, markets = _prediction_sources(league_id, season, database_path)
     details["prediction"] = prediction_rows.get(fixture_id)
+    details["market_predictions"] = markets.get(fixture_id, [])
     details["favorite_list_ids"] = favorite_list_ids_for_fixture(
         league_id, season, fixture_id, database_path
     )
     details["is_favorite"] = bool(details["favorite_list_ids"])
     return details
+
+
+def _prediction_sources(league_id: int, season: int, database_path: Path):
+    league = _read_league(league_id, database_path)
+    if league is None or season not in league["seasons"]:
+        raise ValueError("Season is not available for this league")
+    dataset = get_dataset_database_path(league["country_name"], database_path)
+    if dataset.is_file():
+        with connect_existing_database(dataset) as connection:
+            metadata = f"{league_id}-dataset-metadata"
+            columns = ({row[0] for row in connection.execute(f'DESCRIBE "{metadata}"').fetchall()}
+                       if _fixture_table(connection, metadata) else set())
+            version = (connection.execute(f'SELECT dataset_version FROM "{metadata}"').fetchone()
+                       if "dataset_version" in columns else None)
+            chronological = bool(version and version[0] == "chronological-splits-v1")
+        if chronological:
+            saved = get_market_predictions(league_id, database_path)
+            grouped = {}
+            if saved["prediction_season"] == season:
+                for row in saved["predictions"]:
+                    grouped.setdefault(int(row["fixture_id"]), []).append(row)
+            return True, {}, grouped
+    return False, _predict_fixture_rows(league_id, season, database_path), {}
 
 
 def _ensure_favorite_tables(connection: duckdb.DuckDBPyConnection) -> None:
@@ -1161,6 +1186,22 @@ def _has_all_season_dataset(connection, league_id: int, seasons: list[int]) -> b
                 and sorted(metadata[1]) == sorted(set(seasons)))
 
 
+def _has_chronological_dataset(connection, league_id: int) -> bool:
+    metadata_table = f"{league_id}-dataset-metadata"
+    if not _fixture_table(connection, metadata_table):
+        return False
+    columns = {row[0] for row in connection.execute(f'DESCRIBE "{metadata_table}"').fetchall()}
+    if "dataset_version" not in columns:
+        return False
+    metadata = connection.execute(
+        f'SELECT dataset_version FROM "{metadata_table}" LIMIT 1'
+    ).fetchone()
+    return bool(metadata and metadata[0] == "chronological-splits-v1" and all(
+        _fixture_table(connection, f"{league_id}-{suffix}-dataset")
+        for suffix in ("training", "validation", "test", "prediction")
+    ))
+
+
 def get_model_lab_status(
     league_id: int,
     season: int,
@@ -1178,7 +1219,8 @@ def get_model_lab_status(
         "points", "points-l3", "points-l5", "points-l10",
         "goals", "goals-l3", "goals-l5", "goals-l10",
         "xg", "xg-l3", "xg-l5", "xg-l10",
-        "odds", "odds-l3", "odds-l5", "odds-l10", "h2h",
+        "odds", "odds-l3", "odds-l5", "odds-l10", "rho",
+        "outcome-probability", "power-ratings", "h2h",
     ]
     feature_tables = [
         f"{league_id}-{item}-{suffix}"
@@ -1192,13 +1234,25 @@ def get_model_lab_status(
                     processed.append(table)
 
     datasets = {"training": False, "prediction": False}
+    market_models = False
+    market_model_count = 0
     if dataset_database.is_file():
         with connect_existing_database(dataset_database) as connection:
-            datasets["training"] = _has_all_season_dataset(connection, league_id, league["seasons"])
-            datasets["prediction"] = datasets["training"] and all(
-                _fixture_table(connection, f"{league_id}-{item}-prediction-dataset")
-                for item in league["seasons"]
-            )
+            datasets["training"] = _has_chronological_dataset(connection, league_id)
+            datasets["prediction"] = datasets["training"]
+            market_table = f"{league_id}-market-model-runs"
+            current_filter = _current_market_filter(connection, league_id)
+            if current_filter is not None:
+                records = connection.execute(
+                    f'SELECT target, artifact_path, algorithm FROM "{market_table}" '
+                    f'{current_filter} '
+                    'QUALIFY row_number() OVER (PARTITION BY target ORDER BY created_at DESC, run_id DESC) = 1'
+                ).fetchall()
+                market_model_count = sum(Path(path).is_file() for target, path, algorithm in records)
+                market_models = (
+                    len(records) == 10 and len({row[0] for row in records}) == 10
+                    and all(Path(path).is_file() for target, path, algorithm in records)
+                )
 
     model_dir = PROJECT_ROOT / "storage" / "trained_classifier_models" / "v3" / str(league_id)
     regression_model_dir = PROJECT_ROOT / "storage" / "trained_regressor_models" / "v3" / str(league_id)
@@ -1218,6 +1272,8 @@ def get_model_lab_status(
         "feature_tables": {"available": len(processed), "total": len(feature_tables)},
         "datasets": datasets,
         "trained": {
+            "market_models": market_models,
+            "market_model_count": market_model_count,
             "classifier": (model_dir / "ensemble.json").is_file(),
             "regression": any(regression_model_dir.glob("*_goal_model.joblib")),
             "neural": all(
@@ -1256,6 +1312,28 @@ def get_model_lab_metrics(
 
     if dataset_database.is_file():
         with connect_existing_database(dataset_database) as connection:
+            market_table = f"{league_id}-market-model-runs"
+            current_filter = _current_market_filter(connection, league_id)
+            if current_filter is not None:
+                market_rows = connection.execute(
+                    f'SELECT target, algorithm, feature_bundle, validation_metrics_json, '
+                    f'test_metrics_json, artifact_path FROM "{market_table}" '
+                    f'{current_filter} '
+                    'QUALIFY row_number() OVER (PARTITION BY target ORDER BY created_at DESC, run_id DESC) = 1 '
+                    'ORDER BY target'
+                ).fetchall()
+                selected_rows = []
+                for target, algorithm, bundle, validation, test, artifact in market_rows:
+                    if not Path(artifact).is_file():
+                        continue
+                    validation, test = json.loads(validation), json.loads(test)
+                    loss = "log_loss" if "log_loss" in validation else "mae"
+                    selected_rows.append({
+                        "target": target, "model": algorithm, "feature_bundle": bundle,
+                        "loss_metric": loss, "validation_loss": validation[loss], "test_loss": test[loss],
+                    })
+                if selected_rows:
+                    groups.append({"name": "Market models", "rows": selected_rows})
             classifier_metrics = {}
             classifier_table = f"{league_id}-ensemble-classifier-model-metrics"
             if _fixture_table(connection, classifier_table):
@@ -1438,6 +1516,61 @@ def get_model_lab_metrics(
     return {"league_id": league_id, "groups": groups}
 
 
+def _current_market_filter(connection, league_id: int) -> str | None:
+    models = f"{league_id}-market-model-runs"
+    metadata = f"{league_id}-dataset-metadata"
+    if not all(_fixture_table(connection, name) for name in (models, metadata)):
+        return None
+    for table in (models, metadata):
+        if "preparation_id" not in {row[0] for row in connection.execute(f'DESCRIBE "{table}"').fetchall()}:
+            return None
+    return f' WHERE preparation_id = (SELECT preparation_id FROM "{metadata}") '
+
+
+def get_market_predictions(league_id: int, database_path: Path = DEFAULT_DATABASE) -> dict:
+    league = _read_league(league_id, database_path)
+    if league is None:
+        raise ValueError("League not found")
+    database = get_dataset_database_path(league["country_name"], database_path)
+    predictions = []
+    prediction_season = None
+    if database.is_file():
+        with connect_existing_database(database) as con:
+            metadata = f"{league_id}-dataset-metadata"
+            if _fixture_table(con, metadata):
+                columns = {row[0] for row in con.execute(f'DESCRIBE "{metadata}"').fetchall()}
+                if "prediction_season" in columns:
+                    row = con.execute(f'SELECT prediction_season FROM "{metadata}"').fetchone()
+                    prediction_season = row[0] if row else None
+            table = f"{league_id}-market-predictions"
+            models = f"{league_id}-market-model-runs"
+            fixtures = f"{league_id}-prediction-dataset"
+            if all(_fixture_table(con, name) for name in (table, models, fixtures)):
+                current_filter = _current_market_filter(con, league_id)
+                if current_filter is None:
+                    return {"league_id": league_id, "prediction_season": prediction_season, "predictions": predictions}
+                rows = con.execute(
+                    f'''WITH latest AS (
+                        SELECT target, run_id FROM "{models}"
+                        {current_filter}
+                        QUALIFY row_number() OVER (
+                            PARTITION BY target ORDER BY created_at DESC, run_id DESC
+                        ) = 1
+                    )
+                    SELECT p.fixture_id, f.date, f.home_team, f.away_team, p.target,
+                           p.prediction, p.probabilities_json
+                    FROM "{table}" p JOIN latest l ON p.target = l.target AND p.run_id = l.run_id
+                    JOIN "{fixtures}" f ON p.fixture_id = f.fixture_id
+                    ORDER BY f.date, p.fixture_id, p.target'''
+                ).fetchall()
+                predictions = [{
+                    "fixture_id": fixture_id, "date": str(date), "home_team": home,
+                    "away_team": away, "target": target, "prediction": prediction,
+                    "probabilities": json.loads(probabilities) if probabilities else None,
+                } for fixture_id, date, home, away, target, prediction, probabilities in rows]
+    return {"league_id": league_id, "prediction_season": prediction_season, "predictions": predictions}
+
+
 def _update_model_job(job_id: str, **updates: object) -> None:
     with MODEL_JOBS_LOCK:
         MODEL_JOBS[job_id].update(updates)
@@ -1446,7 +1579,7 @@ def _update_model_job(job_id: str, **updates: object) -> None:
 def _report_model_job_progress(
     job_id: str, completed: int, total: int, message: str
 ) -> None:
-    progress = round(completed * 100 / total) if total else 0
+    progress = min(99, round(completed * 100 / total)) if total and completed < total else (100 if total else 0)
     _update_model_job(
         job_id,
         completed=completed,
@@ -1537,10 +1670,30 @@ def _run_model_job(
                     _report_model_job_progress(job_id, completed, total, message)
                 ),
             )
+        elif action == "train-market-models":
+            from training.market_models import TARGETS, train_market_models
+
+            if not dataset_database.is_file():
+                raise ValueError("Prepare the chronological datasets for this league first")
+            result = train_market_models(
+                league_id, dataset_database, country_database,
+                target_names=MODEL_JOBS[job_id].get("market_targets") or TARGETS,
+                progress_callback=lambda completed, total, message: (
+                    _report_model_job_progress(job_id, completed, total, message)
+                ),
+                market_callback=lambda model, count: _update_model_job(
+                    job_id, market_ready=model["target"],
+                    market_revision=uuid.uuid4().hex,
+                    message=f'{model["target"]} model and {count} predictions saved.',
+                ),
+            )
+            result["model_type"] = "market-models"
         elif action in {"train-classifier", "train-regressor"}:
             if not dataset_database.is_file():
                 raise ValueError("Prepare the all-season dataset for this league first")
             with connect_existing_database(dataset_database) as connection:
+                if _has_chronological_dataset(connection, league_id):
+                    raise ValueError("Current training models are not yet adapted to the chronological dataset splits")
                 prepared = _has_all_season_dataset(connection, league_id, league["seasons"])
             if not prepared:
                 raise ValueError("Prepare the all-season dataset for this league first")
@@ -1580,6 +1733,8 @@ def _run_model_job(
             if not dataset_database.is_file():
                 raise ValueError("Prepare the all-season dataset for this league first")
             with connect_existing_database(dataset_database) as connection:
+                if _has_chronological_dataset(connection, league_id):
+                    raise ValueError("Current training models are not yet adapted to the chronological dataset splits")
                 prepared = _has_all_season_dataset(connection, league_id, league["seasons"])
             if not prepared:
                 raise ValueError("Prepare the all-season dataset for this league first")
@@ -1673,6 +1828,8 @@ def _run_model_job(
             if not dataset_database.is_file():
                 raise ValueError("Prepare a dataset for the selected league and season first")
             with connect_existing_database(dataset_database) as connection:
+                if _has_chronological_dataset(connection, league_id):
+                    raise ValueError("Existing prediction models are not yet adapted to the chronological dataset schema")
                 metadata_table = f"{league_id}-dataset-metadata"
                 if not _fixture_table(connection, metadata_table):
                     raise ValueError("Prepare a dataset for the selected league and season first")
@@ -1778,32 +1935,47 @@ def _run_model_workflow_batch(
     season: int,
     process_all_seasons: bool,
     fetch_all_seasons: bool,
+    league_seasons: list[tuple[int, int]] | None = None,
 ) -> None:
-    for index, action in enumerate(actions):
+    league_seasons = league_seasons or [(league_id, season)]
+    total_steps = len(actions) * len(league_seasons)
+    for index, (action, current_league, current_season) in enumerate(
+        (action, league, current_season)
+        for action in actions for league, current_season in league_seasons
+    ):
         with MODEL_JOBS_LOCK:
             job = MODEL_JOBS[job_id]
             job.update(
                 active_action=action,
+                active_league_id=current_league,
                 current_step=index + 1,
+                total_steps=total_steps,
                 progress=0,
                 completed=0,
                 total=0,
                 message="Preparing workflow...",
             )
             job["workflow_states"][action] = "running"
+            job.setdefault("league_workflow_states", {}).setdefault(current_league, {})[action] = "running"
         succeeded = _run_model_job(
-            job_id, action, league_id, season,
+            job_id, action, current_league, current_season,
             process_all_seasons=process_all_seasons,
             fetch_all_seasons=fetch_all_seasons,
             batch=True,
         )
         with MODEL_JOBS_LOCK:
             job = MODEL_JOBS[job_id]
-            job["workflow_states"][action] = "completed" if succeeded else "failed"
             if not succeeded:
+                job["workflow_states"][action] = "failed"
+                job["league_workflow_states"][current_league][action] = "failed"
                 job["status"] = "failed"
+                job["message"] = f"League {current_league}, {action}: {job['message']}"
                 return
-            job["workflow_results"][action] = job["result"]
+            if (index + 1) % len(league_seasons) == 0:
+                job["workflow_states"][action] = "completed"
+            job["league_workflow_states"][current_league][action] = "completed"
+            key = action if len(league_seasons) == 1 else f"{action}:{current_league}"
+            job["workflow_results"][key] = job["result"]
     _update_model_job(job_id, status="completed", progress=100, message="Selected workflows completed.")
 
 
@@ -1836,6 +2008,8 @@ class DashboardHandler(BaseHTTPRequestHandler):
             self._serve_model_lab_status(parse_qs(urlsplit(self.path).query))
         elif request_path == "/api/model-lab-metrics":
             self._serve_model_lab_metrics(parse_qs(urlsplit(self.path).query))
+        elif request_path == "/api/market-predictions":
+            self._serve_market_predictions(parse_qs(urlsplit(self.path).query))
         elif request_path == "/api/model-lab-job-status":
             self._serve_model_job_status(parse_qs(urlsplit(self.path).query))
         elif request_path == "/api/model-lab-workflows":
@@ -2150,6 +2324,18 @@ class DashboardHandler(BaseHTTPRequestHandler):
             return
         self._send_json(metrics)
 
+    def _serve_market_predictions(self, query: dict) -> None:
+        try:
+            result = get_market_predictions(self._query_int(query, "league_id"), get_database_path())
+        except ValueError as error:
+            self._send_json({"error": str(error)}, status=400)
+            return
+        except (duckdb.Error, OSError, json.JSONDecodeError) as error:
+            self.log_error("Unable to load market predictions: %s", error)
+            self._send_json({"error": "Unable to load market predictions."}, status=500)
+            return
+        self._send_json(result)
+
     def _serve_model_job_status(self, query: dict) -> None:
         job_id = query.get("job_id", [""])[0]
         with MODEL_JOBS_LOCK:
@@ -2170,11 +2356,13 @@ class DashboardHandler(BaseHTTPRequestHandler):
         active_job_id = None
         with MODEL_JOBS_LOCK:
             for job_id, job in MODEL_JOBS.items():
-                if job["league_id"] != league_id:
+                if league_id not in job.get("league_ids", [job["league_id"]]):
                     continue
                 if job["action"] == "batch":
                     states.update({
-                        action: state for action, state in job["workflow_states"].items()
+                        action: state for action, state in job.get("league_workflow_states", {}).get(
+                            league_id, job["workflow_states"] if len(job.get("league_ids", [job["league_id"]])) == 1 else {}
+                        ).items()
                         if state != "queued"
                     })
                 else:
@@ -2203,15 +2391,35 @@ class DashboardHandler(BaseHTTPRequestHandler):
             ):
                 raise ValueError("Select one or more valid workflows")
             actions = [item for item in MODEL_WORKFLOW_ACTIONS if item in actions]
+            market_targets = None
+            if "train-market-models" in actions:
+                from training.market_models import TARGETS
+
+                selected_targets = payload.get("market_targets", list(TARGETS))
+                if (not isinstance(selected_targets, list) or not selected_targets
+                        or any(not isinstance(item, str) or item not in TARGETS for item in selected_targets)
+                        or len(set(selected_targets)) != len(selected_targets)):
+                    raise ValueError("Select one or more valid, unique markets to train")
+                market_targets = [target for target in TARGETS if target in selected_targets]
             process_all_seasons = True
             fetch_all_seasons = True
             league_id = int(payload["league_id"])
             if league_id < 1:
                 raise ValueError("Select a valid league")
-            league = _read_league(league_id, get_database_path())
-            if league is None or not league["seasons"]:
-                raise ValueError("No seasons are available for this league")
-            season = max(league["seasons"])
+            league_ids = payload.get("league_ids", [league_id])
+            if (not isinstance(league_ids, list) or not league_ids
+                    or any(isinstance(item, bool) or not isinstance(item, int) or item < 1 for item in league_ids)
+                    or len(set(league_ids)) != len(league_ids) or league_id not in league_ids):
+                raise ValueError("Select valid, unique leagues")
+            league_seasons = []
+            for item in league_ids:
+                league = _read_league(item, get_database_path())
+                if league is None or not league["seasons"]:
+                    raise ValueError(f"No seasons are available for league {item}")
+                league_seasons.append((item, max(league["seasons"])))
+            season = dict(league_seasons)[league_id]
+            if len(league_ids) > 1:
+                action = "batch"
         except (ValueError, KeyError, TypeError, json.JSONDecodeError) as error:
             self._send_json({"error": str(error)}, status=400)
             return
@@ -2234,12 +2442,15 @@ class DashboardHandler(BaseHTTPRequestHandler):
                 "message": "Preparing Model Lab operation…",
                 "action": action,
                 "league_id": league_id,
+                "league_ids": league_ids,
                 "season": season,
                 "actions": actions,
+                "market_targets": market_targets,
                 "workflow_states": {item: "queued" for item in actions},
                 "workflow_results": {},
                 "active_action": actions[0],
                 "current_step": 1,
+                "total_steps": len(actions) * len(league_ids),
             }
 
         def run_and_release() -> None:
@@ -2247,7 +2458,7 @@ class DashboardHandler(BaseHTTPRequestHandler):
                 if action == "batch":
                     _run_model_workflow_batch(
                         job_id, actions, league_id, season,
-                        process_all_seasons, fetch_all_seasons,
+                        process_all_seasons, fetch_all_seasons, league_seasons,
                     )
                 else:
                     _run_model_job(

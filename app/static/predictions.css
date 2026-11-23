@@ -3,6 +3,7 @@
 .prediction-leagues-pane .pane-search { margin-top: 9px; }
 .prediction-filter { display: flex; flex: 0 0 auto; align-items: center; gap: 8px; padding: 9px 12px; color: var(--muted); font-size: 11px; }
 .prediction-filter select { flex: 1 1 auto; min-width: 0; min-height: 32px; padding: 0 8px; border: 1px solid var(--line); border-radius: 6px; background: var(--surface); color: var(--ink); font-size: 11px; }
+.prediction-refresh { margin: 0 12px 6px; padding: 6px; border: 1px solid var(--line); border-radius: 6px; background: var(--surface); color: var(--ink); cursor: pointer; font-size: 10px; }
 .prediction-fixture-list, .prediction-details, .favorite-fixture-list { min-height: 0; flex: 1 1 auto; overflow: auto; overscroll-behavior: contain; scrollbar-color: #d7dfd8 transparent; scrollbar-width: thin; }
 .prediction-fixture-list, .favorite-fixture-list { padding: 8px; }
 .prediction-fixture-card { margin-bottom: 8px; padding: 10px; border: 1px solid #e9eee9; border-radius: 7px; background: #fff; }
@@ -44,6 +45,7 @@
 .prediction-analysis-card { margin: 0 0 9px; padding: 10px; border: 1px solid #e9eee9; border-radius: 7px; background: #fbfcfb; }
 .prediction-analysis-card h3 { margin: 0 0 8px; color: #47544a; font-size: 11px; }
 .prediction-analysis-card p { margin: 0; color: #728078; font-size: 10px; line-height: 1.5; }
+.prediction-market { padding: 6px 0; border-top: 1px solid var(--line); font-size: 10px; }
 .prediction-rank-list { display: grid; gap: 6px; margin: 0; padding: 0; list-style: none; }
 .prediction-rank-list li { display: flex; align-items: center; justify-content: space-between; gap: 8px; color: #626f65; font-size: 10px; }
 .prediction-rank-list li:first-child { color: #286d42; font-weight: 700; }

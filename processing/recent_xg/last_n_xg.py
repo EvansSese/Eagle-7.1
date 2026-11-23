@@ -83,9 +83,8 @@ def add_rolling_league_averages(df: pd.DataFrame, window: int) -> pd.DataFrame:
     Adds x_league_avg_goals and y_league_avg_goals: for every match in a
     given round, both columns hold the league-wide average goals scored
     by home teams (x) and away teams (y), pooled across FT matches from
-    only the last `window` EARLIER rounds. All matches within the same
-    round share the same value, since none of them can see each other's
-    results yet, and rounds older than the window no longer contribute.
+    only the last `window` EARLIER rounds, using only matches with an
+    earlier kickoff. Rounds older than the window do not contribute.
     """
     return add_league_rolling_averages(df, window=window)
 

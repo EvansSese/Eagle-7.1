@@ -39,6 +39,7 @@
 .model-workflow { display: grid; gap: 10px; }
 .model-card, .model-job-panel { border: 1px solid var(--line); border-radius: 9px; background: var(--surface); box-shadow: 0 2px 6px #1c332109; }
 .model-card { display: grid; grid-template-columns: auto minmax(0, 1fr) auto; min-width: 0; align-items: center; gap: 16px; padding: 14px 16px; }
+.model-card[hidden] { display: none; }
 .model-card.running { border-color: #5da875; }
 .model-workflow-select { display: flex; align-items: center; }
 .model-workflow-select input { width: 16px; height: 16px; accent-color: var(--green); }
@@ -48,6 +49,10 @@
 .model-step { color: #5da875; font-family: "Space Grotesk", sans-serif; font-size: 11px; font-weight: 700; }
 .model-card h2, .model-job-heading h2 { margin: 4px 0; font-family: "Space Grotesk", sans-serif; font-size: 15px; }
 .model-card p { margin: 0; color: var(--muted); font-size: 11px; line-height: 1.5; }
+.market-targets { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 7px; margin: 10px 0 0; padding: 9px; border: 1px solid var(--line); border-radius: 6px; }
+.market-targets legend { color: var(--muted); font-size: 11px; font-weight: 600; }
+.market-targets label { display: flex; align-items: center; gap: 5px; color: var(--ink); font-size: 10px; }
+.market-targets input { accent-color: var(--green); }
 .model-card-actions { display: flex; flex: 0 0 auto; align-items: center; justify-content: flex-end; gap: 12px; }
 .model-card .primary-button { min-height: 34px; font-size: 11px; white-space: nowrap; }
 .model-checkbox { display: flex; align-items: center; gap: 6px; color: var(--muted); font-size: 10px; white-space: nowrap; }
@@ -68,4 +73,18 @@
 .model-metrics-table th, .model-metrics-table td { padding: 8px 9px; border-bottom: 1px solid var(--line); white-space: nowrap; }
 .model-metrics-table th { color: var(--muted); font-weight: 600; }
 .model-metrics-table td:first-child { font-weight: 600; }
+.model-league-choice {
+  display: flex;
+  align-items: center;
+  gap: 0.35rem;
+}
 
+.model-league-choice > input {
+  flex: 0 0 auto;
+  margin-left: 0.7rem;
+}
+
+.model-league-choice > button {
+  flex: 1;
+  min-width: 0;
+}

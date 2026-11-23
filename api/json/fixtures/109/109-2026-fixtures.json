@@ -13,6 +13,76 @@
     "response": [
         {
             "fixture": {
+                "id": 1561738,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2026-11-20T11:30:00+00:00",
+                "timestamp": 1795174200,
+                "periods": {
+                    "first": 1795174200,
+                    "second": null
+                },
+                "venue": {
+                    "id": 8242,
+                    "name": "Stadion Miejski Skolwin",
+                    "city": "Szczecin"
+                },
+                "status": {
+                    "long": "First Half",
+                    "short": "1H",
+                    "elapsed": 22,
+                    "extra": null
+                }
+            },
+            "league": {
+                "id": 109,
+                "name": "II Liga - East",
+                "country": "Poland",
+                "logo": "https://media.api-sports.io/football/leagues/109.png",
+                "flag": "https://media.api-sports.io/flags/pl.svg",
+                "season": 2026,
+                "round": "Regular Season - 17",
+                "standings": true
+            },
+            "teams": {
+                "home": {
+                    "id": 12902,
+                    "name": "Świt Skolwin",
+                    "logo": "https://media.api-sports.io/football/teams/12902.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 6958,
+                    "name": "Stal Stalowa Wola",
+                    "logo": "https://media.api-sports.io/football/teams/6958.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": null,
+                    "away": null
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
                 "id": 1561592,
                 "referee": null,
                 "timezone": "UTC",
@@ -9393,154 +9463,14 @@
         },
         {
             "fixture": {
-                "id": 1561721,
-                "referee": null,
-                "timezone": "UTC",
-                "date": "2026-11-08T18:30:00+00:00",
-                "timestamp": 1794162600,
-                "periods": {
-                    "first": null,
-                    "second": null
-                },
-                "venue": {
-                    "id": null,
-                    "name": null,
-                    "city": "Bydgoszcz"
-                },
-                "status": {
-                    "long": "Match Postponed",
-                    "short": "PST",
-                    "elapsed": null,
-                    "extra": null
-                }
-            },
-            "league": {
-                "id": 109,
-                "name": "II Liga - East",
-                "country": "Poland",
-                "logo": "https://media.api-sports.io/football/leagues/109.png",
-                "flag": "https://media.api-sports.io/flags/pl.svg",
-                "season": 2026,
-                "round": "Regular Season - 15",
-                "standings": true
-            },
-            "teams": {
-                "home": {
-                    "id": 13843,
-                    "name": "Zawisza Bydgoszcz",
-                    "logo": "https://media.api-sports.io/football/teams/13843.png",
-                    "winner": null
-                },
-                "away": {
-                    "id": 3495,
-                    "name": "Tychy 71",
-                    "logo": "https://media.api-sports.io/football/teams/3495.png",
-                    "winner": null
-                }
-            },
-            "goals": {
-                "home": null,
-                "away": null
-            },
-            "score": {
-                "halftime": {
-                    "home": null,
-                    "away": null
-                },
-                "fulltime": {
-                    "home": null,
-                    "away": null
-                },
-                "extratime": {
-                    "home": null,
-                    "away": null
-                },
-                "penalty": {
-                    "home": null,
-                    "away": null
-                }
-            }
-        },
-        {
-            "fixture": {
-                "id": 1561728,
-                "referee": null,
-                "timezone": "UTC",
-                "date": "2026-11-13T17:00:00+00:00",
-                "timestamp": 1794589200,
-                "periods": {
-                    "first": null,
-                    "second": null
-                },
-                "venue": {
-                    "id": null,
-                    "name": "Stadion Miejski w Rzeszowie",
-                    "city": "Rzeszow"
-                },
-                "status": {
-                    "long": "Match Postponed",
-                    "short": "PST",
-                    "elapsed": null,
-                    "extra": null
-                }
-            },
-            "league": {
-                "id": 109,
-                "name": "II Liga - East",
-                "country": "Poland",
-                "logo": "https://media.api-sports.io/football/leagues/109.png",
-                "flag": "https://media.api-sports.io/flags/pl.svg",
-                "season": 2026,
-                "round": "Regular Season - 16",
-                "standings": true
-            },
-            "teams": {
-                "home": {
-                    "id": 6951,
-                    "name": "Resovia Rzeszów",
-                    "logo": "https://media.api-sports.io/football/teams/6951.png",
-                    "winner": null
-                },
-                "away": {
-                    "id": 12902,
-                    "name": "Świt Skolwin",
-                    "logo": "https://media.api-sports.io/football/teams/12902.png",
-                    "winner": null
-                }
-            },
-            "goals": {
-                "home": null,
-                "away": null
-            },
-            "score": {
-                "halftime": {
-                    "home": null,
-                    "away": null
-                },
-                "fulltime": {
-                    "home": null,
-                    "away": null
-                },
-                "extratime": {
-                    "home": null,
-                    "away": null
-                },
-                "penalty": {
-                    "home": null,
-                    "away": null
-                }
-            }
-        },
-        {
-            "fixture": {
                 "id": 1561727,
                 "referee": null,
                 "timezone": "UTC",
                 "date": "2026-11-13T17:00:00+00:00",
                 "timestamp": 1794589200,
                 "periods": {
-                    "first": null,
-                    "second": null
+                    "first": 1794589200,
+                    "second": 1794592800
                 },
                 "venue": {
                     "id": null,
@@ -9548,10 +9478,10 @@
                     "city": null
                 },
                 "status": {
-                    "long": "Not Started",
-                    "short": "NS",
-                    "elapsed": null,
-                    "extra": null
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": 5
                 }
             },
             "league": {
@@ -9579,17 +9509,17 @@
                 }
             },
             "goals": {
-                "home": null,
-                "away": null
+                "home": 2,
+                "away": 2
             },
             "score": {
                 "halftime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 2
                 },
                 "fulltime": {
-                    "home": null,
-                    "away": null
+                    "home": 2,
+                    "away": 2
                 },
                 "extratime": {
                     "home": null,
@@ -9609,8 +9539,8 @@
                 "date": "2026-11-14T11:00:00+00:00",
                 "timestamp": 1794654000,
                 "periods": {
-                    "first": null,
-                    "second": null
+                    "first": 1794654000,
+                    "second": 1794657600
                 },
                 "venue": {
                     "id": null,
@@ -9618,10 +9548,10 @@
                     "city": "Leczna"
                 },
                 "status": {
-                    "long": "Not Started",
-                    "short": "NS",
-                    "elapsed": null,
-                    "extra": null
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": 5
                 }
             },
             "league": {
@@ -9639,27 +9569,27 @@
                     "id": 6941,
                     "name": "Górnik Łęczna",
                     "logo": "https://media.api-sports.io/football/teams/6941.png",
-                    "winner": null
+                    "winner": true
                 },
                 "away": {
                     "id": 6942,
                     "name": "Hutnik Kraków",
                     "logo": "https://media.api-sports.io/football/teams/6942.png",
-                    "winner": null
+                    "winner": false
                 }
             },
             "goals": {
-                "home": null,
-                "away": null
+                "home": 1,
+                "away": 0
             },
             "score": {
                 "halftime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 0
                 },
                 "fulltime": {
-                    "home": null,
-                    "away": null
+                    "home": 1,
+                    "away": 0
                 },
                 "extratime": {
                     "home": null,
@@ -9679,8 +9609,8 @@
                 "date": "2026-11-14T11:00:00+00:00",
                 "timestamp": 1794654000,
                 "periods": {
-                    "first": null,
-                    "second": null
+                    "first": 1794654000,
+                    "second": 1794657600
                 },
                 "venue": {
                     "id": null,
@@ -9688,10 +9618,10 @@
                     "city": "Nowy Targ"
                 },
                 "status": {
-                    "long": "Not Started",
-                    "short": "NS",
-                    "elapsed": null,
-                    "extra": null
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": 5
                 }
             },
             "league": {
@@ -9709,27 +9639,27 @@
                     "id": 12834,
                     "name": "Podhale Nowy Targ",
                     "logo": "https://media.api-sports.io/football/teams/12834.png",
-                    "winner": null
+                    "winner": true
                 },
                 "away": {
                     "id": 16264,
                     "name": "Avia Świdnik",
                     "logo": "https://media.api-sports.io/football/teams/16264.png",
-                    "winner": null
+                    "winner": false
                 }
             },
             "goals": {
-                "home": null,
-                "away": null
+                "home": 1,
+                "away": 0
             },
             "score": {
                 "halftime": {
-                    "home": null,
-                    "away": null
+                    "home": 1,
+                    "away": 0
                 },
                 "fulltime": {
-                    "home": null,
-                    "away": null
+                    "home": 1,
+                    "away": 0
                 },
                 "extratime": {
                     "home": null,
@@ -9749,8 +9679,8 @@
                 "date": "2026-11-14T12:00:00+00:00",
                 "timestamp": 1794657600,
                 "periods": {
-                    "first": null,
-                    "second": null
+                    "first": 1794657600,
+                    "second": 1794661200
                 },
                 "venue": {
                     "id": null,
@@ -9758,10 +9688,10 @@
                     "city": null
                 },
                 "status": {
-                    "long": "Not Started",
-                    "short": "NS",
-                    "elapsed": null,
-                    "extra": null
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": 6
                 }
             },
             "league": {
@@ -9779,27 +9709,27 @@
                     "id": 12900,
                     "name": "Śląsk Wrocław II",
                     "logo": "https://media.api-sports.io/football/teams/12900.png",
-                    "winner": null
+                    "winner": false
                 },
                 "away": {
                     "id": 14143,
                     "name": "Lechia Zielona Góra",
                     "logo": "https://media.api-sports.io/football/teams/14143.png",
-                    "winner": null
+                    "winner": true
                 }
             },
             "goals": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 1
             },
             "score": {
                 "halftime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 1
                 },
                 "fulltime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 1
                 },
                 "extratime": {
                     "home": null,
@@ -9819,8 +9749,8 @@
                 "date": "2026-11-14T15:00:00+00:00",
                 "timestamp": 1794668400,
                 "periods": {
-                    "first": null,
-                    "second": null
+                    "first": 1794668400,
+                    "second": 1794672000
                 },
                 "venue": {
                     "id": null,
@@ -9828,10 +9758,10 @@
                     "city": "Chojnice"
                 },
                 "status": {
-                    "long": "Not Started",
-                    "short": "NS",
-                    "elapsed": null,
-                    "extra": null
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": 4
                 }
             },
             "league": {
@@ -9849,27 +9779,27 @@
                     "id": 3482,
                     "name": "Chojniczanka Chojnice",
                     "logo": "https://media.api-sports.io/football/teams/3482.png",
-                    "winner": null
+                    "winner": false
                 },
                 "away": {
                     "id": 13843,
                     "name": "Zawisza Bydgoszcz",
                     "logo": "https://media.api-sports.io/football/teams/13843.png",
-                    "winner": null
+                    "winner": true
                 }
             },
             "goals": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 2
             },
             "score": {
                 "halftime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 1
                 },
                 "fulltime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 2
                 },
                 "extratime": {
                     "home": null,
@@ -9889,8 +9819,8 @@
                 "date": "2026-11-15T14:00:00+00:00",
                 "timestamp": 1794751200,
                 "periods": {
-                    "first": null,
-                    "second": null
+                    "first": 1794751200,
+                    "second": 1794754800
                 },
                 "venue": {
                     "id": null,
@@ -9898,10 +9828,10 @@
                     "city": "Tychy"
                 },
                 "status": {
-                    "long": "Not Started",
-                    "short": "NS",
-                    "elapsed": null,
-                    "extra": null
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": 4
                 }
             },
             "league": {
@@ -9919,27 +9849,27 @@
                     "id": 3495,
                     "name": "Tychy 71",
                     "logo": "https://media.api-sports.io/football/teams/3495.png",
-                    "winner": null
+                    "winner": true
                 },
                 "away": {
                     "id": 6950,
                     "name": "Rekord Bielsko-Biała",
                     "logo": "https://media.api-sports.io/football/teams/6950.png",
-                    "winner": null
+                    "winner": false
                 }
             },
             "goals": {
-                "home": null,
-                "away": null
+                "home": 1,
+                "away": 0
             },
             "score": {
                 "halftime": {
-                    "home": null,
-                    "away": null
+                    "home": 1,
+                    "away": 0
                 },
                 "fulltime": {
-                    "home": null,
-                    "away": null
+                    "home": 1,
+                    "away": 0
                 },
                 "extratime": {
                     "home": null,
@@ -9959,8 +9889,8 @@
                 "date": "2026-11-15T18:30:00+00:00",
                 "timestamp": 1794767400,
                 "periods": {
-                    "first": null,
-                    "second": null
+                    "first": 1794767400,
+                    "second": 1794771000
                 },
                 "venue": {
                     "id": null,
@@ -9968,10 +9898,10 @@
                     "city": "Stalowa Wola"
                 },
                 "status": {
-                    "long": "Not Started",
-                    "short": "NS",
-                    "elapsed": null,
-                    "extra": null
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": 3
                 }
             },
             "league": {
@@ -9999,87 +9929,17 @@
                 }
             },
             "goals": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 0
             },
             "score": {
                 "halftime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 0
                 },
                 "fulltime": {
-                    "home": null,
-                    "away": null
-                },
-                "extratime": {
-                    "home": null,
-                    "away": null
-                },
-                "penalty": {
-                    "home": null,
-                    "away": null
-                }
-            }
-        },
-        {
-            "fixture": {
-                "id": 1561738,
-                "referee": null,
-                "timezone": "UTC",
-                "date": "2026-11-20T11:30:00+00:00",
-                "timestamp": 1795174200,
-                "periods": {
-                    "first": null,
-                    "second": null
-                },
-                "venue": {
-                    "id": 8242,
-                    "name": "Stadion Miejski Skolwin",
-                    "city": "Szczecin"
-                },
-                "status": {
-                    "long": "Not Started",
-                    "short": "NS",
-                    "elapsed": null,
-                    "extra": null
-                }
-            },
-            "league": {
-                "id": 109,
-                "name": "II Liga - East",
-                "country": "Poland",
-                "logo": "https://media.api-sports.io/football/leagues/109.png",
-                "flag": "https://media.api-sports.io/flags/pl.svg",
-                "season": 2026,
-                "round": "Regular Season - 17",
-                "standings": true
-            },
-            "teams": {
-                "home": {
-                    "id": 12902,
-                    "name": "Świt Skolwin",
-                    "logo": "https://media.api-sports.io/football/teams/12902.png",
-                    "winner": null
-                },
-                "away": {
-                    "id": 6958,
-                    "name": "Stal Stalowa Wola",
-                    "logo": "https://media.api-sports.io/football/teams/6958.png",
-                    "winner": null
-                }
-            },
-            "goals": {
-                "home": null,
-                "away": null
-            },
-            "score": {
-                "halftime": {
-                    "home": null,
-                    "away": null
-                },
-                "fulltime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 0
                 },
                 "extratime": {
                     "home": null,
@@ -10653,6 +10513,76 @@
         },
         {
             "fixture": {
+                "id": 1561728,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2026-11-25T16:30:00+00:00",
+                "timestamp": 1795624200,
+                "periods": {
+                    "first": null,
+                    "second": null
+                },
+                "venue": {
+                    "id": null,
+                    "name": "Stadion Miejski w Rzeszowie",
+                    "city": "Rzeszow"
+                },
+                "status": {
+                    "long": "Not Started",
+                    "short": "NS",
+                    "elapsed": null,
+                    "extra": null
+                }
+            },
+            "league": {
+                "id": 109,
+                "name": "II Liga - East",
+                "country": "Poland",
+                "logo": "https://media.api-sports.io/football/leagues/109.png",
+                "flag": "https://media.api-sports.io/flags/pl.svg",
+                "season": 2026,
+                "round": "Regular Season - 16",
+                "standings": true
+            },
+            "teams": {
+                "home": {
+                    "id": 6951,
+                    "name": "Resovia Rzeszów",
+                    "logo": "https://media.api-sports.io/football/teams/6951.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 12902,
+                    "name": "Świt Skolwin",
+                    "logo": "https://media.api-sports.io/football/teams/12902.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": null,
+                "away": null
+            },
+            "score": {
+                "halftime": {
+                    "home": null,
+                    "away": null
+                },
+                "fulltime": {
+                    "home": null,
+                    "away": null
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
                 "id": 1561748,
                 "referee": null,
                 "timezone": "UTC",
@@ -10863,6 +10793,76 @@
         },
         {
             "fixture": {
+                "id": 1561745,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2026-11-28T11:30:00+00:00",
+                "timestamp": 1795865400,
+                "periods": {
+                    "first": null,
+                    "second": null
+                },
+                "venue": {
+                    "id": null,
+                    "name": null,
+                    "city": null
+                },
+                "status": {
+                    "long": "Not Started",
+                    "short": "NS",
+                    "elapsed": null,
+                    "extra": null
+                }
+            },
+            "league": {
+                "id": 109,
+                "name": "II Liga - East",
+                "country": "Poland",
+                "logo": "https://media.api-sports.io/football/leagues/109.png",
+                "flag": "https://media.api-sports.io/flags/pl.svg",
+                "season": 2026,
+                "round": "Regular Season - 18",
+                "standings": true
+            },
+            "teams": {
+                "home": {
+                    "id": 4247,
+                    "name": "Olimpia Grudziądz",
+                    "logo": "https://media.api-sports.io/football/teams/4247.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 16264,
+                    "name": "Avia Świdnik",
+                    "logo": "https://media.api-sports.io/football/teams/16264.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": null,
+                "away": null
+            },
+            "score": {
+                "halftime": {
+                    "home": null,
+                    "away": null
+                },
+                "fulltime": {
+                    "home": null,
+                    "away": null
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
                 "id": 1561747,
                 "referee": null,
                 "timezone": "UTC",
@@ -10933,146 +10933,6 @@
         },
         {
             "fixture": {
-                "id": 1561745,
-                "referee": null,
-                "timezone": "UTC",
-                "date": "2026-11-28T16:00:00+00:00",
-                "timestamp": 1795881600,
-                "periods": {
-                    "first": null,
-                    "second": null
-                },
-                "venue": {
-                    "id": null,
-                    "name": null,
-                    "city": null
-                },
-                "status": {
-                    "long": "Not Started",
-                    "short": "NS",
-                    "elapsed": null,
-                    "extra": null
-                }
-            },
-            "league": {
-                "id": 109,
-                "name": "II Liga - East",
-                "country": "Poland",
-                "logo": "https://media.api-sports.io/football/leagues/109.png",
-                "flag": "https://media.api-sports.io/flags/pl.svg",
-                "season": 2026,
-                "round": "Regular Season - 18",
-                "standings": true
-            },
-            "teams": {
-                "home": {
-                    "id": 4247,
-                    "name": "Olimpia Grudziądz",
-                    "logo": "https://media.api-sports.io/football/teams/4247.png",
-                    "winner": null
-                },
-                "away": {
-                    "id": 16264,
-                    "name": "Avia Świdnik",
-                    "logo": "https://media.api-sports.io/football/teams/16264.png",
-                    "winner": null
-                }
-            },
-            "goals": {
-                "home": null,
-                "away": null
-            },
-            "score": {
-                "halftime": {
-                    "home": null,
-                    "away": null
-                },
-                "fulltime": {
-                    "home": null,
-                    "away": null
-                },
-                "extratime": {
-                    "home": null,
-                    "away": null
-                },
-                "penalty": {
-                    "home": null,
-                    "away": null
-                }
-            }
-        },
-        {
-            "fixture": {
-                "id": 1561741,
-                "referee": null,
-                "timezone": "UTC",
-                "date": "2026-11-28T16:00:00+00:00",
-                "timestamp": 1795881600,
-                "periods": {
-                    "first": null,
-                    "second": null
-                },
-                "venue": {
-                    "id": null,
-                    "name": "Stadion BTS Rekord",
-                    "city": null
-                },
-                "status": {
-                    "long": "Not Started",
-                    "short": "NS",
-                    "elapsed": null,
-                    "extra": null
-                }
-            },
-            "league": {
-                "id": 109,
-                "name": "II Liga - East",
-                "country": "Poland",
-                "logo": "https://media.api-sports.io/football/leagues/109.png",
-                "flag": "https://media.api-sports.io/flags/pl.svg",
-                "season": 2026,
-                "round": "Regular Season - 18",
-                "standings": true
-            },
-            "teams": {
-                "home": {
-                    "id": 6950,
-                    "name": "Rekord Bielsko-Biała",
-                    "logo": "https://media.api-sports.io/football/teams/6950.png",
-                    "winner": null
-                },
-                "away": {
-                    "id": 14143,
-                    "name": "Lechia Zielona Góra",
-                    "logo": "https://media.api-sports.io/football/teams/14143.png",
-                    "winner": null
-                }
-            },
-            "goals": {
-                "home": null,
-                "away": null
-            },
-            "score": {
-                "halftime": {
-                    "home": null,
-                    "away": null
-                },
-                "fulltime": {
-                    "home": null,
-                    "away": null
-                },
-                "extratime": {
-                    "home": null,
-                    "away": null
-                },
-                "penalty": {
-                    "home": null,
-                    "away": null
-                }
-            }
-        },
-        {
-            "fixture": {
                 "id": 1561742,
                 "referee": null,
                 "timezone": "UTC",
@@ -11115,6 +10975,76 @@
                     "id": 3492,
                     "name": "Sandecja Nowy Sącz",
                     "logo": "https://media.api-sports.io/football/teams/3492.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": null,
+                "away": null
+            },
+            "score": {
+                "halftime": {
+                    "home": null,
+                    "away": null
+                },
+                "fulltime": {
+                    "home": null,
+                    "away": null
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 1561741,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2026-11-29T11:00:00+00:00",
+                "timestamp": 1795950000,
+                "periods": {
+                    "first": null,
+                    "second": null
+                },
+                "venue": {
+                    "id": null,
+                    "name": "Stadion BTS Rekord",
+                    "city": null
+                },
+                "status": {
+                    "long": "Not Started",
+                    "short": "NS",
+                    "elapsed": null,
+                    "extra": null
+                }
+            },
+            "league": {
+                "id": 109,
+                "name": "II Liga - East",
+                "country": "Poland",
+                "logo": "https://media.api-sports.io/football/leagues/109.png",
+                "flag": "https://media.api-sports.io/flags/pl.svg",
+                "season": 2026,
+                "round": "Regular Season - 18",
+                "standings": true
+            },
+            "teams": {
+                "home": {
+                    "id": 6950,
+                    "name": "Rekord Bielsko-Biała",
+                    "logo": "https://media.api-sports.io/football/teams/6950.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 14143,
+                    "name": "Lechia Zielona Góra",
+                    "logo": "https://media.api-sports.io/football/teams/14143.png",
                     "winner": null
                 }
             },
@@ -11423,6 +11353,146 @@
         },
         {
             "fixture": {
+                "id": 1561753,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2026-12-05T11:00:00+00:00",
+                "timestamp": 1796468400,
+                "periods": {
+                    "first": null,
+                    "second": null
+                },
+                "venue": {
+                    "id": null,
+                    "name": "Stadion Mijeski im. Jozefa Pilsudskiego",
+                    "city": "Nowy Targ"
+                },
+                "status": {
+                    "long": "Not Started",
+                    "short": "NS",
+                    "elapsed": null,
+                    "extra": null
+                }
+            },
+            "league": {
+                "id": 109,
+                "name": "II Liga - East",
+                "country": "Poland",
+                "logo": "https://media.api-sports.io/football/leagues/109.png",
+                "flag": "https://media.api-sports.io/flags/pl.svg",
+                "season": 2026,
+                "round": "Regular Season - 19",
+                "standings": true
+            },
+            "teams": {
+                "home": {
+                    "id": 12834,
+                    "name": "Podhale Nowy Targ",
+                    "logo": "https://media.api-sports.io/football/teams/12834.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 16255,
+                    "name": "Sokół Kleczew",
+                    "logo": "https://media.api-sports.io/football/teams/16255.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": null,
+                "away": null
+            },
+            "score": {
+                "halftime": {
+                    "home": null,
+                    "away": null
+                },
+                "fulltime": {
+                    "home": null,
+                    "away": null
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 1561758,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2026-12-05T11:30:00+00:00",
+                "timestamp": 1796470200,
+                "periods": {
+                    "first": null,
+                    "second": null
+                },
+                "venue": {
+                    "id": null,
+                    "name": null,
+                    "city": null
+                },
+                "status": {
+                    "long": "Not Started",
+                    "short": "NS",
+                    "elapsed": null,
+                    "extra": null
+                }
+            },
+            "league": {
+                "id": 109,
+                "name": "II Liga - East",
+                "country": "Poland",
+                "logo": "https://media.api-sports.io/football/leagues/109.png",
+                "flag": "https://media.api-sports.io/flags/pl.svg",
+                "season": 2026,
+                "round": "Regular Season - 19",
+                "standings": true
+            },
+            "teams": {
+                "home": {
+                    "id": 4247,
+                    "name": "Olimpia Grudziądz",
+                    "logo": "https://media.api-sports.io/football/teams/4247.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 14143,
+                    "name": "Lechia Zielona Góra",
+                    "logo": "https://media.api-sports.io/football/teams/14143.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": null,
+                "away": null
+            },
+            "score": {
+                "halftime": {
+                    "home": null,
+                    "away": null
+                },
+                "fulltime": {
+                    "home": null,
+                    "away": null
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
                 "id": 1561754,
                 "referee": null,
                 "timezone": "UTC",
@@ -11563,76 +11633,6 @@
         },
         {
             "fixture": {
-                "id": 1561753,
-                "referee": null,
-                "timezone": "UTC",
-                "date": "2026-12-05T16:00:00+00:00",
-                "timestamp": 1796486400,
-                "periods": {
-                    "first": null,
-                    "second": null
-                },
-                "venue": {
-                    "id": null,
-                    "name": "Stadion Mijeski im. Jozefa Pilsudskiego",
-                    "city": "Nowy Targ"
-                },
-                "status": {
-                    "long": "Not Started",
-                    "short": "NS",
-                    "elapsed": null,
-                    "extra": null
-                }
-            },
-            "league": {
-                "id": 109,
-                "name": "II Liga - East",
-                "country": "Poland",
-                "logo": "https://media.api-sports.io/football/leagues/109.png",
-                "flag": "https://media.api-sports.io/flags/pl.svg",
-                "season": 2026,
-                "round": "Regular Season - 19",
-                "standings": true
-            },
-            "teams": {
-                "home": {
-                    "id": 12834,
-                    "name": "Podhale Nowy Targ",
-                    "logo": "https://media.api-sports.io/football/teams/12834.png",
-                    "winner": null
-                },
-                "away": {
-                    "id": 16255,
-                    "name": "Sokół Kleczew",
-                    "logo": "https://media.api-sports.io/football/teams/16255.png",
-                    "winner": null
-                }
-            },
-            "goals": {
-                "home": null,
-                "away": null
-            },
-            "score": {
-                "halftime": {
-                    "home": null,
-                    "away": null
-                },
-                "fulltime": {
-                    "home": null,
-                    "away": null
-                },
-                "extratime": {
-                    "home": null,
-                    "away": null
-                },
-                "penalty": {
-                    "home": null,
-                    "away": null
-                }
-            }
-        },
-        {
-            "fixture": {
                 "id": 1561755,
                 "referee": null,
                 "timezone": "UTC",
@@ -11675,76 +11675,6 @@
                     "id": 6942,
                     "name": "Hutnik Kraków",
                     "logo": "https://media.api-sports.io/football/teams/6942.png",
-                    "winner": null
-                }
-            },
-            "goals": {
-                "home": null,
-                "away": null
-            },
-            "score": {
-                "halftime": {
-                    "home": null,
-                    "away": null
-                },
-                "fulltime": {
-                    "home": null,
-                    "away": null
-                },
-                "extratime": {
-                    "home": null,
-                    "away": null
-                },
-                "penalty": {
-                    "home": null,
-                    "away": null
-                }
-            }
-        },
-        {
-            "fixture": {
-                "id": 1561758,
-                "referee": null,
-                "timezone": "UTC",
-                "date": "2026-12-05T16:00:00+00:00",
-                "timestamp": 1796486400,
-                "periods": {
-                    "first": null,
-                    "second": null
-                },
-                "venue": {
-                    "id": null,
-                    "name": null,
-                    "city": null
-                },
-                "status": {
-                    "long": "Not Started",
-                    "short": "NS",
-                    "elapsed": null,
-                    "extra": null
-                }
-            },
-            "league": {
-                "id": 109,
-                "name": "II Liga - East",
-                "country": "Poland",
-                "logo": "https://media.api-sports.io/football/leagues/109.png",
-                "flag": "https://media.api-sports.io/flags/pl.svg",
-                "season": 2026,
-                "round": "Regular Season - 19",
-                "standings": true
-            },
-            "teams": {
-                "home": {
-                    "id": 14143,
-                    "name": "Lechia Zielona Góra",
-                    "logo": "https://media.api-sports.io/football/teams/14143.png",
-                    "winner": null
-                },
-                "away": {
-                    "id": 4247,
-                    "name": "Olimpia Grudziądz",
-                    "logo": "https://media.api-sports.io/football/teams/4247.png",
                     "winner": null
                 }
             },
@@ -11955,6 +11885,76 @@
                     "id": 6958,
                     "name": "Stal Stalowa Wola",
                     "logo": "https://media.api-sports.io/football/teams/6958.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": null,
+                "away": null
+            },
+            "score": {
+                "halftime": {
+                    "home": null,
+                    "away": null
+                },
+                "fulltime": {
+                    "home": null,
+                    "away": null
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 1561721,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2026-12-10T17:00:00+00:00",
+                "timestamp": 1796922000,
+                "periods": {
+                    "first": null,
+                    "second": null
+                },
+                "venue": {
+                    "id": null,
+                    "name": null,
+                    "city": "Bydgoszcz"
+                },
+                "status": {
+                    "long": "Not Started",
+                    "short": "NS",
+                    "elapsed": null,
+                    "extra": null
+                }
+            },
+            "league": {
+                "id": 109,
+                "name": "II Liga - East",
+                "country": "Poland",
+                "logo": "https://media.api-sports.io/football/leagues/109.png",
+                "flag": "https://media.api-sports.io/flags/pl.svg",
+                "season": 2026,
+                "round": "Regular Season - 15",
+                "standings": true
+            },
+            "teams": {
+                "home": {
+                    "id": 13843,
+                    "name": "Zawisza Bydgoszcz",
+                    "logo": "https://media.api-sports.io/football/teams/13843.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 3495,
+                    "name": "Tychy 71",
+                    "logo": "https://media.api-sports.io/football/teams/3495.png",
                     "winner": null
                 }
             },

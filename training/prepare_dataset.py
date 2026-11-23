@@ -4,6 +4,7 @@ from pathlib import Path
 import logging
 from typing import Callable
 from core.database import connect_existing_database
+from core.fixture_dates import fixture_dates_utc
 
 
 COMPLETED_STATUSES = {"FT", "AET", "PEN"}
@@ -470,6 +471,7 @@ def join_tables(db_path: str, league_id: int, season: int)->pd.DataFrame:
             count,
             len(joined_df),
         )
+    joined_df["date"] = fixture_dates_utc(joined_df["date"])
     return joined_df
 
 def save_to_db(
@@ -497,7 +499,7 @@ def save_to_db(
             conn.unregister("df_view")
 
 
-def prepare_all_seasons_dataset(
+def prepare_legacy_all_seasons_dataset(
     league_id: int,
     leagues_db_path: str | Path = PROJECT_ROOT / "storage/database/leagues.ddb",
     country_db_path: str | Path | None = None,
@@ -567,6 +569,28 @@ def prepare_all_seasons_dataset(
         "training_seasons": seasons,
         "message": f"Prepared {len(combined)} fixtures across {len(seasons)} seasons.",
     }
+
+
+def prepare_all_seasons_dataset(
+    league_id: int,
+    leagues_db_path: str | Path = PROJECT_ROOT / "storage/database/leagues.ddb",
+    country_db_path: str | Path | None = None,
+    dataset_db_path: str | Path | None = None,
+    progress_callback: Callable[[int, int, str], None] | None = None,
+) -> dict:
+    """Prepare the new chronological historical splits and latest season."""
+    from training.prepare_feature_dataset import prepare_datasets
+
+    _, country = get_league_details(league_id, leagues_db_path)
+    if not country:
+        raise ValueError(f"League {league_id} was not found")
+    source = Path(country_db_path) if country_db_path else (
+        PROJECT_ROOT / "storage" / "database" / "leagues" / f"{country}.ddb"
+    )
+    target = Path(dataset_db_path) if dataset_db_path else (
+        PROJECT_ROOT / "storage" / "database" / "datasets" / f"{country}.ddb"
+    )
+    return prepare_datasets(league_id, source, target, progress_callback)
 
 
 def prepare_league_dataset(
@@ -644,6 +668,5 @@ def prepare_league_dataset(
 if __name__ == "__main__":
     league_ids = [39]
     for league_id in league_ids:
-        seasons, country = get_league_details(league_id)
-        result = prepare_league_dataset(league_id, seasons[-1])
+        result = prepare_all_seasons_dataset(league_id)
         print(result)

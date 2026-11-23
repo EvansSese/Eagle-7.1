@@ -60,7 +60,7 @@ class ModelLabWorkflowTests(unittest.TestCase):
         self.assertEqual(handler.responses[0][0], 202)
         job = self.jobs[handler.responses[0][1]["job_id"]]
         self.assertEqual(job["actions"], ["fetch", "prepare", "train-neural"])
-        self.assertEqual(run.call_args.args[1:], (job["actions"], 1, 2024, True, True))
+        self.assertEqual(run.call_args.args[1:], (job["actions"], 1, 2024, True, True, [(1, 2024)]))
         self.assertFalse(server.MODEL_LOCK.locked())
 
     def test_invalid_batch_selections_are_rejected(self):
@@ -70,6 +70,29 @@ class ModelLabWorkflowTests(unittest.TestCase):
                 server.DashboardHandler._start_model_lab_job(handler)
                 self.assertEqual(handler.responses[0][0], 400)
         self.assertEqual(self.jobs, {})
+
+    def test_multi_league_request_validates_selection_and_snapshots_seasons(self):
+        class ImmediateThread:
+            def __init__(self, target, daemon):
+                self.target = target
+
+            def start(self):
+                self.target()
+
+        handler = self.handler({"action": "fetch", "league_id": 1, "league_ids": [1, 2]})
+        with patch.object(server, "_read_league", side_effect=lambda league, path: {"seasons": [2020 + league]}), \
+             patch.object(server.threading, "Thread", ImmediateThread), \
+             patch.object(server, "_run_model_workflow_batch") as run:
+            server.DashboardHandler._start_model_lab_job(handler)
+        self.assertEqual(handler.responses[0][0], 202)
+        job = self.jobs[handler.responses[0][1]["job_id"]]
+        self.assertEqual(job["action"], "batch")
+        self.assertEqual(run.call_args.args[-1], [(1, 2021), (2, 2022)])
+        for ids in ([], [1, 1], [1, True], [2], "1,2"):
+            with self.subTest(ids=ids):
+                invalid = self.handler({"action": "fetch", "league_id": 1, "league_ids": ids})
+                server.DashboardHandler._start_model_lab_job(invalid)
+                self.assertEqual(invalid.responses[0][0], 400)
 
     def test_batch_stops_at_failure_and_records_successful_results(self):
         actions = ["fetch", "process", "prepare"]
@@ -117,6 +140,48 @@ class ModelLabWorkflowTests(unittest.TestCase):
         self.assertEqual(list(job["workflow_results"]), actions)
         self.assertEqual(job["current_step"], 3)
 
+    def test_multi_league_batch_fetches_all_before_processing_and_tracks_states(self):
+        actions = ["fetch", "process", "prepare"]
+        self.jobs["job"] = {
+            "status": "running", "action": "batch", "league_id": 1, "league_ids": [1, 2],
+            "workflow_states": dict.fromkeys(actions, "queued"), "workflow_results": {},
+        }
+        calls = []
+
+        def run(job_id, action, league_id, season, **kwargs):
+            calls.append((action, league_id, season))
+            server._update_model_job(job_id, result={"message": action})
+            return True
+
+        with patch.object(server, "_run_model_job", side_effect=run):
+            server._run_model_workflow_batch("job", actions, 1, 2024, True, True,
+                                             [(1, 2024), (2, 2025)])
+        self.assertEqual(calls, [(action, league, season) for action in actions
+                                 for league, season in [(1, 2024), (2, 2025)]])
+        self.assertEqual(self.jobs["job"]["total_steps"], 6)
+        self.assertEqual(self.jobs["job"]["league_workflow_states"][2]["process"], "completed")
+        self.assertEqual(self.jobs["job"]["status"], "completed")
+
+    def test_multi_league_fetch_failure_prevents_processing(self):
+        self.jobs["job"] = {
+            "status": "running", "workflow_states": {"fetch": "queued", "process": "queued"},
+            "workflow_results": {},
+        }
+        calls = []
+
+        def run(job_id, action, league_id, season, **kwargs):
+            calls.append((action, league_id))
+            server._update_model_job(job_id, result={"message": "ok"}, message="error")
+            return league_id != 2
+
+        with patch.object(server, "_run_model_job", side_effect=run):
+            server._run_model_workflow_batch("job", ["fetch", "process"], 1, 2024,
+                                             True, True, [(1, 2024), (2, 2025)])
+        self.assertEqual(calls, [("fetch", 1), ("fetch", 2)])
+        self.assertEqual(self.jobs["job"]["status"], "failed")
+        self.assertEqual(self.jobs["job"]["league_workflow_states"][1]["fetch"], "completed")
+        self.assertEqual(self.jobs["job"]["league_workflow_states"][2]["fetch"], "failed")
+
     def test_run_all_cards_match_backend_workflow_order(self):
         class WorkflowParser(HTMLParser):
             def __init__(self):
@@ -132,7 +197,83 @@ class ModelLabWorkflowTests(unittest.TestCase):
         template = Path(server.__file__).parent / "templates" / "index.html"
         parser.feed(template.read_text(encoding="utf-8"))
         self.assertEqual(parser.actions, list(server.MODEL_WORKFLOW_ACTIONS))
-        self.assertEqual(len(parser.actions), 6)
+        self.assertEqual(len(parser.actions), 7)
+
+    def test_market_workflow_invokes_chronological_trainer(self):
+        from training import market_models
+
+        with tempfile.TemporaryDirectory() as directory:
+            root = Path(directory)
+            dataset = root / "dataset.ddb"
+            dataset.touch()
+            self.jobs["job"] = {}
+            with patch.object(server, "get_database_path", return_value=root / "leagues.ddb"), \
+                 patch.object(server, "_read_league", return_value={"seasons": [2024], "country_name": "England"}), \
+                 patch.object(server, "get_country_database_path", return_value=root / "country.ddb"), \
+                 patch.object(server, "get_dataset_database_path", return_value=dataset), \
+                 patch.object(market_models, "train_market_models", return_value={"run_id": "abc", "models": [], "message": "Saved"}) as train:
+                self.assertTrue(server._run_model_job("job", "train-market-models", 39, 2024))
+            self.assertEqual(train.call_args.args[:3], (39, dataset, root / "country.ddb"))
+            self.assertEqual(self.jobs["job"]["result"]["model_type"], "market-models")
+
+    def test_selected_markets_are_snapshotted_and_used_for_each_league(self):
+        from training import market_models
+
+        class ImmediateThread:
+            def __init__(self, target, daemon):
+                self.target = target
+
+            def start(self):
+                self.target()
+
+        with tempfile.TemporaryDirectory() as directory:
+            root = Path(directory)
+            dataset = root / "dataset.ddb"
+            dataset.touch()
+            payload = {"action": "batch", "actions": ["train-market-models"], "league_id": 1,
+                       "league_ids": [1, 2], "market_targets": ["over_2_5", "result", "btts"]}
+            handler = self.handler(payload)
+            with patch.object(server.threading, "Thread", ImmediateThread), \
+                 patch.object(server, "_read_league", return_value={"seasons": [2024], "country_name": "Test"}), \
+                 patch.object(server, "get_database_path", return_value=root / "leagues.ddb"), \
+                 patch.object(server, "get_country_database_path", return_value=root / "country.ddb"), \
+                 patch.object(server, "get_dataset_database_path", return_value=dataset), \
+                 patch.object(market_models, "train_market_models", return_value={"models": [], "message": "Saved"}) as train:
+                server.DashboardHandler._start_model_lab_job(handler)
+            self.assertEqual(handler.responses[0][0], 202)
+            job = self.jobs[handler.responses[0][1]["job_id"]]
+            self.assertEqual(job["market_targets"], ["result", "btts", "over_2_5"])
+            self.assertEqual([call.args[0] for call in train.call_args_list], [1, 2])
+            self.assertTrue(all(call.kwargs["target_names"] == job["market_targets"]
+                                for call in train.call_args_list))
+            self.assertEqual(job["status"], "completed")
+
+    def test_invalid_market_selections_are_rejected(self):
+        for targets in ([], ["result", "result"], ["under_2_5"], [None], "result"):
+            with self.subTest(targets=targets):
+                handler = self.handler({"action": "train-market-models", "league_id": 1,
+                                        "market_targets": targets})
+                server.DashboardHandler._start_model_lab_job(handler)
+                self.assertEqual(handler.responses[0][0], 400)
+        self.assertEqual(self.jobs, {})
+
+    def test_market_checkboxes_match_supported_targets(self):
+        from training.market_models import TARGETS
+
+        class MarketParser(HTMLParser):
+            def __init__(self):
+                super().__init__()
+                self.targets = []
+
+            def handle_starttag(self, tag, attrs):
+                attributes = dict(attrs)
+                if tag == "input" and "market-target" in attributes.get("class", "").split():
+                    self.targets.append((attributes["value"], "checked" in attributes))
+
+        parser = MarketParser()
+        parser.feed((Path(server.__file__).parent / "templates" / "index.html").read_text(encoding="utf-8"))
+        self.assertEqual([target for target, checked in parser.targets], list(TARGETS))
+        self.assertTrue(all(checked for target, checked in parser.targets))
 
     def test_workflow_history_is_scoped_and_queued_does_not_hide_completion(self):
         self.jobs.update({

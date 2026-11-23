@@ -16,6 +16,7 @@ from sklearn.metrics import log_loss
 
 from core.get_league_details import get_league_details
 from core.database import connect_existing_database
+from core.fixture_dates import fixture_dates_utc, fixture_time_utc
 
 PROJECT_ROOT = Path(__file__).resolve().parents[2]
 COMPLETED_STATUSES = {"FT", "AET", "PEN"}
@@ -92,7 +93,7 @@ def _read_fixture_tables(country_database: Path, league_id: int) -> pd.DataFrame
             frames.append(frame)
 
     fixtures = pd.concat(frames, ignore_index=True)
-    fixtures["date"] = pd.to_datetime(fixtures["date"], errors="coerce")
+    fixtures["date"] = fixture_dates_utc(fixtures["date"], errors="coerce")
     fixtures["home_goals"] = pd.to_numeric(fixtures["home_goals"], errors="coerce")
     fixtures["away_goals"] = pd.to_numeric(fixtures["away_goals"], errors="coerce")
     fixtures = fixtures.loc[
@@ -156,7 +157,10 @@ def _build_sequences(
     score_targets = []
     training_rows = []
     upcoming_rows = []
+    fixtures = fixtures.copy()
+    fixtures["date"] = fixture_dates_utc(fixtures["date"])
     fixtures = fixtures.sort_values(["date", "fixture_id"]).reset_index(drop=True)
+    now = fixture_time_utc()
 
     # All fixtures at the same kickoff see only earlier matches, avoiding leakage.
     for _, date_rows_iter in groupby(
@@ -173,7 +177,7 @@ def _build_sequences(
             )
             is_upcoming = (
                 row["status"] in UPCOMING_STATUSES
-                and row["date"] >= pd.Timestamp.now()
+                and row["date"] >= now
             )
             is_target = (
                 int(row["fixture_id"]) in prediction_fixture_ids

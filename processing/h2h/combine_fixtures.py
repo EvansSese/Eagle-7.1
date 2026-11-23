@@ -18,6 +18,7 @@ import re
 import duckdb
 import pandas as pd
 from processing.core import database_connection
+from core.fixture_dates import fixture_dates_utc
 
 FIXTURES_TABLE_PATTERN = re.compile(r"^(?P<league_id>\w+)-(?P<season>\w+)-fixtures$")
 
@@ -76,7 +77,7 @@ def load_all_fixtures(db_path: str, connection=None, league_id=None) -> pd.DataF
             frames.append(df)
 
     combined = pd.concat(frames, ignore_index=True)
-    combined["date"] = pd.to_datetime(combined["date"])
+    combined["date"] = fixture_dates_utc(combined["date"])
     combined = combined.sort_values(["date", "fixture_id"]).reset_index(drop=True)
     return combined
 

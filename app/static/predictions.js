@@ -8,6 +8,7 @@ const predictionFixturesContext = document.querySelector("#prediction-fixtures-c
 const predictionDetails = document.querySelector("#prediction-details");
 const predictionDetailsContext = document.querySelector("#prediction-details-context");
 const predictionError = document.querySelector("#prediction-error");
+const predictionRefresh = document.querySelector("#prediction-refresh");
 let predictionExpandedCountry = "";
 let predictionLeagueId = "";
 let predictionSeason = "";
@@ -20,6 +21,8 @@ let predictionDetailFixtureId = "";
 let predictionRequestId = 0;
 let predictionFixtureData = null;
 let predictionDetailRequestId = 0;
+let predictionDetailData = null;
+let marketRefreshInFlight = false;
 function renderPredictionLeagueTree() {
   const query = predictionLeagueSearch.value.trim().toLocaleLowerCase();
   const filtered = leagues
@@ -125,6 +128,8 @@ async function loadPredictionSeasons(leagueId) {
   predictionDetailSeason = "";
   predictionDetailFixtureId = "";
   predictionDetailRequestId += 1;
+  predictionDetailData = null;
+  predictionRefresh.disabled = true;
   renderPredictionLeagueTree();
   predictionFixtureList.replaceChildren(createElement("div", "pane-placeholder", "Select a season to load predictions."));
   predictionFixtureCount.textContent = "—";
@@ -226,6 +231,9 @@ function renderPredictionMatchup(fixture) {
 }
 
 function renderPredictionFixtures(data) {
+  const expandedRounds = new Set([...predictionFixtureList.querySelectorAll(".prediction-round-heading[aria-expanded='true']")]
+    .map((button) => button.dataset.round));
+  const hadRounds = Boolean(predictionFixtureList.querySelector(".prediction-round-heading"));
   predictionFixtureList.replaceChildren();
   const allFixtures = data.fixtures || [];
   const fixtures = allFixtures.filter((fixture) => {
@@ -251,11 +259,12 @@ function renderPredictionFixtures(data) {
     rounds.get(roundName).push(fixture);
   }
   for (const [roundIndex, [roundName, roundFixtures]] of [...rounds.entries()].entries()) {
-    const expanded = roundIndex === 0;
+    const expanded = hadRounds ? expandedRounds.has(roundName) : roundIndex === 0;
     const roundGroup = createElement("section", "prediction-round-group");
     const roundHeader = createElement("button", "prediction-round-heading");
     roundHeader.type = "button";
     roundHeader.dataset.action = "toggle-prediction-round";
+    roundHeader.dataset.round = roundName;
     roundHeader.setAttribute("aria-expanded", String(expanded));
     const evaluated = allFixtures
       .filter((fixture) => (fixture.round || "Other") === roundName)
@@ -316,23 +325,29 @@ function renderPredictionFixtures(data) {
         markers.append(indicators);
         card.append(markers);
       }
-      card.append(createElement("p", "prediction-card-summary", prediction.summary));
-      const picks = createElement("div", "prediction-fixture-picks");
-      const topOutcome = prediction.classification.outcomes[0];
-      const topDoubleChance = prediction.classification.double_chance[0];
-      for (const [label, value, confidence] of [
-        ["3-way", topOutcome.label, topOutcome.confidence],
-        ["Double chance", topDoubleChance.code, topDoubleChance.confidence],
-      ]) {
-        const pick = createElement("div", "prediction-pick");
-        pick.append(
-          createElement("span", "", label),
-          createElement("strong", "", value),
-          createElement("span", "confidence-badge", formatConfidence(confidence)),
-        );
-        picks.append(pick);
+      if (prediction) {
+        card.append(createElement("p", "prediction-card-summary", prediction.summary));
+        const picks = createElement("div", "prediction-fixture-picks");
+        const topOutcome = prediction.classification.outcomes[0];
+        const topDoubleChance = prediction.classification.double_chance[0];
+        for (const [label, value, confidence] of [
+          ["3-way", topOutcome.label, topOutcome.confidence],
+          ["Double chance", topDoubleChance.code, topDoubleChance.confidence],
+        ]) {
+          const pick = createElement("div", "prediction-pick");
+          pick.append(
+            createElement("span", "", label),
+            createElement("strong", "", value),
+            createElement("span", "confidence-badge", formatConfidence(confidence)),
+          );
+          picks.append(pick);
+        }
+        card.append(picks);
       }
-      card.append(picks);
+      const markets = fixture.market_predictions || [];
+      card.append(createElement("p", "prediction-card-summary", markets.length
+        ? `Saved markets: ${markets.map((item) => marketLabel(item.target)).join(", ")}`
+        : prediction ? "" : "No saved market predictions for this fixture yet."));
       matches.append(card);
     }
     roundGroup.append(roundHeader, matches);
@@ -360,6 +375,7 @@ async function loadPredictionFixtures(leagueId, season) {
     predictionFixturesContext.textContent =
       `${data.country_name} · ${data.league_name} · ${season}`;
     predictionFixtureData = data;
+    predictionRefresh.disabled = false;
     renderPredictionFixtures(data);
   } catch (error) {
     if (requestId !== predictionRequestId) return;
@@ -368,6 +384,54 @@ async function loadPredictionFixtures(leagueId, season) {
     predictionFixturesContext.textContent = "Predictions unavailable";
     showPredictionError(error);
   }
+}
+
+function marketLabel(target) {
+  const labels = {
+    result: "3-way result", btts: "Both teams to score",
+    correct_score: "Correct score", home_goals: "Home goals",
+    away_goals: "Away goals", total_goals: "Total goals",
+    over_0_5: "Over / under 0.5", over_1_5: "Over / under 1.5",
+    over_2_5: "Over / under 2.5", over_3_5: "Over / under 3.5",
+  };
+  return labels[target] || target;
+}
+
+function marketValue(target, value) {
+  if (target === "result") return { H: "Home win", D: "Draw", A: "Away win" }[value] || value;
+  if (target === "btts") return value === "1" ? "Yes" : value === "0" ? "No" : value;
+  if (target.startsWith("over_") && (value === "0" || value === "1")) {
+    return `${value === "1" ? "Over" : "Under"} ${target.slice(5).replace("_", ".")}`;
+  }
+  if (["home_goals", "away_goals", "total_goals"].includes(target)) {
+    const number = Number(value);
+    return Number.isFinite(number) ? number.toFixed(2) : value;
+  }
+  return value;
+}
+
+function renderMarketPredictions(markets) {
+  const section = createElement("section", "prediction-analysis-card");
+  section.append(createElement("h3", "", "Saved market models"));
+  for (const item of markets) {
+    const group = createElement("div", "prediction-market");
+    const label = marketLabel(item.target);
+    group.append(createElement("strong", "", label),
+      createElement("p", "", `Prediction: ${marketValue(item.target, item.prediction)}`));
+    if (item.probabilities) {
+      const entries = Object.entries(item.probabilities).map(([key, value]) => {
+        let name = key;
+        if (key.startsWith("under_")) name = `Under ${key.slice(6).replace("_", ".")}`;
+        else if (item.target === "result") name = marketValue("result", key);
+        else if (item.target === "btts") name = marketValue("btts", key);
+        else if (item.target.startsWith("over_")) name = key === "1" ? "Over" : key === "0" ? "Not over" : key;
+        return `${name}: ${formatConfidence(value)}`;
+      });
+      group.append(createElement("p", "", entries.join(" · ")));
+    }
+    section.append(group);
+  }
+  return section;
 }
 
 function renderPredictionRankList(title, predictions, labelFor) {
@@ -413,11 +477,13 @@ function renderPredictionDetails(data) {
   );
   predictionDetails.append(header);
 
-  if (!prediction) {
+  const markets = data.market_predictions || [];
+  if (markets.length) predictionDetails.append(renderMarketPredictions(markets));
+  if (!prediction && !markets.length) {
     predictionDetails.append(
       createElement("div", "detail-empty", "No trained-model prediction is available for this fixture."),
     );
-  } else {
+  } else if (prediction) {
     const summary = createElement("section", "prediction-analysis-card");
     summary.append(
       createElement("h3", "", "Prediction summary"),
@@ -460,8 +526,10 @@ function renderPredictionDetails(data) {
 
   const evaluation = evaluatePrediction(fixture, prediction);
   const result = createElement("section", "prediction-analysis-card prediction-evaluation");
-  result.append(createElement("h3", "", "Prediction result"));
-  if (evaluation.state === "not-played") {
+  result.append(createElement("h3", "", "Legacy prediction result"));
+  if (!prediction) {
+    result.append(createElement("p", "", "No legacy ensemble prediction available."));
+  } else if (evaluation.state === "not-played") {
     result.append(createElement("p", "", "Not yet played"));
   } else if (evaluation.state === "unavailable") {
     result.append(createElement("p", "", "Result unavailable for evaluation"));
@@ -520,6 +588,7 @@ async function selectPredictionFixture(leagueId, season, fixtureId) {
   predictionDetailLeagueId = String(leagueId);
   predictionDetailSeason = String(season);
   predictionDetailFixtureId = String(fixtureId);
+  predictionDetailData = null;
   renderFavoriteFixtures();
   predictionFixtureList.querySelectorAll(".prediction-fixture-card").forEach((card) => {
     card.classList.toggle(
@@ -541,6 +610,7 @@ async function selectPredictionFixture(leagueId, season, fixtureId) {
     });
     const data = await requestJson(`/api/prediction-fixture?${params}`);
     if (requestId !== predictionDetailRequestId) return;
+    predictionDetailData = data;
     renderPredictionDetails(data);
     predictionDetailsContext.textContent = `${data.fixture.home_team} vs ${data.fixture.away_team}`;
   } catch (error) {
@@ -550,6 +620,55 @@ async function selectPredictionFixture(leagueId, season, fixtureId) {
     showPredictionError(error);
   }
 }
+
+async function refreshSavedMarkets() {
+  if (marketRefreshInFlight || !predictionLeagueId || !predictionSeason || !predictionFixtureData) return;
+  marketRefreshInFlight = true;
+  const leagueId = predictionLeagueId;
+  const season = predictionSeason;
+  try {
+    const data = await requestJson(`/api/market-predictions?league_id=${encodeURIComponent(leagueId)}`);
+    if (predictionLeagueId !== leagueId || predictionSeason !== season || !predictionFixtureData) return;
+    const grouped = new Map();
+    if (String(data.prediction_season) === season) {
+      for (const item of data.predictions) {
+        const key = String(item.fixture_id);
+        if (!grouped.has(key)) grouped.set(key, []);
+        grouped.get(key).push(item);
+      }
+    }
+    let changed = false;
+    for (const fixture of predictionFixtureData.fixtures) {
+      const markets = grouped.get(String(fixture.fixture_id)) || [];
+      if (JSON.stringify(markets) !== JSON.stringify(fixture.market_predictions || [])) changed = true;
+      fixture.market_predictions = markets;
+    }
+    if (changed) renderPredictionFixtures(predictionFixtureData);
+    if (predictionDetailData && predictionDetailLeagueId === leagueId && predictionDetailSeason === season) {
+      const markets = grouped.get(predictionDetailFixtureId) || [];
+      if (JSON.stringify(markets) !== JSON.stringify(predictionDetailData.market_predictions || [])) {
+        predictionDetailData.market_predictions = markets;
+        renderPredictionDetails(predictionDetailData);
+      }
+    }
+  } catch (error) {
+    showPredictionError(error);
+  } finally {
+    marketRefreshInFlight = false;
+  }
+}
+
+predictionRefresh.addEventListener("click", () => {
+  if (predictionLeagueId && predictionSeason) {
+    void loadPredictionFixtures(predictionLeagueId, predictionSeason);
+    if (predictionDetailLeagueId === predictionLeagueId && predictionDetailSeason === predictionSeason) {
+      void selectPredictionFixture(predictionDetailLeagueId, predictionDetailSeason, predictionDetailFixtureId);
+    }
+  }
+});
+window.setInterval(() => {
+  if (!document.querySelector("#prediction-screen").hidden) void refreshSavedMarkets();
+}, 5000);
 
 predictionLeagueSearch.addEventListener("input", renderPredictionLeagueTree);
 predictionFixtureFilter.addEventListener("change", () => {
@@ -585,6 +704,8 @@ predictionLeagueTree.addEventListener("click", (event) => {
     predictionDetailSeason = "";
     predictionDetailFixtureId = "";
     predictionDetailRequestId += 1;
+    predictionDetailData = null;
+    predictionRefresh.disabled = true;
     predictionDetails.replaceChildren(createElement("div", "pane-placeholder", "Select a fixture or favorite."));
     predictionDetailsContext.textContent = "Select a fixture or favorite";
     renderPredictionLeagueTree();

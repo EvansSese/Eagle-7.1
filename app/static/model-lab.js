@@ -10,8 +10,9 @@ const modelScoresCount = document.querySelector("#model-scores-count");
 const modelJobMessage = document.querySelector("#model-job-message");
 const modelJobState = document.querySelector("#model-job-state");
 const modelJobProgress = document.querySelector("#model-job-progress");
-const modelActionButtons = [...document.querySelectorAll(".model-action")];
-const modelWorkflowSelections = [...document.querySelectorAll(".model-select")];
+const modelActionButtons = [...document.querySelectorAll(".model-card:not([hidden]) .model-action")];
+const modelWorkflowSelections = [...document.querySelectorAll(".model-card:not([hidden]) .model-select")];
+const marketTargetSelections = [...document.querySelectorAll(".market-target")];
 const modelRunSelected = document.querySelector("#model-run-selected");
 const modelRunAll = document.querySelector("#model-run-all");
 const modelJobCurrent = document.querySelector("#model-job-current");
@@ -30,6 +31,10 @@ let modelWorkflowRequestId = 0;
 let modelWorkflowStates = {};
 let modelWorkflowLoading = false;
 let modelExpandedCountry = "";
+let modelSelectedLeagues = new Set();
+let marketPredictionRequestId = 0;
+let lastMarketRevision = null;
+const marketPredictions = document.querySelector("#market-predictions");
 function showModelError(error) {
   modelError.textContent = error.message || String(error);
   modelError.hidden = false;
@@ -40,12 +45,15 @@ function clearModelError() {
 }
 
 function updateModelActionButtons() {
-  const hasLeague = Boolean(modelLeague.value);
+  const hasLeague = Boolean(modelLeague.value) && modelSelectedLeagues.size > 0;
   const busy = modelJobId !== null;
   const enabled = hasLeague && !busy && !modelWorkflowLoading;
+  for (const checkbox of modelLeagueTree.querySelectorAll(".model-league-choice input")) {
+    checkbox.disabled = busy;
+  }
   for (const button of modelActionButtons) {
     const state = modelWorkflowStates[button.dataset.action];
-    button.disabled = !enabled;
+    button.disabled = !enabled || (button.dataset.action === "train-market-models" && !marketTargetSelections.some((input) => input.checked));
     let label = modelButtonLabels[button.dataset.action];
     button.textContent = state === "completed" ? "Re-run" : label;
     const card = button.closest(".model-card");
@@ -56,8 +64,11 @@ function updateModelActionButtons() {
       (state === "running" ? "Running" : (state === "failed" ? "Failed" : ""));
   }
   for (const checkbox of modelWorkflowSelections) checkbox.disabled = !enabled;
-  modelRunSelected.disabled = !enabled || !modelWorkflowSelections.some((input) => input.checked);
-  modelRunAll.disabled = !enabled;
+  for (const checkbox of marketTargetSelections) checkbox.disabled = busy;
+  const hasTargets = marketTargetSelections.some((input) => input.checked);
+  const selectedTraining = modelWorkflowSelections.some((input) => input.checked && input.dataset.action === "train-market-models");
+  modelRunSelected.disabled = !enabled || !modelWorkflowSelections.some((input) => input.checked) || (selectedTraining && !hasTargets);
+  modelRunAll.disabled = !enabled || !hasTargets;
 }
 
 async function loadModelWorkflowStates() {
@@ -91,11 +102,9 @@ function renderModelReadiness(status) {
     ["Feature tables (all seasons)", status.feature_tables.total > 0 &&
       status.feature_tables.available === status.feature_tables.total,
     `${status.feature_tables.available} of ${status.feature_tables.total} available`],
-    ["Training dataset", status.datasets.training, status.datasets.training ? "Available" : "Not prepared"],
-    ["Prediction dataset", status.datasets.prediction, status.datasets.prediction ? "Available" : "Not prepared"],
-    ["Classifier", status.trained.classifier, status.trained.classifier ? "Trained" : "Not trained"],
-    ["Regressors", status.trained.regression, status.trained.regression ? "At least one trained" : "Not trained"],
-    ["Neural networks", status.trained.neural, status.trained.neural ? "Trained" : "Not all trained"],
+    ["Historical train / validation / test", status.datasets.training, status.datasets.training ? "Available" : "Not prepared"],
+    ["Current-season dataset", status.datasets.prediction, status.datasets.prediction ? "Available" : "Not prepared"],
+    ["Market models", status.trained.market_models, `${status.trained.market_model_count || 0} of 10 trained`],
   ];
   const table = createElement("table", "model-readiness-table");
   const caption = createElement("caption", "", "Data and model readiness");
@@ -112,8 +121,51 @@ function renderModelReadiness(status) {
     body.append(row);
   }
   table.append(caption, body);
-  const note = createElement("p", "model-readiness-note", "Readiness covers all available seasons for this league.");
+  const note = createElement("p", "model-readiness-note", "Market predictions are shown separately below the workflow; legacy predictions use different models.");
   document.querySelector("#model-selection-status").replaceChildren(table, note);
+}
+
+async function loadMarketPredictions() {
+  const leagueId = modelLeague.value;
+  const requestId = ++marketPredictionRequestId;
+  if (!leagueId) {
+    marketPredictions.textContent = "Select a league to view predictions.";
+    return;
+  }
+  try {
+    const data = await requestJson(`/api/market-predictions?league_id=${encodeURIComponent(leagueId)}`);
+    if (requestId !== marketPredictionRequestId || modelLeague.value !== leagueId) return;
+    marketPredictions.replaceChildren();
+    if (!data.predictions.length) {
+      marketPredictions.textContent = "No saved market predictions for this league yet.";
+      return;
+    }
+    const wrap = createElement("div", "model-score-table-wrap");
+    const table = createElement("table", "model-metrics-table");
+    const header = document.createElement("tr");
+    for (const label of ["Date", "Fixture", "Market", "Prediction", "Probabilities"]) {
+      header.append(createElement("th", "", label));
+    }
+    const head = document.createElement("thead");
+    head.append(header);
+    const body = document.createElement("tbody");
+    for (const item of data.predictions) {
+      const row = document.createElement("tr");
+      const probabilities = item.probabilities
+        ? Object.entries(item.probabilities).map(([label, value]) => `${label}: ${Number(value).toFixed(3)}`).join(", ")
+        : "--";
+      for (const value of [item.date, `${item.home_team} v ${item.away_team}`,
+        item.target, item.prediction, probabilities]) row.append(createElement("td", "", value));
+      body.append(row);
+    }
+    table.append(head, body);
+    wrap.append(table);
+    marketPredictions.append(wrap);
+  } catch (error) {
+    if (requestId === marketPredictionRequestId) {
+      marketPredictions.textContent = `Could not load market predictions: ${error.message}`;
+    }
+  }
 }
 
 async function loadModelStatus() {
@@ -161,13 +213,21 @@ function renderModelScores(groups) {
   }
 
   for (const group of availableGroups) {
+    const isMarket = group.name === "Market models";
     const isNeural = group.name === "Neural networks";
     const isRegression = group.name === "Goal regressors";
     const columns = [
       ["model", "Model", "text"],
       ["feature_bundle", "Features", "text"],
     ];
-    if (isNeural) {
+    if (isMarket) {
+      columns.unshift(["target", "Target", "text"]);
+      columns.push(
+        ["loss_metric", "Loss", "text"],
+        ["validation_loss", "Validation loss", "decimal"],
+        ["test_loss", "Test loss", "decimal"],
+      );
+    } else if (isNeural) {
       columns.push(
         ["holdout_accuracy", "Test / holdout", "percent"],
         ["holdout_log_loss", "Log loss", "decimal"],
@@ -409,17 +469,40 @@ function renderAllModelPredictions(result) {
 function showModelJobResult(job) {
   modelResults.replaceChildren();
   modelResults.hidden = true;
-  if (job.result?.model_type === "all-model-predictions") {
+  if (job.result?.model_type === "market-models") {
+    const result = job.result;
+    modelResults.append(createElement("p", "model-result-summary", `${result.message} Run: ${result.run_id}`));
+    const table = createElement("table", "model-metrics-table");
+    const head = document.createElement("thead");
+    const header = document.createElement("tr");
+    for (const label of ["Target", "Selected model", "Features", "Validation loss", "Test loss"]) header.append(createElement("th", "", label));
+    head.append(header);
+    table.append(head);
+    const body = document.createElement("tbody");
+    for (const row of result.models) {
+      const tr = document.createElement("tr");
+      for (const value of [row.target, row.algorithm, row.feature_bundle,
+        row.validation.log_loss ?? row.validation.mae, row.test.log_loss ?? row.test.mae]) {
+        tr.append(createElement("td", "", typeof value === "number" ? value.toFixed(3) : value));
+      }
+      body.append(tr);
+    }
+    table.append(body);
+    modelResults.append(table);
+    modelResults.hidden = false;
+  } else if (job.result?.model_type === "all-model-predictions") {
     renderAllModelPredictions(job.result);
   } else if (job.result?.metrics) {
     modelResults.dataset.modelType = job.result.model_type || "classifier";
     renderModelMetrics(job.result.metrics);
   } else if (job.result) {
     const result = job.result;
-    const summary = result.training_rows !== undefined
-      ? `Prepared ${Number(result.training_rows).toLocaleString()} fixture rows across ` +
-        `seasons ${(result.training_seasons || []).join(", ")}. ` +
-        "Training uses completed fixtures with valid scores."
+    const summary = result.validation_rows !== undefined
+      ? `Prepared ${Number(result.training_rows).toLocaleString()} training, ` +
+        `${Number(result.validation_rows).toLocaleString()} validation and ` +
+        `${Number(result.test_rows).toLocaleString()} test fixtures; ` +
+        `${Number(result.prediction_rows).toLocaleString()} current-season fixtures. ` +
+        `Excluded ${Number(result.excluded_historical_rows).toLocaleString()} incomplete historical fixtures.`
       : (result.message || "Operation completed.");
     modelResults.append(createElement("p", "model-result-summary", summary));
     modelResults.hidden = false;
@@ -434,14 +517,23 @@ async function pollModelJob(jobId) {
     const actionName = modelActionLabels[activeAction] || "Workflow";
     if (job.action === "batch") {
       for (const [action, state] of Object.entries(job.workflow_states)) {
-        if (state !== "queued") modelWorkflowStates[action] = state;
+        const leagueState = (job.league_workflow_states || {})[modelLeague.value];
+        const visibleState = leagueState ? leagueState[action] : ((job.league_ids || [job.league_id]).length === 1 ? state : "queued");
+        if (visibleState && visibleState !== "queued") modelWorkflowStates[action] = visibleState;
       }
     } else {
       modelWorkflowStates[activeAction] = job.status;
     }
     modelJobCurrent.textContent = job.action === "batch"
-      ? `Step ${job.current_step} of ${job.actions.length}: ${actionName}`
+      ? `Step ${job.current_step} of ${job.total_steps || job.actions.length}: ${actionName} · League #${job.active_league_id || job.league_id}`
       : actionName;
+    if (job.market_revision && job.market_revision !== lastMarketRevision) {
+      lastMarketRevision = job.market_revision;
+      if (Number(modelLeague.value) === (job.active_league_id || job.league_id)) {
+        void loadMarketPredictions();
+        void loadModelScores();
+      }
+    }
     modelJobMessage.textContent = job.message;
     modelJobState.textContent = job.status.toUpperCase();
     modelJobProgress.hidden = job.status !== "running";
@@ -453,7 +545,10 @@ async function pollModelJob(jobId) {
     document.querySelector("#model-job-progress-bar").style.width = total ? `${progress}%` : "";
     if (total) {
       modelJobProgress.setAttribute("aria-valuenow", String(progress));
-      modelProgressLabel.textContent = `${job.completed} of ${total} completed · ${progress}%`;
+      const overall = job.action === "batch"
+        ? ` · Batch ${Math.round(((job.current_step - 1) + progress / 100) * 100 / (job.total_steps || job.actions.length))}%`
+        : "";
+      modelProgressLabel.textContent = `${job.completed} of ${total} completed · ${progress}%${overall}`;
     } else {
       modelJobProgress.removeAttribute("aria-valuenow");
       modelProgressLabel.textContent = "Progress is not available for this step.";
@@ -471,7 +566,7 @@ async function pollModelJob(jobId) {
         const completedActions = Object.keys(job.workflow_results);
         const lastAction = completedActions[completedActions.length - 1];
         if (lastAction) modelResults.prepend(createElement(
-          "p", "model-result-summary", `Latest result: ${modelActionLabels[lastAction]}.`,
+          "p", "model-result-summary", `Latest result: ${modelActionLabels[lastAction.split(":")[0]] || lastAction}.`,
         ));
       }
     } else {
@@ -480,7 +575,7 @@ async function pollModelJob(jobId) {
     }
     void loadModelWorkflowStates();
     if (job.status === "failed") {
-      const remaining = job.action === "batch" ? job.actions.length - job.current_step : 0;
+      const remaining = job.action === "batch" ? (job.total_steps || job.actions.length) - job.current_step : 0;
       showModelError(new Error(`${actionName} failed: ${job.message}${remaining ? ` ${remaining} remaining workflow(s) were not run.` : ""}`));
       void loadModelStatus();
       return;
@@ -527,7 +622,9 @@ async function startModelJob(action, actions = []) {
       body: JSON.stringify({
         action,
         actions,
-        league_id: Number(modelLeague.value),
+        league_id: Number(modelSelectedLeagues.has(modelLeague.value) ? modelLeague.value : [...modelSelectedLeagues][0]),
+        league_ids: [...modelSelectedLeagues].map(Number),
+        market_targets: marketTargetSelections.filter((input) => input.checked).map((input) => input.value),
       }),
     });
     modelJobId = response.job_id;
@@ -559,6 +656,9 @@ async function loadModelLeagues() {
       const saved = JSON.parse(sessionStorage.getItem("model-lab-selection") || "null");
       if (saved && leagues.some((league) => String(league.league_id) === saved.league)) {
         modelLeague.value = saved.league;
+        modelSelectedLeagues = new Set((saved.leagues || [saved.league]).filter(
+          (id) => leagues.some((league) => String(league.league_id) === String(id)),
+        ).map(String));
         const league = leagues.find((item) => String(item.league_id) === saved.league);
         modelExpandedCountry = league.country_name;
         renderModelLeagueTree();
@@ -594,7 +694,7 @@ function renderModelLeagueTree() {
     return;
   }
   modelLeagueCount.textContent =
-    `${groups.size.toLocaleString()} countries · ${filtered.length.toLocaleString()} leagues`;
+    `${groups.size.toLocaleString()} countries · ${filtered.length.toLocaleString()} leagues · ${modelSelectedLeagues.size} selected`;
 
   for (const [countryName, countryLeagues] of groups) {
     const country = createElement("section", "tree-country");
@@ -634,7 +734,25 @@ function renderModelLeagueTree() {
           createElement("span", "tree-label", league.league_name),
           createElement("span", "tree-count", `#${league.league_id}`),
         );
-        leagueList.append(leagueButton);
+        const row = createElement("div", "model-league-choice");
+        const checkbox = document.createElement("input");
+        checkbox.type = "checkbox";
+        checkbox.checked = modelSelectedLeagues.has(String(league.league_id));
+        checkbox.disabled = modelJobId !== null;
+        checkbox.setAttribute("aria-label", `Include ${league.league_name} in batch`);
+        checkbox.addEventListener("change", () => {
+          if (checkbox.checked) modelSelectedLeagues.add(String(league.league_id));
+          else modelSelectedLeagues.delete(String(league.league_id));
+          if (!modelLeague.value && checkbox.checked) {
+            modelLeague.value = String(league.league_id);
+            void loadModelSeasons(modelLeague.value);
+          }
+          saveModelSelection();
+          renderModelLeagueTree();
+          updateModelActionButtons();
+        });
+        row.append(checkbox, leagueButton);
+        leagueList.append(row);
       }
       country.append(leagueList);
     }
@@ -646,6 +764,7 @@ function saveModelSelection() {
   try {
     sessionStorage.setItem("model-lab-selection", JSON.stringify({
       league: modelLeague.value,
+      leagues: [...modelSelectedLeagues],
     }));
   } catch (error) {
     console.warn("Could not save Model Lab selection:", error);
@@ -659,13 +778,16 @@ async function loadModelSeasons(leagueId) {
   modelWorkflowStates = {};
   modelResults.replaceChildren();
   modelResults.hidden = true;
-  modelJobCurrent.textContent = "Choose a workflow to begin.";
-  modelJobMessage.textContent = "";
-  modelJobState.textContent = "READY";
-  modelJobProgress.hidden = true;
-  modelProgressLabel.hidden = true;
+  if (modelJobId === null) {
+    modelJobCurrent.textContent = "Choose a workflow to begin.";
+    modelJobMessage.textContent = "";
+    modelJobState.textContent = "READY";
+    modelJobProgress.hidden = true;
+    modelProgressLabel.hidden = true;
+  }
   document.querySelector("#model-selection-status").textContent = "Loading league readiness…";
   void loadModelScores(leagueId);
+  void loadMarketPredictions();
   updateModelActionButtons();
   try {
     const data = await requestJson(`/api/seasons?league_id=${encodeURIComponent(leagueId)}`);
@@ -692,12 +814,12 @@ modelLeagueTree.addEventListener("click", (event) => {
     return;
   }
   if (button.dataset.action !== "model-league") return;
-  if (modelJobId !== null) return;
   const leagueId = button.dataset.id;
   const league = leagues.find((item) => item.league_id === Number(leagueId));
   if (!league) return;
   modelExpandedCountry = league.country_name;
   modelLeague.value = leagueId;
+  if (modelJobId === null) modelSelectedLeagues.add(leagueId);
   renderModelLeagueTree();
   clearModelError();
   modelRequestId += 1;
@@ -727,9 +849,13 @@ for (const button of modelActionButtons) {
 for (const selection of modelWorkflowSelections) {
   selection.addEventListener("change", updateModelActionButtons);
 }
+for (const selection of marketTargetSelections) {
+  selection.addEventListener("change", updateModelActionButtons);
+}
 modelRunSelected.addEventListener("click", () => {
   void startModelJob("batch", modelWorkflowSelections.filter((input) => input.checked).map((input) => input.dataset.action));
 });
 modelRunAll.addEventListener("click", () => {
   void startModelJob("batch", modelWorkflowSelections.map((input) => input.dataset.action));
 });
+document.querySelector("#market-predictions-refresh").addEventListener("click", loadMarketPredictions);

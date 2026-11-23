@@ -37,6 +37,25 @@ class FixturePredictionTests(unittest.TestCase):
             }
         )
 
+    def test_season_fixture_groups_reads_timezone_aware_dates(self):
+        country = self.root / "country.ddb"
+        with duckdb.connect(str(country)) as connection:
+            connection.execute(
+                'CREATE TABLE "1-2024-fixtures" AS SELECT 1 AS fixture_id, '
+                "TIMESTAMPTZ '2024-01-01 15:00:00+00' AS date, "
+                "'Venue' AS venue, 'Round 1' AS round, 'A' AS home_team, "
+                "'B' AS away_team, NULL::INTEGER AS home_goals, "
+                "NULL::INTEGER AS away_goals, 'NS' AS status"
+            )
+        league = {"country_name": "Test", "seasons": [2024]}
+        with patch.object(server, "_read_league", return_value=league), \
+             patch.object(server, "get_country_database_path", return_value=country):
+            result = server.get_season_fixture_groups(1, 2024, self.root / "catalog.ddb")
+        self.assertTrue(result["available"])
+        fixture = result["rounds"][0]["fixtures"][0]
+        self.assertEqual(fixture["fixture_id"], 1)
+        self.assertIsNotNone(fixture["date"].utcoffset())
+
     def test_preparation_preserves_full_selected_season(self):
         database = self.root / "datasets.ddb"
         with patch.object(prepare_dataset, "get_league_details", return_value=([2023, 2024], "Test")), \
@@ -56,7 +75,7 @@ class FixturePredictionTests(unittest.TestCase):
         progress = []
         with patch.object(prepare_dataset, "get_league_details", return_value=([2023, 2024], "Test")), \
              patch.object(prepare_dataset, "join_tables", side_effect=[earlier, latest]):
-            result = prepare_dataset.prepare_all_seasons_dataset(
+            result = prepare_dataset.prepare_legacy_all_seasons_dataset(
                 1, dataset_db_path=database,
                 progress_callback=lambda done, total, message: progress.append((done, total)),
             )
@@ -79,7 +98,7 @@ class FixturePredictionTests(unittest.TestCase):
         with patch.object(prepare_dataset, "get_league_details", return_value=([2023, 2024], "Test")), \
              patch.object(prepare_dataset, "join_tables", side_effect=[self.rows.iloc[:1], self.rows.iloc[:1]]):
             with self.assertRaisesRegex(ValueError, "unique"):
-                prepare_dataset.prepare_all_seasons_dataset(1, dataset_db_path=database)
+                prepare_dataset.prepare_legacy_all_seasons_dataset(1, dataset_db_path=database)
         with duckdb.connect(str(database), read_only=True) as connection:
             self.assertEqual(connection.execute('SELECT fixture_id FROM "1-training-dataset"').fetchall(), [(999,)])
 
@@ -267,10 +286,52 @@ class FixturePredictionTests(unittest.TestCase):
     def test_prediction_detail_includes_test_membership(self):
         prediction = {"is_test": True}
         with patch.object(server, "get_fixture_details", return_value={"fixture": {}, "stats": []}), \
+             patch.object(server, "_read_league", return_value={"country_name": "Test", "seasons": [2024]}), \
+             patch.object(server, "get_dataset_database_path", return_value=self.root / "missing.ddb"), \
              patch.object(server, "_predict_fixture_rows", return_value={1: prediction}), \
              patch.object(server, "favorite_list_ids_for_fixture", return_value=[]):
             details = server.get_prediction_fixture_details(1, 2024, 1, self.root / "catalog.ddb")
         self.assertTrue(details["prediction"]["is_test"])
+
+    def test_chronological_screen_uses_partial_saved_markets_without_legacy_models(self):
+        country = self.root / "country.ddb"
+        dataset = self.root / "dataset.ddb"
+        with duckdb.connect(str(country)) as con:
+            con.register("rows", self.rows)
+            con.execute('CREATE TABLE "1-2024-fixtures" AS SELECT * FROM rows')
+            con.execute('CREATE TABLE "1-2023-fixtures" AS SELECT * FROM rows')
+        with duckdb.connect(str(dataset)) as con:
+            con.execute('CREATE TABLE "1-dataset-metadata" AS SELECT '
+                        "'chronological-splits-v1' AS dataset_version, 2024 AS prediction_season, 'v1' AS preparation_id")
+            con.register("rows", self.rows)
+            con.execute('CREATE TABLE "1-prediction-dataset" AS SELECT * FROM rows')
+            con.execute('CREATE TABLE "1-market-model-runs" AS SELECT '
+                        "'result' AS target, 'run1' AS run_id, current_timestamp AS created_at, 'v1' AS preparation_id")
+            con.execute('CREATE TABLE "1-market-predictions" (run_id VARCHAR, fixture_id INTEGER, target VARCHAR, '
+                        'prediction VARCHAR, probabilities_json VARCHAR)')
+            con.execute('INSERT INTO "1-market-predictions" VALUES (?, ?, ?, ?, ?)',
+                        ["run1", 1, "result", "H", json.dumps({"H": 0.6, "D": 0.2, "A": 0.2, "1X": 0.8})])
+        league = {"country_name": "Test", "league_name": "League", "seasons": [2023, 2024]}
+        with patch.object(server, "_read_league", return_value=league), \
+             patch.object(server, "get_country_database_path", return_value=country), \
+             patch.object(server, "get_dataset_database_path", return_value=dataset), \
+             patch.object(server, "FIXTURE_FILES", self.root), \
+             patch.object(server, "_predict_fixture_rows", side_effect=AssertionError("legacy inference called")), \
+             patch.object(server, "get_fixture_details", return_value={"fixture": {}, "stats": []}), \
+             patch.object(server, "favorite_list_ids_for_fixture", return_value=[]):
+            result = server.get_upcoming_predictions(1, 2024, self.root / "catalog.ddb")
+            fixtures = {row["fixture_id"]: row for row in result["fixtures"]}
+            self.assertEqual(fixtures[1]["market_predictions"][0]["prediction"], "H")
+            self.assertIsNone(fixtures[1]["prediction"])
+            self.assertEqual(fixtures[2]["market_predictions"], [])
+            detail = server.get_prediction_fixture_details(1, 2024, 1, self.root / "catalog.ddb")
+            self.assertEqual(detail["market_predictions"][0]["probabilities"]["1X"], 0.8)
+            historical = server.get_upcoming_predictions(1, 2023, self.root / "catalog.ddb")
+            self.assertTrue(all(not row["market_predictions"] for row in historical["fixtures"]))
+            with duckdb.connect(str(dataset)) as con:
+                con.execute('UPDATE "1-dataset-metadata" SET preparation_id = ?', ["v2"])
+            stale = server.get_prediction_fixture_details(1, 2024, 1, self.root / "catalog.ddb")
+            self.assertEqual(stale["market_predictions"], [])
 
     def test_screen_inference_predicts_the_whole_season(self):
         country_database = self.root / "country.ddb"
